@@ -207,6 +207,22 @@ var filterList [][]string = [][]string{
 	{"在家里"},
 	{"在民间"},
 	{"科普"},
+	{"友谊"},
+	{"邂逅"},
+	{"时评"},
+	{"vlog"},
+	{"Vlog"},
+	{"为什么"},
+	{"探访"},
+	{"我们"},
+	{"守护"},
+	{"不忘"},
+	{"汲取", "力量"},
+	{"刚刚"},
+	{"盛会"},
+	{"热爱"},
+	{"送好礼"},
+	{"什么", "体验"},
 }
 
 type NewsItem struct {
@@ -253,7 +269,12 @@ func Get() []NewsItem {
 	return newsItems
 }
 
-func IsNeedFilter(title string) bool {
+func IsNeedFilter(title string, moreFilterWords []string) bool {
+	for _, filterWord := range moreFilterWords {
+		if strings.Contains(title, filterWord) {
+			return true
+		}
+	}
 	for _, filterWords := range filterList {
 		isNeedFilter := true
 		for _, word := range filterWords {
@@ -263,9 +284,6 @@ func IsNeedFilter(title string) bool {
 			}
 		}
 		if isNeedFilter {
-			// if strings.Contains(title, "---") {
-			// 	fmt.Println("filter", title, filterWords)
-			// }
 			return true
 		}
 	}
@@ -275,7 +293,7 @@ func IsNeedFilter(title string) bool {
 func ItemToHtml(item *NewsItem) string {
 	pubTime := ""
 	if item.Time > 0 {
-		pubTime = " - " + utils.FormatTime(item.Time, "01/02 15:04")
+		pubTime = " - " + utils.FormatTime(item.Time, "01/02 15:04:05")
 	}
 	return "<a target=\"_blank\" href=\"" + item.Link + "\">" + item.Title + "</a> [" + item.Origin + pubTime + "]"
 }

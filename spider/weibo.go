@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -41,11 +42,11 @@ func weiboSpider() []NewsItem {
 		if len(item.Desc) < 5 {
 			continue
 		}
-		if IsNeedFilter(item.Desc) {
+		if IsNeedFilter(item.Desc, []string{}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  item.Desc,
+			Title:  utils.FormatTitle(item.Desc),
 			Link:   item.Scheme,
 			Origin: "微博",
 		})

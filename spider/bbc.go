@@ -5,6 +5,7 @@ import (
 	"regexp"
 	"time"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -30,12 +31,12 @@ func bbcSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[1]) {
+		if IsNeedFilter(matchedItem[1], []string{}) {
 			continue
 		}
 		t, _ := time.Parse(time.RFC1123, matchedItem[3])
 		newsItems = append(newsItems, NewsItem{
-			Title:  matchedItem[1],
+			Title:  utils.FormatTitle(matchedItem[1]),
 			Link:   matchedItem[2],
 			Origin: "BBC",
 			Time:   t.Unix(),

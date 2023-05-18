@@ -28,11 +28,11 @@ func dy163Spider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2]) {
+		if IsNeedFilter(matchedItem[2], []string{"网易"}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  matchedItem[2],
+			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   matchedItem[1],
 			Origin: "网易号",
 			Time:   utils.FormatTimeYMDHMSToUnix(matchedItem[3]),

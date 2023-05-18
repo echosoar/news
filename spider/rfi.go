@@ -5,6 +5,7 @@ import (
 	"regexp"
 	"time"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -34,12 +35,12 @@ func rfiSpider() []NewsItem {
 		newsItems = make([]NewsItem, 0, len(res))
 		loc, _ := time.LoadLocation("Europe/Berlin")
 		for _, matchedItem := range res {
-			if IsNeedFilter(matchedItem[3]) {
+			if IsNeedFilter(matchedItem[3], []string{}) {
 				continue
 			}
 			t, _ := time.ParseInLocation(time.RFC3339, matchedItem[2], loc)
 			newsItems = append(newsItems, NewsItem{
-				Title:  matchedItem[3],
+				Title:  utils.FormatTitle(matchedItem[3]),
 				Link:   "https://www.rfi.fr" + matchedItem[1],
 				Origin: "RFI",
 				Time:   t.Unix(),

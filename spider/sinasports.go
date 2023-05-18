@@ -5,6 +5,7 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -41,12 +42,12 @@ func sinaSportsSpider() []NewsItem {
 	sinaSportsStruct := sinaSports{}
 	json.Unmarshal(resp, &sinaSportsStruct)
 	for _, matchedItem := range sinaSportsStruct.Result.Data {
-		if IsNeedFilter(matchedItem.Info.Title) {
+		if IsNeedFilter(matchedItem.Info.Title, []string{"新浪"}) {
 			continue
 		}
 		time, _ := strconv.Atoi(matchedItem.Info.ShowTime)
 		newsItems = append(newsItems, NewsItem{
-			Title:  matchedItem.Info.Title,
+			Title:  utils.FormatTitle(matchedItem.Info.Title),
 			Link:   matchedItem.Base.Base.Url,
 			Origin: "新浪体育",
 			Time:   int64(time),

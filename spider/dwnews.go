@@ -6,6 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -55,11 +56,11 @@ func dwnewsSpider() []NewsItem {
 
 		dwItem := dwItemType{}
 		json.Unmarshal(rankResp, &dwItem)
-		if IsNeedFilter(dwItem.Title) {
+		if IsNeedFilter(dwItem.Title, []string{}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  dwItem.Title,
+			Title:  utils.FormatTitle(dwItem.Title),
 			Link:   dwItem.PublishURL,
 			Origin: "多维新闻",
 			Time:   int64(dwItem.PublishTime),

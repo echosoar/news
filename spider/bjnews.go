@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -36,11 +37,11 @@ func bjnewsSpider() []NewsItem {
 	json.Unmarshal(resp, &bjnewsJSON)
 
 	for _, item := range bjnewsJSON.Data {
-		if IsNeedFilter(item.Title) {
+		if IsNeedFilter(item.Title, []string{"新京"}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  item.Title,
+			Title:  utils.FormatTitle(item.Title),
 			Link:   item.DetailURL.PcURL,
 			Time:   item.PublishTimestamp,
 			Origin: "新京报",

@@ -28,14 +28,14 @@ func gmwSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2]) {
+		if IsNeedFilter(matchedItem[2], []string{}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  matchedItem[2],
+			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   "https://politics.gmw.cn/" + matchedItem[1],
 			Origin: "光明网",
-			Time:   utils.FormatTimeYMDToUnix(matchedItem[3]),
+			Time:   utils.GetYMDUnixTime(matchedItem[3]),
 		})
 	}
 	return newsItems

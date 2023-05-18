@@ -5,6 +5,7 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -38,12 +39,12 @@ func huxiuSpider() []NewsItem {
 	huxiuJsonStruct := huxiuJson{}
 	json.Unmarshal(resp, &huxiuJsonStruct)
 	for _, item := range huxiuJsonStruct.Data.DataList {
-		if IsNeedFilter(item.Title) {
+		if IsNeedFilter(item.Title, []string{"虎嗅"}) {
 			continue
 		}
 		time, _ := strconv.Atoi(item.Time)
 		newsItems = append(newsItems, NewsItem{
-			Title:  item.Title,
+			Title:  utils.FormatTitle(item.Title),
 			Link:   "https://www.huxiu.com/article/" + item.Aid + ".html",
 			Origin: "虎嗅",
 			Time:   int64(time),

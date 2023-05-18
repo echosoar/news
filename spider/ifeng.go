@@ -28,11 +28,11 @@ func ifengSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2]) {
+		if IsNeedFilter(matchedItem[2], []string{"凤凰"}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  matchedItem[2],
+			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   "https:" + matchedItem[1],
 			Origin: "凤凰网",
 			Time:   utils.FormatTimeHMToUnix(matchedItem[3]),

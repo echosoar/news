@@ -38,7 +38,7 @@ func FormatTimeByFormatToUnix(tStr string, format string) int64 {
 	return pubTime.Unix()
 }
 
-func FormatTimeYMDToUnix(tStr string) int64 {
+func formatTimeYMDToUnix(tStr string) int64 {
 	locate := GetTimezone()
 	pubTime, _ := time.ParseInLocation("2006-01-02", tStr, locate)
 	return pubTime.Unix()
@@ -107,4 +107,23 @@ func FormatTimeT(tTime string) int64 {
 
 func GetNowTimeStr(format string) string {
 	return FormatTime(time.Now().Unix(), format)
+}
+
+func GetTodayStrAndTime() (string, int64) {
+	today := FormatNow("2006-01-02")
+	locate := GetTimezone()
+	pubTime, _ := time.ParseInLocation("2006-01-02", today, locate)
+	nowDayTime := pubTime.Unix()
+	return today, nowDayTime
+}
+
+func GetYMDUnixTime(tStr string) int64 {
+	today := FormatNow("2006-01-02")
+	locate := GetTimezone()
+	if today != tStr {
+		pubTime, _ := time.ParseInLocation("2006-01-02", tStr, locate)
+		return pubTime.Unix()
+	}
+	// 向前偏移 10 分钟
+	return time.Now().Unix() - 10*int64(time.Minute.Seconds())
 }

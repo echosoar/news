@@ -8,6 +8,7 @@ import (
 	"sort"
 	"strconv"
 	"time"
+	"unicode/utf8"
 
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
@@ -36,11 +37,29 @@ type CacheResult struct {
 	Date  string        `json:"time"`
 }
 
+func checkItemIsEqual(item spider.NewsItem, keywords []string, distance uint64, distanceItem *DitanceItem) bool {
+	if distanceItem.Item.Title == item.Title {
+		return true
+	}
+	sameKeywords := utils.CompareKeywords(distanceItem.Item.Keywords, keywords)
+	if sameKeywords == 0 {
+		return false
+	}
+	// >= 3
+	matchDistance := 14
+	switch sameKeywords {
+	case 2:
+		matchDistance = 8
+	case 1:
+		matchDistance = 3
+	}
+	return simHash.IsEqual(distanceItem.Distance, distance, matchDistance)
+}
+
 func main() {
 	isFilterCache := os.Getenv("FILTER_CACHE") == "true"
 	list := make([]spider.NewsItem, 0)
-	nowDay := utils.FormatNow("2006-01-02")
-	nowDayTime := utils.FormatTimeYMDToUnix(nowDay)
+	nowDay, nowDayTime := utils.GetTodayStrAndTime()
 	nowTime := time.Now().Unix()
 	if nowTime-nowDayTime < 6*3600 {
 		nowDayTime = nowDayTime - 60*3600
@@ -72,28 +91,44 @@ func main() {
 	x := simHash.GetJieba()
 	defer x.Free()
 
+	testTitleList := []string{}
+	for _, title := range testTitleList {
+		hash, keywords := simHash.Calc(x, title)
+		distance := simHash.Distance(hash)
+		fmt.Println("test:", title, keywords, distance)
+	}
+	if len(testTitleList) > 0 {
+		return
+	}
+
 	for _, item := range list {
 		if item.Time < nowDayTime {
 			continue
 		}
-		titleLen := float64(len(item.Title))
-		if titleLen == 0.0 {
+		titleLen := float64(utf8.RuneCountInString(item.Title))
+		if titleLen <= 6.0 {
 			continue
 		}
-		if isFilterCache && spider.IsNeedFilter(item.Title) {
-			continue
+		if isFilterCache {
+			item.Title = utils.FormatTitle(item.Title)
+			if spider.IsNeedFilter(item.Title, []string{}) {
+				continue
+			}
 		}
 		hash, keywords := simHash.Calc(x, item.Title)
+		if len(keywords) == 0 {
+			continue
+		}
 		distance := simHash.Distance(hash)
 
 		isEqual := false
 		for _, distanceItem := range result.Distances {
-			lenCheck := titleLen / float64(len(distanceItem.Item.Title))
+			lenCheck := titleLen / float64(utf8.RuneCountInString(distanceItem.Item.Title))
 			// title difference too large
-			if lenCheck < 0.5 || lenCheck > 2.0 {
+			if lenCheck < 0.3 || lenCheck > 3.0 {
 				continue
 			}
-			if simHash.IsEqual(distanceItem.Distance, distance, 6) && utils.CompareKeywords(distanceItem.Item.Keywords, keywords) {
+			if checkItemIsEqual(item, keywords, distance, distanceItem) {
 				isEqual = true
 				isExists := false
 				for _, link := range distanceItem.Item.Links {
@@ -106,14 +141,32 @@ func main() {
 				if isExists {
 					break
 				}
-				if len(item.Title) > len(distanceItem.Item.Title) {
-					distanceItem.Item.Title = item.Title
-					distanceItem.Item.Keywords = keywords
-				}
 				if item.Time > distanceItem.Item.Time {
 					distanceItem.Item.Time = item.Time
 				}
 				distanceItem.Item.Links = append(distanceItem.Item.Links, item)
+				// 超过 2 个来源，选择标题长度居中的那个
+				if len(distanceItem.Item.Links) > 2 {
+					sort.Slice(distanceItem.Item.Links, func(i, j int) bool {
+						iTitleLen := len(distanceItem.Item.Links[i].Title)
+						jTitleLen := len(distanceItem.Item.Links[j].Title)
+						return jTitleLen < iTitleLen
+					})
+					center := len(distanceItem.Item.Links) / 2
+					distanceItem.Item.Title = distanceItem.Item.Links[center].Title
+					// TODO: need new title distance
+					if distanceItem.Item.Title == item.Title {
+						distanceItem.Item.Keywords = keywords
+						distanceItem.Distance = distance
+					}
+				} else {
+					// 小于两个来源，选择标题最长的
+					if len(item.Title) > len(distanceItem.Item.Title) {
+						distanceItem.Item.Title = item.Title
+						distanceItem.Item.Keywords = keywords
+						distanceItem.Distance = distance
+					}
+				}
 				break
 			}
 		}
@@ -184,7 +237,7 @@ func main() {
 		}
 	}
 
-	// md, _ := os.Create("readme.md")
-	// defer md.Close()
-	// md.Write([]byte(mdStr))
+	md, _ := os.Create("readme.md")
+	defer md.Close()
+	md.Write([]byte(mdStr))
 }
