@@ -10,13 +10,13 @@ import (
 
 func init() {
 	spiderName := os.Getenv("SPIDER")
-	if spiderName == "" || spiderName == "chinanews" {
-		spiderManager.list = append(spiderManager.list, chinaNewsSpider)
+	if spiderName == "" || spiderName == "mydr" {
+		spiderManager.list = append(spiderManager.list, mydrSpider)
 	}
 }
 
-func chinaNewsSpider() []NewsItem {
-	url := "http://www.chinanews.com/scroll-news/news1.html"
+func mydrSpider() []NewsItem {
+	url := "https://news.mydrivers.com/dt.shtml"
 	newsItems := make([]NewsItem, 0)
 	status, resp, err := fasthttp.Get(nil, url)
 	if err != nil || status != fasthttp.StatusOK {
@@ -24,18 +24,18 @@ func chinaNewsSpider() []NewsItem {
 	}
 	r, _ := regexp.Compile("[\n\r]")
 	text := string(r.ReplaceAll(resp, []byte{}))
-	reg, _ := regexp.Compile("<div class=\"dd_bt\"><a href=\"(.*?)\">(.*?)</a></div><div class=\"dd_time\">(.*?)</div>")
+	reg, _ := regexp.Compile(`<a href="([^"]*?)"><span class="titl">([^<]*?)</span><span class="t today">(\d+:\d+)</span></a>`)
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2], []string{"观象"}) {
+		if IsNeedFilter(matchedItem[2], []string{}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(matchedItem[2]),
-			Link:   "http://www.chinanews.com/" + matchedItem[1],
-			Origin: "中新网",
-			Time:   utils.FormatTimemdToUnix(matchedItem[3]),
+			Link:   matchedItem[1],
+			Origin: "快科技",
+			Time:   utils.FormatTimeHMToUnix(matchedItem[3]),
 		})
 	}
 	return newsItems

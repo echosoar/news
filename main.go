@@ -46,10 +46,10 @@ func checkItemIsEqual(item spider.NewsItem, keywords []string, distance uint64, 
 		return false
 	}
 	// >= 3
-	matchDistance := 14
+	matchDistance := 15
 	switch sameKeywords {
 	case 2:
-		matchDistance = 8
+		matchDistance = 9
 	case 1:
 		matchDistance = 3
 	}
@@ -86,20 +86,25 @@ func main() {
 		}
 	}
 
-	list = append(list, spider.Get()...)
-
 	x := simHash.GetJieba()
 	defer x.Free()
 
 	testTitleList := []string{}
-	for _, title := range testTitleList {
-		hash, keywords := simHash.Calc(x, title)
-		distance := simHash.Distance(hash)
-		fmt.Println("test:", title, keywords, distance)
-	}
-	if len(testTitleList) > 0 {
+
+	if len(testTitleList) > 1 {
+		hash1, keywords1 := simHash.Calc(x, testTitleList[0])
+		distance1 := simHash.Distance(hash1)
+		hash2, keywords2 := simHash.Calc(x, testTitleList[1])
+		distance2 := simHash.Distance(hash2)
+		matched := utils.CompareKeywords(keywords1, keywords2)
+		isEqual := simHash.IsEqual(distance1, distance2, int(matched))
+		fmt.Println("test1:", testTitleList[0], keywords1, distance1)
+		fmt.Println("test2:", testTitleList[1], keywords2, distance2)
+		fmt.Println("test-:", matched, isEqual)
 		return
 	}
+
+	list = append(list, spider.Get()...)
 
 	for _, item := range list {
 		if item.Time < nowDayTime {

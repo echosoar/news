@@ -3,7 +3,6 @@ package spider
 import (
 	"os"
 	"regexp"
-	"time"
 
 	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
@@ -11,17 +10,16 @@ import (
 
 func init() {
 	spiderName := os.Getenv("SPIDER")
-	if spiderName == "" || spiderName == "sm" {
-		spiderManager.list = append(spiderManager.list, smSpider)
+	if spiderName == "" || spiderName == "techWeb" {
+		spiderManager.list = append(spiderManager.list, techWebSpider)
 	}
 }
 
-// 神马热搜
-func smSpider() []NewsItem {
-	url := "https://tophub.today/n/n6YoVqDeZa"
+func techWebSpider() []NewsItem {
+	url := "http://www.techweb.com.cn/roll/"
 	newsItems := make([]NewsItem, 0)
 	req := fasthttp.AcquireRequest()
-	req.Header.Set("Host", "tophub.today")
+	req.Header.Set("Host", "www.techweb.com.cn")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36")
 	req.SetRequestURI(url)
 	resp := fasthttp.AcquireResponse()
@@ -33,20 +31,21 @@ func smSpider() []NewsItem {
 		return newsItems
 	}
 	body := resp.Body()
+
 	r, _ := regexp.Compile("[\n\r]")
 	text := string(r.ReplaceAll(body, []byte{}))
-	reg, _ := regexp.Compile("rel=\"nofollow\" itemid=\"\\d+\">([^<]*?)</a>")
+	reg, _ := regexp.Compile(`<span class="tit"><a href="([^"]*)"\s+target="_blank" title="([^"]*)">.*?<span class="source">\s*TechWeb.com.cn\s*</span>\s*<span class="time">\s*(.*?):\d+\s*</span>`)
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[1], []string{}) {
+		if IsNeedFilter(matchedItem[2], []string{}) {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title:  utils.FormatTitle(matchedItem[1]),
-			Link:   "https://m.sm.cn/s?q=" + matchedItem[1],
-			Origin: "神马热搜",
-			Time:   time.Now().Unix() - 30*int64(time.Minute.Seconds()), // 偏移30分钟
+			Title:  utils.FormatTitle(matchedItem[2]),
+			Link:   matchedItem[1],
+			Origin: "TechWeb",
+			Time:   utils.FormatTimemdToUnix(matchedItem[3]),
 		})
 	}
 	return newsItems

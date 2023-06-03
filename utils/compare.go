@@ -1,21 +1,34 @@
 package utils
 
-import "strconv"
+import (
+	"strconv"
+)
 
 func CompareKeywords(keywords1, keywords2 []string) int32 {
-	var matched int32 = 0
+	var matched float64 = 0.0
 	for _, keyword := range keywords1 {
-		// 关键词不是数字
 		// 并且在两个关键词列表中都存在
-		if !isNumeric(keyword) && Contains(keywords2, keyword) {
-			matched++
+		if Contains(keywords2, keyword) {
+			isIntNum, num := isNumeric(keyword)
+			if isIntNum {
+				switch num {
+				case 315:
+					fallthrough
+				case 520:
+					matched += 1.0
+				default:
+					matched += 0.6
+				}
+			} else {
+				matched++
+			}
 		}
 	}
-	return matched
+	return int32(matched)
 }
-func isNumeric(str string) bool {
-	_, err := strconv.Atoi(str)
-	return err == nil
+func isNumeric(str string) (bool, int) {
+	num, err := strconv.Atoi(str)
+	return err == nil, num
 }
 
 func Contains(s []string, e string) bool {

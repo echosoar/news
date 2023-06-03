@@ -99,9 +99,17 @@ func FormatTimeAgo(ago string) int64 {
 }
 
 func FormatTimeT(tTime string) int64 {
-	reg, _ := regexp.Compile("\\+\\d+:\\d+")
+	reg, _ := regexp.Compile(`\\+\d+:\d+`)
 	tTime = reg.ReplaceAllString(tTime, "")
 	pubTime, _ := time.Parse("2006-01-02T15:04:05", tTime)
+	return pubTime.Unix()
+}
+
+func FormatTimeTLocation(tTime string) int64 {
+	locate := GetTimezone()
+	reg, _ := regexp.Compile(`\\+\d+:\d+`)
+	tTime = reg.ReplaceAllString(tTime, "")
+	pubTime, _ := time.ParseInLocation("2006-01-02T15:04:05", tTime, locate)
 	return pubTime.Unix()
 }
 
