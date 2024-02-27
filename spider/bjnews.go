@@ -37,12 +37,10 @@ func bjnewsSpider() []NewsItem {
 	json.Unmarshal(resp, &bjnewsJSON)
 
 	for _, item := range bjnewsJSON.Data {
-		if IsNeedFilter(item.Title, []string{"新京"}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(item.Title),
 			Link:   item.DetailURL.PcURL,
+			Filter: IsNeedFilter(item.Title, []string{"新京"}),
 			Time:   item.PublishTimestamp,
 			Origin: "新京报",
 		})

@@ -56,12 +56,10 @@ func dwnewsSpider() []NewsItem {
 
 		dwItem := dwItemType{}
 		json.Unmarshal(rankResp, &dwItem)
-		if IsNeedFilter(dwItem.Title, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(dwItem.Title),
 			Link:   dwItem.PublishURL,
+			Filter: IsNeedFilter(dwItem.Title, []string{}),
 			Origin: "多维新闻",
 			Time:   int64(dwItem.PublishTime),
 		})

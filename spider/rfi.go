@@ -35,11 +35,9 @@ func rfiSpider() []NewsItem {
 		newsItems = make([]NewsItem, 0, len(res))
 		loc, _ := time.LoadLocation("Europe/Berlin")
 		for _, matchedItem := range res {
-			if IsNeedFilter(matchedItem[3], []string{}) {
-				continue
-			}
 			t, _ := time.ParseInLocation(time.RFC3339, matchedItem[2], loc)
 			newsItems = append(newsItems, NewsItem{
+				Filter: IsNeedFilter(matchedItem[3], []string{}),
 				Title:  utils.FormatTitle(matchedItem[3]),
 				Link:   "https://www.rfi.fr" + matchedItem[1],
 				Origin: "RFI",

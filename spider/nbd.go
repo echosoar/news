@@ -35,10 +35,8 @@ func nbdSpider() []NewsItem {
 	itemReg, _ := regexp.Compile("<li class=\"u-news-title\">.*?<a href=\"(.*?)\".*?>(.*?)</a>\\s*<span>\\s*(.*?)\\s*</span>\\s*</li>")
 	itemRes := itemReg.FindAllStringSubmatch(listHtml, -1)
 	for _, matchedItem := range itemRes {
-		if IsNeedFilter(matchedItem[2], []string{"每经"}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem[2], []string{"每经"}),
 			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   matchedItem[1],
 			Origin: "每经网",

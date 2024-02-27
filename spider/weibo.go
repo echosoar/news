@@ -42,10 +42,8 @@ func weiboSpider() []NewsItem {
 		if len(item.Desc) < 5 {
 			continue
 		}
-		if IsNeedFilter(item.Desc, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(item.Desc, []string{}),
 			Title:  utils.FormatTitle(item.Desc),
 			Link:   item.Scheme,
 			Origin: "微博",

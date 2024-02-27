@@ -23,7 +23,7 @@ type wallstreetcnJson struct {
 				Title string `json:"title"`
 				Url   string `json:"uri"`
 				Time  int64  `json:"display_time"`
-				IsVIP  bool  `json:"is_in_vip_privilege"`
+				IsVIP bool   `json:"is_in_vip_privilege"`
 			} `json:"resource"`
 		} `json:"items"`
 	} `json:"data"`
@@ -47,10 +47,8 @@ func wallstreetcnSpider() []NewsItem {
 		if len(item.Resource.Title) < 5 {
 			continue
 		}
-		if IsNeedFilter(item.Resource.Title, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(item.Resource.Title, []string{}),
 			Title:  utils.FormatTitle(item.Resource.Title),
 			Link:   item.Resource.Url,
 			Origin: "华尔街见闻",

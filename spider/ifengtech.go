@@ -10,13 +10,13 @@ import (
 
 func init() {
 	spiderName := os.Getenv("SPIDER")
-	if spiderName == "" || spiderName == "ifanr" {
-		spiderManager.list = append(spiderManager.list, ifanrSpider)
+	if spiderName == "" || spiderName == "ifengtech" {
+		spiderManager.list = append(spiderManager.list, ifengtechSpider)
 	}
 }
 
-func ifanrSpider() []NewsItem {
-	url := "https://www.ifanr.com/"
+func ifengtechSpider() []NewsItem {
+	url := "https://tech.ifeng.com/"
 	newsItems := make([]NewsItem, 0)
 	status, resp, err := fasthttp.Get(nil, url)
 	if err != nil || status != fasthttp.StatusOK {
@@ -24,15 +24,15 @@ func ifanrSpider() []NewsItem {
 	}
 	r, _ := regexp.Compile("[\n\r]")
 	text := string(r.ReplaceAll(resp, []byte{}))
-	reg, _ := regexp.Compile("<h3>\\s*<a class=\"js-title-transform\" href=\"https://www.ifanr.com/(\\d+)\" [^>]*ga-action=\"ToItemArticle\" ga-label=\"Article\" target=\"_blank\">(.*?)</a>.*?<time data-time=\"(.*?)\"")
+	reg, _ := regexp.Compile(`<a class="index_title_oqpqT"\s+href="([^"]*?)"[^>]*>([^<]*?)</a><span class="index_date_sP1mT" title="([^"]*)">`)
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem[2], []string{"凤凰"}),
 			Title:  utils.FormatTitle(matchedItem[2]),
-			Filter: IsNeedFilter(matchedItem[2], []string{"爱范儿"}),
-			Link:   "https://www.ifanr.com/" + matchedItem[1],
-			Origin: "爱范儿",
+			Link:   matchedItem[1],
+			Origin: "凤凰科技",
 			Time:   utils.FormatTimeYMDHMSToUnix(matchedItem[3]),
 		})
 	}

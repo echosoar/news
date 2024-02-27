@@ -7,6 +7,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"strings"
 	"time"
 	"unicode/utf8"
 
@@ -16,20 +17,24 @@ import (
 )
 
 type Result struct {
-	Distances []*DitanceItem
-	Items     []*ResultItem
+	Items []*ResultItem
 }
 
 type ResultItem struct {
-	Title    string            `json:"title"`
-	Links    []spider.NewsItem `json:"links"`
-	Time     int64             `json:"time"`
-	Keywords []string          `json:"keywords"`
+	Title  string            `json:"title"`
+	Time   int64             `json:"time"`
+	Filter []string          `json:"filter"`
+	Links  []spider.NewsItem `json:"links"`
 }
 
-type DitanceItem struct {
-	Distance uint64      `json:"distance"`
-	Item     *ResultItem `json:"item"`
+type JSONItem struct {
+	Title string         `json:"title"`
+	Time  int64          `json:"time"`
+	Links []JSONItemLink `json:"links"`
+}
+type JSONItemLink struct {
+	Origin string `json:"origin"`
+	Time   int64  `json:"time"`
 }
 
 type CacheResult struct {
@@ -37,23 +42,57 @@ type CacheResult struct {
 	Date  string        `json:"time"`
 }
 
-func checkItemIsEqual(item spider.NewsItem, keywords []string, distance uint64, distanceItem *DitanceItem) bool {
-	if distanceItem.Item.Title == item.Title {
+type LinkResult struct {
+	Item  spider.NewsItem
+	Index int
+}
+
+func checkItemIsEqual(item spider.NewsItem, rItem *ResultItem) bool {
+	if rItem.Title == item.Title {
 		return true
 	}
-	sameKeywords := utils.CompareKeywords(distanceItem.Item.Keywords, keywords)
-	if sameKeywords == 0 {
+	// checkSize :=
+	for start := 0; start < len(rItem.Links); start++ {
+		// index := start * 2
+		// if index >= len(rItem.Links) {
+		// 	break
+		// }
+		checkItem := rItem.Links[start]
+		sameKeywords := utils.CompareKeywords(checkItem.Keywords, item.Keywords)
+		if sameKeywords <= 1 {
+			return false
+		}
+		// >= 3
+		matchDistance := 12
+		switch sameKeywords {
+		case 2:
+			matchDistance = 6
+		}
+		if simHash.IsEqual(checkItem.Distance, item.Distance, matchDistance) {
+			return true
+		}
+	}
+	return false
+}
+
+func compareItemIsEqual(item spider.NewsItem, checkItem spider.NewsItem) bool {
+	if checkItem.Title == item.Title {
+		return true
+	}
+	sameKeywords := utils.CompareKeywords(checkItem.Keywords, item.Keywords)
+	if sameKeywords <= 1 {
 		return false
 	}
 	// >= 3
-	matchDistance := 15
+	matchDistance := 12
 	switch sameKeywords {
 	case 2:
-		matchDistance = 9
-	case 1:
-		matchDistance = 3
+		matchDistance = 6
 	}
-	return simHash.IsEqual(distanceItem.Distance, distance, matchDistance)
+	if simHash.IsEqual(checkItem.Distance, item.Distance, matchDistance) {
+		return true
+	}
+	return false
 }
 
 func main() {
@@ -65,8 +104,7 @@ func main() {
 		nowDayTime = nowDayTime - 60*3600
 	}
 	result := Result{
-		Distances: make([]*DitanceItem, 0),
-		Items:     make([]*ResultItem, 0),
+		Items: make([]*ResultItem, 0),
 	}
 	noCache := os.Getenv("NO_CACHE")
 	cacheFile := "./result/cache.json"
@@ -106,6 +144,12 @@ func main() {
 
 	list = append(list, spider.Get()...)
 
+	/*
+		全新的比对方法
+	*/
+	index := 1
+	indexLinkMap := make(map[int]int, 0)
+	linkResultList := make([]LinkResult, 0)
 	for _, item := range list {
 		if item.Time < nowDayTime {
 			continue
@@ -114,80 +158,114 @@ func main() {
 		if titleLen <= 6.0 {
 			continue
 		}
+		// 强制更新 filter
 		if isFilterCache {
 			item.Title = utils.FormatTitle(item.Title)
-			if spider.IsNeedFilter(item.Title, []string{}) {
+			item.Filter = spider.IsNeedFilter(item.Title, []string{})
+		}
+		// 如果没有关键词，则计算一次
+		if len(item.Keywords) == 0 {
+			hash, keywords := simHash.Calc(x, item.Title)
+			if len(keywords) == 0 {
 				continue
 			}
+			item.Keywords = keywords
+			item.Distance = simHash.Distance(hash)
 		}
-		hash, keywords := simHash.Calc(x, item.Title)
-		if len(keywords) == 0 {
-			continue
-		}
-		distance := simHash.Distance(hash)
 
-		isEqual := false
-		for _, distanceItem := range result.Distances {
-			lenCheck := titleLen / float64(utf8.RuneCountInString(distanceItem.Item.Title))
-			// title difference too large
-			if lenCheck < 0.3 || lenCheck > 3.0 {
-				continue
-			}
-			if checkItemIsEqual(item, keywords, distance, distanceItem) {
-				isEqual = true
-				isExists := false
-				for _, link := range distanceItem.Item.Links {
-					// same source, only one is kept
-					if link.Origin == item.Origin {
-						isExists = true
-						break
-					}
-				}
-				if isExists {
-					break
-				}
-				if item.Time > distanceItem.Item.Time {
-					distanceItem.Item.Time = item.Time
-				}
-				distanceItem.Item.Links = append(distanceItem.Item.Links, item)
-				// 超过 2 个来源，选择标题长度居中的那个
-				if len(distanceItem.Item.Links) > 2 {
-					sort.Slice(distanceItem.Item.Links, func(i, j int) bool {
-						iTitleLen := len(distanceItem.Item.Links[i].Title)
-						jTitleLen := len(distanceItem.Item.Links[j].Title)
-						return jTitleLen < iTitleLen
-					})
-					center := len(distanceItem.Item.Links) / 2
-					distanceItem.Item.Title = distanceItem.Item.Links[center].Title
-					// TODO: need new title distance
-					if distanceItem.Item.Title == item.Title {
-						distanceItem.Item.Keywords = keywords
-						distanceItem.Distance = distance
-					}
-				} else {
-					// 小于两个来源，选择标题最长的
-					if len(item.Title) > len(distanceItem.Item.Title) {
-						distanceItem.Item.Title = item.Title
-						distanceItem.Item.Keywords = keywords
-						distanceItem.Distance = distance
-					}
-				}
+		newLinkItem := LinkResult{
+			Item:  item,
+			Index: 0,
+		}
+		needSkip := false
+		for _, linkResult := range linkResultList {
+			if linkResult.Item.Link == newLinkItem.Item.Link {
+				needSkip = true
 				break
 			}
-		}
-		if !isEqual {
-			resultItem := ResultItem{
-				Title:    item.Title,
-				Time:     item.Time,
-				Links:    []spider.NewsItem{item},
-				Keywords: keywords,
+			if compareItemIsEqual(newLinkItem.Item, linkResult.Item) {
+				if newLinkItem.Index == 0 {
+					newLinkItem.Index = linkResult.Index
+				} else {
+					// 找到指向小的，循环合并多个  index，把大的都指向小的
+					from := newLinkItem.Index
+					to := linkResult.Index
+					for {
+						if from == to {
+							break
+						}
+						if from < to {
+							mid := from
+							from = to
+							to = mid
+						}
+						value, exists := indexLinkMap[from]
+						indexLinkMap[from] = to
+						if !exists {
+							break
+						}
+						from = value
+					}
+				}
 			}
-			distanceItem := DitanceItem{
-				Distance: distance,
-				Item:     &resultItem,
+		}
+
+		if needSkip {
+			continue
+		}
+		if newLinkItem.Index == 0 {
+			newLinkItem.Index = index
+			index += 1
+		}
+		linkResultList = append(linkResultList, newLinkItem)
+	}
+
+	aggregationIndexMap := make(map[int]int, 0)
+	speedIndexLinkMap := make(map[int]int, 0)
+	for _, linkItem := range linkResultList {
+		finalIndex := linkItem.Index
+		speedFinalIndex, speedExists := speedIndexLinkMap[linkItem.Index]
+		if speedExists {
+			finalIndex = speedFinalIndex
+		} else {
+			for {
+				value, exists := indexLinkMap[finalIndex]
+				if !exists {
+					break
+				}
+				finalIndex = value
+			}
+			speedIndexLinkMap[linkItem.Index] = finalIndex
+		}
+		itemIndex, exists := aggregationIndexMap[finalIndex]
+		// 不存在关联，新的新闻
+		if !exists {
+			aggregationIndexMap[finalIndex] = len(result.Items)
+			resultItem := ResultItem{
+				Title:  linkItem.Item.Title,
+				Time:   linkItem.Item.Time,
+				Links:  []spider.NewsItem{linkItem.Item},
+				Filter: linkItem.Item.Filter,
 			}
 			result.Items = append(result.Items, &resultItem)
-			result.Distances = append(result.Distances, &distanceItem)
+		} else {
+			// 存在关联
+			rItem := result.Items[itemIndex]
+			item := linkItem.Item
+			if item.Time > rItem.Time {
+				rItem.Time = item.Time
+			}
+			// 添加到结果的链接列表中
+			rItem.Links = append(rItem.Links, item)
+			sort.Slice(rItem.Links, func(i, j int) bool {
+				iTitleLen := len(rItem.Links[i].Title)
+				jTitleLen := len(rItem.Links[j].Title)
+				return jTitleLen < iTitleLen
+			})
+			center := len(rItem.Links) / 2
+			centerItem := rItem.Links[center]
+			rItem.Title = centerItem.Title
+			rItem.Filter = centerItem.Filter
 		}
 	}
 	sort.Slice(result.Items, func(i, j int) bool {
@@ -213,12 +291,37 @@ func main() {
 	}
 
 	size := len(result.Items)
-	if size > 100 {
-		size = 100
+	if size > 150 {
+		size = 150
 	}
-	result.Items = result.Items[0:size]
 
-	jsonStr, _ := json.Marshal(result.Items)
+	filtedItems := make([]*ResultItem, 0)
+	jsonItems := make([]JSONItem, 0)
+	for _, item := range result.Items {
+		if len(item.Filter) == 0 {
+			filtedItems = append(filtedItems, item)
+			jsonItemsLinks := make([]JSONItemLink, len(item.Links))
+			for index, link := range item.Links {
+				jsonItemsLinks[index] = JSONItemLink{
+					Origin: link.Origin,
+					Time:   link.Time,
+				}
+			}
+			jsonItems = append(jsonItems, JSONItem{
+				Title: item.Title,
+				Time:  item.Time,
+				Links: jsonItemsLinks,
+			})
+			if len(filtedItems) >= size {
+				break
+			}
+		}
+	}
+	if len(result.Items) > size*4 {
+		result.Items = result.Items[0 : size*4]
+	}
+
+	jsonStr, _ := json.Marshal(jsonItems)
 
 	json, _ := os.Create("./result/news.json")
 	defer json.Close()
@@ -230,7 +333,7 @@ func main() {
 
 	mdStr := "## News Update\n---\n" + now + "\n---\n"
 
-	for index, item := range result.Items {
+	for index, item := range filtedItems {
 		if len(item.Links) > 1 {
 			mdStr += strconv.Itoa(index+1) + ". " + item.Title + " (" + strconv.Itoa(len(item.Links)) + ")\n"
 			for _, link := range item.Links {
@@ -239,6 +342,24 @@ func main() {
 			mdStr += "\n"
 		} else {
 			mdStr += strconv.Itoa(index+1) + ". " + spider.ItemToHtml(&(item.Links[0])) + "\n"
+		}
+	}
+
+	mdStr += "\n---\n\n## No Filter News Update\n---\n" + now + "\n---\n"
+
+	for index, item := range result.Items {
+		addon := ""
+		if len(item.Filter) > 0 {
+			addon = "【Filter by '" + strings.Join(item.Filter, "', '") + "'】"
+		}
+		if len(item.Links) > 1 {
+			mdStr += strconv.Itoa(index+1) + ". " + item.Title + addon + " (" + strconv.Itoa(len(item.Links)) + ")\n"
+			for _, link := range item.Links {
+				mdStr += "    +  " + spider.ItemToHtml(&link) + "\n"
+			}
+			mdStr += "\n"
+		} else {
+			mdStr += strconv.Itoa(index+1) + ". " + spider.ItemToHtml(&(item.Links[0])) + addon + "\n"
 		}
 	}
 

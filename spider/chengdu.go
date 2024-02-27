@@ -33,12 +33,10 @@ func chengduSpider() []NewsItem {
 	chengduJsonStruct := ChengduJson{}
 	json.Unmarshal(resp, &chengduJsonStruct)
 	for _, item := range chengduJsonStruct.Lists {
-		if IsNeedFilter(item.Title, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(item.Title),
 			Link:   item.Url,
+			Filter: IsNeedFilter(item.Title, []string{}),
 			Origin: "红星新闻",
 			Time:   utils.FormatTimeAgo(item.Time),
 		})

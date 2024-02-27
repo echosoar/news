@@ -32,12 +32,10 @@ func chinaSpider() []NewsItem {
 		res := reg.FindAllStringSubmatch(text, -1)
 		newsItems = make([]NewsItem, 0, len(res))
 		for _, matchedItem := range res {
-			if IsNeedFilter(matchedItem[2], []string{}) {
-				continue
-			}
 			newsItems = append(newsItems, NewsItem{
 				Title:  utils.FormatTitle(matchedItem[2]),
 				Link:   matchedItem[1],
+				Filter: IsNeedFilter(matchedItem[2], []string{}),
 				Origin: "中国网",
 				Time:   utils.GetYMDUnixTime(matchedItem[3]),
 			})

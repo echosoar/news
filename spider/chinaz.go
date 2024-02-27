@@ -28,13 +28,11 @@ func chinazSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2], []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   "https:" + matchedItem[1],
 			Origin: "站长之家",
+			Filter: IsNeedFilter(matchedItem[2], []string{}),
 			Time:   utils.FormatTimeYMDHMSToUnix(matchedItem[3]),
 		})
 	}

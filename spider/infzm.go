@@ -37,10 +37,8 @@ func infzmSpider() []NewsItem {
 	infzmJsonStruct := infzmJson{}
 	json.Unmarshal(resp, &infzmJsonStruct)
 	for _, item := range infzmJsonStruct.Data.Contents {
-		if IsNeedFilter(item.Subject, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(item.Subject, []string{}),
 			Title:  utils.FormatTitle(item.Subject),
 			Link:   "http://www.infzm.com/contents/" + strconv.Itoa(item.ID),
 			Origin: "南方周末",

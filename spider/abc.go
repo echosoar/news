@@ -45,12 +45,10 @@ func abcSpider() []NewsItem {
 	json.Unmarshal(resp, &abcJSON)
 
 	for _, item := range abcJSON.Collection {
-		if IsNeedFilter(item.Title.Children, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(item.Title.Children),
 			Link:   "https://www.abc.net.au" + item.Link.To,
+			Filter: IsNeedFilter(item.Title.Children, []string{}),
 			Time:   utils.FormatTimeT(item.Timestamp.Dates.FirstPublished.LabelDate),
 			Origin: "ABC",
 		})

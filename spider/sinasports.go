@@ -42,11 +42,9 @@ func sinaSportsSpider() []NewsItem {
 	sinaSportsStruct := sinaSports{}
 	json.Unmarshal(resp, &sinaSportsStruct)
 	for _, matchedItem := range sinaSportsStruct.Result.Data {
-		if IsNeedFilter(matchedItem.Info.Title, []string{"新浪"}) {
-			continue
-		}
 		time, _ := strconv.Atoi(matchedItem.Info.ShowTime)
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem.Info.Title, []string{"新浪"}),
 			Title:  utils.FormatTitle(matchedItem.Info.Title),
 			Link:   matchedItem.Base.Base.Url,
 			Origin: "新浪体育",

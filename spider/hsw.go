@@ -38,13 +38,11 @@ func hswSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2], []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
 			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   matchedItem[1],
 			Origin: "华商网",
+			Filter: IsNeedFilter(matchedItem[2], []string{}),
 			Time:   time.Now().Unix() - 30*int64(time.Minute.Seconds()), // 偏移30分钟
 		})
 	}

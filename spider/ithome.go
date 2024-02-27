@@ -36,10 +36,8 @@ func ithomeSpider() []NewsItem {
 	jsonStruct := ithomeJson{}
 	json.Unmarshal(resp, &jsonStruct)
 	for _, item := range jsonStruct.DataList {
-		if IsNeedFilter(item.Title, []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(item.Title, []string{"昨夜今晨"}),
 			Title:  utils.FormatTitle(item.Title),
 			Link:   item.Url,
 			Origin: "IT之家",

@@ -28,10 +28,8 @@ func xinHuaSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[5], []string{"新华"}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem[5], []string{"新华"}),
 			Title:  utils.FormatTitle(matchedItem[5]),
 			Link:   "http://www.news.cn/politics/" + matchedItem[1] + "-" + matchedItem[2] + "/" + matchedItem[3] + "/" + matchedItem[4],
 			Origin: "新华网",

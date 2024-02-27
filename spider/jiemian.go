@@ -34,10 +34,8 @@ func jiemianSpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(jiemianJsonStruct.Rst, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[3], []string{"界面"}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem[3], []string{"界面"}),
 			Title:  utils.FormatTitle(matchedItem[3]),
 			Link:   matchedItem[2],
 			Origin: "界面新闻",

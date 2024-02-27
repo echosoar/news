@@ -28,10 +28,8 @@ func stdailySpider() []NewsItem {
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
-		if IsNeedFilter(matchedItem[2], []string{}) {
-			continue
-		}
 		newsItems = append(newsItems, NewsItem{
+			Filter: IsNeedFilter(matchedItem[2], []string{}),
 			Title:  utils.FormatTitle(matchedItem[2]),
 			Link:   "http://www.stdaily.com" + matchedItem[1],
 			Origin: "科技日报",
