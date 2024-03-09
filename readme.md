@@ -5,6 +5,3 @@
 ```shell
 go run main.go
 ```
-
-### Demo
-![img](./static/demo.png)
