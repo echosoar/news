@@ -1,12 +1,644 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T09:56:49Z",
+  "generated_at": "2026-05-15T10:03:13Z",
   "summary": [
     {
-      "title": "{\n  \"date\": \"2026-05-15\",\n  \"summary\": [\n    {\n      \"title\": \"习近平同美国总统特朗普在中南海小范围会晤，中方一锤定音\",\n      \"index_ids\": [1, 101],\n      \"tags\": [\"中美关系\", \"元首会晤\", \"外交\"]\n    },\n    {\n      \"title\": \"外交部回应中美是否就稀土供应达成新谅解\",\n      \"index_ids\": [2],\n      \"tags\": [\"中美贸易\", \"稀土出口\", \"供应链\"]\n    },\n    {\n      \"title\": \"美国拒绝伊朗就结束战争提出的书面方案\",\n      \"index_ids\": [7],\n      \"tags\": [\"中东局势\", \"美伊关系\", \"军事冲突\"]\n    },\n    {\n      \"title\": \"乌克兰首都基辅遭多轮俄空袭 死亡人数增至24人\",\n      \"index_ids\": [19, 45],\n      \"tags\": [\"俄乌冲突\", \"基辅空袭\", \"军事\"]\n    },\n    {\n      \"title\": \"扎波罗热核电站遭乌军袭击 两名工作人员受伤\",\n      \"index_ids\": [44],\n      \"tags\": [\"核电站安全\", \"俄乌冲突\", \"军事打击\"]\n    },\n    {\n      \"title\": \"OpenAI CFO透露融资计划 算力荒加剧或考虑公开市场融资\",\n      \"index_ids\": [34, 73],\n      \"tags\": [\"AI融资\", \"算力短缺\", \"OpenAI\"]\n    },\n    {\n      \"title\": \"马斯克AI公司发布首个编程智能体 对标Anthropic\",\n      \"index_ids\": [46],\n      \"tags\": [\"AI智能体\", \"编程助手\", \"马斯克\"]\n    },\n    {\n      \"title\": \"苹果与OpenAI合作关系出现裂痕 未来或爆发诉讼战\",\n      \"index_ids\": [48, 95],\n      \"tags\": [\"OpenAI\", \"苹果\", \"科技竞争\"]\n    },\n    {\n      \"title\": \"AI芯片制造商Cerebras上市首日股价飙升75% 完成年内最大IPO\",\n      \"index_ids\": [47],\n      \"tags\": [\"AI芯片\", \"IPO\", \"资本市场\"]\n    },\n    {\n      \"title\": \"黄仁勋与马斯克同机抵京 算力竞赛引全球关注\",\n      \"index_ids\": [52],\n      \"tags\": [\"英伟达\", \"AI芯片\", \"中美科技\"]\n    },\n    {\n      \"title\": \"芯片出口松绑落地 联想确认成为英伟达H200中国分销商\",\n      \"index_ids\": [37],\n      \"tags\": [\"芯片出口\", \"英伟达\", \"AI供应链\"]\n    },\n    {\n      \"title\": \"中国\"九章四号\"量子计算原型机问世\",\n      \"index_ids\": [55],\n      \"tags\": [\"量子计算\", \"科技突破\", \"自主研发\"]\n    },\n    {\n      \"title\": \"阿里发布Qoder 1.0 自主接管代码生成验证交付全流程\",\n      \"index_ids\": [120],\n      \"tags\": [\"AI编程\", \"阿里巴巴\", \"开发者工具\"]\n    },\n    {\n      \"title\": \"微信接入AI功能\"元宝\" 正式上线\",\n      \"index_ids\": [60],\n      \"tags\": [\"AI应用\", \"微信\", \"大模型\"]\n    },\n    {\n      \"title\": \"英国新型军舰制造成本激增1.4亿英镑 再遇重大挫折\",\n      \"index_ids\": [64],\n      \"tags\": [\"军事工业\", \"英国海军\", \"国防预算\"]\n    },\n    {\n      \"title\": \"伊拉克新总理宣誓就职\",\n      \"index_ids\": [30],\n      \"tags\": [\"中东局势\", \"伊拉克\", \"政治更迭\"]\n    },\n    {\n      \"title\": \"所罗门群岛新总理威尔宣誓就职\",\n      \"index_ids\": [78, 105],\n      \"tags\": [\"太平洋岛国\", \"政治更迭\", \"外交\"]\n    },\n    {\n      \"title\": \"Intel与AMD CPU双双缺货数月 消息称即将再次涨价\",\n      \"index_ids\": [83],\n      \"tags\": [\"芯片供应\", \"英特尔\", \"AMD\"]\n    },\n    {\n      \"title\": \"菲律宾将调查参议院枪击事件\",\n      \"index_ids\": [63],\n      \"tags\": [\"菲律宾\", \"政治暴力\", \"国际\"]\n    },\n    {\n      \"title\": \"非洲疾控中心确认刚果（金）出现埃博拉疫情\",\n      \"index_ids\": [51],\n      \"tags\": [\"公共卫生\", \"埃博拉\", \"非洲\"]\n    }\n  ]\n}",
-      "tags": [],
-      "links": [],
+      "title": "中美元首中南海会晤结束，特朗普宣布中方同意采购200架波音飞机",
+      "tags": [
+        "中美关系",
+        "元首会晤",
+        "波音采购",
+        "外交"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/05/15/ARTIAneEsa1bFKov9P4c0nIM260515.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "CCTV",
+          "time": 1778824421
+        },
+        {
+          "link": "https://news.cctv.com/2026/05/15/ARTIwKwN9zncxplCwpDuyEa6260515.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "CCTV",
+          "time": 1778813902
+        },
+        {
+          "link": "https://international.caixin.com/2026-05-14/102444046.html",
+          "title": "习近平同美国总统特朗普参观天坛",
+          "origin": "财新",
+          "time": 1778749558000
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621631.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "中新网",
+          "time": 1778823960
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621553.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "中新网",
+          "time": 1778813880
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621551.shtml",
+          "title": "特朗普乘车抵达中南海",
+          "origin": "中新网",
+          "time": 1778813760
+        },
+        {
+          "link": "https://api3.cls.cn/share/article/2372286",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "财联社",
+          "time": 1778824222
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3772334",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "华尔街见闻",
+          "time": 1778824059
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1112395&sid=42",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "上观",
+          "time": 1778824007
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1778824134129923.html",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "新京报",
+          "time": 1778824927
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621636.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "中新网",
+          "time": 1778824320
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/05-15/1191333.shtml",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "origin": "中新网",
+          "time": 1778829240
+        },
+        {
+          "link": "https://international.caixin.com/2026-05-15/102444266.html",
+          "title": "习近平同特朗普小范围会晤 赏树品茗互动自然",
+          "origin": "财新",
+          "time": 1778825831000
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621437.shtml",
+          "title": "第一现场看中美元首会晤",
+          "origin": "中新网",
+          "time": 1778806980
+        },
+        {
+          "link": "http://www.chinanews.com//gn/shipin/2026/05-15/news1054238.shtml",
+          "title": "第一现场看中美元首会晤",
+          "origin": "中新网",
+          "time": 1778806500
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1112245&sid=42",
+          "title": "第一现场看中美元首会晤",
+          "origin": "上观",
+          "time": 1778805561
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-05-15/4393603.html",
+          "title": "特朗普来华时空军一号上菜单曝光：牛肉炒面、春卷和幸运饼干等美式中餐，美媒",
+          "origin": "每经网",
+          "time": 1778806846
+        },
+        {
+          "link": "https://www.163.com/dy/article/KSUJQJVB0556BZCN.html?f=post1603_tab_news",
+          "title": "中美会晤结束，中方一锤定音，特朗普通告全世界，美媒：美国变了",
+          "origin": "网易号",
+          "time": 1778786967
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621749.shtml",
+          "title": "特朗普称中方已同意购买200架波音飞机 外交部回应",
+          "origin": "中新网",
+          "time": 1778831100
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202605/15/AP6a06dd76e4b0b49ad1bb20d9.html",
+          "title": "特朗普称中方同意买200架波音飞机　外交部回应",
+          "origin": "文汇网",
+          "time": 1778834915
+        }
+      ],
+      "summary": "2026年5月15日上午，国家主席习近平在北京中南海同美国总统特朗普举行小范围会晤。双方就中美关系及共同关心的问题深入交换意见，确定中美建设性战略稳定关系的新定位，就保持经贸关系稳定、拓展各领域务实合作、妥善解决彼此关切达成重要共识，并同意加强国际和地区问题沟通协调。特朗普表示此次访华非常成功，双方"
+    },
+    {
+      "title": "中国成功发射泰景三号05A星等5颗卫星",
+      "tags": [
+        "卫星发射",
+        "航天科技",
+        "遥感"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/05-15/1191320.shtml",
+          "title": "一箭五星 中国成功发射泰景三号05A星等卫星",
+          "origin": "中新网",
+          "time": 1778824200
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621611.shtml",
+          "title": "一箭五星 我国成功发射泰景三号05A星等卫星",
+          "origin": "中新网",
+          "time": 1778821260
+        },
+        {
+          "link": "https://news.cctv.com/2026/05/15/ARTIn2sFAagVMYn8YxCAxP7b260515.shtml",
+          "title": "我国成功发射泰景三号05A星等5颗卫星",
+          "origin": "CCTV",
+          "time": 1778822235
+        },
+        {
+          "link": "https://www.news.cn/tech/20260515/ca33174d6001436381e39d7da94729ca/c.html",
+          "title": "我国成功发射泰景三号05A星等5颗卫星",
+          "origin": "新华网",
+          "time": 1778774400
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-15/10621610.shtml",
+          "title": "我国成功发射泰景三号05A星等5颗卫星",
+          "origin": "中新网",
+          "time": 1778821140
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4RZXVqSOgvz",
+          "title": "我国成功发射泰景三号05A星等5颗卫星",
+          "origin": "环球网",
+          "time": 1778821337
+        },
+        {
+          "link": "http://news.china.com.cn/2026-05/15/content_118496033.shtml",
+          "title": "一箭五星 我国成功发射泰景三号05A星等卫星",
+          "origin": "中国网",
+          "time": 1778833236
+        },
+        {
+          "link": "http://www.chinanews.com//shipin/cns-d/2026/05-15/news1054312.shtml",
+          "title": "一箭五星 中国成功发射泰景三号05A星等卫星",
+          "origin": "中新网",
+          "time": 1778828700
+        }
+      ],
+      "summary": "北京时间5月15日12时33分，我国在东风商业航天创新试验区使用力箭一号遥十三运载火箭，成功将泰景三号05A/05B星、天仪50星、天雁27星、吉林一号高分03D55星共5颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。此次任务是力箭一号运载火箭的第13次飞行。"
+    },
+    {
+      "title": "乌克兰基辅遭多轮俄军空袭致数十人死亡，扎波罗热核电站遭袭两名工作人员受伤",
+      "tags": [
+        "俄乌冲突",
+        "基辅空袭",
+        "核电站",
+        "军事"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/05-15/10621514.shtml",
+          "title": "乌克兰首都遭大规模空袭 至少12人死亡近60人受伤",
+          "origin": "中新网",
+          "time": 1778812800
+        },
+        {
+          "link": "https://www.news.cn/world/20260515/e291575af30041b98aca49d0a15cfd70/c.html",
+          "title": "乌克兰首都基辅遭空袭 死亡人数增至12人",
+          "origin": "新华网",
+          "time": 1778774400
+        },
+        {
+          "link": "https://news.cctv.com/2026/05/15/ARTIkPA3P4bbhIwMhmXbNDUs260515.shtml",
+          "title": "乌克兰首都基辅遭空袭 死亡人数增至12人",
+          "origin": "CCTV",
+          "time": 1778797423
+        },
+        {
+          "link": "https://news.ifeng.com/c/8t8DmhFk3oP",
+          "title": "扎波罗热核电站遭乌军袭击，两名工作人员被炸伤",
+          "origin": "凤凰网",
+          "time": 1778774760
+        },
+        {
+          "link": "https://www.cpnn.com.cn/news/gj/202605/t20260515_1887864.html",
+          "title": "扎波罗热核电站遭乌军袭击 两名工作人员受伤",
+          "origin": "能源网",
+          "time": 1778823851
+        },
+        {
+          "link": "https://api3.cls.cn/share/article/2372501",
+          "title": "乌方称俄空袭致基辅24人死亡",
+          "origin": "财联社",
+          "time": 1778833040
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4RZewsG2CCL",
+          "title": "乌方称俄空袭致基辅24人死亡",
+          "origin": "环球网",
+          "time": 1778833824
+        }
+      ],
       "summary": ""
+    },
+    {
+      "title": "SpaceX冲刺万亿IPO，马斯克制定规则确保不被罢免",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "马斯克",
+        "资本市场"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/950664.htm",
+          "title": "马斯克 SpaceX 最快下周披露 IPO 招股说明书：瞄准 6 月 8 日启动路演，有望刷新全球募资纪录",
+          "origin": "IT之家",
+          "time": 1778801258
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3772310",
+          "title": "史上最大规模IPO冲刺，报道：SpaceX IPO招股书最早可能于下周落地",
+          "origin": "华尔街见闻",
+          "time": 1778792867
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8t8SUi8V2iw",
+          "title": "SpaceX招股书据悉最快下周披露 计划6月初启动全球路演",
+          "origin": "凤凰科技",
+          "time": 1778796126
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxyimm3332732.shtml",
+          "title": "SpaceX下月冲刺万亿IPO 马斯克设规则确保不被罢免",
+          "origin": "新浪新闻",
+          "time": 1778828974
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/2026-05-15/doc-inhxxfxt6424482.shtml",
+          "title": "报道：SpaceX的IPO招股说明书最早可能于下周公布",
+          "origin": "新浪新闻",
+          "time": 1778801681
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1562512.htm",
+          "title": "SpaceX的IPO招股说明书最早可能于下周公布",
+          "origin": "cnBeta",
+          "time": 1778796960
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/7989025.html",
+          "title": "SpaceX招股说明书据悉最快下周披露",
+          "origin": "钛媒体",
+          "time": 1778801100
+        }
+      ],
+      "summary": "据 CNBC 和钛媒体等媒体2026年5月15日报道，SpaceX于当年4月秘密提交了IPO申请，计划最快于下周公开招股说明书，目标于6月8日启动路演，正式向投资者推介发行。按规定，招股说明书需在路演开始前至少15个自然日公开，但SpaceX及其顾问团队希望尽早披露，以便投资者有充足时间研究财务数据。不过具体时间仍存在变动可能。\n\n此次IPO预计将成为史上规模最大的IPO。SpaceX于2026年2月与马斯克旗下人工智能公司xAI合并，合并后实体估值达到约1.25万亿美元，目标上市融资规模约为700亿至750亿美元，远超沙特阿美2019年创纪录IPO"
+    },
+    {
+      "title": "OpenAI CFO透露公司融资计划升级，未来可能通过公开市场融资",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "人工智能",
+        "资本市场"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/950845.htm",
+          "title": "算力荒加剧：OpenAI CFO 透露融资计划、回应与苹果关系紧张",
+          "origin": "IT之家",
+          "time": 1778820217
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8t8yoTb1iMi",
+          "title": "算力荒加剧 OpenAI CFO透露融资计划、回应与苹果关系紧张",
+          "origin": "凤凰科技",
+          "time": 1778816536
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1562536.htm",
+          "title": "算力荒加剧 OpenAI CFO透露融资计划、回应与苹果关系紧张",
+          "origin": "cnBeta",
+          "time": 1778822760
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/7989612.html",
+          "title": "OpenAI首席财务官：公司或将筹集更多资金，未来可能考虑通过公开市场融资",
+          "origin": "钛媒体",
+          "time": 1778832960
+        },
+        {
+          "link": "https://api3.cls.cn/share/article/2372500",
+          "title": "OpenAI首席财务官：公司或将筹集更多资金 未来可能考虑通过公开市场融资",
+          "origin": "财联社",
+          "time": 1778832835
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "OpenAI与苹果合作关系出现裂痕，正考虑采取法律手段起诉苹果公司",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "人工智能",
+        "法律纠纷"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/950654.htm",
+          "title": "关系出现裂痕？消息称 OpenAI 考虑对苹果采取潜在法律行动",
+          "origin": "IT之家",
+          "time": 1778799110
+        },
+        {
+          "link": "https://database.caixin.com/2026-05-15/102444177.html",
+          "title": "苹果与OpenAI合作关系出现裂痕 未来可能爆发诉讼战",
+          "origin": "财新",
+          "time": 1778811676000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxxnfp9541474.shtml",
+          "title": "消息人士透露：OpenAI 正考虑采取法律手段起诉苹果公司",
+          "origin": "新浪新闻",
+          "time": 1778801737
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1562530.htm",
+          "title": "消息人士透露：OpenAI 正考虑采取法律手段起诉苹果公司",
+          "origin": "cnBeta",
+          "time": 1778822400
+        }
+      ],
+      "summary": "OpenAI 与苹果的合作关系自 2024 年启动后，逐渐出现分歧。双方曾将 ChatGPT 整合进 iOS、iPadOS、macOS 的 Siri 及图乐园等功能，并允许用户在 iPhone 设置中直接订阅 ChatGPT 会员，苹果从中抽取分成。然而 OpenAI 认为合作未达预期：ChatGPT 在苹果生态中的整合深度不足，Siri 调用时必须明确说出“ChatGPT”关键词，且回复功能相比官方应用有所限制；苹果亦未充分宣传合作成果，导致大量用户并不知晓相关功能存在。OpenAI 原本期望该合作每年可带来数十亿美元收入，实际收入"
+    },
+    {
+      "title": "所罗门群岛新总理威尔宣誓就职",
+      "tags": [
+        "所罗门群岛",
+        "太平洋岛国",
+        "国际政治"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260515/3c9fa0b147d04ff68add1fa6092aba5f/c.html",
+          "title": "所罗门群岛新总理宣誓就职",
+          "origin": "新华网",
+          "time": 1778774400
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202605/15/AP6a06c3dfe4b0b49ad1bb1cbb.html",
+          "title": "所罗门群岛新总理宣誓就职",
+          "origin": "文汇网",
+          "time": 1778830237
+        },
+        {
+          "link": "https://api3.cls.cn/share/article/2371891",
+          "title": "马修·威尔当选所罗门群岛新总理",
+          "origin": "财联社",
+          "time": 1778803486
+        },
+        {
+          "link": "https://www.news.cn/world/20260515/900e4f57baf64295b4db4c947c0a026e/c.html",
+          "title": "威尔当选所罗门群岛新总理",
+          "origin": "新华网",
+          "time": 1778774400
+        }
+      ],
+      "summary": "5月15日，所罗门群岛新总理马修·威尔在总督大卫·蒂瓦·卡普见证下宣誓就职。此前，当天早些时候总督宣布，议会以26票选举威尔击败前外长彼得·查尼尔·阿格瓦卡，当选新总理。议会共有50个席位，前副总理梅纳西·梅兰加在投票前退出竞选。威尔在就职演讲中表示，面对当前国际局势，所罗门群岛无法独善其身，新政府将通过严格守纪和审慎管理带领国家渡过难关，并警告必要的改变会带来痛苦。本月7日，议会投票通过对前总理杰里迈亚·马内莱的不信任动议，马内莱下台后其政府作为看守政府履职至新总理选出。威尔1968年出生，2008年首次当选议员并连任至今，曾任教育与人力资源开发部长，2019年竞选总理失败后担任反对党领袖。"
+    },
+    {
+      "title": "华为称鸿蒙生态今年有望突破1亿用户目标",
+      "tags": [
+        "华为",
+        "鸿蒙生态",
+        "操作系统",
+        "科技"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8t8CDXdmOj1",
+          "title": "华为与苹果、安卓三分天下，何刚：鸿蒙生态今年有望突破1亿目标",
+          "origin": "凤凰科技",
+          "time": 1778775300
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0515/1752315.shtml",
+          "title": "华为与苹果、安卓三分天下，何刚：鸿蒙生态今年有望突破1亿目标",
+          "origin": "站长之家",
+          "time": 1778809170
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122377.htm",
+          "title": "与苹果、安卓三分天下，何刚：鸿蒙生态今年有望破1亿",
+          "origin": "快科技",
+          "time": 1778775300
+        }
+      ],
+      "summary": "华为近期宣布，鸿蒙OS 6终端设备数量已突破6000万。华为终端BG首席执行官何刚表示，鸿蒙生态正迈向规模化阶段，今年有望实现1亿用户的目标，尽管前路存在挑战，但公司对此充满信心。\n\n今年3月，在家电及消费电子博览会上，华为常务董事、终端BG董事长余承东透露，鸿蒙5和鸿蒙6用户增长迅速，鸿蒙版应用持续迭代且体验提升。当时两套系统的终端数量已超4700万，日增用户达数十万，余承东预计今年冬季前设备总数将突破1亿。\n\n在生态覆盖方面，鸿蒙已落地便捷生活、文旅出行、金融支付、新闻资讯、影音娱乐、企业办公等18个核心垂直领域"
+    },
+    {
+      "title": "国内首枚高校主导研制的可回收液体火箭低空试飞成功",
+      "tags": [
+        "可回收火箭",
+        "高校科研",
+        "航天科技"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-05/15/content_517038.html",
+          "title": "国内首枚高校主导研制的面对称可回收液体火箭平台飞行试验成功",
+          "origin": "科技日报",
+          "time": 1778828827
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-05/15/content_516976.html",
+          "title": "国内首枚高校主导研制的面对称可回收液体火箭低空试飞成功",
+          "origin": "科技日报",
+          "time": 1778817954
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122395.htm",
+          "title": "国内首枚高校主导可回收液体火箭试飞成功，攻克垂直起降",
+          "origin": "快科技",
+          "time": 1778799000
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "伊拉克新总理宣誓就职",
+      "tags": [
+        "伊拉克",
+        "政治局势",
+        "中东",
+        "国际"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/05-15/news1054277.shtml",
+          "title": "伊拉克新总理宣誓就职",
+          "origin": "中新网",
+          "time": 1778814600
+        },
+        {
+          "link": "https://www.news.cn/world/20260515/6c5f1b0979d14cd0a77f774dc69e62a5/c.html",
+          "title": "伊拉克新总理宣誓就职",
+          "origin": "新华网",
+          "time": 1778774400
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202605/15/AP6a06c38ee4b0b49ad1bb1cb8.html",
+          "title": "伊拉克新总理宣誓就职",
+          "origin": "文汇网",
+          "time": 1778830237
+        }
+      ],
+      "summary": "伊拉克新任总理扎伊迪于2026年5月14日在国民议会宣誓就职。同日，议会投票通过了扎伊迪提交的14名内阁部长人选，14名部长随后也完成宣誓。根据伊拉克宪法，候任总理须在30天内提名内阁并获议会批准，扎伊迪在4月27日由新任总统尼扎尔·阿米迪授权组阁。内阁名单中，外交部长由福阿德·侯赛因"
+    },
+    {
+      "title": "英伟达芯片对华出口松绑落地，联想确认成为H200中国分销商",
+      "tags": [
+        "英伟达",
+        "芯片出口",
+        "联想",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/roll/2026-05-15/doc-inhxxnfr6336599.shtml",
+          "title": "英伟达H200松绑落地，联想确认成为中国分销商 美媒称10家中国企业采购英伟达H200",
+          "origin": "新浪新闻",
+          "time": 1778802980
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122382.htm",
+          "title": "芯片松绑落地，联想确认成为英伟达H200中国分销商",
+          "origin": "快科技",
+          "time": 1778776080
+        },
+        {
+          "link": "https://kite.kagi.com/0d801b3c-2973-4e0e-9dbc-7e057ab33100/china/8",
+          "title": "路透：美国批准10家中企购买英伟达H200芯片",
+          "origin": "kagi",
+          "time": 1778820580
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "世界摔跤联合会即日起取消俄白两国运动员参赛限制",
+      "tags": [
+        "国际体育",
+        "俄罗斯",
+        "白俄罗斯",
+        "参赛禁令"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4RZgrhO8vn6",
+          "title": "世界摔跤联合会：即日起取消俄白两国摔跤运动员参赛限制",
+          "origin": "环球网",
+          "time": 1778837042
+        },
+        {
+          "link": "https://api3.cls.cn/share/article/2372590",
+          "title": "世界摔跤联合会：即日起取消俄白两国摔跤运动员参赛限制",
+          "origin": "财联社",
+          "time": 1778836396
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/7989756.html",
+          "title": "世界摔跤联合会：即日起取消俄白两国摔跤运动员参赛限制",
+          "origin": "钛媒体",
+          "time": 1778838840
+        }
+      ],
+      "summary": "5月15日，世界摔跤联合会发布声明，宣布即日起取消对俄罗斯和白俄罗斯摔跤运动员的参赛限制。未来两国的摔跤选手可以以本国身份参加联合会举办的各项赛事，并在比赛中使用本国国旗、国家代码及国歌，参与颁奖仪式等官方活动。此举意味着俄白运动员将恢复在国际摔跤赛事中的正常参赛资格，此前因国际体育组织对两国的制裁而受到的限制至此解除。世界摔跤联合会表示，相关调整将立即生效，并适用于即将举行的各项国际摔跤赛事。"
+    },
+    {
+      "title": "阿里发布Qoder 1.0，自主接管代码生成验证和交付全流程",
+      "tags": [
+        "阿里巴巴",
+        "AI编程",
+        "软件开发",
+        "科技"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/05/418027.html",
+          "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+          "origin": "量子位",
+          "time": 1778830598
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122575.htm",
+          "title": "阿里发布Qoder 1.0：自主接管代码生成、验证和交付全流程",
+          "origin": "快科技",
+          "time": 1778834940
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0515/1752483.shtml",
+          "title": "阿里发布Qoder 1.0：自主接管代码生成、验证和交付全流程",
+          "origin": "站长之家",
+          "time": 1778836709
+        }
+      ],
+      "summary": "阿里巴巴近期正式推出了Qoder 1.0版本，标志着其从AI集成开发环境向智能体自主开发工作台的全面升级。该平台的核心特点是能够自主完成代码生成、验证与交付的全部流程，用户只需清晰描述需求，Agent团队即可自动执行后续所有步骤并输出可用结果。这一模式大幅降低了软件开发的技术门槛，使得非专业开发者也能高效参与项目构建。\n\nQoder 1.0通过将重复性开发任务自动化，显著提升了整体工作效率。与传统开发方式相比，它能够快速理解用户意图并生成高质量代码，减少了人工编写和调试的时间成本。同时，该平台具备良好的跨平台兼容性，支持Windows、macOS和Linux三大主流操作系统"
+    },
+    {
+      "title": "俄乌双方进行阵亡军人遗体交换",
+      "tags": [
+        "俄乌冲突",
+        "遗体交换",
+        "军事"
+      ],
+      "links": [
+        {
+          "link": "https://api3.cls.cn/share/article/2372557",
+          "title": "俄乌双方进行阵亡军人遗体交换",
+          "origin": "财联社",
+          "time": 1778835072
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4RZgOfFEzn1",
+          "title": "俄乌双方进行阵亡军人遗体交换",
+          "origin": "环球网",
+          "time": 1778836256
+        }
+      ],
+      "summary": "当地时间5月15日，据相关消息人士透露，俄罗斯与乌克兰正在开展阵亡军人遗体的交换工作。根据已公布的信息，乌方将接收526具俄方阵亡军人的遗体，俄方则将接收41具乌方阵亡军人的遗体。这是冲突持续期间双方又一次就遗返阵亡军人遗体进行的人道主义合作，旨在让阵亡者遗骸得以归还各自国家，便于家属进行安葬与悼念。该行动的具体细节，包括交接地点、时间安排以及后续的运输流程，尚未完全公开，但双方均表示将按照此前已达成的协议有序推进。此次遗体交换再次体现了在激烈军事对抗背景下，双方在人道议题上仍保持一定的沟通与协调。"
+    },
+    {
+      "title": "马斯克xAI公司发布首个专业编程智能体，对标Anthropic",
+      "tags": [
+        "人工智能",
+        "xAI",
+        "编程智能体",
+        "科技竞争"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8t8byn2lHA0",
+          "title": "马斯克AI公司进军专业编程：发布首个智能体 对标Anthropic",
+          "origin": "凤凰科技",
+          "time": 1778799040
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1562544.htm",
+          "title": "马斯克AI公司进军专业编程：发布首个智能体 对标Anthropic",
+          "origin": "cnBeta",
+          "time": 1778824200
+        }
+      ],
+      "summary": "xAI于2026年5月15日推出首个AI编程智能体“Grok Build”，目标直指Anthropic旗下的Claude，意在简化软件开发流程。该模型尚处早期测试阶段，仅向付费订阅用户开放，标志着xAI首次进入专业编程领域。\n\n编程被视为人工智能领域利润丰厚的赛道，马斯克公开承认xAI在这一方向上已落后于竞争对手。xAI总裁、同时担任Starlink高管的迈克尔·尼科尔斯要求团队在各任务上对标Claude的表现，并将其列为近期重点目标。\n\n为加速布局，xAI上月与AI编程公司Cursor达成合作协议，双方将在编程工具与计算资源方面协同。Cursor工程师已参与xAI的相关工作。与此同时，xAI位于"
     }
   ]
 }
