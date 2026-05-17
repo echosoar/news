@@ -154,7 +154,7 @@
 <body>
   <main class="container">
     <section class="hero">
-      <h1>DAILY HEAT</h1>
+      <h1>DAILY HOTSPOTS</h1>
       <p>每天的热点提炼：标题、标签与摘要，一页纵览。</p>
       <div class="query" id="query-date"></div>
     </section>
@@ -182,14 +182,27 @@
       return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
     }
 
+    function parseDate(value) {
+      const [year, month, day] = value.split("-").map(Number);
+      const date = new Date(year, month - 1, day);
+      if (
+        date.getFullYear() !== year ||
+        date.getMonth() !== month - 1 ||
+        date.getDate() !== day
+      ) {
+        return null;
+      }
+      return date;
+    }
+
     function isValidDateString(value) {
       if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
-      const date = new Date(value + "T00:00:00");
-      return formatDate(date) === value;
+      return !!parseDate(value);
     }
 
     function previousDate(dateString) {
-      const date = new Date(dateString + "T00:00:00");
+      const date = parseDate(dateString);
+      if (!date) return dateString;
       date.setDate(date.getDate() - 1);
       return formatDate(date);
     }
@@ -256,7 +269,7 @@
       statusEl.textContent = "加载中...";
 
       try {
-        const res = await fetch(`${dateString}.json`, { cache: "no-store" });
+        const res = await fetch(`${dateString}.json`);
         if (!res.ok) {
           renderEmpty(dateString, "本日暂无数据");
           return;
