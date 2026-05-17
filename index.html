@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日热点 · News Pulse</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b1020;
+      --surface: rgba(16, 25, 51, 0.7);
+      --surface-border: rgba(146, 173, 255, 0.25);
+      --text: #f5f7ff;
+      --muted: #a9b5dc;
+      --accent: #86f7ff;
+      --accent-2: #ffca86;
+      --tag-bg: rgba(134, 247, 255, 0.16);
+      --tag-text: #c6fbff;
+      --card-shadow: 0 24px 60px rgba(6, 10, 23, 0.55);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: "Noto Serif SC", serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 15% 20%, #1a2d63 0%, transparent 35%),
+        radial-gradient(circle at 85% 10%, #3a1d58 0%, transparent 30%),
+        radial-gradient(circle at 50% 85%, #1f4f5d 0%, transparent 40%),
+        var(--bg);
+      background-attachment: fixed;
+      line-height: 1.7;
+    }
+
+    .container {
+      width: min(1080px, calc(100% - 2rem));
+      margin: 2.5rem auto 5rem;
+    }
+
+    .hero {
+      border: 1px solid var(--surface-border);
+      border-radius: 22px;
+      padding: 2rem 2rem 1.2rem;
+      background: linear-gradient(135deg, rgba(31, 43, 81, 0.92), rgba(11, 17, 35, 0.88));
+      box-shadow: var(--card-shadow);
+      backdrop-filter: blur(12px);
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-family: "Cormorant Garamond", serif;
+      font-size: clamp(2.2rem, 4vw, 3.8rem);
+      letter-spacing: 0.04em;
+      font-weight: 700;
+    }
+
+    .hero p {
+      margin: 0.6rem 0 0;
+      color: var(--muted);
+    }
+
+    .query {
+      margin-top: 0.9rem;
+      color: #dbe5ff;
+      font-size: 0.95rem;
+    }
+
+    .day {
+      margin-top: 1.5rem;
+      padding: 1.4rem 1.2rem 0.6rem;
+      border-radius: 18px;
+      border: 1px solid var(--surface-border);
+      background: var(--surface);
+      box-shadow: var(--card-shadow);
+      backdrop-filter: blur(8px);
+    }
+
+    .day-title {
+      margin: 0 0 1rem;
+      font-family: "Cormorant Garamond", serif;
+      font-size: clamp(1.55rem, 2.8vw, 2rem);
+      letter-spacing: 0.08em;
+      color: var(--accent-2);
+    }
+
+    .card {
+      margin: 0 0 1rem;
+      padding: 1.1rem 1.05rem 1rem;
+      border-radius: 14px;
+      border: 1px solid rgba(173, 193, 255, 0.2);
+      background: linear-gradient(165deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
+      transform: translateY(0);
+      transition: transform .3s ease, border-color .3s ease, background .3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(134, 247, 255, 0.45);
+      background: linear-gradient(165deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.03));
+    }
+
+    .title {
+      margin: 0 0 .65rem;
+      font-size: 1.08rem;
+      font-weight: 700;
+      color: #f6f9ff;
+    }
+
+    .summary {
+      margin: .72rem 0 0;
+      color: #d8e0fb;
+      font-size: .98rem;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .45rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: .2rem .55rem;
+      border-radius: 999px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      font-size: .8rem;
+      border: 1px solid rgba(134, 247, 255, 0.22);
+      white-space: nowrap;
+    }
+
+    .empty {
+      margin: 0 0 1rem;
+      padding: 1rem;
+      border-radius: 12px;
+      border: 1px dashed rgba(255, 202, 134, 0.38);
+      color: #f8d9b2;
+      background: rgba(124, 77, 20, 0.18);
+    }
+
+    .status {
+      margin: 1rem 0 0;
+      color: var(--muted);
+      text-align: center;
+      min-height: 1.4rem;
+      font-size: .92rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <section class="hero">
+      <h1>DAILY HEAT</h1>
+      <p>每天的热点提炼：标题、标签与摘要，一页纵览。</p>
+      <div class="query" id="query-date"></div>
+    </section>
+    <section id="content"></section>
+    <div class="status" id="status"></div>
+    <div id="sentinel" aria-hidden="true"></div>
+  </main>
+
+  <script>
+    const contentEl = document.getElementById("content");
+    const statusEl = document.getElementById("status");
+    const queryDateEl = document.getElementById("query-date");
+    const sentinel = document.getElementById("sentinel");
+    const loadedDays = new Set();
+    let loading = false;
+    let nextDate = getInitialDate();
+
+    queryDateEl.textContent = `起始日期：${nextDate}`;
+
+    function pad(v) {
+      return String(v).padStart(2, "0");
+    }
+
+    function formatDate(date) {
+      return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+    }
+
+    function isValidDateString(value) {
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
+      const date = new Date(value + "T00:00:00");
+      return formatDate(date) === value;
+    }
+
+    function previousDate(dateString) {
+      const date = new Date(dateString + "T00:00:00");
+      date.setDate(date.getDate() - 1);
+      return formatDate(date);
+    }
+
+    function getInitialDate() {
+      const input = new URLSearchParams(window.location.search).get("date");
+      if (input && isValidDateString(input)) {
+        return input;
+      }
+      return formatDate(new Date());
+    }
+
+    function renderDayTitle(date) {
+      const day = document.createElement("section");
+      day.className = "day";
+      const title = document.createElement("h2");
+      title.className = "day-title";
+      title.textContent = date;
+      day.appendChild(title);
+      contentEl.appendChild(day);
+      return day;
+    }
+
+    function renderCard(item, dayEl) {
+      const card = document.createElement("article");
+      card.className = "card";
+
+      const title = document.createElement("h3");
+      title.className = "title";
+      title.textContent = item.title || "未命名热点";
+      card.appendChild(title);
+
+      const tags = document.createElement("div");
+      tags.className = "tags";
+      const tagList = Array.isArray(item.tags) && item.tags.length ? item.tags : ["未分类"];
+      tagList.forEach(tag => {
+        const node = document.createElement("span");
+        node.className = "tag";
+        node.textContent = tag;
+        tags.appendChild(node);
+      });
+      card.appendChild(tags);
+
+      const summary = document.createElement("p");
+      summary.className = "summary";
+      summary.textContent = item.summary || "暂无摘要";
+      card.appendChild(summary);
+
+      dayEl.appendChild(card);
+    }
+
+    function renderEmpty(date, text) {
+      const dayEl = renderDayTitle(date);
+      const empty = document.createElement("div");
+      empty.className = "empty";
+      empty.textContent = text;
+      dayEl.appendChild(empty);
+    }
+
+    async function loadDate(dateString) {
+      if (loadedDays.has(dateString)) return;
+      loadedDays.add(dateString);
+      loading = true;
+      statusEl.textContent = "加载中...";
+
+      try {
+        const res = await fetch(`${dateString}.json`, { cache: "no-store" });
+        if (!res.ok) {
+          renderEmpty(dateString, "本日暂无数据");
+          return;
+        }
+        const data = await res.json();
+        const summaries = Array.isArray(data.summary) ? data.summary : [];
+        if (!summaries.length) {
+          renderEmpty(dateString, "本日暂无数据");
+          return;
+        }
+        const dayEl = renderDayTitle(data.date || dateString);
+        summaries.forEach(item => renderCard(item, dayEl));
+      } catch (error) {
+        renderEmpty(dateString, "本日暂无数据");
+      } finally {
+        loading = false;
+        statusEl.textContent = "";
+      }
+    }
+
+    async function loadNext() {
+      if (loading) return;
+      const current = nextDate;
+      nextDate = previousDate(nextDate);
+      await loadDate(current);
+    }
+
+    const observer = new IntersectionObserver(entries => {
+      if (entries.some(entry => entry.isIntersecting)) {
+        loadNext();
+      }
+    }, { rootMargin: "220px 0px" });
+
+    observer.observe(sentinel);
+    loadNext();
+  </script>
+</body>
+</html>
