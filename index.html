@@ -184,7 +184,7 @@
 
     function parseDate(value) {
       const [year, month, day] = value.split("-").map(Number);
-      const date = new Date(year, month - 1, day);
+      const date = new Date(year, month - 1, day, 12, 0, 0);
       if (
         date.getFullYear() !== year ||
         date.getMonth() !== month - 1 ||
@@ -212,7 +212,7 @@
       if (input && isValidDateString(input)) {
         return input;
       }
-      return formatDate(new Date());
+      return new Date().toISOString().slice(0, 10);
     }
 
     function renderDayTitle(date) {
