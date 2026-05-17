@@ -156,7 +156,7 @@
     <section class="hero">
       <h1>DAILY HOTSPOTS</h1>
       <p>每天的热点提炼：标题、标签与摘要，一页纵览。</p>
-      <div class="query" id="query-date"></div>
+      <p class="query" id="query-date"></p>
     </section>
     <section id="content"></section>
     <div class="status" id="status"></div>
@@ -265,8 +265,6 @@
     async function loadDate(dateString) {
       if (loadedDays.has(dateString)) return;
       loadedDays.add(dateString);
-      loading = true;
-      statusEl.textContent = "加载中...";
 
       try {
         const res = await fetch(`${dateString}.json`);
@@ -284,17 +282,21 @@
         summaries.forEach(item => renderCard(item, dayEl));
       } catch (error) {
         renderEmpty(dateString, "本日暂无数据");
-      } finally {
-        loading = false;
-        statusEl.textContent = "";
       }
     }
 
     async function loadNext() {
       if (loading) return;
+      loading = true;
+      statusEl.textContent = "加载中...";
       const current = nextDate;
       nextDate = previousDate(nextDate);
-      await loadDate(current);
+      try {
+        await loadDate(current);
+      } finally {
+        loading = false;
+        statusEl.textContent = "";
+      }
     }
 
     const observer = new IntersectionObserver(entries => {
