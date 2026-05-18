@@ -2,8 +2,8 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>每日热点 · News Pulse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0" />
+  <title>每日热点播报 · News Pulse</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -306,8 +306,10 @@
     const VOICE_PROVIDER_STORAGE_KEY = "news.voice.provider";
     const VOICE_TOKEN_STORAGE_KEY = "news.voice.token";
     const LOOP_CURRENT_DAY = true;
+    const MAX_CONSECUTIVE_EMPTY_DAYS = 3;
     const loadedDays = new Set();
     let loading = false;
+    let loadStoppedByEmptyDays = false;
     let nextDate = getInitialDate();
     let currentAudio = null;
     let currentUtterance = null;
@@ -394,7 +396,8 @@
 
       const summary = document.createElement("p");
       summary.className = "summary";
-      summary.textContent = item.summary || "暂无摘要";
+      const normalizedSummary = normalizeSummaryText(item.summary || "");
+      summary.textContent = normalizedSummary || "暂无摘要";
       card.appendChild(summary);
 
       dayEl.appendChild(card);
@@ -452,19 +455,52 @@
       card.scrollIntoView({ behavior: "smooth", block: "center" });
     }
 
+    function normalizeSummaryText(summary) {
+      const text = (summary || "").trim();
+      if (!text) return "";
+      if (text.endsWith("。")) return text;
+      const lastChinesePeriodIndex = text.lastIndexOf("。");
+      if (lastChinesePeriodIndex === -1) {
+        return text;
+      }
+      return text.slice(0, lastChinesePeriodIndex + 1);
+    }
+
     function collectSpeakableItems() {
-      const currentDayEl = contentEl.querySelector(".day");
-      const cards = currentDayEl
-        ? Array.from(currentDayEl.querySelectorAll(".card"))
+      const dayEls = Array.from(contentEl.querySelectorAll(".day"));
+      const firstPlayableDayEl = dayEls.find(dayEl => dayEl.querySelector(".card"));
+      const cards = firstPlayableDayEl
+        ? Array.from(firstPlayableDayEl.querySelectorAll(".card"))
         : Array.from(contentEl.querySelectorAll(".card"));
       return cards
         .map(card => {
           const title = card.querySelector(".title")?.textContent?.trim() || "";
-          const summary = card.querySelector(".summary")?.textContent?.trim() || "";
+          const summaryRaw = card.querySelector(".summary")?.textContent?.trim() || "";
+          const summary = normalizeSummaryText(summaryRaw);
           const text = [title, summary].filter(Boolean).join("。 ");
           return { card, text };
         })
         .filter(item => item.text);
+    }
+
+    async function ensureSpeakableItems() {
+      let items = collectSpeakableItems();
+      if (items.length) return items;
+
+      updateVoiceState("正在查找可播放日期");
+      while (!loadStoppedByEmptyDays) {
+        if (loading) {
+          await new Promise(resolve => setTimeout(resolve, 120));
+        } else {
+          await loadNext();
+        }
+        items = collectSpeakableItems();
+        if (items.length) {
+          return items;
+        }
+      }
+
+      return [];
     }
 
     function clearSpeechEngines() {
@@ -517,7 +553,10 @@
       if (providerEl.value === "browser") {
         speechSynthesis.resume();
       } else if (currentAudio) {
-        currentAudio.play().catch(() => {});
+        const playResult = currentAudio.play();
+        if (playResult && typeof playResult.catch === "function") {
+          playResult.catch(() => {});
+        }
       }
       playbackPaused = false;
       updatePlayButton();
@@ -629,22 +668,83 @@
     function playMimoAudioUrl(url) {
       return new Promise((resolve, reject) => {
         const audio = new Audio(url);
+        audio.preload = "auto";
+        audio.muted = false;
+        audio.volume = 1;
+        audio.setAttribute("playsinline", "");
         currentAudio = audio;
-        audio.onended = () => {
+        let started = false;
+        let settled = false;
+
+        const settleReject = (error) => {
+          if (settled) return;
+          settled = true;
+          URL.revokeObjectURL(url);
+          currentAudio = null;
+          reject(error);
+        };
+
+        const settleResolve = () => {
+          if (settled) return;
+          settled = true;
           URL.revokeObjectURL(url);
           currentAudio = null;
           resolve();
         };
-        audio.onerror = () => {
-          URL.revokeObjectURL(url);
-          currentAudio = null;
-          reject(new Error("音频播放失败"));
+
+        const tryPlay = () => {
+          try {
+            return audio.play();
+          } catch (error) {
+            settleReject(error instanceof Error ? error : new Error("音频播放失败"));
+            return null;
+          }
         };
-        audio.play().catch(error => {
-          URL.revokeObjectURL(url);
-          currentAudio = null;
-          reject(error);
-        });
+
+        const startTimeout = setTimeout(() => {
+          if (!started) {
+            settleReject(new Error("音频未开始播放，可能受设备自动播放策略限制"));
+          }
+        }, 3500);
+
+        audio.onplaying = () => {
+          started = true;
+          clearTimeout(startTimeout);
+        };
+
+        audio.onplay = () => {
+          started = true;
+          clearTimeout(startTimeout);
+        };
+
+        audio.oncanplay = () => {
+          if (!started && !settled) {
+            const retryResult = tryPlay();
+            if (retryResult && typeof retryResult.catch === "function") {
+              retryResult.catch(error => {
+                clearTimeout(startTimeout);
+                settleReject(error);
+              });
+            }
+          }
+        };
+
+        audio.onended = () => {
+          clearTimeout(startTimeout);
+          settleResolve();
+        };
+        audio.onerror = () => {
+          clearTimeout(startTimeout);
+          settleReject(new Error("音频播放失败"));
+        };
+
+        const playResult = tryPlay();
+        if (playResult && typeof playResult.then === "function") {
+          playResult.catch(error => {
+            clearTimeout(startTimeout);
+            settleReject(error);
+          });
+        }
       });
     }
 
@@ -662,7 +762,7 @@
     }
 
     async function startPlayback() {
-      const items = collectSpeakableItems();
+      const items = await ensureSpeakableItems();
       if (!items.length) {
         updateVoiceState("暂无可播放内容");
         return;
@@ -717,39 +817,55 @@
     }
 
     async function loadDate(dateString) {
-      if (loadedDays.has(dateString)) return;
+      if (loadedDays.has(dateString)) return false;
       loadedDays.add(dateString);
 
       try {
         const res = await fetch(`${dateString}.json`);
         if (!res.ok) {
-          renderEmpty(dateString, "本日暂无数据");
-          return;
+          renderEmpty(dateString, "本日数据尚在统计中");
+          return false;
         }
         const data = await res.json();
         const summaries = Array.isArray(data.summary) ? data.summary : [];
         if (!summaries.length) {
-          renderEmpty(dateString, "本日暂无数据");
-          return;
+          renderEmpty(dateString, "本日数据尚在统计中");
+          return false;
         }
         const dayEl = renderDayTitle(data.date || dateString);
         summaries.forEach(item => renderCard(item, dayEl));
+        return true;
       } catch (error) {
-        renderEmpty(dateString, "本日暂无数据");
+        renderEmpty(dateString, "本日数据尚在统计中");
+        return false;
       }
     }
 
     async function loadNext() {
-      if (loading) return;
+      if (loading || loadStoppedByEmptyDays) return;
       loading = true;
       statusEl.textContent = "加载中...";
-      const current = nextDate;
-      nextDate = previousDate(nextDate);
       try {
-        await loadDate(current);
+        let consecutiveEmptyDays = 0;
+        while (consecutiveEmptyDays < MAX_CONSECUTIVE_EMPTY_DAYS) {
+          const current = nextDate;
+          nextDate = previousDate(nextDate);
+          const hasData = await loadDate(current);
+          if (hasData) {
+            return;
+          }
+          consecutiveEmptyDays += 1;
+        }
+
+        loadStoppedByEmptyDays = true;
+        observer.unobserve(sentinel);
+        statusEl.textContent = `前${MAX_CONSECUTIVE_EMPTY_DAYS}日连续暂无数据，已停止自动加载`;
+        return;
       } finally {
         loading = false;
-        statusEl.textContent = "";
+        if (!loadStoppedByEmptyDays) {
+          statusEl.textContent = "";
+        }
       }
     }
 
