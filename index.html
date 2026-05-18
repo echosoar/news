@@ -42,6 +42,9 @@
     }
 
     .hero {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       border: 1px solid var(--surface-border);
       border-radius: 22px;
       padding: 1.2rem;
@@ -58,9 +61,8 @@
       font-weight: 700;
     }
 
-    .hero p {
-      margin: 0.6rem 0 0;
-      color: var(--muted);
+    .hero a {
+        color: var(--muted);
     }
 
     .query {
@@ -269,6 +271,7 @@
   <main class="container">
     <section class="hero">
       <h2>每日热点语音播报</h2>
+      <a href="https://x.com/codersoar">x@codersoar</a>
     </section>
     <section id="content"></section>
     <div class="status" id="status"></div>
