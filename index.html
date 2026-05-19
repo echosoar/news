@@ -62,6 +62,16 @@
       font-weight: 700;
     }
 
+    .site-title-link {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .site-title-link:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.2em;
+    }
+
     .hero a {
         color: var(--muted);
     }
@@ -88,6 +98,16 @@
       font-size: clamp(1.55rem, 2.8vw, 2rem);
       letter-spacing: 0.08em;
       color: var(--accent-2);
+    }
+
+    .day-title-link {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .day-title-link:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.2em;
     }
 
     .card {
@@ -271,7 +291,7 @@
 <body>
   <main class="container">
     <section class="hero">
-      <h2>每日热点语音播报</h2>
+      <h2><a class="site-title-link" href="./">每日热点语音播报</a></h2>
       <a href="https://x.com/codersoar">x@codersoar</a>
     </section>
     <section id="content"></section>
@@ -372,7 +392,11 @@
       day.className = "day";
       const title = document.createElement("h2");
       title.className = "day-title";
-      title.textContent = date;
+      const titleLink = document.createElement("a");
+      titleLink.className = "day-title-link";
+      titleLink.href = `?date=${encodeURIComponent(date)}`;
+      titleLink.textContent = date;
+      title.appendChild(titleLink);
       day.appendChild(title);
       contentEl.appendChild(day);
       return day;
@@ -398,11 +422,13 @@
       });
       card.appendChild(tags);
 
-      const summary = document.createElement("p");
-      summary.className = "summary";
       const normalizedSummary = normalizeSummaryText(item.summary || "");
-      summary.textContent = normalizedSummary || "暂无摘要";
-      card.appendChild(summary);
+      if (normalizedSummary) {
+        const summary = document.createElement("p");
+        summary.className = "summary";
+        summary.textContent = normalizedSummary;
+        card.appendChild(summary);
+      }
 
       dayEl.appendChild(card);
     }
@@ -462,12 +488,22 @@
     function normalizeSummaryText(summary) {
       const text = (summary || "").trim();
       if (!text) return "";
+      if (isMeaninglessSummaryText(text)) return "";
       if (text.endsWith("。")) return text;
       const lastChinesePeriodIndex = text.lastIndexOf("。");
       if (lastChinesePeriodIndex === -1) {
         return text;
       }
       return text.slice(0, lastChinesePeriodIndex + 1);
+    }
+
+    function isMeaninglessSummaryText(text) {
+      const compactText = text.replace(/[\s，。！？、,.!?；;：:“”"'‘’【】（）()《》<>]/g, "");
+      if (!compactText) return true;
+      if (compactText.includes("你好") || compactText.includes("您好")) {
+        return true;
+      }
+      return false;
     }
 
     function collectSpeakableItems() {
