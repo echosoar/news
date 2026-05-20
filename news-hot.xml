@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>News Hot</title>
+    <link>https://github.com/echosoar/news</link>
+    <description>Hot news items with at least 3 source links</description>
+    <item>
+      <title>时隔22年 中国U17男足再次晋级亚洲杯决赛</title>
+      <link>http://www.chinanews.com//ty/2026/05-20/10624643.shtml</link>
+      <pubDate>Tue, 19 May 2026 22:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>桂林一蛋糕店借地震灾情进行商业营销 官方：已立案调查</title>
+      <link>https://news.ifeng.com/c/8tGyHTRsNQJ</link>
+      <pubDate>Tue, 19 May 2026 16:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>湖南石门强降雨致5死11失联</title>
+      <link>https://3g.china.com/act/news/10000169/20260520/49503278.html</link>
+      <pubDate>Tue, 19 May 2026 23:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市早苗访韩，当地民众举行集会谴责高市威胁东亚和平</title>
+      <link>https://www.huanqiu.com/article/4RdHgI9mPZi</link>
+      <pubDate>Tue, 19 May 2026 17:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家安全部曝光：网速变慢 元凶竟是间谍利用路由器窃密</title>
+      <link>https://news.cctv.com/2026/05/20/ARTIg6mMfU97K2tUtDEWJc4R260520.shtml</link>
+      <pubDate>Tue, 19 May 2026 23:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国代表呼吁避免海湾局势进一步升级</title>
+      <link>https://www.news.cn/world/20260520/b0ca977180ce4d2883116455f3bf2d54/c.html</link>
+      <pubDate>Tue, 19 May 2026 16:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
