@@ -1,0 +1,171 @@
+name: Generate Tag Index
+
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-tag-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate tags.json and per-tag summary files
+        run: |
+          python - <<'PY'
+          import copy
+          import datetime
+          import json
+          import re
+          from pathlib import Path
+
+          ROOT = Path(".")
+          TAGS_DIR = ROOT / "tags"
+          DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
+          now = datetime.datetime.now(tz=datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+          TAGS_DIR.mkdir(exist_ok=True)
+
+          existing_tag_manifest = ROOT / "tags.json"
+          stale_files = set()
+          if existing_tag_manifest.exists():
+              try:
+                  old_data = json.loads(existing_tag_manifest.read_text(encoding="utf-8"))
+                  for item in old_data.get("tags", []):
+                      file_name = item.get("file")
+                      if isinstance(file_name, str) and file_name.endswith(".json"):
+                          stale_files.add(file_name)
+              except Exception:
+                  pass
+
+          tag_to_entries = {}
+          generated_files = set()
+
+          for file_path in sorted(ROOT.glob("*.json"), reverse=True):
+              if not DATE_FILE_RE.match(file_path.name):
+                  continue
+              try:
+                  payload = json.loads(file_path.read_text(encoding="utf-8"))
+              except Exception:
+                  continue
+
+              date_value = payload.get("date")
+              summaries = payload.get("summary")
+              if not isinstance(summaries, list):
+                  continue
+
+              for item in summaries:
+                  if not isinstance(item, dict):
+                      continue
+                  tags = item.get("tags")
+                  tag_list = []
+                  if isinstance(tags, list):
+                      for raw_tag in tags:
+                          normalized_tag = str(raw_tag).strip()
+                          if normalized_tag:
+                              tag_list.append(normalized_tag)
+                  if not tag_list:
+                      tag_list = ["未分类"]
+
+                  sort_time = 0
+                  link_times = []
+                  links = item.get("links")
+                  if isinstance(links, list):
+                      for link in links:
+                          if isinstance(link, dict):
+                              value = link.get("time")
+                              if isinstance(value, int):
+                                  link_times.append(value)
+                  if link_times:
+                      sort_time = max(link_times)
+                  elif isinstance(date_value, str):
+                      try:
+                          dt = datetime.datetime.strptime(date_value, "%Y-%m-%d")
+                          sort_time = int(dt.replace(tzinfo=datetime.timezone.utc).timestamp())
+                      except Exception:
+                          sort_time = 0
+
+                  normalized = copy.deepcopy(item)
+                  normalized["date"] = date_value
+                  normalized["_sort_time"] = sort_time
+
+                  for tag in tag_list:
+                      tag_to_entries.setdefault(tag, []).append(copy.deepcopy(normalized))
+
+          tag_items = []
+          for tag, entries in tag_to_entries.items():
+              entries.sort(key=lambda x: x.get("_sort_time", 0), reverse=True)
+              for item in entries:
+                  item.pop("_sort_time", None)
+
+              file_name = f"tags/{tag}.json"
+              generated_files.add(file_name)
+              target = ROOT / file_name
+              target.write_text(
+                  json.dumps(
+                      {
+                          "tag": tag,
+                          "generated_at": now,
+                          "summary": entries,
+                      },
+                      ensure_ascii=False,
+                      indent=2,
+                  )
+                  + "\n",
+                  encoding="utf-8",
+              )
+              tag_items.append(
+                  {
+                      "tag": tag,
+                      "count": len(entries),
+                      "file": file_name,
+                  }
+              )
+
+          for stale in stale_files - generated_files:
+              stale_path = ROOT / stale
+              if stale_path.exists():
+                  stale_path.unlink()
+
+          tag_items.sort(key=lambda x: (-x["count"], x["tag"]))
+          (ROOT / "tags.json").write_text(
+              json.dumps(
+                  {
+                      "generated_at": now,
+                      "tags": tag_items,
+                  },
+                  ensure_ascii=False,
+                  indent=2,
+              )
+              + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: regenerate tag index"
+          git push
