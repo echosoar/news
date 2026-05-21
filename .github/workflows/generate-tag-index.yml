@@ -37,7 +37,7 @@ jobs:
 
           ROOT = Path(".")
           DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
-          now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+          now = datetime.datetime.now(tz=datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
           existing_tag_manifest = ROOT / "tags.json"
           stale_files = set()
@@ -71,7 +71,12 @@ jobs:
                   if not isinstance(item, dict):
                       continue
                   tags = item.get("tags")
-                  tag_list = [str(t).strip() for t in tags if str(t).strip()] if isinstance(tags, list) else []
+                  tag_list = []
+                  if isinstance(tags, list):
+                      for raw_tag in tags:
+                          normalized_tag = str(raw_tag).strip()
+                          if normalized_tag:
+                              tag_list.append(normalized_tag)
                   if not tag_list:
                       tag_list = ["未分类"]
 

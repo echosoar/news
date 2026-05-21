@@ -1004,10 +1004,7 @@
       statusEl.textContent = "加载中...";
       const fileName = `${encodeURIComponent(tag)}.json`;
       try {
-        let res = await fetch(fileName);
-        if (!res.ok && fileName !== `${tag}.json`) {
-          res = await fetch(`${tag}.json`);
-        }
+        const res = await fetch(fileName);
         if (!res.ok) {
           renderEmpty(`标签：${tag}`, "该标签暂无数据");
           return;
