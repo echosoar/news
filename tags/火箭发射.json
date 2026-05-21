@@ -1,0 +1,42 @@
+{
+  "tag": "火箭发射",
+  "generated_at": "2026-05-21T14:56:47Z",
+  "summary": [
+    {
+      "title": "我国成功发射千帆星座第九批组网卫星",
+      "tags": [
+        "航天",
+        "卫星互联网",
+        "火箭发射"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/05-18/1191547.shtml",
+          "title": "中国成功发射千帆星座第九批组网卫星",
+          "origin": "中新网",
+          "time": 1779060480
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/05-18/10623019.shtml",
+          "title": "中国成功发射千帆星座第九批组网卫星",
+          "origin": "中新网",
+          "time": 1779059700
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-05-17/doc-inhyfnpf3398731.shtml",
+          "title": "我国成功发射千帆星座第九批组网卫星",
+          "origin": "新浪新闻",
+          "time": 1779055096
+        },
+        {
+          "link": "https://news.cctv.com/2026/05/18/ARTIjv0LqDybdkiifqz20ISU260518.shtml",
+          "title": "我国成功发射千帆星座第9批组网卫星",
+          "origin": "CCTV",
+          "time": 1779052212
+        }
+      ],
+      "summary": "2026年5月17日22时42分，我国在海南商业航天发射场使用长征八号运载火箭，成功将千帆星座第九批组网卫星送入预定轨道。卫星状态正常，发射任务取得圆满成功。",
+      "date": "2026-05-18"
+    }
+  ]
+}

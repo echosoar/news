@@ -1,0 +1,38 @@
+{
+  "tag": "AI助手",
+  "generated_at": "2026-05-21T14:56:47Z",
+  "summary": [
+    {
+      "title": "腾讯推出操作系统层级AI助手Marvis",
+      "tags": [
+        "科技",
+        "腾讯",
+        "AI助手",
+        "操作系统",
+        "Marvis"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1123/1123781.htm",
+          "title": "腾讯上线操作系统层级AI助手Marvis 支持跨端操控与本地隐",
+          "origin": "快科技",
+          "time": 1779326640
+        },
+        {
+          "link": "https://www.oschina.net/news/443637",
+          "title": "腾讯推出操作系统层级 AI 助手：Marvis（马维斯）",
+          "origin": "oschina",
+          "time": 1779334980
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-05-21/doc-inhyrmmr6379469.shtml",
+          "title": "腾讯推出操作系统层级AI助手Marvis",
+          "origin": "新浪新闻",
+          "time": 1779327084
+        }
+      ],
+      "summary": "腾讯于5月20日正式上线操作系统层级AI助手Marvis（马维斯），官网开放下载，无需邀请码即可使用。Marvis将终端系统、文件、应用、算力和跨端连接整合到同一AI中间层，用户只需用语言描述目标，Marvis即可理解任务、拆解步骤并调度对应Agent执行，涉及隐私、安全和支付等关键环节时交回用户确认。它预置6个Agent协同工作（主Agent统筹，File Agent处理文件，Computer Agent负责系统运维，App Agent调用应用，Browser Agent进行网页交互，Search Agent搜索信息），实现开机即用。Marvis提供效率模式（端云协同）和隐私模式（端侧模型，数据解析、图片识别及对话均在本地完成，完全不上云，断网亦可使用），满足财务、法务等高敏感场景需求。在敏感操作如删除文件、修改系统核心配置时，Marvis会先给出执行计划并请求用户确认。此外，Marvis支持跨端操控，用户可在手机上远程查看和操作电脑屏幕，实现随身携带个人电脑的效果。目前每位用户每天可享1000万免费Token。该产品旨在降低AI Agent使用门槛，让普通用户也能便捷享受智能化的系统管理与跨端协同。",
+      "date": "2026-05-21"
+    }
+  ]
+}
