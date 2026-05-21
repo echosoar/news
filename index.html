@@ -1002,7 +1002,7 @@
       }
 
       statusEl.textContent = "加载中...";
-      const fileName = `${encodeURIComponent(tag)}.json`;
+      const fileName = `tags/${encodeURIComponent(tag)}.json`;
       try {
         const res = await fetch(fileName);
         if (!res.ok) {
