@@ -72,8 +72,34 @@
       text-underline-offset: 0.2em;
     }
 
+    .hero-links {
+      display: inline-flex;
+      align-items: center;
+      gap: .55rem;
+    }
+
     .hero a {
-        color: var(--muted);
+      color: var(--muted);
+    }
+
+    .top-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 1.9rem;
+      padding: 0 .75rem;
+      border-radius: 10px;
+      border: 1px solid rgba(173, 193, 255, 0.42);
+      background: rgba(255, 255, 255, 0.08);
+      color: #f7f9ff;
+      text-decoration: none;
+      font-size: .88rem;
+      transition: background .2s ease, border-color .2s ease;
+    }
+
+    .top-btn:hover {
+      background: rgba(255, 255, 255, 0.16);
+      border-color: rgba(134, 247, 255, 0.65);
     }
 
     .query {
@@ -161,6 +187,37 @@
       font-size: .8rem;
       border: 1px solid rgba(134, 247, 255, 0.22);
       white-space: nowrap;
+    }
+
+    .tag-directory {
+      display: grid;
+      gap: .75rem;
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+      margin-bottom: 1rem;
+    }
+
+    .tag-directory-item {
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .6rem;
+      text-decoration: none;
+      border-radius: 12px;
+      border: 1px solid rgba(173, 193, 255, 0.28);
+      background: linear-gradient(165deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.03));
+      color: #f5f7ff;
+      padding: .6rem .7rem;
+      transition: transform .2s ease, border-color .2s ease;
+    }
+
+    .tag-directory-item:hover {
+      transform: translateY(-2px);
+      border-color: rgba(134, 247, 255, 0.45);
+    }
+
+    .tag-directory-count {
+      color: var(--muted);
+      font-size: .85rem;
     }
 
     .empty {
@@ -292,7 +349,10 @@
   <main class="container">
     <section class="hero">
       <h2><a class="site-title-link" href="./">每日热点语音播报</a></h2>
-      <a href="https://x.com/codersoar">x@codersoar</a>
+      <div class="hero-links">
+        <a class="top-btn" href="?tags">标签</a>
+        <a href="https://x.com/codersoar">x@codersoar</a>
+      </div>
     </section>
     <section id="content"></section>
     <div class="status" id="status"></div>
@@ -318,6 +378,7 @@
   </div>
 
   <script>
+    const queryParams = new URLSearchParams(window.location.search);
     const contentEl = document.getElementById("content");
     const statusEl = document.getElementById("status");
     const sentinel = document.getElementById("sentinel");
@@ -344,6 +405,8 @@
     let playbackToken = 0;
     const mimoAudioUrlCache = new Map();
     const mimoFetchPromiseCache = new Map();
+    const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("tag") ? "tag" : "home");
+    const CURRENT_TAG = (queryParams.get("tag") || "").trim();
 
 
     function pad(v) {
@@ -380,7 +443,7 @@
     }
 
     function getInitialDate() {
-      const input = new URLSearchParams(window.location.search).get("date");
+      const input = queryParams.get("date");
       if (input && isValidDateString(input)) {
         return input;
       }
@@ -392,11 +455,15 @@
       day.className = "day";
       const title = document.createElement("h2");
       title.className = "day-title";
-      const titleLink = document.createElement("a");
-      titleLink.className = "day-title-link";
-      titleLink.href = `?date=${encodeURIComponent(date)}`;
-      titleLink.textContent = date;
-      title.appendChild(titleLink);
+      if (isValidDateString(date)) {
+        const titleLink = document.createElement("a");
+        titleLink.className = "day-title-link";
+        titleLink.href = `?date=${encodeURIComponent(date)}`;
+        titleLink.textContent = date;
+        title.appendChild(titleLink);
+      } else {
+        title.textContent = date;
+      }
       day.appendChild(title);
       contentEl.appendChild(day);
       return day;
@@ -881,6 +948,82 @@
       }
     }
 
+    function renderTagDirectory(items) {
+      const dayEl = renderDayTitle("标签");
+      const box = document.createElement("div");
+      box.className = "tag-directory";
+
+      items.forEach(item => {
+        const link = document.createElement("a");
+        link.className = "tag-directory-item";
+        link.href = `?tag=${encodeURIComponent(item.tag)}`;
+
+        const name = document.createElement("span");
+        name.textContent = item.tag;
+        link.appendChild(name);
+
+        const count = document.createElement("span");
+        count.className = "tag-directory-count";
+        count.textContent = `${item.count}`;
+        link.appendChild(count);
+
+        box.appendChild(link);
+      });
+
+      dayEl.appendChild(box);
+    }
+
+    async function loadTagsPage() {
+      statusEl.textContent = "加载中...";
+      try {
+        const res = await fetch("tags.json");
+        if (!res.ok) {
+          renderEmpty("标签", "标签数据尚未生成");
+          return;
+        }
+        const data = await res.json();
+        const tags = Array.isArray(data.tags) ? data.tags : [];
+        if (!tags.length) {
+          renderEmpty("标签", "暂无标签数据");
+          return;
+        }
+        renderTagDirectory(tags);
+      } catch (error) {
+        renderEmpty("标签", "标签数据加载失败");
+      } finally {
+        statusEl.textContent = "";
+      }
+    }
+
+    async function loadTagPage(tag) {
+      if (!tag) {
+        renderEmpty("标签", "未指定标签");
+        return;
+      }
+
+      statusEl.textContent = "加载中...";
+      const fileName = `${encodeURIComponent(tag)}.json`;
+      try {
+        const res = await fetch(fileName);
+        if (!res.ok) {
+          renderEmpty(`标签：${tag}`, "该标签暂无数据");
+          return;
+        }
+        const data = await res.json();
+        const summaries = Array.isArray(data.summary) ? data.summary : [];
+        if (!summaries.length) {
+          renderEmpty(`标签：${tag}`, "该标签暂无数据");
+          return;
+        }
+        const dayEl = renderDayTitle(`标签：${data.tag || tag}`);
+        summaries.forEach(item => renderCard(item, dayEl));
+      } catch (error) {
+        renderEmpty(`标签：${tag}`, "标签数据加载失败");
+      } finally {
+        statusEl.textContent = "";
+      }
+    }
+
     async function loadNext() {
       if (loading || loadStoppedByEmptyDays) return;
       loading = true;
@@ -945,8 +1088,16 @@
     });
 
     restoreVoiceSettings();
-    observer.observe(sentinel);
-    loadNext();
+    if (PAGE_MODE === "home") {
+      observer.observe(sentinel);
+      loadNext();
+    } else if (PAGE_MODE === "tags") {
+      sentinel.style.display = "none";
+      loadTagsPage();
+    } else {
+      sentinel.style.display = "none";
+      loadTagPage(CURRENT_TAG);
+    }
   </script>
 </body>
 </html>
