@@ -1,0 +1,97 @@
+{
+  "tag": "腾讯",
+  "generated_at": "2026-05-21T07:59:00Z",
+  "summary": [
+    {
+      "title": "腾讯推出操作系统层级AI助手Marvis",
+      "tags": [
+        "人工智能",
+        "腾讯",
+        "操作系统",
+        "AI助手"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1123/1123781.htm",
+          "title": "腾讯上线操作系统层级AI助手Marvis 支持跨端操控与本地隐",
+          "origin": "快科技",
+          "time": 1779326640
+        },
+        {
+          "link": "https://www.oschina.net/news/443637",
+          "title": "腾讯推出操作系统层级 AI 助手：Marvis（马维斯）",
+          "origin": "oschina",
+          "time": 1779334980
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-05-21/doc-inhyrmmr6379469.shtml",
+          "title": "腾讯推出操作系统层级AI助手Marvis",
+          "origin": "新浪新闻",
+          "time": 1779327084
+        }
+      ],
+      "summary": "腾讯于5月20日宣布旗下操作系统层级AI助手Marvis（马维斯）正式上线，用户可通过官网Marvis.qq.com下载使用，无需邀请码。Marvis的核心定位在于操作系统层级，它能够将终端系统、文件、应用、算力和跨端连接整合到同一个AI中间层。用户只需用一句话说明目标，Marvis即可理解任务、拆解步骤并调用对应Agent执行，在涉及隐私、安全和支付等关键环节时交回用户确认。\n\nMarvis预置了6个Agent协同工作的AI团队，包括主Agent、File Agent、Computer Agent、App Agent、Browser Agent和Search Agent，支持并行处理任务，装机即用。在安全方面，Marvis建立了L2级安全兜底机制，对删除文件、修改系统配置等敏感操作会先请求用户确认。\n\n该助手提供效率模式和隐私模式两种工作方式。隐私模式采用端侧模型，确保所有数据解析、图片识别及对话均在本地完成，完全不上云，断网亦可使用，满足财务、法务等高敏感场景需求。Marvis还支持跨端操控，用户可在手机上查看并实时控制电脑屏幕，实现跨设备协同。目前，每位用户每天可免费使用1000万Token。",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "腾讯自研AI设计智能体Ardot公测 一句话生成可编辑设计稿",
+      "tags": [
+        "人工智能",
+        "设计工具",
+        "腾讯"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8tDvPSB4yAK",
+          "title": "腾讯设计智能体Ardot公测：一句话生成可编辑设计稿，一键转代码",
+          "origin": "凤凰科技",
+          "time": 1779072766
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0518/1752818.shtml",
+          "title": "腾讯自研AI设计智能体Ardot公测：一句话生成可编辑设计稿",
+          "origin": "站长之家",
+          "time": 1779083975
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122958.htm",
+          "title": "腾讯自研AI设计智能体公测：一句话生成可编辑设计稿",
+          "origin": "快科技",
+          "time": 1779073920
+        }
+      ],
+      "summary": "腾讯云宣布，其自研AI设计智能体平台Ardot正式开启公测。该平台以AI驱动，旨在优化产品设计与研发团队的协作流程。Ardot的核心功能是支持用户通过一句话描述快速生成可编辑的设计稿，覆盖App页面、官网、海报、插画和PPT等多种场景。它能够调用团队自有的业务组件库，确保生成的设计符合团队",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "腾讯阿里加大AI投入，中国科技巨头竞速",
+      "tags": [
+        "腾讯",
+        "阿里",
+        "AI投资",
+        "科技竞争"
+      ],
+      "links": [
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260514/49494161.html",
+          "title": "下一个十年里阿里是谁 AI+云定义未来",
+          "origin": "中国网",
+          "time": 1778754127
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1111918&sid=21",
+          "title": "腾讯阿里AI投入增加",
+          "origin": "上观",
+          "time": 1778739342
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1122/1122245.htm",
+          "title": "阿里 AI 应用新进展",
+          "origin": "快科技",
+          "time": 1778742480
+        }
+      ],
+      "date": "2026-05-15"
+    }
+  ]
+}
