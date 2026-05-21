@@ -1,0 +1,44 @@
+{
+  "tag": "芯片",
+  "generated_at": "2026-05-21T14:56:47Z",
+  "summary": [
+    {
+      "title": "英伟达确认Vera Rubin将于三季度推出 四季度放量",
+      "tags": [
+        "科技",
+        "英伟达",
+        "芯片",
+        "Vera Rubin",
+        "发布"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/953305.htm",
+          "title": "英伟达 Vera Rubin 超级 AI 芯片下半年推出，黄仁勋称肯定比 Grace Blackwell 更加成功",
+          "origin": "IT之家",
+          "time": 1779340134
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/2026-05-21/doc-inhyrmmv8284588.shtml",
+          "title": "英伟达Q1业绩会实录：Vera Rubin将全周期供货紧张",
+          "origin": "新浪新闻",
+          "time": 1779329906
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1563178.htm",
+          "title": "英伟达确认Vera Rubin将于三季度推出 四季度放量",
+          "origin": "cnBeta",
+          "time": 1779339840
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1123/1123902.htm",
+          "title": "单机5300万，英伟达Vera Rubin机架账单披露",
+          "origin": "快科技",
+          "time": 1779347700
+        }
+      ],
+      "summary": "英伟达执行副总裁兼首席财务官科莉特·克雷斯在财报电话会议上确认，下一代超级AI芯片Vera Rubin将于2026年下半年推出，第三季度开始首批交付，第四季度上量速度持续加快，已有明确需求计划和订单。英伟达CEO黄仁勋表示，Vera Rubin开局良好，所有前沿模型公司都会从一开始就选择它，因此它肯定会比上一代Grace Blackwell更加成功。微软、谷歌、亚马逊、Meta和甲骨文等预计将成为首批客户。试产预计于2026年6月启动，7月首批产品运往北美大型AI数据中心和云服务企业，台积电已基于3nm制程量产Vera Rubin芯片，富士康、广达等合作伙伴下半年启动全面量产。\n\n与此同时，摩根士丹利研究报告披露了Vera Rubin平台NVL72机架的物料清单。单台机架集成72颗Rubin GPU和36颗Vera CPU，整机预估总物料成本高达780万美元（约合5304万元人民币）。其中内存成本（HBM4与LPDDR5X）从前代的37.3万美元激增至超过200万美元，涨幅达435%；Rubin GPU单颗售价约5.5万美元，较Blackwell溢价57%；此外，PCB成本从3.5万美元上升至11.6万美元，增幅达233%。其余成本分配至NVLink交换机、网络芯片、电源、冷却系统等组件。",
+      "date": "2026-05-21"
+    }
+  ]
+}
