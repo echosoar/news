@@ -18,6 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: gh-pages
           fetch-depth: 0
 
       - name: Setup Python
@@ -32,12 +33,14 @@ jobs:
           import datetime
           import json
           import re
-          import urllib.parse
           from pathlib import Path
 
           ROOT = Path(".")
+          TAGS_DIR = ROOT / "tags"
           DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
           now = datetime.datetime.now(tz=datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+          TAGS_DIR.mkdir(exist_ok=True)
 
           existing_tag_manifest = ROOT / "tags.json"
           stale_files = set()
@@ -111,7 +114,7 @@ jobs:
               for item in entries:
                   item.pop("_sort_time", None)
 
-              file_name = f"{urllib.parse.quote(tag, safe='')}.json"
+              file_name = f"tags/{tag}.json"
               generated_files.add(file_name)
               target = ROOT / file_name
               target.write_text(
