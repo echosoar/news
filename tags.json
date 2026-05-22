@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T00:57:28Z",
+  "generated_at": "2026-05-22T05:40:08Z",
   "tags": [
     {
       "tag": "科技",
@@ -13,7 +13,7 @@
     },
     {
       "tag": "美国",
-      "count": 12,
+      "count": 15,
       "file": "tags/美国.json"
     },
     {
@@ -23,18 +23,18 @@
     },
     {
       "tag": "伊朗",
-      "count": 9,
+      "count": 10,
       "file": "tags/伊朗.json"
+    },
+    {
+      "tag": "中国",
+      "count": 8,
+      "file": "tags/中国.json"
     },
     {
       "tag": "以色列",
       "count": 7,
       "file": "tags/以色列.json"
-    },
-    {
-      "tag": "中国",
-      "count": 6,
-      "file": "tags/中国.json"
     },
     {
       "tag": "金融",
@@ -52,6 +52,11 @@
       "file": "tags/SpaceX.json"
     },
     {
+      "tag": "中东",
+      "count": 5,
+      "file": "tags/中东.json"
+    },
+    {
       "tag": "AI",
       "count": 4,
       "file": "tags/AI.json"
@@ -60,11 +65,6 @@
       "tag": "IPO",
       "count": 4,
       "file": "tags/IPO.json"
-    },
-    {
-      "tag": "中东",
-      "count": 4,
-      "file": "tags/中东.json"
     },
     {
       "tag": "中美关系",
@@ -187,6 +187,11 @@
       "file": "tags/人工智能.json"
     },
     {
+      "tag": "人道主义",
+      "count": 2,
+      "file": "tags/人道主义.json"
+    },
+    {
       "tag": "公共卫生",
       "count": 2,
       "file": "tags/公共卫生.json"
@@ -262,6 +267,11 @@
       "file": "tags/材料.json"
     },
     {
+      "tag": "核问题",
+      "count": 2,
+      "file": "tags/核问题.json"
+    },
+    {
       "tag": "欧洲",
       "count": 2,
       "file": "tags/欧洲.json"
@@ -280,6 +290,11 @@
       "tag": "特斯拉",
       "count": 2,
       "file": "tags/特斯拉.json"
+    },
+    {
+      "tag": "特朗普",
+      "count": 2,
+      "file": "tags/特朗普.json"
     },
     {
       "tag": "生态",
@@ -310,6 +325,11 @@
       "tag": "罢工",
       "count": 2,
       "file": "tags/罢工.json"
+    },
+    {
+      "tag": "联合国",
+      "count": 2,
+      "file": "tags/联合国.json"
     },
     {
       "tag": "能源安全",
@@ -462,6 +482,11 @@
       "file": "tags/世卫.json"
     },
     {
+      "tag": "东欧",
+      "count": 1,
+      "file": "tags/东欧.json"
+    },
+    {
       "tag": "两岸关系",
       "count": 1,
       "file": "tags/两岸关系.json"
@@ -552,11 +577,6 @@
       "file": "tags/人工细胞.json"
     },
     {
-      "tag": "人道主义",
-      "count": 1,
-      "file": "tags/人道主义.json"
-    },
-    {
       "tag": "人道危机",
       "count": 1,
       "file": "tags/人道危机.json"
@@ -607,6 +627,11 @@
       "file": "tags/债务重组.json"
     },
     {
+      "tag": "停火",
+      "count": 1,
+      "file": "tags/停火.json"
+    },
+    {
       "tag": "储氢",
       "count": 1,
       "file": "tags/储氢.json"
@@ -625,6 +650,11 @@
       "tag": "全球避险",
       "count": 1,
       "file": "tags/全球避险.json"
+    },
+    {
+      "tag": "全球领先",
+      "count": 1,
+      "file": "tags/全球领先.json"
     },
     {
       "tag": "公共安全",
@@ -667,6 +697,11 @@
       "file": "tags/军事贸易.json"
     },
     {
+      "tag": "军事部署",
+      "count": 1,
+      "file": "tags/军事部署.json"
+    },
+    {
       "tag": "军购",
       "count": 1,
       "file": "tags/军购.json"
@@ -697,9 +732,19 @@
       "file": "tags/副总统.json"
     },
     {
+      "tag": "加沙",
+      "count": 1,
+      "file": "tags/加沙.json"
+    },
+    {
       "tag": "北斗导航",
       "count": 1,
       "file": "tags/北斗导航.json"
+    },
+    {
+      "tag": "北约",
+      "count": 1,
+      "file": "tags/北约.json"
     },
     {
       "tag": "医疗AI",
@@ -830,6 +875,11 @@
       "tag": "国际标准",
       "count": 1,
       "file": "tags/国际标准.json"
+    },
+    {
+      "tag": "国际法",
+      "count": 1,
+      "file": "tags/国际法.json"
     },
     {
       "tag": "国际金融",
@@ -1117,9 +1167,9 @@
       "file": "tags/核谈判.json"
     },
     {
-      "tag": "核问题",
+      "tag": "格陵兰岛",
       "count": 1,
-      "file": "tags/核问题.json"
+      "file": "tags/格陵兰岛.json"
     },
     {
       "tag": "死亡",
@@ -1147,9 +1197,24 @@
       "file": "tags/油轮.json"
     },
     {
+      "tag": "波兰",
+      "count": 1,
+      "file": "tags/波兰.json"
+    },
+    {
       "tag": "洪灾",
       "count": 1,
       "file": "tags/洪灾.json"
+    },
+    {
+      "tag": "浓缩铀",
+      "count": 1,
+      "file": "tags/浓缩铀.json"
+    },
+    {
+      "tag": "海上装备",
+      "count": 1,
+      "file": "tags/海上装备.json"
     },
     {
       "tag": "海外合规",
@@ -1190,11 +1255,6 @@
       "tag": "爆炸",
       "count": 1,
       "file": "tags/爆炸.json"
-    },
-    {
-      "tag": "特朗普",
-      "count": 1,
-      "file": "tags/特朗普.json"
     },
     {
       "tag": "特朗普政府",
@@ -1317,6 +1377,11 @@
       "file": "tags/纳斯达克.json"
     },
     {
+      "tag": "经济",
+      "count": 1,
+      "file": "tags/经济.json"
+    },
+    {
       "tag": "经济影响",
       "count": 1,
       "file": "tags/经济影响.json"
@@ -1385,11 +1450,6 @@
       "tag": "美联储",
       "count": 1,
       "file": "tags/美联储.json"
-    },
-    {
-      "tag": "联合国",
-      "count": 1,
-      "file": "tags/联合国.json"
     },
     {
       "tag": "联想",
@@ -1532,6 +1592,11 @@
       "file": "tags/造假.json"
     },
     {
+      "tag": "造船业",
+      "count": 1,
+      "file": "tags/造船业.json"
+    },
+    {
       "tag": "道歉",
       "count": 1,
       "file": "tags/道歉.json"
@@ -1610,6 +1675,11 @@
       "tag": "领事保护",
       "count": 1,
       "file": "tags/领事保护.json"
+    },
+    {
+      "tag": "领土购买",
+      "count": 1,
+      "file": "tags/领土购买.json"
     },
     {
       "tag": "马斯克",
