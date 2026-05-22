@@ -1,6 +1,6 @@
 {
   "tag": "量子计算",
-  "generated_at": "2026-05-21T14:56:47Z",
+  "generated_at": "2026-05-22T00:57:28Z",
   "summary": [
     {
       "title": "中国发布九章四号量子计算原型机，量子计算再获突破",
@@ -9,20 +9,6 @@
         "九章",
         "科技",
         "中国"
-      ],
-      "links": [
-        {
-          "link": "https://kite.kagi.com/0d801b3c-2973-4e0e-9dbc-7e057ab33100/china/3",
-          "title": "中国科研团队研制九章四号量子原型机",
-          "origin": "kagi",
-          "time": 1778831129
-        },
-        {
-          "link": "https://news.cctv.com/2026/05/15/ARTILKYaZZRCEuch5DCRmjVS260515.shtml",
-          "title": "九章四号量子计算原型机问世",
-          "origin": "CCTV",
-          "time": 1778798023
-        }
       ],
       "summary": "中国科研团队成功研制九章四号量子计算原型机。该原型机被应用于高效求解高斯玻色采样任务，其计算速度相比当前全球最快的超级计算机快1054倍，即量子优势比达到1054，成功建立了国际上最强的量子计算优越性。这一成果标志着中国在量子计算领域再次取得重大突破。",
       "date": "2026-05-15"
@@ -34,44 +20,6 @@
         "九章四号",
         "科技突破",
         "中国科研"
-      ],
-      "links": [
-        {
-          "link": "https://tech.ifeng.com/c/8t6XLS28GyY",
-          "title": "中国成功研制九章四号量子计算原型机，比超算快一百万亿亿亿亿亿亿倍",
-          "origin": "凤凰科技",
-          "time": 1778688300
-        },
-        {
-          "link": "https://g.pconline.com.cn/x/2149/21497572.html",
-          "title": "我国成功研制九章四号量子计算原型机，比超算快一百万亿亿亿亿亿亿倍",
-          "origin": "pconline",
-          "time": 1778690880
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1122/1122108.htm",
-          "title": "中国九章四号研制成功，比超算快一百万亿亿亿亿亿亿倍",
-          "origin": "快科技",
-          "time": 1778688300
-        },
-        {
-          "link": "https://finance.sina.com.cn/wm/2026-05-14/doc-inhxwraa8611735.shtml",
-          "title": "再破世界纪录，比超算快超过亿亿亿亿亿亿倍→",
-          "origin": "新浪新闻",
-          "time": 1778766657
-        },
-        {
-          "link": "https://politics.gmw.cn/2026-05/14/content_38763645.htm",
-          "title": "\"九章四号\"问世 中国科学家再建最强\"量子计算优越性\"",
-          "origin": "光明网",
-          "time": 1778738124
-        },
-        {
-          "link": "http://news.china.com.cn/2026-05/14/content_118493983.shtml",
-          "title": "九章四号问世，中国科学家再建最强量子计算优越性",
-          "origin": "中国网",
-          "time": 1778739178
-        }
       ],
       "date": "2026-05-15"
     }

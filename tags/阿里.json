@@ -1,6 +1,6 @@
 {
   "tag": "阿里",
-  "generated_at": "2026-05-21T14:56:47Z",
+  "generated_at": "2026-05-22T00:57:28Z",
   "summary": [
     {
       "title": "阿里发布Qoder 1.0 AI编码智能体，实现代码全流程自动化",
@@ -9,26 +9,6 @@
         "阿里",
         "Qoder",
         "智能体"
-      ],
-      "links": [
-        {
-          "link": "https://www.qbitai.com/2026/05/418027.html",
-          "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
-          "origin": "量子位",
-          "time": 1778830598
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1122/1122575.htm",
-          "title": "阿里发布Qoder 1.0：自主接管代码生成、验证和交付全流程",
-          "origin": "快科技",
-          "time": 1778834940
-        },
-        {
-          "link": "https://www.chinaz.com/2026/0515/1752483.shtml",
-          "title": "阿里发布Qoder 1.0：自主接管代码生成、验证和交付全流程",
-          "origin": "站长之家",
-          "time": 1778836709
-        }
       ],
       "summary": "阿里于5月15日正式发布Qoder 1.0，将其从AI IDE升级为智能体自主开发工作台。用户只需专注定义需求，由Agent团队自主完成代码生成、验证与交付的全流程任务，大幅降低软件开发门槛，使非专业开发者也能轻松参与。同时，Qoder 1.0将传统开发中耗时的编写与调试流程自动化，显著提升开发效率。该工具具备跨平台能力，支持Windows、macOS和Linux系统用户下载使用，覆盖不同操作系统环境下的开发者群体。",
       "date": "2026-05-15"
@@ -40,26 +20,6 @@
         "阿里",
         "AI投资",
         "科技竞争"
-      ],
-      "links": [
-        {
-          "link": "https://3g.china.com/act/news/10000169/20260514/49494161.html",
-          "title": "下一个十年里阿里是谁 AI+云定义未来",
-          "origin": "中国网",
-          "time": 1778754127
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1111918&sid=21",
-          "title": "腾讯阿里AI投入增加",
-          "origin": "上观",
-          "time": 1778739342
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1122/1122245.htm",
-          "title": "阿里 AI 应用新进展",
-          "origin": "快科技",
-          "time": 1778742480
-        }
       ],
       "date": "2026-05-15"
     }

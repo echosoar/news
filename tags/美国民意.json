@@ -1,6 +1,6 @@
 {
   "tag": "美国民意",
-  "generated_at": "2026-05-21T14:56:47Z",
+  "generated_at": "2026-05-22T00:57:28Z",
   "summary": [
     {
       "title": "逾七成美国人反对在家附近建设AI数据中心，民调显示",
@@ -9,26 +9,6 @@
         "AI数据中心",
         "美国民意",
         "社会反对"
-      ],
-      "links": [
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1562466.htm",
-          "title": "比核反应堆还遭嫌？民调显示逾七成美国人反对在家附近建AI数据中心",
-          "origin": "cnBeta",
-          "time": 1778754240
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/7988492.html",
-          "title": "民调显示，逾七成美国人反对在家附近建AI数据中心",
-          "origin": "钛媒体",
-          "time": 1778751300
-        },
-        {
-          "link": "https://api3.cls.cn/share/article/2371430",
-          "title": "民调显示 逾七成美国人反对在家附近建AI数据中心",
-          "origin": "财联社",
-          "time": 1778751315
-        }
       ],
       "date": "2026-05-15"
     }

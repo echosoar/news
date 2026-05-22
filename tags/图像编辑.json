@@ -1,6 +1,6 @@
 {
   "tag": "图像编辑",
-  "generated_at": "2026-05-21T14:56:47Z",
+  "generated_at": "2026-05-22T00:57:28Z",
   "summary": [
     {
       "title": "谷歌推出Google Pics应用，支持AI生成图像与局部精细编辑",
@@ -9,38 +9,6 @@
         "AI",
         "图像编辑",
         "谷歌"
-      ],
-      "links": [
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1563034.htm",
-          "title": "Google发布全新AI科研工具套件Gemini for Science 优化科学研究流程",
-          "origin": "cnBeta",
-          "time": 1779251400
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/7994297.html",
-          "title": "谷歌推出全天候AI代理Gemini Spark，可后台执行任务",
-          "origin": "钛媒体",
-          "time": 1779236820
-        },
-        {
-          "link": "https://m.ithome.com/html/952540.htm",
-          "title": "谷歌推出 Google Pics 应用：AI 生图加局部精细编辑",
-          "origin": "IT之家",
-          "time": 1779220145
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1562980.htm",
-          "title": "Google推出Gemini Spark 常驻式智能代理 挑战OpenClaw",
-          "origin": "cnBeta",
-          "time": 1779214860
-        },
-        {
-          "link": "https://finance.sina.com.cn/tech/2026-05-20/doc-inhynmhz7195672.shtml",
-          "title": "谷歌发布大龙虾：全天候AI管家Gemini Spark",
-          "origin": "新浪新闻",
-          "time": 1779213033
-        }
       ],
       "summary": "在Google I/O 2026大会上，谷歌推出名为Gemini for Science的实验性AI工具套件，旨在帮助科研人员优化从提出假设到查阅文献的完整科研流程。该套件包含三个核心功能：假设生成、计算发现和文献洞察。假设生成工具通过分析数百万篇科学论文辅助构思新理论，生成结论附带可点击引用；计算发现工具可自动生成大量测试和实验方案，加速理论筛选与实验设计迭代；文献洞察功能则自动梳理文献，生成文本、信息图、音频或视频形式的概要，降低科研资料阅读门槛。此外，谷歌还推出了Science Skills工具，整合30余个生命科学数据库，将复杂的科研工作流程缩短至几分钟完成。目前，科研人员可通过Google Labs网站申请早期试用资格，谷歌也计划通过Google Cloud向企业级组织提供这些工具。\n\n同期，谷歌还发布了全天候AI管家Gemini Spark。它能够自动扫描收件箱、汇总回复并发送提醒，是一个24小时数字助理。Spark通过跨应用深度整合，读取Gmail、Google Docs、日历、Drive及第三方网站信息，并能使用Skills系统让用户自定义任务逻辑或安装社区分享的技能。Spark将作为AI Ultra订阅产品（月费200美元）的专属功能开放。其直接竞争对手是OpenAI的Operator，但Spark天然能够读取谷歌自家平台数据，无需复杂授权，具有生态优势。谷歌提示Spark仍处于实验阶段，",
       "date": "2026-05-20"
