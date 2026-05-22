@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - gh-pages
-    paths:
-      - "group.json"
-      - "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
   workflow_dispatch:
 
 permissions:
@@ -113,27 +110,13 @@ jobs:
                   if not tag_list:
                       tag_list = ["未分类"]
 
-                  sort_time = 0
-                  link_times = []
-                  links = item.get("links")
-                  if isinstance(links, list):
-                      for link in links:
-                          if isinstance(link, dict):
-                              value = link.get("time")
-                              if isinstance(value, int):
-                                  link_times.append(value)
-                  if link_times:
-                      sort_time = max(link_times)
-                  elif isinstance(date_value, str):
-                      try:
-                          dt = datetime.datetime.strptime(date_value, "%Y-%m-%d")
-                          sort_time = int(dt.replace(tzinfo=datetime.timezone.utc).timestamp())
-                      except Exception:
-                          sort_time = 0
+                  sort_date = file_path.stem
+                  if isinstance(date_value, str) and DATE_FILE_RE.match(f"{date_value}.json"):
+                      sort_date = date_value
 
                   normalized = copy.deepcopy(item)
                   normalized["date"] = date_value
-                  normalized["_sort_time"] = sort_time
+                  normalized["_sort_date"] = sort_date
 
                   item_key = json.dumps(
                       {
@@ -166,9 +149,9 @@ jobs:
 
           tag_items = []
           for tag, entries in tag_to_entries.items():
-              entries.sort(key=lambda x: x.get("_sort_time", 0), reverse=True)
+              entries.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
               for item in entries:
-                  item.pop("_sort_time", None)
+                  item.pop("_sort_date", None)
 
               file_name = f"tags/{tag}.json"
               generated_files.add(file_name)
@@ -196,9 +179,9 @@ jobs:
 
           expected_group_files = set()
           for group_name, entries in group_to_entries.items():
-              entries.sort(key=lambda x: x.get("_sort_time", 0), reverse=True)
+              entries.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
               for item in entries:
-                  item.pop("_sort_time", None)
+                  item.pop("_sort_date", None)
 
               file_name = f"groups/{group_name}.json"
               expected_group_files.add(file_name)
