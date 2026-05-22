@@ -44,6 +44,7 @@
 
     .hero {
       display: flex;
+      flex-wrap: wrap;
       justify-content: space-between;
       align-items: center;
       border: 1px solid var(--surface-border);
@@ -60,6 +61,7 @@
       font-size: 2rem;
       letter-spacing: 0.04em;
       font-weight: 700;
+      flex: 1 1 auto;
     }
 
     .site-title-link {
@@ -75,6 +77,17 @@
     .hero-links {
       display: inline-flex;
       align-items: center;
+      gap: .55rem;
+      margin-left: auto;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .group-links {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
       gap: .55rem;
     }
 
@@ -100,6 +113,24 @@
     .top-btn:hover {
       background: rgba(255, 255, 255, 0.16);
       border-color: rgba(134, 247, 255, 0.65);
+    }
+
+    .top-btn.active {
+      border-color: rgba(255, 202, 134, 0.9);
+      background: rgba(255, 202, 134, 0.18);
+      color: #fff5e9;
+    }
+
+    .hero-link {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: .92rem;
+    }
+
+    .hero-link:hover {
+      color: #f7f9ff;
+      text-decoration: underline;
+      text-underline-offset: .2em;
     }
 
     .query {
@@ -343,6 +374,22 @@
         text-align: left;
       }
     }
+
+    @media (max-width: 750px) {
+      .hero {
+        align-items: flex-start;
+      }
+
+      .hero h2 {
+        flex-basis: 100%;
+      }
+
+      .hero-links {
+        width: 100%;
+        margin-left: 0;
+        justify-content: flex-end;
+      }
+    }
   </style>
 </head>
 <body>
@@ -350,8 +397,9 @@
     <section class="hero">
       <h2><a class="site-title-link" href="./">每日热点语音播报</a></h2>
       <div class="hero-links">
-        <a class="top-btn" href="?tags">标签</a>
-        <a href="https://x.com/codersoar">x@codersoar</a>
+        <div class="group-links" id="group-links" aria-label="分组导航"></div>
+        <a class="top-btn" id="tags-button" href="?tags">标签</a>
+        <a class="hero-link" href="https://x.com/codersoar">x@codersoar</a>
       </div>
     </section>
     <section id="content"></section>
@@ -388,6 +436,8 @@
     const playToggleEl = document.getElementById("voice-play-toggle");
     const stopEl = document.getElementById("voice-stop");
     const voiceStateEl = document.getElementById("voice-state");
+    const groupLinksEl = document.getElementById("group-links");
+    const tagsButtonEl = document.getElementById("tags-button");
     const VOICE_PROVIDER_STORAGE_KEY = "news.voice.provider";
     const VOICE_TOKEN_STORAGE_KEY = "news.voice.token";
     const LOOP_CURRENT_DAY = true;
@@ -405,7 +455,8 @@
     let playbackToken = 0;
     const mimoAudioUrlCache = new Map();
     const mimoFetchPromiseCache = new Map();
-    const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("tag") ? "tag" : "home");
+    const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("group") ? "group" : (queryParams.get("tag") ? "tag" : "home"));
+    const CURRENT_GROUP = (queryParams.get("group") || "").trim();
     const CURRENT_TAG = (queryParams.get("tag") || "").trim();
 
 
@@ -973,6 +1024,22 @@
       dayEl.appendChild(box);
     }
 
+    function renderGroupDirectory(items) {
+      if (!groupLinksEl) return;
+      groupLinksEl.textContent = "";
+      items.forEach(item => {
+        const link = document.createElement("a");
+        link.className = "top-btn";
+        link.href = `?group=${encodeURIComponent(item.group)}`;
+        if (item.group === CURRENT_GROUP) {
+          link.classList.add("active");
+          link.setAttribute("aria-current", "page");
+        }
+        link.textContent = item.group;
+        groupLinksEl.appendChild(link);
+      });
+    }
+
     async function loadTagsPage() {
       statusEl.textContent = "加载中...";
       try {
@@ -992,6 +1059,21 @@
         renderEmpty("标签", "标签数据加载失败");
       } finally {
         statusEl.textContent = "";
+      }
+    }
+
+    async function loadGroupNav() {
+      if (!groupLinksEl) return;
+      try {
+        const res = await fetch("group.json");
+        if (!res.ok) {
+          return;
+        }
+        const data = await res.json();
+        const groups = Array.isArray(data.groups) ? data.groups : [];
+        renderGroupDirectory(groups);
+      } catch (error) {
+        groupLinksEl.textContent = "";
       }
     }
 
@@ -1019,6 +1101,35 @@
         summaries.forEach(item => renderCard(item, dayEl));
       } catch (error) {
         renderEmpty(`标签：${tag}`, "标签数据加载失败");
+      } finally {
+        statusEl.textContent = "";
+      }
+    }
+
+    async function loadGroupPage(group) {
+      if (!group) {
+        renderEmpty("分组", "未指定分组");
+        return;
+      }
+
+      statusEl.textContent = "加载中...";
+      const fileName = `groups/${encodeURIComponent(group)}.json`;
+      try {
+        const res = await fetch(fileName);
+        if (!res.ok) {
+          renderEmpty(`分组：${group}`, "该分组暂无数据");
+          return;
+        }
+        const data = await res.json();
+        const summaries = Array.isArray(data.summary) ? data.summary : [];
+        if (!summaries.length) {
+          renderEmpty(`分组：${group}`, "该分组暂无数据");
+          return;
+        }
+        const dayEl = renderDayTitle(`分组：${data.group || group}`);
+        summaries.forEach(item => renderCard(item, dayEl));
+      } catch (error) {
+        renderEmpty(`分组：${group}`, "分组数据加载失败");
       } finally {
         statusEl.textContent = "";
       }
@@ -1088,12 +1199,17 @@
     });
 
     restoreVoiceSettings();
+    loadGroupNav();
+    tagsButtonEl.classList.toggle("active", PAGE_MODE === "tags");
     if (PAGE_MODE === "home") {
       observer.observe(sentinel);
       loadNext();
     } else if (PAGE_MODE === "tags") {
       sentinel.style.display = "none";
       loadTagsPage();
+    } else if (PAGE_MODE === "group") {
+      sentinel.style.display = "none";
+      loadGroupPage(CURRENT_GROUP);
     } else {
       sentinel.style.display = "none";
       loadTagPage(CURRENT_TAG);

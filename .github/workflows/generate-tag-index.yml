@@ -5,6 +5,7 @@ on:
     branches:
       - gh-pages
     paths:
+      - "group.json"
       - "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
   workflow_dispatch:
 
@@ -26,7 +27,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate tags.json and per-tag summary files
+      - name: Generate tags.json, groups.json, and summary files
         run: |
           python - <<'PY'
           import copy
@@ -37,10 +38,36 @@ jobs:
 
           ROOT = Path(".")
           TAGS_DIR = ROOT / "tags"
+          GROUPS_DIR = ROOT / "groups"
           DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
           now = datetime.datetime.now(tz=datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
           TAGS_DIR.mkdir(exist_ok=True)
+          GROUPS_DIR.mkdir(exist_ok=True)
+
+          group_definitions = []
+          group_config = ROOT / "group.json"
+          if group_config.exists():
+              try:
+                  group_payload = json.loads(group_config.read_text(encoding="utf-8"))
+                  raw_groups = group_payload.get("groups")
+                  if isinstance(raw_groups, list):
+                      for raw_group in raw_groups:
+                          if not isinstance(raw_group, dict):
+                              continue
+                          group_name = str(raw_group.get("group", "")).strip()
+                          if not group_name:
+                              continue
+                          raw_tags = raw_group.get("tags")
+                          tags = []
+                          if isinstance(raw_tags, list):
+                              for raw_tag in raw_tags:
+                                  normalized_tag = str(raw_tag).strip()
+                                  if normalized_tag and normalized_tag not in tags:
+                                      tags.append(normalized_tag)
+                          group_definitions.append({"group": group_name, "tags": tags})
+              except Exception:
+                  pass
 
           existing_tag_manifest = ROOT / "tags.json"
           stale_files = set()
@@ -56,6 +83,8 @@ jobs:
 
           tag_to_entries = {}
           generated_files = set()
+          group_to_entries = {item["group"]: [] for item in group_definitions}
+          group_seen_keys = {item["group"]: set() for item in group_definitions}
 
           for file_path in sorted(ROOT.glob("*.json"), reverse=True):
               if not DATE_FILE_RE.match(file_path.name):
@@ -73,6 +102,7 @@ jobs:
               for item in summaries:
                   if not isinstance(item, dict):
                       continue
+
                   tags = item.get("tags")
                   tag_list = []
                   if isinstance(tags, list):
@@ -105,8 +135,34 @@ jobs:
                   normalized["date"] = date_value
                   normalized["_sort_time"] = sort_time
 
+                  item_key = json.dumps(
+                      {
+                          "date": date_value,
+                          "title": normalized.get("title"),
+                          "summary": normalized.get("summary"),
+                          "links": item.get("links"),
+                          "tags": normalized.get("tags"),
+                      },
+                      ensure_ascii=False,
+                      sort_keys=True,
+                  )
+
+                  normalized.pop("links", None)
+
                   for tag in tag_list:
                       tag_to_entries.setdefault(tag, []).append(copy.deepcopy(normalized))
+
+                  if group_definitions:
+                      item_tags = set(tag_list)
+                      for group_item in group_definitions:
+                          group_name = group_item["group"]
+                          group_tags = group_item["tags"]
+                          if not item_tags.intersection(group_tags):
+                              continue
+                          if item_key in group_seen_keys[group_name]:
+                              continue
+                          group_seen_keys[group_name].add(item_key)
+                          group_to_entries[group_name].append(copy.deepcopy(normalized))
 
           tag_items = []
           for tag, entries in tag_to_entries.items():
@@ -137,6 +193,34 @@ jobs:
                       "file": file_name,
                   }
               )
+
+          expected_group_files = set()
+          for group_name, entries in group_to_entries.items():
+              entries.sort(key=lambda x: x.get("_sort_time", 0), reverse=True)
+              for item in entries:
+                  item.pop("_sort_time", None)
+
+              file_name = f"groups/{group_name}.json"
+              expected_group_files.add(file_name)
+              target = ROOT / file_name
+              target.write_text(
+                  json.dumps(
+                      {
+                          "group": group_name,
+                          "generated_at": now,
+                          "summary": entries,
+                      },
+                      ensure_ascii=False,
+                      indent=2,
+                  )
+                  + "\n",
+                  encoding="utf-8",
+              )
+
+          for stale_path in GROUPS_DIR.glob("*.json"):
+              relative_name = f"groups/{stale_path.name}"
+              if relative_name not in expected_group_files:
+                  stale_path.unlink()
 
           for stale in stale_files - generated_files:
               stale_path = ROOT / stale
