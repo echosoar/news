@@ -39,6 +39,18 @@ jobs:
           DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
           now = datetime.datetime.now(tz=datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
+          def to_date_timestamp(value):
+              if not isinstance(value, str):
+                  return 0
+              normalized = value.strip()
+              if not normalized:
+                  return 0
+              try:
+                  dt = datetime.datetime.strptime(normalized, "%Y-%m-%d")
+                  return int(dt.replace(tzinfo=datetime.timezone.utc).timestamp())
+              except Exception:
+                  return 0
+
           TAGS_DIR.mkdir(exist_ok=True)
           GROUPS_DIR.mkdir(exist_ok=True)
 
@@ -110,13 +122,13 @@ jobs:
                   if not tag_list:
                       tag_list = ["未分类"]
 
-                  sort_date = file_path.stem
-                  if isinstance(date_value, str) and DATE_FILE_RE.match(f"{date_value}.json"):
-                      sort_date = date_value
+                  sort_timestamp = to_date_timestamp(date_value)
+                  if sort_timestamp == 0:
+                      sort_timestamp = to_date_timestamp(file_path.stem)
 
                   normalized = copy.deepcopy(item)
                   normalized["date"] = date_value
-                  normalized["_sort_date"] = sort_date
+                  normalized["_sort_date"] = sort_timestamp
 
                   item_key = json.dumps(
                       {
@@ -149,7 +161,7 @@ jobs:
 
           tag_items = []
           for tag, entries in tag_to_entries.items():
-              entries.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
+              entries.sort(key=lambda x: x.get("_sort_date", 0), reverse=True)
               for item in entries:
                   item.pop("_sort_date", None)
 
@@ -179,7 +191,7 @@ jobs:
 
           expected_group_files = set()
           for group_name, entries in group_to_entries.items():
-              entries.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
+              entries.sort(key=lambda x: x.get("_sort_date", 0), reverse=True)
               for item in entries:
                   item.pop("_sort_date", None)
 
