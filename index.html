@@ -202,6 +202,12 @@
       font-size: .98rem;
     }
 
+    .item-date {
+      margin: .55rem 0 0;
+      color: var(--muted);
+      font-size: .86rem;
+    }
+
     .tags {
       display: flex;
       flex-wrap: wrap;
@@ -546,6 +552,13 @@
         summary.className = "summary";
         summary.textContent = normalizedSummary;
         card.appendChild(summary);
+      }
+
+      if ((PAGE_MODE === "group" || PAGE_MODE === "tag") && item.date) {
+        const date = document.createElement("p");
+        date.className = "item-date";
+        date.textContent = item.date;
+        card.appendChild(date);
       }
 
       dayEl.appendChild(card);
