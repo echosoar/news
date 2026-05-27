@@ -157,6 +157,45 @@
       color: var(--accent-2);
     }
 
+    .day-title-row {
+      margin: 0 0 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .8rem;
+    }
+
+    .day-title-row .day-title {
+      margin: 0;
+    }
+
+    .title-action-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 1.9rem;
+      padding: 0 .7rem;
+      border-radius: 10px;
+      border: 1px solid rgba(173, 193, 255, 0.42);
+      background: rgba(255, 255, 255, 0.08);
+      color: #f7f9ff;
+      font-family: inherit;
+      font-size: .84rem;
+      cursor: pointer;
+      transition: background .2s ease, border-color .2s ease;
+    }
+
+    .title-action-btn:hover {
+      background: rgba(255, 255, 255, 0.16);
+      border-color: rgba(134, 247, 255, 0.65);
+    }
+
+    .title-action-btn.active {
+      border-color: rgba(255, 202, 134, 0.9);
+      background: rgba(255, 202, 134, 0.18);
+      color: #fff5e9;
+    }
+
     .day-title-link {
       color: inherit;
       text-decoration: none;
@@ -252,6 +291,10 @@
       border-color: rgba(134, 247, 255, 0.45);
     }
 
+    .tag-directory-item.dimmed {
+      opacity: 0.2;
+    }
+
     .tag-directory-count {
       color: var(--muted);
       font-size: .85rem;
@@ -301,6 +344,7 @@
     }
 
     .voice-provider,
+    .voice-range,
     .voice-token {
       height: 2.15rem;
       border-radius: 10px;
@@ -314,6 +358,7 @@
     }
 
     .voice-provider:focus,
+    .voice-range:focus,
     .voice-token:focus {
       border-color: rgba(134, 247, 255, 0.85);
       box-shadow: 0 0 0 2px rgba(134, 247, 255, 0.18);
@@ -425,6 +470,12 @@
       </label>
     </div>
     <div class="voice-controls">
+      <select id="voice-range" class="voice-range" aria-label="播放范围">
+        <option value="today">当日</option>
+        <option value="three-days">三日</option>
+        <option value="week">一周</option>
+        <option value="all">全部</option>
+      </select>
       <button id="voice-play-toggle" class="voice-btn primary" type="button">播放</button>
       <button id="voice-stop" class="voice-btn" type="button">停止</button>
     </div>
@@ -439,6 +490,7 @@
     const providerEl = document.getElementById("voice-provider");
     const tokenWrapEl = document.getElementById("voice-token-wrap");
     const tokenEl = document.getElementById("voice-token");
+    const rangeEl = document.getElementById("voice-range");
     const playToggleEl = document.getElementById("voice-play-toggle");
     const stopEl = document.getElementById("voice-stop");
     const voiceStateEl = document.getElementById("voice-state");
@@ -446,8 +498,10 @@
     const tagsButtonEl = document.getElementById("tags-button");
     const VOICE_PROVIDER_STORAGE_KEY = "news.voice.provider";
     const VOICE_TOKEN_STORAGE_KEY = "news.voice.token";
-    const LOOP_CURRENT_DAY = true;
+    const VOICE_RANGE_STORAGE_KEY = "news.voice.range";
     const MAX_CONSECUTIVE_EMPTY_DAYS = 3;
+    const PLAYBACK_EMPTY_DAY_SEARCH_LIMIT = 90;
+    const PLAYBACK_PREFETCH_REMAINING_THRESHOLD = 3;
     const loadedDays = new Set();
     let loading = false;
     let loadStoppedByEmptyDays = false;
@@ -464,6 +518,7 @@
     const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("group") ? "group" : (queryParams.get("tag") ? "tag" : "home"));
     const CURRENT_GROUP = (queryParams.get("group") || "").trim();
     const CURRENT_TAG = (queryParams.get("tag") || "").trim();
+    let hideGroupedTagsEnabled = false;
 
 
     function pad(v) {
@@ -513,6 +568,7 @@
       const title = document.createElement("h2");
       title.className = "day-title";
       if (isValidDateString(date)) {
+        day.dataset.date = date;
         const titleLink = document.createElement("a");
         titleLink.className = "day-title-link";
         titleLink.href = `?date=${encodeURIComponent(date)}`;
@@ -529,6 +585,11 @@
     function renderCard(item, dayEl) {
       const card = document.createElement("article");
       card.className = "card";
+      const fallbackDate = dayEl?.dataset?.date || "";
+      const cardDate = isValidDateString(item?.date || "") ? item.date : fallbackDate;
+      if (isValidDateString(cardDate)) {
+        card.dataset.date = cardDate;
+      }
 
       const title = document.createElement("h3");
       title.className = "title";
@@ -584,10 +645,18 @@
       localStorage.setItem(VOICE_TOKEN_STORAGE_KEY, tokenEl.value);
     }
 
+    function saveVoiceRange() {
+      localStorage.setItem(VOICE_RANGE_STORAGE_KEY, rangeEl.value);
+    }
+
     function restoreVoiceSettings() {
       const savedProvider = localStorage.getItem(VOICE_PROVIDER_STORAGE_KEY);
       if (savedProvider === "browser" || savedProvider === "mimo") {
         providerEl.value = savedProvider;
+      }
+      const savedRange = localStorage.getItem(VOICE_RANGE_STORAGE_KEY);
+      if (savedRange === "today" || savedRange === "three-days" || savedRange === "week" || savedRange === "all") {
+        rangeEl.value = savedRange;
       }
       tokenEl.value = localStorage.getItem(VOICE_TOKEN_STORAGE_KEY) || "";
       tokenWrapEl.classList.toggle("show", providerEl.value === "mimo");
@@ -637,12 +706,60 @@
       return false;
     }
 
-    function collectSpeakableItems() {
-      const dayEls = Array.from(contentEl.querySelectorAll(".day"));
-      const firstPlayableDayEl = dayEls.find(dayEl => dayEl.querySelector(".card"));
-      const cards = firstPlayableDayEl
-        ? Array.from(firstPlayableDayEl.querySelectorAll(".card"))
-        : Array.from(contentEl.querySelectorAll(".card"));
+    function getRangeDayLimit(range) {
+      if (range === "today") return 1;
+      if (range === "three-days") return 3;
+      if (range === "week") return 7;
+      return Infinity;
+    }
+
+    function getCardDateForPlayback(card) {
+      const ownDate = card?.dataset?.date || "";
+      if (isValidDateString(ownDate)) return ownDate;
+      const dayDate = card?.closest(".day")?.dataset?.date || "";
+      if (isValidDateString(dayDate)) return dayDate;
+      return "";
+    }
+
+    function getDateRangeFilter(dateLimit, cards) {
+      if (!Number.isFinite(dateLimit)) return null;
+      const firstCardWithDate = cards.find(card => getCardDateForPlayback(card));
+      const firstDate = firstCardWithDate ? getCardDateForPlayback(firstCardWithDate) : "";
+      if (!firstDate) return null;
+      const firstDateObj = parseDate(firstDate);
+      if (!firstDateObj) return null;
+
+      return (card) => {
+        const cardDate = getCardDateForPlayback(card);
+        if (!cardDate) return false;
+        const cardDateObj = parseDate(cardDate);
+        if (!cardDateObj) return false;
+        const diffDays = Math.floor((firstDateObj.getTime() - cardDateObj.getTime()) / 86400000);
+        return diffDays >= 0 && diffDays < dateLimit;
+      };
+    }
+
+    function collectPlayableDayEls() {
+      return Array.from(contentEl.querySelectorAll(".day"))
+        .filter(dayEl => dayEl.dataset.date && dayEl.querySelector(".card"));
+    }
+
+    function collectSpeakableItems(range) {
+      const dayLimit = getRangeDayLimit(range);
+      const allCards = Array.from(contentEl.querySelectorAll(".card"));
+
+      let cards = allCards;
+      const dateRangeFilter = getDateRangeFilter(dayLimit, allCards);
+      if (dateRangeFilter) {
+        cards = allCards.filter(dateRangeFilter);
+      } else {
+        const dayEls = collectPlayableDayEls();
+        const targetDayEls = Number.isFinite(dayLimit) ? dayEls.slice(0, dayLimit) : dayEls;
+        if (targetDayEls.length) {
+          cards = targetDayEls.flatMap(dayEl => Array.from(dayEl.querySelectorAll(".card")));
+        }
+      }
+
       return cards
         .map(card => {
           const title = card.querySelector(".title")?.textContent?.trim() || "";
@@ -654,24 +771,75 @@
         .filter(item => item.text);
     }
 
-    async function ensureSpeakableItems() {
-      let items = collectSpeakableItems();
+    async function ensureRangeDaysLoaded(range, token) {
+      if (PAGE_MODE !== "home") return;
+      const dayLimit = getRangeDayLimit(range);
+      if (!Number.isFinite(dayLimit)) return;
+
+      while (collectPlayableDayEls().length < dayLimit) {
+        if (token !== playbackToken) return;
+        if (loading) {
+          await new Promise(resolve => setTimeout(resolve, 120));
+          continue;
+        }
+        const loaded = await loadNext({
+          allowBypassStop: true,
+          maxConsecutiveEmptyDays: PLAYBACK_EMPTY_DAY_SEARCH_LIMIT,
+          silentStatus: true
+        });
+        if (!loaded) return;
+      }
+    }
+
+    async function ensureSpeakableItems(range, token) {
+      await ensureRangeDaysLoaded(range, token);
+      let items = collectSpeakableItems(range);
       if (items.length) return items;
 
       updateVoiceState("正在查找可播放日期");
-      while (!loadStoppedByEmptyDays) {
+      while (true) {
+        if (token !== playbackToken) {
+          return [];
+        }
         if (loading) {
           await new Promise(resolve => setTimeout(resolve, 120));
         } else {
-          await loadNext();
+          const loaded = await loadNext({
+            allowBypassStop: true,
+            maxConsecutiveEmptyDays: PLAYBACK_EMPTY_DAY_SEARCH_LIMIT,
+            silentStatus: true
+          });
+          if (!loaded) {
+            return [];
+          }
         }
-        items = collectSpeakableItems();
+        await ensureRangeDaysLoaded(range, token);
+        items = collectSpeakableItems(range);
         if (items.length) {
           return items;
         }
       }
+    }
 
-      return [];
+    async function maybePrefetchByRange(range, items, cursor, token) {
+      if (PAGE_MODE !== "home") return items;
+
+      if (Number.isFinite(getRangeDayLimit(range))) {
+        await ensureRangeDaysLoaded(range, token);
+      }
+
+      const remaining = items.length - cursor - 1;
+      if (range === "all" && remaining <= PLAYBACK_PREFETCH_REMAINING_THRESHOLD && token === playbackToken) {
+        if (!loading) {
+          await loadNext({
+            allowBypassStop: true,
+            maxConsecutiveEmptyDays: PLAYBACK_EMPTY_DAY_SEARCH_LIMIT,
+            silentStatus: true
+          });
+        }
+      }
+
+      return collectSpeakableItems(range);
     }
 
     function clearSpeechEngines() {
@@ -933,20 +1101,39 @@
     }
 
     async function startPlayback() {
-      const items = await ensureSpeakableItems();
-      if (!items.length) {
-        updateVoiceState("暂无可播放内容");
-        return;
-      }
-
+      const range = rangeEl.value;
       playbackRunning = true;
       playbackPaused = false;
       playbackToken += 1;
       const token = playbackToken;
       updatePlayButton();
 
+      let items = await ensureSpeakableItems(range, token);
+      if (token !== playbackToken) {
+        return;
+      }
+      if (!items.length) {
+        playbackRunning = false;
+        playbackPaused = false;
+        updatePlayButton();
+        updateVoiceState("暂无可播放内容");
+        return;
+      }
+
       try {
         while (token === playbackToken) {
+          if (playbackCursor >= items.length) {
+            if (PAGE_MODE === "home") {
+              items = await maybePrefetchByRange(range, items, playbackCursor, token);
+            }
+            if (playbackCursor >= items.length) {
+              playbackCursor = 0;
+              if (!items.length) {
+                break;
+              }
+            }
+          }
+
           const item = items[playbackCursor];
           setActiveCard(item.card);
           centerCard(item.card);
@@ -956,8 +1143,10 @@
             if (token !== playbackToken) return;
             mimoAudioUrlCache.delete(playbackCursor);
 
-            const nextIndex = playbackCursor + 1 < items.length ? playbackCursor + 1 : (LOOP_CURRENT_DAY ? 0 : -1);
-            preloadMimoAudio(items, nextIndex, token);
+            const nextIndex = playbackCursor + 1 < items.length ? playbackCursor + 1 : -1;
+            if (nextIndex >= 0) {
+              preloadMimoAudio(items, nextIndex, token);
+            }
 
             updateVoiceState(`播放中 ${playbackCursor + 1}/${items.length}`);
             await playMimoAudioUrl(currentUrl);
@@ -971,10 +1160,14 @@
           }
           playbackCursor += 1;
 
+          items = await maybePrefetchByRange(range, items, playbackCursor, token);
+          if (token !== playbackToken) {
+            return;
+          }
+          if (!items.length) {
+            break;
+          }
           if (playbackCursor >= items.length) {
-            if (!LOOP_CURRENT_DAY) {
-              break;
-            }
             playbackCursor = 0;
           }
         }
@@ -994,36 +1187,79 @@
       try {
         const res = await fetch(`${dateString}.json`);
         if (!res.ok) {
-          renderEmpty(dateString, "本日数据尚在统计中");
           return false;
         }
         const data = await res.json();
         const summaries = Array.isArray(data.summary) ? data.summary : [];
         if (!summaries.length) {
-          renderEmpty(dateString, "本日数据尚在统计中");
           return false;
         }
         const dayEl = renderDayTitle(data.date || dateString);
         summaries.forEach(item => renderCard(item, dayEl));
         return true;
       } catch (error) {
-        renderEmpty(dateString, "本日数据尚在统计中");
         return false;
       }
     }
 
-    function renderTagDirectory(items) {
+    function createGroupedTagSet(groups) {
+      const set = new Set();
+      groups.forEach(groupItem => {
+        const tags = Array.isArray(groupItem?.tags) ? groupItem.tags : [];
+        tags.forEach(tag => {
+          const normalizedTag = String(tag || "").trim();
+          if (normalizedTag) {
+            set.add(normalizedTag);
+          }
+        });
+      });
+      return set;
+    }
+
+    function updateGroupedTagOpacity() {
+      const groupedItems = Array.from(contentEl.querySelectorAll(".tag-directory-item[data-in-group='1']"));
+      groupedItems.forEach(item => {
+        item.classList.toggle("dimmed", hideGroupedTagsEnabled);
+      });
+    }
+
+    function renderTagDirectory(items, groupedTagSet) {
       const dayEl = renderDayTitle("标签");
+      const title = dayEl.querySelector(".day-title");
+      if (title) {
+        const row = document.createElement("div");
+        row.className = "day-title-row";
+
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "title-action-btn";
+        button.textContent = "未分组标签";
+        button.setAttribute("aria-pressed", "false");
+        button.addEventListener("click", () => {
+          hideGroupedTagsEnabled = !hideGroupedTagsEnabled;
+          button.classList.toggle("active", hideGroupedTagsEnabled);
+          button.setAttribute("aria-pressed", String(hideGroupedTagsEnabled));
+          updateGroupedTagOpacity();
+        });
+
+        title.parentNode.insertBefore(row, title);
+        row.appendChild(title);
+        row.appendChild(button);
+      }
+
       const box = document.createElement("div");
       box.className = "tag-directory";
 
       items.forEach(item => {
+        const tagName = String(item.tag || "").trim();
+        if (!tagName) return;
         const link = document.createElement("a");
         link.className = "tag-directory-item";
-        link.href = `?tag=${encodeURIComponent(item.tag)}`;
+        link.href = `?tag=${encodeURIComponent(tagName)}`;
+        link.dataset.inGroup = groupedTagSet.has(tagName) ? "1" : "0";
 
         const name = document.createElement("span");
-        name.textContent = item.tag;
+        name.textContent = tagName;
         link.appendChild(name);
 
         const count = document.createElement("span");
@@ -1035,6 +1271,7 @@
       });
 
       dayEl.appendChild(box);
+      updateGroupedTagOpacity();
     }
 
     function renderGroupDirectory(items) {
@@ -1056,18 +1293,29 @@
     async function loadTagsPage() {
       statusEl.textContent = "加载中...";
       try {
-        const res = await fetch("tags.json");
-        if (!res.ok) {
+        const [tagsRes, groupRes] = await Promise.all([
+          fetch("tags.json"),
+          fetch("group.json")
+        ]);
+        if (!tagsRes.ok) {
           renderEmpty("标签", "标签数据尚未生成");
           return;
         }
-        const data = await res.json();
+        const data = await tagsRes.json();
         const tags = Array.isArray(data.tags) ? data.tags : [];
         if (!tags.length) {
           renderEmpty("标签", "暂无标签数据");
           return;
         }
-        renderTagDirectory(tags);
+
+        let groupedTagSet = new Set();
+        if (groupRes.ok) {
+          const groupData = await groupRes.json();
+          const groups = Array.isArray(groupData.groups) ? groupData.groups : [];
+          groupedTagSet = createGroupedTagSet(groups);
+        }
+
+        renderTagDirectory(tags, groupedTagSet);
       } catch (error) {
         renderEmpty("标签", "标签数据加载失败");
       } finally {
@@ -1148,29 +1396,44 @@
       }
     }
 
-    async function loadNext() {
-      if (loading || loadStoppedByEmptyDays) return;
+    async function loadNext(options = {}) {
+      const {
+        allowBypassStop = false,
+        maxConsecutiveEmptyDays = MAX_CONSECUTIVE_EMPTY_DAYS,
+        silentStatus = false
+      } = options;
+
+      if (loading || (loadStoppedByEmptyDays && !allowBypassStop)) return false;
       loading = true;
-      statusEl.textContent = "加载中...";
+      if (!silentStatus) {
+        statusEl.textContent = "加载中...";
+      }
+
+      let loadedData = false;
       try {
         let consecutiveEmptyDays = 0;
-        while (consecutiveEmptyDays < MAX_CONSECUTIVE_EMPTY_DAYS) {
+        while (consecutiveEmptyDays < maxConsecutiveEmptyDays) {
           const current = nextDate;
           nextDate = previousDate(nextDate);
           const hasData = await loadDate(current);
           if (hasData) {
-            return;
+            loadedData = true;
+            return true;
           }
           consecutiveEmptyDays += 1;
         }
 
-        loadStoppedByEmptyDays = true;
-        observer.unobserve(sentinel);
-        statusEl.textContent = `前${MAX_CONSECUTIVE_EMPTY_DAYS}日连续暂无数据，已停止自动加载`;
-        return;
+        if (!allowBypassStop) {
+          loadStoppedByEmptyDays = true;
+          observer.unobserve(sentinel);
+          if (!silentStatus) {
+            statusEl.textContent = `前${MAX_CONSECUTIVE_EMPTY_DAYS}日连续暂无数据，已停止自动加载`;
+          }
+        }
+        return false;
       } finally {
         loading = false;
-        if (!loadStoppedByEmptyDays) {
+        if (!loadStoppedByEmptyDays && !silentStatus && loadedData) {
           statusEl.textContent = "";
         }
       }
@@ -1192,6 +1455,13 @@
 
     tokenEl.addEventListener("input", () => {
       saveVoiceToken();
+    });
+
+    rangeEl.addEventListener("change", () => {
+      saveVoiceRange();
+      if (playbackRunning) {
+        stopPlayback("播放范围已切换");
+      }
     });
 
     playToggleEl.addEventListener("click", () => {
