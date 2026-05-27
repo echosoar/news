@@ -1,0 +1,17 @@
+{
+  "tag": "百万token",
+  "generated_at": "2026-05-27T01:26:11Z",
+  "summary": [
+    {
+      "title": "昆仑万维天工AI发布SkyClaw-v1.0，支持百万token上下文",
+      "tags": [
+        "昆仑万维",
+        "天工AI",
+        "大模型",
+        "百万token"
+      ],
+      "summary": "昆仑万维天工AI于2026年5月26日正式推出高性能Agent模型SkyClaw-v1.0，同时发布轻量化版本SkyClaw-v1.0-lite。该模型支持百万token上下文，深度适配真实智能体工作场景，重点优化了复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析等功能。SkyClaw-v1.0经过大规模中间训练、高质量合成任务有监督微调和端到端强化学习优化，可在OpenClaw、Hermes、Nanobot等主流Agent环境中运行，并兼容Claude Code、Codex等代码Agent框架。在主流Agent基准测试和内部任务评测中，SkyClaw-v1.0表现出稳定的多步任务执行能力，性能全面超越Minimax 2.7、DeepSeek V4 Flash以及Qwen 3.6 35B A3B和27B模型；在OpenClaw相关任务上表现接近DeepSeek V4 Pro、Claude Opus 4.6、Qwen 3.6 Plus等更大规模模型。该模型定价低于Minimax 2.7与Qwen 3.6系列模型的一半，具有极高性价比。自2026年5月22日起，用户可直接登录天工Skywork官网使用，无需额外配置Agent环境。即日起至未来2至4周内，SkyClaw-v1",
+      "date": "2026-05-26"
+    }
+  ]
+}
