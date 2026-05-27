@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-27T01:26:11Z",
+  "generated_at": "2026-05-27T07:41:25Z",
   "tags": [
     {
       "tag": "国际",
-      "count": 30,
+      "count": 32,
       "file": "tags/国际.json"
     },
     {
       "tag": "科技",
-      "count": 30,
+      "count": 31,
       "file": "tags/科技.json"
     },
     {
       "tag": "军事",
-      "count": 18,
+      "count": 20,
       "file": "tags/军事.json"
     },
     {
       "tag": "美国",
-      "count": 18,
+      "count": 19,
       "file": "tags/美国.json"
     },
     {
@@ -28,8 +28,18 @@
     },
     {
       "tag": "以色列",
-      "count": 10,
+      "count": 11,
       "file": "tags/以色列.json"
+    },
+    {
+      "tag": "中国",
+      "count": 8,
+      "file": "tags/中国.json"
+    },
+    {
+      "tag": "特朗普",
+      "count": 8,
+      "file": "tags/特朗普.json"
     },
     {
       "tag": "AI",
@@ -37,24 +47,14 @@
       "file": "tags/AI.json"
     },
     {
-      "tag": "中国",
+      "tag": "SpaceX",
       "count": 7,
-      "file": "tags/中国.json"
-    },
-    {
-      "tag": "特朗普",
-      "count": 7,
-      "file": "tags/特朗普.json"
+      "file": "tags/SpaceX.json"
     },
     {
       "tag": "霍尔木兹海峡",
       "count": 7,
       "file": "tags/霍尔木兹海峡.json"
-    },
-    {
-      "tag": "SpaceX",
-      "count": 6,
-      "file": "tags/SpaceX.json"
     },
     {
       "tag": "俄乌冲突",
@@ -120,6 +120,11 @@
       "tag": "日本",
       "count": 4,
       "file": "tags/日本.json"
+    },
+    {
+      "tag": "英国",
+      "count": 4,
+      "file": "tags/英国.json"
     },
     {
       "tag": "韩国",
@@ -272,11 +277,6 @@
       "file": "tags/英伟达.json"
     },
     {
-      "tag": "英国",
-      "count": 3,
-      "file": "tags/英国.json"
-    },
-    {
       "tag": "跨国犯罪",
       "count": 3,
       "file": "tags/跨国犯罪.json"
@@ -362,6 +362,11 @@
       "file": "tags/制裁.json"
     },
     {
+      "tag": "加沙",
+      "count": 2,
+      "file": "tags/加沙.json"
+    },
+    {
       "tag": "劳资纠纷",
       "count": 2,
       "file": "tags/劳资纠纷.json"
@@ -392,6 +397,11 @@
       "file": "tags/司法.json"
     },
     {
+      "tag": "哈马斯",
+      "count": 2,
+      "file": "tags/哈马斯.json"
+    },
+    {
       "tag": "大模型",
       "count": 2,
       "file": "tags/大模型.json"
@@ -405,6 +415,11 @@
       "tag": "委内瑞拉",
       "count": 2,
       "file": "tags/委内瑞拉.json"
+    },
+    {
+      "tag": "安全",
+      "count": 2,
+      "file": "tags/安全.json"
     },
     {
       "tag": "安全生产",
@@ -425,6 +440,11 @@
       "tag": "强降雨",
       "count": 2,
       "file": "tags/强降雨.json"
+    },
+    {
+      "tag": "收购",
+      "count": 2,
+      "file": "tags/收购.json"
     },
     {
       "tag": "政治",
@@ -502,6 +522,11 @@
       "file": "tags/缅北.json"
     },
     {
+      "tag": "网络安全",
+      "count": 2,
+      "file": "tags/网络安全.json"
+    },
+    {
       "tag": "罢工",
       "count": 2,
       "file": "tags/罢工.json"
@@ -510,6 +535,11 @@
       "tag": "美伊关系",
       "count": 2,
       "file": "tags/美伊关系.json"
+    },
+    {
+      "tag": "美国政治",
+      "count": 2,
+      "file": "tags/美国政治.json"
     },
     {
       "tag": "能源安全",
@@ -817,6 +847,11 @@
       "file": "tags/二氧化碳.json"
     },
     {
+      "tag": "二维码陷阱",
+      "count": 1,
+      "file": "tags/二维码陷阱.json"
+    },
+    {
       "tag": "亚伯拉罕协议",
       "count": 1,
       "file": "tags/亚伯拉罕协议.json"
@@ -825,6 +860,11 @@
       "tag": "产业化",
       "count": 1,
       "file": "tags/产业化.json"
+    },
+    {
+      "tag": "京东",
+      "count": 1,
+      "file": "tags/京东.json"
     },
     {
       "tag": "人工细胞",
@@ -1027,11 +1067,6 @@
       "file": "tags/加巴德.json"
     },
     {
-      "tag": "加沙",
-      "count": 1,
-      "file": "tags/加沙.json"
-    },
-    {
       "tag": "匈牙利",
       "count": 1,
       "file": "tags/匈牙利.json"
@@ -1160,11 +1195,6 @@
       "tag": "哈萨克斯坦",
       "count": 1,
       "file": "tags/哈萨克斯坦.json"
-    },
-    {
-      "tag": "哈马斯",
-      "count": 1,
-      "file": "tags/哈马斯.json"
     },
     {
       "tag": "哥伦比亚",
@@ -1297,6 +1327,11 @@
       "file": "tags/天工AI.json"
     },
     {
+      "tag": "太空合同",
+      "count": 1,
+      "file": "tags/太空合同.json"
+    },
+    {
       "tag": "太阳能",
       "count": 1,
       "file": "tags/太阳能.json"
@@ -1315,11 +1350,6 @@
       "tag": "学校遇袭",
       "count": 1,
       "file": "tags/学校遇袭.json"
-    },
-    {
-      "tag": "安全",
-      "count": 1,
-      "file": "tags/安全.json"
     },
     {
       "tag": "安全事故",
@@ -1525,11 +1555,6 @@
       "tag": "撤离警告",
       "count": 1,
       "file": "tags/撤离警告.json"
-    },
-    {
-      "tag": "收购",
-      "count": 1,
-      "file": "tags/收购.json"
     },
     {
       "tag": "政策",
@@ -1877,6 +1902,11 @@
       "file": "tags/电力.json"
     },
     {
+      "tag": "电商",
+      "count": 1,
+      "file": "tags/电商.json"
+    },
+    {
       "tag": "白宫枪击",
       "count": 1,
       "file": "tags/白宫枪击.json"
@@ -2027,11 +2057,6 @@
       "file": "tags/网络.json"
     },
     {
-      "tag": "网络安全",
-      "count": 1,
-      "file": "tags/网络安全.json"
-    },
-    {
       "tag": "美伊冲突",
       "count": 1,
       "file": "tags/美伊冲突.json"
@@ -2070,11 +2095,6 @@
       "tag": "美国市场",
       "count": 1,
       "file": "tags/美国市场.json"
-    },
-    {
-      "tag": "美国政治",
-      "count": 1,
-      "file": "tags/美国政治.json"
     },
     {
       "tag": "美国枪击",
