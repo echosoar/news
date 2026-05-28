@@ -149,6 +149,9 @@ jobs:
 
           tag_items = []
           for tag, entries in tag_to_entries.items():
+              if len(entries) < 2:
+                  continue
+
               entries.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
               for item in entries:
                   item.pop("_sort_date", None)
