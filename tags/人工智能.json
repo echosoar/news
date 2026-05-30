@@ -1,7 +1,19 @@
 {
   "tag": "人工智能",
-  "generated_at": "2026-05-28T23:17:45Z",
+  "generated_at": "2026-05-30T03:31:22Z",
   "summary": [
+    {
+      "title": "Anthropic完成H轮融资，估值9650亿美元首超OpenAI",
+      "tags": [
+        "Anthropic",
+        "AI融资",
+        "估值",
+        "OpenAI",
+        "人工智能"
+      ],
+      "summary": "人工智能公司Anthropic PBC宣布完成新一轮H轮融资，募资650亿美元，投后估值达到9650亿美元，首次超越竞争对手OpenAI。本轮融资由Altimeter Capital、Dragoneer、Greenoaks和红杉资本领投，在短短数周内敲定，显示出投资者对这家Claude人工智能模型开发商的需求十分强劲。此前有报道称，Anthropic在4月下旬收到多份融资提案后，一直在权衡是否以超过9000亿美元的估值寻求新融资，并于本月早些时候启动深入谈判。",
+      "date": "2026-05-29"
+    },
     {
       "title": "腾讯自研AI设计智能体Ardot公测 一句话生成可编辑设计稿",
       "tags": [
