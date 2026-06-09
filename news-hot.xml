@@ -5,14 +5,29 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>（有片）习近平和彭丽媛观看朝鲜专场文艺演出</title>
-      <link>https://www.wenweipo.com/a/202606/08/AP6a26e1a1e4b0b49ad1be8cea.html</link>
-      <pubDate>Mon, 08 Jun 2026 16:05:31 +0000</pubDate>
+      <title>微信公布AI生态布局新进展：肯德基作为首批餐饮企业接入</title>
+      <link>https://g.pconline.com.cn/x/2168/21687123.html</link>
+      <pubDate>Mon, 08 Jun 2026 16:02:00 +0000</pubDate>
     </item>
     <item>
       <title>特朗普曾警告以总理勿再攻伊朗 否则将遭孤立</title>
       <link>https://www.huanqiu.com/article/4Ru6nQaqEaL</link>
       <pubDate>Mon, 08 Jun 2026 23:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>（有片）习近平和彭丽媛观看朝鲜专场文艺演出</title>
+      <link>https://www.wenweipo.com/a/202606/08/AP6a26e1a1e4b0b49ad1be8cea.html</link>
+      <pubDate>Mon, 08 Jun 2026 16:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果推出Siri AI：设独立App，使用时灵动岛将浮出大气泡</title>
+      <link>https://finance.sina.com.cn/tech/2026-06-09/doc-iniattqy8342244.shtml</link>
+      <pubDate>Mon, 08 Jun 2026 18:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>利用AI制作生成涉军虚假信息典型案例</title>
+      <link>https://www.huanqiu.com/article/4Ru7RYcWh8N</link>
+      <pubDate>Tue, 09 Jun 2026 00:12:07 +0000</pubDate>
     </item>
     <item>
       <title>美法官裁定特朗普政府抬高H-1B签证费违法</title>
@@ -25,9 +40,29 @@
       <pubDate>Mon, 08 Jun 2026 23:38:09 +0000</pubDate>
     </item>
     <item>
-      <title>利用AI制作生成涉军虚假信息典型案例</title>
-      <link>https://www.huanqiu.com/article/4Ru7RYcWh8N</link>
-      <pubDate>Tue, 09 Jun 2026 00:12:07 +0000</pubDate>
+      <title>一架美军直升机在霍尔木兹海峡附近坠毁</title>
+      <link>https://news.ifeng.com/c/8toUzUJ3j9R</link>
+      <pubDate>Tue, 09 Jun 2026 03:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>陕西省西安市人大常委会原党组书记、主任韩松被提起公诉</title>
+      <link>https://www.bjnews.com.cn/detail-1780968343129074.html</link>
+      <pubDate>Tue, 09 Jun 2026 02:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>报道：SpaceX IPO获大幅超额认购，机构认购将于周三截止</title>
+      <link>https://wallstreetcn.com/articles/3774149</link>
+      <pubDate>Mon, 08 Jun 2026 18:32:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>美军在阿曼湾袭击一艘油轮</title>
+      <link>https://www.news.cn/world/20260609/1243130a3f5b4244b8e43fed8a562beb/c.html</link>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>百度：获悉美国国防部将本公司列入国防部的中国军工企业名单，公司认为将其列入该名单并无正当理由</title>
+      <link>https://www.tmtpost.com/nictation/8020439.html</link>
+      <pubDate>Tue, 09 Jun 2026 04:16:00 +0000</pubDate>
     </item>
     <item>
       <title>马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络</title>
@@ -40,9 +75,24 @@
       <pubDate>Mon, 08 Jun 2026 18:32:30 +0000</pubDate>
     </item>
     <item>
+      <title>万斯：美将推动同伊达成核协议，不管以色列是否愿意</title>
+      <link>https://www.news.cn/world/20260609/269811d4ea5d4f45bff03c9c42305a54/c.html</link>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中东战事致美航空公司燃油成本飙升</title>
+      <link>https://news.cctv.com/2026/06/09/ARTIKIIOJEiKBlW5dSJ6xyZy260609.shtml</link>
+      <pubDate>Tue, 09 Jun 2026 02:21:28 +0000</pubDate>
+    </item>
+    <item>
       <title>TCL华星宣布供屏小米17T系列 峰值3500nits 超级阳光屏</title>
       <link>https://news.mydrivers.com/1/1128/1128152.htm</link>
       <pubDate>Mon, 08 Jun 2026 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>前5个月货物贸易进出口增15.3%</title>
+      <link>https://www.news.cn/fortune/20260609/fc27a885fdfd4184a7f0677260a5759f/c.html</link>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
