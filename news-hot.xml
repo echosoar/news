@@ -5,174 +5,39 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>特朗普表态大转弯</title>
-      <link>https://www.news.cn/world/20260612/2c698c2dd21f4ce2a8cbb368d0b9485e/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
+      <title>伊朗外长披露伊美谅解备忘录草案部分内容</title>
+      <link>https://www.news.cn/world/20260613/b276952b5ae241b59422dd72df1189b5/c.html</link>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>集体大涨，日经指数涨近2600点，韩国综指直线拉升超600点，三星电子涨超10%，SK海力士</title>
-      <link>https://www.nbd.com.cn/articles/2026-06-12/4424205.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:28:13 +0000</pubDate>
+      <title>美国得克萨斯州发生大规模枪击事件致2死10伤</title>
+      <link>https://www.news.cn/world/20260613/ad511ed3e36045a3997fd85a56f3e65a/c.html</link>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>总共3人被罚下，墨西哥2:0战胜南非，赢下美加墨世界杯揭幕战</title>
-      <link>https://www.guanhai.com.cn/p/456557.html</link>
-      <pubDate>Thu, 11 Jun 2026 21:04:00 +0000</pubDate>
+      <title>特朗普政府：美国与伊朗可能在数日内签署协议，但并非100%确定</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8757297.shtml</link>
+      <pubDate>Fri, 12 Jun 2026 18:55:28 +0000</pubDate>
     </item>
     <item>
-      <title>伊媒公布谅解备忘录新细节</title>
-      <link>https://www.news.cn/world/20260612/c787dacafc6f4c3ab0723b54b31ceff6/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
+      <title>水利部：针对浙江、福建等七省启动洪水防御Ⅳ级应急响应</title>
+      <link>https://www.bjnews.com.cn/detail-1781281148129844.html</link>
+      <pubDate>Fri, 12 Jun 2026 16:28:42 +0000</pubDate>
     </item>
     <item>
-      <title>大疆起诉影石：指控Luna相机公然并全盘抄袭核心专利</title>
-      <link>https://news.mydrivers.com/1/1129/1129027.htm</link>
-      <pubDate>Fri, 12 Jun 2026 01:47:00 +0000</pubDate>
+      <title>SpaceX掀起IPO狂潮，摩根大通：华尔街投行业务或被低估</title>
+      <link>https://wallstreetcn.com/articles/3774550</link>
+      <pubDate>Fri, 12 Jun 2026 16:48:39 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceX确定发行价 募资750亿美元创史上最大IPO</title>
-      <link>https://www.cnbeta.com.tw/articles/tech/1565488.htm</link>
-      <pubDate>Thu, 11 Jun 2026 21:27:00 +0000</pubDate>
+      <title>巴基斯坦总理：美伊就协议最终文本达成一致</title>
+      <link>https://www.news.cn/world/20260613/cca33e9014e94076a9c15418239a060b/c.html</link>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HarmonyOS 7界面正式揭晓：华为版液态玻璃设计</title>
-      <link>https://news.mydrivers.com/1/1129/1129123.htm</link>
-      <pubDate>Fri, 12 Jun 2026 06:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>伊朗外交部：尚未就伊美协议达成最终结论</title>
-      <link>http://www.chinanews.com//gj/2026/06-12/10638774.shtml</link>
-      <pubDate>Thu, 11 Jun 2026 22:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>铁路儿童旅游计次票正式上线 家庭出游怎么买票最划算</title>
-      <link>http://www.chinanews.com//sh/2026/06-12/10638785.shtml</link>
-      <pubDate>Thu, 11 Jun 2026 23:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>公安部：我国电诈案件发案已连续8个月同比下降</title>
-      <link>https://www.bjnews.com.cn/detail-1781229686129180.html</link>
-      <pubDate>Fri, 12 Jun 2026 02:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>中央网信办举报中心开设涉AI应用乱象举报专区</title>
-      <link>https://www.bjnews.com.cn/detail-1781242618129337.html</link>
-      <pubDate>Fri, 12 Jun 2026 06:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>怎么晒太阳，护眼效果更好？｜五健童行向未来</title>
-      <link>http://www.chinanews.com//jk/2026/06-12/10638942.shtml</link>
-      <pubDate>Fri, 12 Jun 2026 03:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>五菱推出星光L新能源SUV 续航表现亮眼 能耗出众</title>
-      <link>https://news.zol.com.cn/1197/11971435.html</link>
-      <pubDate>Fri, 12 Jun 2026 02:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阿里云创始人王坚：AI对科研的影响，与对程序员的冲击逻辑一致</title>
-      <link>https://finance.sina.com.cn/tech/2026-06-12/doc-iniccnfv0262773.shtml</link>
-      <pubDate>Fri, 12 Jun 2026 04:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>黎巴嫩总统：以色列撤军等条件满足才会结束敌对状态</title>
-      <link>https://news.cctv.com/2026/06/12/ARTIoDPhvtpKpkDvKAMrJgLm260612.shtml</link>
-      <pubDate>Fri, 12 Jun 2026 03:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>广西兴安爆炸事件17名伤员生命体征平稳</title>
-      <link>https://www.bjnews.com.cn/detail-1781219938129118.html</link>
-      <pubDate>Thu, 11 Jun 2026 23:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>泰国公主帕查拉吉迪雅帕逝世</title>
-      <link>https://www.huanqiu.com/article/4RwdEDakirW</link>
-      <pubDate>Fri, 12 Jun 2026 00:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>超越苹果iOS，余承东：鸿蒙已成为国内第二大操作系统</title>
-      <link>https://news.mydrivers.com/1/1129/1129125.htm</link>
-      <pubDate>Fri, 12 Jun 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3.0%，贷款利率保持在低位水平</title>
-      <link>https://finance.sina.com.cn/china/2026-06-12/doc-iniccwvu8986815.shtml</link>
-      <pubDate>Fri, 12 Jun 2026 09:43:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>6月12日起 内地居民携带符合条件的犬猫赴澳门免于隔离检疫</title>
-      <link>https://news.cctv.com/2026/06/12/ARTImUkYqur5eTnDe7VYdwHw260612.shtml</link>
-      <pubDate>Fri, 12 Jun 2026 08:15:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>尹锡悦涉无人机事件一案一审被判有期徒刑30年</title>
-      <link>https://www.news.cn/world/20260612/2ab01207a6e84eeaad1f991dd685c60e/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>塞尔维亚总统武契奇表示计划辞职</title>
-      <link>https://www.news.cn/world/20260612/5e929714a22a4f12acae35ce7ea6a5c6/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>韩国选举机构因选票短缺事件遭搜查</title>
-      <link>https://www.news.cn/world/20260612/8dc5579f3ee0440793929b2a38907e3c/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美气象机构宣布厄尔尼诺现象形成</title>
-      <link>https://www.news.cn/world/20260612/e72a09359c724021bd927c35b365fc1d/c.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>工信部：处置涉诈高风险电话卡2亿张 可关闭境外来电功能</title>
-      <link>https://news.mydrivers.com/1/1129/1129051.htm</link>
-      <pubDate>Fri, 12 Jun 2026 03:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>到2030年新增超160列旅游专列 拓展出游场景新可能</title>
-      <link>https://www.huanqiu.com/article/4Rwd1Uwo3AY</link>
-      <pubDate>Fri, 12 Jun 2026 00:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>境外间谍利用谍龟谍鱼窃取我国海洋敏感数据 国家安全部提示</title>
-      <link>http://www.chinanews.com//gn/2026/06-12/10638772.shtml</link>
-      <pubDate>Thu, 11 Jun 2026 22:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小米YU7全系配备三重冗余车门把手：极端场景仍可解锁开门</title>
-      <link>https://news.mydrivers.com/1/1128/1128988.htm</link>
-      <pubDate>Thu, 11 Jun 2026 16:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>特朗普称美伊协议进入最后定稿阶段，有望本周末签署</title>
-      <link>https://www.guanhai.com.cn/p/456560.html</link>
-      <pubDate>Thu, 11 Jun 2026 22:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epic喜+2，《战锤40K：急速狂飙》和《衔尾蛇国王》免费领</title>
-      <link>https://news.mydrivers.com/1/1128/1128985.htm</link>
-      <pubDate>Thu, 11 Jun 2026 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>外媒：伊朗锡里克地区海岸附近传出爆炸声</title>
-      <link>http://www.chinanews.com//gj/2026/06-12/10638787.shtml</link>
-      <pubDate>Thu, 11 Jun 2026 23:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>五角大楼发生危险品事件　下令就地避难</title>
-      <link>https://www.wenweipo.com/a/202606/11/AP6a2adb39e4b0b49ad1befb23.html</link>
-      <pubDate>Thu, 11 Jun 2026 16:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>特朗普手机拆解后露馅了，换壳HTC 还贴上美国国旗</title>
-      <link>https://news.mydrivers.com/1/1128/1128983.htm</link>
-      <pubDate>Thu, 11 Jun 2026 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版</title>
-      <link>https://news.mydrivers.com/1/1129/1129088.htm</link>
-      <pubDate>Fri, 12 Jun 2026 04:04:00 +0000</pubDate>
+      <title>古巴国家主席谴责美国收紧对古石油封锁</title>
+      <link>https://www.news.cn/world/20260613/88a168b07a2b406bb59a60ba8b11731c/c.html</link>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
