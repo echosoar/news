@@ -1,7 +1,19 @@
 {
   "tag": "收购",
-  "generated_at": "2026-06-12T00:58:34Z",
+  "generated_at": "2026-06-16T02:13:12Z",
   "summary": [
+    {
+      "title": "OpenAI收购编程助手公司Ona，强化Codex能力",
+      "tags": [
+        "科技",
+        "AI",
+        "OpenAI",
+        "收购",
+        "编程"
+      ],
+      "summary": "OpenAI于2026年6月12日宣布收购初创公司Ona，旨在强化其编程助手Codex。Ona专注于为AI智能体提供安全、预配置的云环境，其技术将帮助Codex执行持续时间更长的任务，并协助用户将AI智能体安全部署到生产环境。此次收购将提升Codex在企业级应用中的能力，尤其是在基础设施、数据资产和安全边界的掌控方面。双方未公布交易金额，Ona团队将加入OpenAI，参与Codex项目的研发。此前，OpenAI已进行多次相关收购，包括2026年3月收购Python工具初创公司Astral，以及2025年9月收购专为苹果Xcode打造的AI编程助手Alex Codes。此外，OpenAI在2025年9月推出了针对Agent编程优化的GPT-5-Codex模型，并于同年10月启动了Codex Alpha抢先体验计划。",
+      "date": "2026-06-12"
+    },
     {
       "title": "红杉资本或收购徕卡相机公司，估值10亿欧元",
       "tags": [

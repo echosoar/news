@@ -1,7 +1,18 @@
 {
   "tag": "Anthropic",
-  "generated_at": "2026-06-12T00:58:34Z",
+  "generated_at": "2026-06-16T02:13:12Z",
   "summary": [
+    {
+      "title": "Anthropic长期警告AI风险换来出口管制，杨立昆称自食其果",
+      "tags": [
+        "科技",
+        "AI",
+        "出口管制",
+        "Anthropic"
+      ],
+      "summary": "Anthropic CEO达里奥·阿莫代伊长期以来频繁警告自家AI产品可能带来的风险，包括对网络安全、金融行业、关键基础设施和国家安全的威胁，并呼吁美国政府采取更强有力的干预措施。然而，他的警告起到了反作用：美国政府突然对Anthropic的最新模型Mythos 5和Fable 5实施出口管制，要求阻止外国用户访问这些模型，甚至包括Anthropic自己的外国员工。Anthropic已切断了对这两",
+      "date": "2026-06-15"
+    },
     {
       "title": "Anthropic CEO呼吁强制测试AI模型并赋予政府干预权",
       "tags": [
