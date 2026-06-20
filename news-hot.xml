@@ -5,9 +5,34 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>巴拿马籍船只被证实在黑海遇袭</title>
+      <link>https://www.news.cn/world/20260620/4a9a5d33b4eb4ae7be33ac28a598df2c/c.html</link>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>特朗普：Anthropic曾构成国家安全威胁</title>
       <link>https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1028618.shtml</link>
       <pubDate>Fri, 19 Jun 2026 21:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>英国贝德福德地区发生火车相撞事故</title>
+      <link>https://news.ifeng.com/c/8u38cxxrgER</link>
+      <pubDate>Fri, 19 Jun 2026 17:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>河南郑州宏达国际车业广场火灾致2人遇难</title>
+      <link>https://www.huanqiu.com/article/4S3F9T57c21</link>
+      <pubDate>Sat, 20 Jun 2026 00:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>金饰克价年内大跌近450元</title>
+      <link>https://finance.sina.com.cn/wm/2026-06-20/doc-iniczanf9060364.shtml</link>
+      <pubDate>Sat, 20 Jun 2026 00:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>五角大楼或需800亿美元为伊朗战事埋单</title>
+      <link>https://news.ifeng.com/c/8u6f5IoYXF6</link>
+      <pubDate>Sat, 20 Jun 2026 02:14:00 +0000</pubDate>
     </item>
     <item>
       <title>泽连斯基称乌俄谈判或将重启，允许俄方敲定具体形式</title>
@@ -15,9 +40,19 @@
       <pubDate>Fri, 19 Jun 2026 18:22:00 +0000</pubDate>
     </item>
     <item>
+      <title>特朗普的新专机，首次亮相</title>
+      <link>https://news.ifeng.com/c/8u6PLrUzvMb</link>
+      <pubDate>Fri, 19 Jun 2026 21:18:00 +0000</pubDate>
+    </item>
+    <item>
       <title>美国内华达州一热气球坠落 致多人重伤</title>
       <link>https://www.huanqiu.com/article/4S3DR9R0OXg</link>
       <pubDate>Fri, 19 Jun 2026 23:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>美媒：伊外长将赴瑞士 美总统特使正在途中</title>
+      <link>https://www.news.cn/world/20260620/dd37a22073e74914b0d8d2bfa84b4ea8/c.html</link>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>三名中国裁判将亮相世界杯同场比赛</title>
@@ -28,6 +63,11 @@
       <title>欧洲理事会主席：正建渠道以直接向俄传递欧盟信息</title>
       <link>https://www.news.cn/world/20260620/236a8286ae5a490c8f2a286b16549798/c.html</link>
       <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国务卿与黎总统通话 讨论黎以谈判安排</title>
+      <link>https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyweh2349863.shtml</link>
+      <pubDate>Fri, 19 Jun 2026 22:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
