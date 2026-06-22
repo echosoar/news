@@ -1,7 +1,18 @@
 {
   "tag": "OpenAI",
-  "generated_at": "2026-06-18T23:54:10Z",
+  "generated_at": "2026-06-22T01:00:40Z",
   "summary": [
+    {
+      "title": "Anthropic首席执行官谈与OpenAI竞争关系：理念不合各走各路",
+      "tags": [
+        "Anthropic",
+        "OpenAI",
+        "竞争关系",
+        "人工智能"
+      ],
+      "summary": "Anthropic首席执行官达里奥·阿莫迪近日接受访谈，谈及与OpenAI的竞争关系。他表示对双方竞争现状感到平静，但暗讽OpenAI首席执行官萨姆·奥特曼，称理念不合、互不信任时不必争辩，解决分歧就是各走各路，最终市场和舆论会评判对错。阿莫迪与妹妹丹妮拉等九名前OpenAI员工于2020年离开OpenAI创立Anthropic，目前该公司在生成式人工智能领域被认为已超越OpenAI。因《纽约客》揭露文章探讨奥特曼信任问题，阿莫迪离职事件再受关注，奥特曼随后将部分指责转向Anthropic。阿",
+      "date": "2026-06-19"
+    },
     {
       "title": "法国将为公职人员配备主权可控AI工具 韩国与OpenAI建立AI安全合作",
       "tags": [
