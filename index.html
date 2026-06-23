@@ -1483,6 +1483,12 @@
       downloadBtn.className = "day-markdown-tool-btn";
       downloadBtn.textContent = "下载";
 
+      const titlesBtn = document.createElement("button");
+      titlesBtn.type = "button";
+      titlesBtn.className = "day-markdown-tool-btn titles-btn";
+      titlesBtn.textContent = "仅展示标题";
+      modal.dataset.view = "full";
+
       const closeBtn = document.createElement("button");
       closeBtn.type = "button";
       closeBtn.className = "day-markdown-close";
@@ -1523,8 +1529,29 @@
         URL.revokeObjectURL(url);
       });
 
+      titlesBtn.addEventListener("click", () => {
+        if (!raw.dataset.full) raw.dataset.full = raw.value;
+        if (markdownModalEl.dataset.view === "titles") {
+          markdownModalEl.dataset.view = "full";
+          titlesBtn.textContent = "仅展示标题";
+          raw.value = raw.dataset.full;
+        } else {
+          markdownModalEl.dataset.view = "titles";
+          titlesBtn.textContent = "展示全文";
+          const dateStr = markdownModalEl.dataset.date || "";
+          const titles = (raw.dataset.full || "")
+            .split("\n")
+            .filter(line => /^####\s+/.test(line))
+            .map(line => "* " + line.replace(/^####\s+/, "").trim())
+            .join("\n");
+          const header = `每日热点 ${dateStr}`;
+          raw.value = [header, titles].filter(Boolean).join("\n") + (titles ? "\n" : "");
+        }
+      });
+
       tools.appendChild(copyBtn);
       tools.appendChild(downloadBtn);
+      tools.appendChild(titlesBtn);
       tools.appendChild(closeBtn);
 
       header.appendChild(heading);
@@ -1562,10 +1589,14 @@
       if (!markdownModalEl) return;
       if (!isValidDateString(dateString)) return;
       const raw = markdownModalEl.querySelector(".day-markdown-raw");
+      const titlesBtn = markdownModalEl.querySelector(".day-markdown-tool-btn.titles-btn");
       if (raw) {
         raw.value = "加载中...";
         raw.readOnly = true;
+        delete raw.dataset.full;
       }
+      markdownModalEl.dataset.view = "full";
+      if (titlesBtn) titlesBtn.textContent = "仅展示标题";
       markdownModalEl.dataset.date = dateString;
       markdownModalEl.classList.add("open");
       markdownModalEl.setAttribute("aria-hidden", "false");
