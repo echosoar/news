@@ -199,6 +199,159 @@
       color: var(--accent);
     }
 
+    .day-markdown-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 1.85rem;
+      height: 1.85rem;
+      padding: 0;
+      border-radius: 0;
+      border: var(--hair) solid var(--line);
+      background: transparent;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 1rem;
+      line-height: 1;
+      cursor: pointer;
+      transition: color .18s ease, border-color .18s ease, background .18s ease;
+    }
+
+    .day-markdown-btn:hover {
+      background: var(--surface-2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .day-markdown-btn:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    .day-markdown-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.2rem;
+      background: rgba(47, 42, 35, 0.45);
+    }
+
+    .day-markdown-modal.open {
+      display: flex;
+    }
+
+    .day-markdown-dialog {
+      width: min(720px, 100%);
+      max-height: calc(100vh - 2.4rem);
+      display: flex;
+      flex-direction: column;
+      background: var(--surface);
+      border: var(--hair) solid var(--line);
+      box-shadow: 0 18px 40px rgba(47, 42, 35, 0.18);
+    }
+
+    .day-markdown-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .8rem;
+      padding: .8rem 1.1rem;
+      border-bottom: var(--hair) solid var(--line-soft);
+    }
+
+    .day-markdown-header h3 {
+      margin: 0;
+      font-family: "Fraunces", "Noto Serif SC", serif;
+      font-size: 1.05rem;
+      font-weight: 500;
+      color: var(--accent);
+    }
+
+    .day-markdown-close {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 1.85rem;
+      height: 1.85rem;
+      border: var(--hair) solid var(--line);
+      background: transparent;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 1rem;
+      line-height: 1;
+      cursor: pointer;
+      transition: color .18s ease, border-color .18s ease, background .18s ease;
+    }
+
+    .day-markdown-close:hover {
+      background: var(--surface-2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .day-markdown-tools {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+    }
+
+    .day-markdown-tool-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 1.85rem;
+      padding: 0 .7rem;
+      border: var(--hair) solid var(--line);
+      background: transparent;
+      color: var(--text);
+      font-family: inherit;
+      font-size: .82rem;
+      cursor: pointer;
+      transition: color .18s ease, border-color .18s ease, background .18s ease;
+    }
+
+    .day-markdown-tool-btn:hover {
+      background: var(--surface-2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .day-markdown-body {
+      padding: 1.1rem 1.3rem 1.4rem;
+      overflow-y: auto;
+    }
+
+    .day-markdown-raw {
+      width: 100%;
+      min-height: 18rem;
+      max-height: calc(100vh - 12rem);
+      margin: 0;
+      padding: .9rem 1rem;
+      border: var(--hair) solid var(--line);
+      background: var(--bg);
+      color: var(--text);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Noto Serif SC", monospace;
+      font-size: .88rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      word-break: break-word;
+      overflow-y: auto;
+      resize: vertical;
+    }
+
+    .day-markdown-raw:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    .day-markdown-error {
+      color: var(--muted);
+      font-size: .92rem;
+    }
+
     .day-title-link {
       color: inherit;
       text-decoration: none;
@@ -518,6 +671,8 @@
     const PLAYBACK_EMPTY_DAY_SEARCH_LIMIT = 90;
     const PLAYBACK_PREFETCH_REMAINING_THRESHOLD = 3;
     const loadedDays = new Set();
+    const dateDataCache = new Map();
+    const markdownModalEl = createMarkdownModal();
     let loading = false;
     let loadStoppedByEmptyDays = false;
     let nextDate = getInitialDate();
@@ -589,9 +744,27 @@
         titleLink.href = `?date=${encodeURIComponent(date)}`;
         titleLink.textContent = date;
         title.appendChild(titleLink);
-      } else {
-        title.textContent = date;
+
+        const row = document.createElement("div");
+        row.className = "day-title-row";
+        row.appendChild(title);
+
+        const markdownBtn = document.createElement("button");
+        markdownBtn.type = "button";
+        markdownBtn.className = "day-markdown-btn";
+        markdownBtn.setAttribute("aria-label", "查看当日热点 Markdown");
+        markdownBtn.textContent = "▾";
+        markdownBtn.title = "查看当日热点 Markdown";
+        markdownBtn.addEventListener("click", () => {
+          openDayMarkdownModal(date);
+        });
+        row.appendChild(markdownBtn);
+
+        day.appendChild(row);
+        contentEl.appendChild(day);
+        return day;
       }
+      title.textContent = date;
       day.appendChild(title);
       contentEl.appendChild(day);
       return day;
@@ -1209,12 +1382,205 @@
         if (!summaries.length) {
           return false;
         }
+        dateDataCache.set(data.date || dateString, data);
         const dayEl = renderDayTitle(data.date || dateString);
         summaries.forEach(item => renderCard(item, dayEl));
         return true;
       } catch (error) {
         return false;
       }
+    }
+
+    async function fetchDateData(dateString) {
+      if (dateDataCache.has(dateString)) {
+        return dateDataCache.get(dateString);
+      }
+      try {
+        const res = await fetch(`${dateString}.json`);
+        if (!res.ok) return null;
+        const data = await res.json();
+        if (Array.isArray(data.summary) && data.summary.length) {
+          dateDataCache.set(data.date || dateString, data);
+          return data;
+        }
+      } catch (error) {
+        // ignore
+      }
+      return null;
+    }
+
+    async function fetchGroupData() {
+      try {
+        const res = await fetch("group.json");
+        if (!res.ok) return [];
+        const data = await res.json();
+        return Array.isArray(data.groups) ? data.groups : [];
+      } catch (error) {
+        return [];
+      }
+    }
+
+    function buildDayMarkdown(dateString, data, groups) {
+      const items = Array.isArray(data?.summary) ? data.summary : [];
+      const dateDisplay = dateString.replace(/-/g, "/");
+      const used = new Set();
+      const sections = [];
+      sections.push(`## 每日热点（${dateDisplay}）`);
+      groups.forEach(groupItem => {
+        const groupName = String(groupItem?.group || "").trim();
+        const tagSet = new Set(
+          (Array.isArray(groupItem?.tags) ? groupItem.tags : [])
+            .map(tag => String(tag || "").trim())
+            .filter(Boolean)
+        );
+        const matched = [];
+        items.forEach(item => {
+          if (used.has(item)) return;
+          const description = normalizeSummaryText(item?.summary || "");
+          if (!description) return;
+          const tagList = Array.isArray(item?.tags) ? item.tags : [];
+          const hit = tagList.some(tag => tagSet.has(String(tag || "").trim()));
+          if (!hit) return;
+          matched.push({ item, description });
+        });
+        if (!matched.length) return;
+        sections.push(`### ${groupName}`);
+        matched.forEach(({ item, description }) => {
+          used.add(item);
+          const titleText = String(item?.title || "").trim() || "未命名热点";
+          sections.push(`#### ${titleText}`);
+          sections.push(description);
+        });
+      });
+      return sections.join("\n\n");
+    }
+
+    function createMarkdownModal() {
+      const modal = document.createElement("div");
+      modal.className = "day-markdown-modal";
+      modal.setAttribute("role", "dialog");
+      modal.setAttribute("aria-modal", "true");
+      modal.setAttribute("aria-hidden", "true");
+
+      const dialog = document.createElement("div");
+      dialog.className = "day-markdown-dialog";
+
+      const header = document.createElement("div");
+      header.className = "day-markdown-header";
+      const heading = document.createElement("h3");
+      heading.textContent = "每日热点 Markdown";
+
+      const tools = document.createElement("div");
+      tools.className = "day-markdown-tools";
+
+      const copyBtn = document.createElement("button");
+      copyBtn.type = "button";
+      copyBtn.className = "day-markdown-tool-btn";
+      copyBtn.textContent = "复制";
+
+      const downloadBtn = document.createElement("button");
+      downloadBtn.type = "button";
+      downloadBtn.className = "day-markdown-tool-btn";
+      downloadBtn.textContent = "下载";
+
+      const closeBtn = document.createElement("button");
+      closeBtn.type = "button";
+      closeBtn.className = "day-markdown-close";
+      closeBtn.setAttribute("aria-label", "关闭");
+      closeBtn.textContent = "✕";
+      closeBtn.addEventListener("click", closeDayMarkdownModal);
+
+      const raw = document.createElement("textarea");
+      raw.className = "day-markdown-raw";
+      raw.setAttribute("aria-label", "Markdown 原文");
+      raw.setAttribute("readonly", "");
+
+      copyBtn.addEventListener("click", async () => {
+        const text = raw.value;
+        if (!text) return;
+        try {
+          await navigator.clipboard.writeText(text);
+          copyBtn.textContent = "已复制";
+        } catch (error) {
+          raw.focus();
+          raw.select();
+          try { document.execCommand("copy"); copyBtn.textContent = "已复制"; } catch (e) {}
+        }
+        setTimeout(() => { copyBtn.textContent = "复制"; }, 1500);
+      });
+
+      downloadBtn.addEventListener("click", () => {
+        const text = raw.value;
+        if (!text) return;
+        const blob = new Blob([text], { type: "text/markdown;charset=utf-8" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `${markdownModalEl.dataset.date || "news"}.md`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      });
+
+      tools.appendChild(copyBtn);
+      tools.appendChild(downloadBtn);
+      tools.appendChild(closeBtn);
+
+      header.appendChild(heading);
+      header.appendChild(tools);
+
+      const body = document.createElement("div");
+      body.className = "day-markdown-body";
+      body.appendChild(raw);
+
+      dialog.appendChild(header);
+      dialog.appendChild(body);
+      modal.appendChild(dialog);
+
+      modal.addEventListener("click", (event) => {
+        if (event.target === modal) closeDayMarkdownModal();
+      });
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape" && modal.classList.contains("open")) {
+          closeDayMarkdownModal();
+        }
+      });
+
+      document.body.appendChild(modal);
+      return modal;
+    }
+
+    function closeDayMarkdownModal() {
+      if (!markdownModalEl) return;
+      markdownModalEl.classList.remove("open");
+      markdownModalEl.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
+    async function openDayMarkdownModal(dateString) {
+      if (!markdownModalEl) return;
+      if (!isValidDateString(dateString)) return;
+      const raw = markdownModalEl.querySelector(".day-markdown-raw");
+      if (raw) {
+        raw.value = "加载中...";
+        raw.readOnly = true;
+      }
+      markdownModalEl.dataset.date = dateString;
+      markdownModalEl.classList.add("open");
+      markdownModalEl.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+
+      const [data, groups] = await Promise.all([
+        fetchDateData(dateString),
+        fetchGroupData()
+      ]);
+      if (!raw) return;
+      if (!data) {
+        raw.value = "当日数据加载失败";
+        return;
+      }
+      raw.value = buildDayMarkdown(dateString, data, groups);
     }
 
     function createGroupedTagSet(groups) {
