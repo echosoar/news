@@ -5,9 +5,39 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>习近平为七一勋章获得者颁授勋章</title>
+      <link>https://news.cctv.com/2026/07/01/ARTI47M0nAqGP81vBDXu0gCv260701.shtml</link>
+      <pubDate>Wed, 01 Jul 2026 02:13:34 +0000</pubDate>
+    </item>
+    <item>
       <title>美最高法院推翻特朗普限制出生公民权行政令</title>
       <link>https://www.news.cn/world/20260701/5e4cd9dbb51d41778fa589127598c47c/c.html</link>
       <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>盖茨卷入爱泼斯坦丑闻，巴菲特推迟对盖茨基金会年度捐赠</title>
+      <link>https://www.jiemian.com/article/14675712.html</link>
+      <pubDate>Wed, 01 Jul 2026 01:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>特朗普去年加密货币业务收入逾14亿美元 已成为其主要收入来源</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1567432.htm</link>
+      <pubDate>Wed, 01 Jul 2026 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国商务部长：Anthropic的Fable 5模型已被分析并批准</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffytk3157024.shtml</link>
+      <pubDate>Tue, 30 Jun 2026 23:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>中药饮片将实现一物一码 全程可追溯</title>
+      <link>https://news.cctv.com/2026/07/01/ARTIkOYe1IX77SalaKuq61Jo260701.shtml</link>
+      <pubDate>Wed, 01 Jul 2026 01:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>姆巴佩双响 法国3-0战胜瑞典晋级16强</title>
+      <link>http://www.chinanews.com//ty/2026/07-01/10650308.shtml</link>
+      <pubDate>Tue, 30 Jun 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
