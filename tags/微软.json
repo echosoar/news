@@ -1,7 +1,18 @@
 {
   "tag": "微软",
-  "generated_at": "2026-06-29T07:41:44Z",
+  "generated_at": "2026-07-02T02:10:11Z",
   "summary": [
+    {
+      "title": "微软正式停产Surface Go与Laptop Go 暂无替代型号",
+      "tags": [
+        "微软",
+        "Surface",
+        "停产",
+        "硬件调整"
+      ],
+      "summary": "微软于2026年7月1日正式停产两款入门级Surface产品：Surface Go二合一平板和Surface Laptop Go笔记本。目前，微软没有开发后续机型的计划，部分零售商仍在销售现有库存，售罄后将不再补货。Surface Go系列于2018年首次发布，Surface Laptop Go系列于2020年发布，两者均主打入门级市场和性价比。停产决定并非因DRAM内存涨价等外部因素所致，而是微软主动放弃低价市场的战略调整。此举意味着Surface产品线进一步收缩，目前仅保留Surface Pro和Surface Laptop两条主线。微软已转变产品策略，将Surface定位为旗舰品牌，不再与Chromebook及其他低价Windows笔记本竞争，转而专注于面向开发者和创作者的高端市场。在过去几年中，微软已相继停产了Surface Book、Surface Laptop Studio、Surface Studio、Surface Headphones、Surface Earbuds和Surface Duo等多款产品。",
+      "date": "2026-07-01"
+    },
     {
       "title": "微软因数据留存担忧在公司内部限制使用Claude Fable 5",
       "tags": [

@@ -1,7 +1,30 @@
 {
   "tag": "Claude",
-  "generated_at": "2026-06-29T07:41:44Z",
+  "generated_at": "2026-07-02T02:10:11Z",
   "summary": [
+    {
+      "title": "Anthropic发布低价版Claude Sonnet 5 性能接近Opus",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI模型发布",
+        "价格竞争"
+      ],
+      "summary": "",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "加州政府与Anthropic达成半价AI合同 全面引入Claude聊天机器人",
+      "tags": [
+        "AI政务",
+        "Anthropic",
+        "Claude",
+        "美国州政府",
+        "公共采购"
+      ],
+      "summary": "Anthropic 宣布，其 Claude 系列大模型已在 Microsoft Azure 正式面向企业客户开放使用，底层算力由英伟达新一代 Blackwell Ultra GB300 GPU 平台提供。此次合作旨在针对快速增长的智能代理类企业应用场景，打造具备更强自治能力和更高性能的企业级 AI 代理系统。在 Azure 上可用的 Claude 模型包括 Claude Opus 4.8 与 Claude Haiku 4，均通过 Azure 完成计费、认证及治理等平台级支持。Claude in Foundry 运行在配备 NVIDIA GB300 NVL72 系统及 NVIDIA Quantum-X800 InfiniBand 网络的基础设施上，使企业能构建更强大的智能代理系统，可由自治代理及面向特定业务领域的子代理协同完成复杂任务。英伟达正将开发者工具深度集成进 Anthropic 技术栈，通过经英伟达验证的代理技能及加速计算平台，赋予 Claude 代理更具行业针对性的能力。企业可通过 NVIDIA Secure Agent Workspace 参考设计在 Azure 上运行 Claude 代理，在基础设施层面严格管控身份、网络访问、凭据及运行时策略。该合作源自微软、英伟达与 Anthropic 三方去年 11 月公布的战略伙伴关系，旨在通过英伟达加速计算平台将 Claude 模型更广泛推向企业市场。",
+      "date": "2026-06-30"
+    },
     {
       "title": "微软因数据留存担忧在公司内部限制使用Claude Fable 5",
       "tags": [
