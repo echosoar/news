@@ -5,94 +5,34 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>习近平为七一勋章获得者颁授勋章</title>
-      <link>https://news.cctv.com/2026/07/01/ARTI47M0nAqGP81vBDXu0gCv260701.shtml</link>
-      <pubDate>Wed, 01 Jul 2026 02:13:34 +0000</pubDate>
+      <title>我国成功发射海洋二号E卫星</title>
+      <link>https://www.news.cn/tech/20260702/f22c229eeabb457292a261178da76cb5/c.html</link>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>美最高法院推翻特朗普限制出生公民权行政令</title>
-      <link>https://www.news.cn/world/20260701/5e4cd9dbb51d41778fa589127598c47c/c.html</link>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+      <title>委内瑞拉强震已致9名中国公民遇难</title>
+      <link>https://news.ifeng.com/c/8uQKfnX1MAX</link>
+      <pubDate>Wed, 01 Jul 2026 23:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>盖茨卷入爱泼斯坦丑闻，巴菲特推迟对盖茨基金会年度捐赠</title>
-      <link>https://www.jiemian.com/article/14675712.html</link>
-      <pubDate>Wed, 01 Jul 2026 01:05:26 +0000</pubDate>
+      <title>美国不同意以现有形式续签美墨加协定</title>
+      <link>https://www.news.cn/world/20260702/172a0a8c075a4de388ee2f69eb4649a2/c.html</link>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>中药饮片将实现一物一码 全程可追溯</title>
-      <link>https://news.cctv.com/2026/07/01/ARTIkOYe1IX77SalaKuq61Jo260701.shtml</link>
-      <pubDate>Wed, 01 Jul 2026 01:15:26 +0000</pubDate>
+      <title>中国海军南宁舰、衡阳舰抵达香港水域</title>
+      <link>http://www.chinanews.com//gn/2026/07-02/10651040.shtml</link>
+      <pubDate>Wed, 01 Jul 2026 22:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统</title>
-      <link>http://www.chinanews.com//gn/2026/07-01/10650727.shtml</link>
-      <pubDate>Wed, 01 Jul 2026 08:42:00 +0000</pubDate>
+      <title>《河北雄安新区轨道快线运营安全条例》施行</title>
+      <link>http://news.china.com.cn/2026-07/02/content_118578697.shtml</link>
+      <pubDate>Thu, 02 Jul 2026 00:55:29 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic以更低价格推出接近Opus性能的Claude Sonnet 5</title>
-      <link>https://www.cnbeta.com.tw/articles/tech/1567396.htm</link>
-      <pubDate>Wed, 01 Jul 2026 00:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美媒称美将在黎以驻军监督停火</title>
-      <link>https://www.news.cn/world/20260701/c5e3d8abb324441283516c0808148968/c.html</link>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>特朗普去年加密货币业务收入逾14亿美元 已成为其主要收入来源</title>
-      <link>https://www.cnbeta.com.tw/articles/tech/1567432.htm</link>
-      <pubDate>Wed, 01 Jul 2026 00:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>联合国机构警告刚果(金)埃博拉疫情将冲击地区经济</title>
-      <link>https://www.news.cn/world/20260701/14b307a99b234b859b8efe0a3d54c4db/c.html</link>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI研发高效推理方案：模型运行成本降低50%</title>
-      <link>https://news.mydrivers.com/1/1133/1133207.htm</link>
-      <pubDate>Tue, 30 Jun 2026 16:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美国商务部长：Anthropic的Fable 5模型已被分析并批准</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffytk3157024.shtml</link>
-      <pubDate>Tue, 30 Jun 2026 23:49:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>超龄劳动者权益保障新规今起施行，工资、休假等都有新保障</title>
-      <link>https://www.bjnews.com.cn/detail-1782877317129403.html</link>
-      <pubDate>Wed, 01 Jul 2026 04:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>国内航线燃油附加费7月5日起大幅下调</title>
-      <link>https://news.ifeng.com/c/8uPOP6T70Td</link>
-      <pubDate>Wed, 01 Jul 2026 09:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA局长开出登月大奖  一切全看美国队 可惜冲击难度不小</title>
-      <link>https://news.mydrivers.com/1/1133/1133354.htm</link>
-      <pubDate>Wed, 01 Jul 2026 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>墨西哥2比0厄瓜多尔 晋级16强</title>
-      <link>https://3g.china.com/act/news/10000169/20260701/49581926.html</link>
-      <pubDate>Wed, 01 Jul 2026 04:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软将停产入门级Surface产品线 Surface Go与Laptop Go或成绝唱</title>
-      <link>https://g.pconline.com.cn/x/2178/21780589.html</link>
-      <pubDate>Tue, 30 Jun 2026 16:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>英国候任首相伯纳姆谈执政理念</title>
-      <link>https://www.news.cn/world/20260701/4ec9136200264e38a1fe0e80efd92d9b/c.html</link>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>姆巴佩双响 法国3-0战胜瑞典晋级16强</title>
-      <link>http://www.chinanews.com//ty/2026/07-01/10650308.shtml</link>
-      <pubDate>Tue, 30 Jun 2026 23:00:00 +0000</pubDate>
+      <title>小米无线鼠标4 Pro发布：199元 告别鼠标垫</title>
+      <link>https://news.mydrivers.com/1/1133/1133483.htm</link>
+      <pubDate>Wed, 01 Jul 2026 16:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
