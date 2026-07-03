@@ -5,9 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>特斯拉撞入德州民宅致一女子死亡 司机被控过失杀人罪</title>
-      <link>https://www.cnbeta.com.tw/articles/tech/1567662.htm</link>
-      <pubDate>Thu, 02 Jul 2026 22:52:00 +0000</pubDate>
+      <title>欧盟拟出台未成年人社媒禁令 尚不清楚年龄门槛</title>
+      <link>https://www.news.cn/world/20260703/c3b020b8280a41cd86d46ffb31a90408/c.html</link>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>芬兰解除核禁令  俄将其列为核打击目标</title>
+      <link>https://www.news.cn/world/20260703/1f5caf50a8de4185a8a3c51ef19ee317/c.html</link>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>今年2000亿元超长期特别国债支持两新设备更新资金已全部下达</title>
+      <link>https://www.bjnews.com.cn/detail-1783043706129765.html</link>
+      <pubDate>Fri, 03 Jul 2026 02:05:27 +0000</pubDate>
     </item>
     <item>
       <title>顶配用户惨遭背刺，iPhone 18 Pro被曝混用TLC和QLC闪存</title>
@@ -15,14 +25,9 @@
       <pubDate>Thu, 02 Jul 2026 16:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>乌克兰首都基辅遭空袭致27人死亡</title>
-      <link>https://www.wenweipo.com/a/202607/03/AP6a46db67e4b0b49ad1c1c73c.html</link>
-      <pubDate>Thu, 02 Jul 2026 22:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>首次支持5G，拯救者Y700无极亮相：RGB灯环后摄吸睛</title>
-      <link>https://news.mydrivers.com/1/1133/1133802.htm</link>
-      <pubDate>Thu, 02 Jul 2026 16:05:00 +0000</pubDate>
+      <title>特斯拉撞入德州民宅致一女子死亡 司机被控过失杀人罪</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1567662.htm</link>
+      <pubDate>Thu, 02 Jul 2026 22:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Meta收跌5%，报道：扎克伯格称Meta AI智能体开发不及预期</title>
@@ -30,9 +35,69 @@
       <pubDate>Thu, 02 Jul 2026 22:09:12 +0000</pubDate>
     </item>
     <item>
+      <title>广期所碳酸锂期货及期权正式引入境外交易者</title>
+      <link>https://www.news.cn/fortune/20260703/212b1c91963e4624adf6812178dea88e/c.html</link>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>乌克兰首都基辅遭空袭致27人死亡</title>
+      <link>https://www.wenweipo.com/a/202607/03/AP6a46db67e4b0b49ad1c1c73c.html</link>
+      <pubDate>Thu, 02 Jul 2026 22:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本宫古岛西北近海发生6.4级地震</title>
+      <link>http://www.chinanews.com//gj/2026/07-03/10652043.shtml</link>
+      <pubDate>Fri, 03 Jul 2026 04:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic将移除Claude Code中的中国用户检测代码</title>
+      <link>https://kite.kagi.com/338d700e-c554-4684-ac89-122a99b035a4/china/3</link>
+      <pubDate>Thu, 02 Jul 2026 20:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划</title>
+      <link>https://www.tmtpost.com/nictation/8051111.html</link>
+      <pubDate>Fri, 03 Jul 2026 00:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>首次支持5G，拯救者Y700无极亮相：RGB灯环后摄吸睛</title>
+      <link>https://news.mydrivers.com/1/1133/1133802.htm</link>
+      <pubDate>Thu, 02 Jul 2026 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家医保局上线医保找药功能</title>
+      <link>https://www.news.cn/fortune/20260703/1c88b843819f448aae01466d86cc16e7/c.html</link>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>运动数据分析师、制香香艺师，12个新职业公示</title>
+      <link>http://news.china.com.cn/2026-07/03/content_118580699.shtml</link>
+      <pubDate>Fri, 03 Jul 2026 00:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>女护士被单位认定卖淫开除？柳州：辖区内未发生此类事件</title>
+      <link>https://news.ifeng.com/c/8uSM0Vmc9oV</link>
+      <pubDate>Fri, 03 Jul 2026 03:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国第16次北冰洋考察启航</title>
+      <link>https://news.cctv.com/2026/07/03/ARTINKzIHacN3XNeifUAgmUm260703.shtml</link>
+      <pubDate>Fri, 03 Jul 2026 01:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯就其外交机构遇袭向瑞典发出照会</title>
+      <link>https://www.news.cn/world/20260703/31e1e6bf6e274521ab6bcd5ebb565162/c.html</link>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>韩国将向受韩元疲软影响的企业提供14.9万亿韩元融资支持</title>
       <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifntfk0449433.shtml</link>
       <pubDate>Fri, 03 Jul 2026 00:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>杭台高铁温玉段开始试运行 全线开通运营进入倒计时</title>
+      <link>http://www.chinanews.com//sh/shipin/cns-d/2026/07-03/news1060351.shtml</link>
+      <pubDate>Fri, 03 Jul 2026 00:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
