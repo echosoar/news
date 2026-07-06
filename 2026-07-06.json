@@ -1,14 +1,322 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T05:19:26Z",
+  "generated_at": "2026-07-06T15:48:19Z",
   "summary": [
     {
-      "title": "天问二号探测器抵达目标小行星开始科学探测",
+      "title": "广西洪涝灾害致2人死亡约5.5万人受灾 国家启动多项应急响应",
+      "tags": [
+        "洪涝灾害",
+        "应急响应",
+        "广西",
+        "人员伤亡",
+        "救灾物资"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTITJiCVn4RLpJBQypilekP260706.shtml",
+          "title": "国家防总针对安徽山东启动防汛四级应急响应",
+          "origin": "CCTV",
+          "time": 1783305853
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIGqXlF1Jn07zyNxa3Hhj2260706.shtml",
+          "title": "国家防总针对安徽山东启动防汛四级应急响应",
+          "origin": "CCTV",
+          "time": 1783305056
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-06/10653476.shtml",
+          "title": "国家防总针对广西启动防汛三级应急响应",
+          "origin": "中新网",
+          "time": 1783310700
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783310770129306.html",
+          "title": "国家防总针对广西启动防汛三级应急响应",
+          "origin": "新京报",
+          "time": 1783311159
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783293608129102.html",
+          "title": "国家防总针对安徽山东启动防汛四级应急响应",
+          "origin": "新京报",
+          "time": 1783304862
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542579.html",
+          "title": "国家防总针对安徽、山东启动防汛四级应急响应",
+          "origin": "科技日报",
+          "time": 1783306322
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGbXY0TLiE",
+          "title": "国家防总针对安徽、山东启动防汛四级应急响应",
+          "origin": "环球网",
+          "time": 1783304945
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/06/content_38869994.htm",
+          "title": "国家防总对广西启动防汛三级应急响应",
+          "origin": "光明网",
+          "time": 1783331734
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIF9mFoRDkzCx5BEivFFd7260706.shtml",
+          "title": "广西南宁贵港多座水库发生险情 国家防总针对广西启动防汛二级应急响应",
+          "origin": "CCTV",
+          "time": 1783335024
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542981.html",
+          "title": "国家防总针对广西启动防汛二级应急响应",
+          "origin": "科技日报",
+          "time": 1783338335
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIggZ2lH901nX2KFDvH5z9260706.shtml",
+          "title": "水利部针对广西壮族自治区洪水防御应急响应提升至Ⅱ级",
+          "origin": "CCTV",
+          "time": 1783313327
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-06/10653484.shtml",
+          "title": "水利部针对广西壮族自治区洪水防御应急响应提升至Ⅱ级",
+          "origin": "中新网",
+          "time": 1783313940
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/06/content_118584716.shtml",
+          "title": "水利部：对广西的洪水防御Ⅲ级应急响应提升至Ⅱ级",
+          "origin": "中国网",
+          "time": 1783313733
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1139973&sid=21",
+          "title": "水利部：对广西的洪水防御Ⅲ级应急响应提升至Ⅱ级",
+          "origin": "上观",
+          "time": 1783313375
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-06/10653478.shtml",
+          "title": "水利部：对广西的洪水防御Ⅲ级应急响应提升至Ⅱ级",
+          "origin": "中新网",
+          "time": 1783312320
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8053825.html",
+          "title": "水利部：对广西的洪水防御Ⅲ级应急响应提升至Ⅱ级",
+          "origin": "钛媒体",
+          "time": 1783312320
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/06/content_38868355.htm",
+          "title": "三部门调拨1.5万件中央救灾物资至广西、辽宁等地",
+          "origin": "光明网",
+          "time": 1783299328
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTI5KE9bAQCigxPrVb4FCu4260706.shtml",
+          "title": "三部门向广西调拨15万件中央救灾物资",
+          "origin": "CCTV",
+          "time": 1783341491
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-06/10653963.shtml",
+          "title": "三部门向广西调拨15万件中央救灾物资",
+          "origin": "中新网",
+          "time": 1783341960
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/07-06/news1060698.shtml",
+          "title": "1.5万件中央救灾物资调拨至桂辽等地",
+          "origin": "中新网",
+          "time": 1783306380
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783338845129801.html",
+          "title": "三部门向广西调拨15万件中央救灾物资",
+          "origin": "新京报",
+          "time": 1783338888
+        },
+        {
+          "link": "https://www.guancha.cn/politics/2026_07_06_822806.shtml",
+          "title": "南宁通报：此次洪涝灾害已致2死，约5.5万人受灾",
+          "origin": "观察者",
+          "time": 1783333483
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/07-06/news1060801.shtml",
+          "title": "广西南宁洪涝灾害已致2人死亡 约5.5万人受灾",
+          "origin": "中新网",
+          "time": 1783350000
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783342995129885.html",
+          "title": "广西洪涝灾害已致2人死亡 受灾人口约5.5万人",
+          "origin": "新京报",
+          "time": 1783346008
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1140293&sid=21",
+          "title": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+          "origin": "上观",
+          "time": 1783349187
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-06/10653981.shtml",
+          "title": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+          "origin": "中新网",
+          "time": 1783349280
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8054482.html",
+          "title": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+          "origin": "钛媒体",
+          "time": 1783349460
+        },
+        {
+          "link": "https://finance.sina.com.cn/china/2026-07-06/doc-inifwfpy8650649.shtml",
+          "title": "广西南宁六蓝水库发生严重险情，中国安能数百名专业救援人员驰援",
+          "origin": "新浪新闻",
+          "time": 1783330520
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-06/10653908.shtml",
+          "title": "广西六蓝水库出现险情 多方力量联合救援",
+          "origin": "中新网",
+          "time": 1783344660
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/06/content_38869905.htm",
+          "title": "广西南宁横州市六蓝水库发生严重险情",
+          "origin": "光明网",
+          "time": 1783331734
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGfhXtKxG3",
+          "title": "广西横州多个水库出现险情 升级为防汛一级应急响应",
+          "origin": "环球网",
+          "time": 1783311933
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/07-06/news1060750.shtml",
+          "title": "广西南宁：横州多水库现险情 防汛应急响应调至一级",
+          "origin": "中新网",
+          "time": 1783324860
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIYN2QmrZkasdiKwo9ZXbY260706.shtml",
+          "title": "广西南宁宣布部分区域进入紧急防汛期",
+          "origin": "CCTV",
+          "time": 1783331805
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1140271&sid=21",
+          "title": "广西洪涝灾害已致2人死亡",
+          "origin": "上观",
+          "time": 1783346126
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8054431.html",
+          "title": "广西洪涝灾害已致2人死亡",
+          "origin": "钛媒体",
+          "time": 1783346280
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8054486.html",
+          "title": "广西南宁洪涝灾害还存在三方面风险，当地已成立救援指挥部",
+          "origin": "钛媒体",
+          "time": 1783349520
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783336852129758.html",
+          "title": "广西南宁洪涝灾害还存在三方面风险 当地已成立救援指挥部",
+          "origin": "新京报",
+          "time": 1783347543
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260706/b1a30f7733174d748e1d21080d4591c1/c.html",
+          "title": "两部门预拨1.6亿元救灾资金支持6省区抢险救灾工作",
+          "origin": "新华网",
+          "time": 1783267200
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-06/10653862.shtml",
+          "title": "中国两部门紧急预拨1.6亿元支持6省份抢险救灾",
+          "origin": "中新网",
+          "time": 1783342500
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/06/content_38869967.htm",
+          "title": "国家防减救灾委对广西启动国家四级救灾应急响应",
+          "origin": "光明网",
+          "time": 1783331734
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/07-06/news1060760.shtml",
+          "title": "国家防减救灾委对广西启动国家四级救灾应急响应",
+          "origin": "中新网",
+          "time": 1783330500
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uXgxXfkWE9",
+          "title": "广西横州17万人面临泄洪威胁：多座水库漫顶，已有库坝决口",
+          "origin": "凤凰网",
+          "time": 1783323060
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-07-06/doc-inifwfpu1895715.shtml",
+          "title": "广西横州17万人面临泄洪威胁：多座水库漫顶，已有库坝决口",
+          "origin": "新浪新闻",
+          "time": 1783327815
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uX2nwSLA1R",
+          "title": "广西一涵洞发生坍塌，2辆途经车辆掉入，当地警方通报",
+          "origin": "凤凰网",
+          "time": 1783272180
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIXk3uEiZd7FSR3FyMaSwI260706.shtml",
+          "title": "广西钦州一处国道涵洞发生坍塌",
+          "origin": "CCTV",
+          "time": 1783302316
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGYOx1Umr3",
+          "title": "江河水位持续上涨 广西贵港提升水文测报应急响应为二级",
+          "origin": "环球网",
+          "time": 1783299675
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIegSGp6NYjULx2VLUkpqW260706.shtml",
+          "title": "江河水位持续上涨 广西贵港提升水文测报应急响应为二级",
+          "origin": "CCTV",
+          "time": 1783300999
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/06/content_118584272.shtml",
+          "title": "美莎克减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+          "origin": "中国网",
+          "time": 1783299327
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-06/10653287.shtml",
+          "title": "美莎克减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+          "origin": "中新网",
+          "time": 1783297080
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "中国航天密集突破 天问二号抵小行星 千帆星座破238颗 长征十号首飞在即",
       "tags": [
         "航天",
-        "小行星探测",
         "天问二号",
-        "中国"
+        "星链",
+        "长征十号",
+        "太空探测"
       ],
       "links": [
         {
@@ -64,130 +372,376 @@
           "title": "天问二号探测器抵达目标小行星开始科学探测",
           "origin": "新华网",
           "time": 1783267200
-        }
-      ],
-      "summary": "天问二号探测器历经约400天、行程约10亿千米的飞行，于近日成功与小行星2016HO3交会，抵达距离小行星20千米处，正式开展科学探测。该探测器于2025年5月29日在西昌卫星发射中心发射，途中实施了深空机动、中途修正等任务。2026年6月6日首次捕获到小行星，6月7日在距离3万千米处实施捕获控制实现共面飞行，6月19日到达2000千米处。在抵近过程中，探测器获取了小行星影像数据，任务团队利用光学导航数据改进了小行星星历，将此前仅靠地基观测确定的位置误差由上百千米减小到千米量级。后续，探测器将逐步开展更精细的科学探测，获取小行星形貌、物质成分、内部结构等信息，为采样返回任务做好准备。小行星2016HO3的星历结果已通过月球与行星数据发布系统公开发布。"
-    },
-    {
-      "title": "韩国SK海力士将启动280亿美元美国上市计划，顺应全球人工智能浪潮",
-      "tags": [
-        "SK海力士",
-        "美国上市",
-        "AI",
-        "半导体"
-      ],
-      "links": [
-        {
-          "link": "https://www.nbd.com.cn/articles/2026-07-06/4452812.html",
-          "title": "直线拉升，日本股市涨超500点，韩国综指涨超200点，三星电子涨超4%、SK海力士涨近2%",
-          "origin": "每经网",
-          "time": 1783297822
         },
         {
-          "link": "https://wallstreetcn.com/articles/3776130",
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "origin": "华尔街见闻",
-          "time": 1783307402
-        },
-        {
-          "link": "https://wallstreetcn.com/articles/3776235",
-          "title": "美股史上最大规模海外公司首次募资，存储巨头SK海力士本周五登陆纳斯达克",
-          "origin": "华尔街见闻",
-          "time": 1783296268
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/8053732.html",
-          "title": "SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模",
-          "origin": "钛媒体",
-          "time": 1783306920
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvkki1824970.shtml",
-          "title": "韩国SK海力士将启动280亿美元美国上市计划 以顺应全球人工智能浪潮",
-          "origin": "新浪新闻",
-          "time": 1783298526
-        },
-        {
-          "link": "https://database.caixin.com/2026-07-06/102461173.html",
-          "title": "SK海力士势将刷新外国公司赴美上市规模纪录 或改变股票折价局面",
-          "origin": "财新",
-          "time": 1783311950000
-        },
-        {
-          "link": "https://finance.sina.com.cn/wm/2026-07-06/doc-inifvkkk8637344.shtml",
-          "title": "日韩芯片股强势拉升，三星电子涨超4%，SK海力士涨近2%",
-          "origin": "新浪新闻",
-          "time": 1783299812
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvkkf8806495.shtml",
-          "title": "海力士赴美上市将成为本周市场焦点",
-          "origin": "新浪新闻",
-          "time": 1783298569
-        }
-      ],
-      "summary": "7月6日，韩国股市集体高开，韩国KOSPI综指涨超200点，涨幅2.55%，其中三星电子涨超4%，SK海力士涨近2%。同日，日经225指数涨超500点，涨幅0.77%。市场关注焦点在于，韩国存储芯片巨头SK海力士计划于本周五登陆美国纳斯达克，启动约280亿美元的上市计划。此次上市在韩国本土交易所基础上新增美股挂牌，旨在顺应全球人工智能浪潮，大幅降低美国投资者的投资门槛。SK海力士近年来业绩增长显著，2023年至2025年间营收暴涨200%，今年一季度营收再度大增200%，过去12个月股价累计涨幅接近800%。尽管股价大涨，其当前估值仍相对偏低，预期市销率仅3.6倍，低于美光科技的4.6倍和英伟达的10.8倍；市净率同样低于美光。不过，存储芯片行业供需波动剧烈，上周该板块曾遭集体抛售。市场分析人士指出，SK海力士此次上市将让人工智能赛道投资更具看点，但投资者需具备较强的风险承受能力。"
-    },
-    {
-      "title": "四川绵竹半小时内发生3次地震，震感明显但无人员伤亡",
-      "tags": [
-        "地震",
-        "四川",
-        "自然灾害"
-      ],
-      "links": [
-        {
-          "link": "https://www.huanqiu.com/article/4SGUueXjQVc",
-          "title": "四川绵竹地震目前未造成人员伤亡和房屋倒损",
+          "link": "https://www.huanqiu.com/article/4SGdgQ1EV2S",
+          "title": "到站了，天问二号抵达目标小行星 下一步任务揭秘",
           "origin": "环球网",
-          "time": 1783293817
+          "time": 1783308544
         },
         {
-          "link": "https://politics.gmw.cn/2026-07/06/content_38868304.htm",
-          "title": "四川绵竹地震目前未造成人员伤亡和房屋倒损",
-          "origin": "光明网",
-          "time": 1783299328
+          "link": "https://www.cnbeta.com.tw/articles/science/1568004.htm",
+          "title": "天问二号探测器抵达目标小行星 开始科学探测",
+          "origin": "cnBeta",
+          "time": 1783316880
         },
         {
-          "link": "http://www.chinanews.com//sh/2026/07-06/10653277.shtml",
-          "title": "四川绵竹地震目前未造成人员伤亡和房屋倒损",
-          "origin": "中新网",
-          "time": 1783293660
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1783214376129791.html",
-          "title": "四川绵竹地震目前未造成人员伤亡和房屋倒损",
-          "origin": "新京报",
-          "time": 1783294022
-        },
-        {
-          "link": "http://news.china.com.cn/2026-07/06/content_118584627.shtml",
-          "title": "四川绵竹：连发的多次地震系汶川地震余震 无人员伤亡报告",
-          "origin": "中国网",
-          "time": 1783313733
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/07-06/10653262.shtml",
-          "title": "四川绵竹接连发生3次四级以上地震 当地震感明显",
-          "origin": "中新网",
-          "time": 1783267620
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1134/1134261.htm",
-          "title": "四川绵竹半小时3次地震：震感明显",
+          "link": "https://news.mydrivers.com/1/1134/1134263.htm",
+          "title": "中国版星链两天两发，千帆星座在轨卫星总量突破238颗",
           "origin": "快科技",
-          "time": 1783291020
+          "time": 1783291440
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uWv7LM2z2V",
+          "title": "中国版星链两天两发 千帆星座在轨卫星总量突破238颗",
+          "origin": "凤凰科技",
+          "time": 1783292619
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1567954.htm",
+          "title": "中国版星链两天两发 千帆星座在轨卫星总量突破238颗",
+          "origin": "cnBeta",
+          "time": 1783295520
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifupeq2363056.shtml",
+          "title": "长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的海上网系回收技术",
+          "origin": "新浪新闻",
+          "time": 1783300249
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134266.htm",
+          "title": "全球首创海上网系回收，长征十号乙火箭首飞锁定7月10-13日",
+          "origin": "快科技",
+          "time": 1783292580
         }
       ],
-      "summary": "四川绵竹市在7月5日晚间半小时内接连发生三次四级以上地震，当地震感明显。据中国地震台网正式测定，第一次地震发生在23时03分，震级4.5级，震源深度20千米；约17分钟后，23时20分发生4.0级地震，震源深度15千米；又过了10分钟，23时30分发生第三次4.5级地震，震源深度18千米。三次地震的震中均位于绵竹市附近，经纬度相近。\n\n地震发生后，德阳市和绵竹市两级抗震救灾指挥部立即启动应急响应，组织力量开展灾情排查工作。截至7月6日5时，经多轮排查确认，此次地震未造成人员伤亡和房屋倒损，交通、电力、通信等基础设施也未发现受损情况。\n\n当地居民回忆，第一次地震时能感到房屋明显摇晃，随后又接连感受到两次震动，令不少人感到紧张。有关部门提醒，地震发生时需科学避险，如室内应遵循伏地、遮挡、手抓牢原则，远离窗户和吊灯，震感减弱后沿应急通道有序撤离，切勿乘坐电梯；户外则需远离建筑物和广告牌，前往开阔地带。震后不要急于返回室内，要关注官方信息。"
+      "summary": "中国航天近期取得多项重要进展。天问二号探测器历经约400天、行程约10亿千米，成功抵达小行星2016HO3，并在距离其20千米处开始科学探测。探测器于2025年5月29日发射，通过深空机动等操作，于2026年6月6日捕获小行星，后续将获取形貌、物质成分等信息，为采样做准备。同时，长征十号乙运载火箭首飞窗口锁定7月10日至13日，将在海南文昌商业航天发射场发射，并验证全球首创的海上网系回收技术。该火箭是中国首款5米芯级直径的两级可重复使用液体火箭，一级回收状态下近地轨道运力不低于16吨。回收方案采用子级释放挂钩由回收船巨型网系捕获，相比垂直着陆简化结构、提高效率。专用回收平台“领航者”号已通过低空飞行试验考核。若首飞回收成功，中国将成为全球第二个掌握大运力可回收火箭技术的国家，相关数据也将为2030年前载人登月任务积累经验。"
     },
     {
-      "title": "委内瑞拉地震死亡人数升至3342人，国际救援持续进行",
+      "title": "特朗普确认参加北约峰会并与普京通话 期间批评世界杯判罚",
+      "tags": [
+        "特朗普",
+        "北约",
+        "俄美关系",
+        "世界杯",
+        "国际外交"
+      ],
+      "links": [
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-06/4455485.html",
+          "title": "史无前例，美国头号射手禁赛被国际足联特赦，特朗普亲自申诉，美政府提供证据",
+          "origin": "每经网",
+          "time": 1783316440
+        },
+        {
+          "link": "https://international.caixin.com/2026-07-06/102461146.html",
+          "title": "特朗普被曝施压国际足联 被判红牌的美国前锋将可继续出赛",
+          "origin": "财新",
+          "time": 1783306738000
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260706/49591118.html",
+          "title": "连美国队都以为红牌特赦是假新闻 特朗普干预引争议",
+          "origin": "中国网",
+          "time": 1783311110
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmn1745107.shtml",
+          "title": "特朗普承认致电国际足联 直言巴洛贡判罚离谱至极",
+          "origin": "新浪新闻",
+          "time": 1783350141
+        },
+        {
+          "link": "https://www.163.com/dy/article/L15956430550A0OW.html?f=post1603_tab_news",
+          "title": "特朗普感谢国际足联，之前电话求情刀下留人？",
+          "origin": "网易号",
+          "time": 1783305627
+        },
+        {
+          "link": "https://www.jiemian.com/article/14701024.html",
+          "title": "美国球员红牌禁赛却被特赦，特朗普介入引不满",
+          "origin": "界面新闻",
+          "time": 1783329874
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvqsa2039907.shtml",
+          "title": "特朗普赴土耳其参加北约峰会日程：将会见埃尔多安、吕特、泽连斯基等",
+          "origin": "新浪新闻",
+          "time": 1783305973
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-07-06/doc-inifvkkk8589421.shtml",
+          "title": "北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先内部分裂",
+          "origin": "新浪新闻",
+          "time": 1783295959
+        },
+        {
+          "link": "https://database.caixin.com/2026-07-06/102461121.html",
+          "title": "特朗普将参加北约峰会 会见警惕的盟友和泽连斯基",
+          "origin": "财新",
+          "time": 1783302980000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uXcvWLg4Vl",
+          "title": "土耳其爆发反北约示威，特朗普被打脸标语亮了",
+          "origin": "凤凰网",
+          "time": 1783329000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8054484.html",
+          "title": "特朗普称解决俄乌冲突将比人们认为的要快得多",
+          "origin": "钛媒体",
+          "time": 1783349520
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/06/AP6a4a814ee4b0b49ad1c21e90.html",
+          "title": "特朗普与俄乌领袖通话 普京重申倾向政治解决乌问题",
+          "origin": "文汇网",
+          "time": 1783271134
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8054459.html",
+          "title": "特朗普称其与普京进行了非常好的通话",
+          "origin": "钛媒体",
+          "time": 1783348200
+        }
+      ],
+      "summary": "国际足联7月5日宣布，对美国队头号射手福拉林·巴洛贡处以禁赛一场但暂缓一年执行的处罚，这意味着他可以出战与比利时队的世界杯16强赛。这是自1970年世界杯引入红黄牌规则以来，首次有球员在吃到红牌后仍能出战球队的下一场世界杯正赛。美国总统特朗普亲自向国际足联主席因凡蒂诺致电，要求复核红牌判罚，美国政府还提供了补充证据。特朗普在社交媒体上感谢国际足联做出正确决定。美国队员起初以为是AI生成的假新闻。比利时足协对裁决表示震惊，认为直接违反了世界杯规则手册，即球员吃到红牌应自动停赛。媒体批评此举模糊了体育与政治的界限。此外，特朗普同日表示，他与俄罗斯总统普京进行了一次非常好的通话，双方就乌克兰问题进行了磋商，特朗普还将在北约会议上进一步讨论乌克兰问题。"
+    },
+    {
+      "title": "苹果启动iPhone Ultra量产 并曝光带摄像头AirPods及iOS27细节",
+      "tags": [
+        "苹果",
+        "iPhone",
+        "AirPods",
+        "iOS",
+        "供应链"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134377.htm",
+          "title": "苹果iPhone Ultra和iPhone 18 Pro Max五大差异曝光",
+          "origin": "快科技",
+          "time": 1783319580
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1568010.htm",
+          "title": "苹果iPhone Ultra和iPhone 18 Pro Max五大差异曝光",
+          "origin": "cnBeta",
+          "time": 1783321140
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1567942.htm",
+          "title": "折叠屏iPhone Ultra或将重演iPhone X上市节奏",
+          "origin": "cnBeta",
+          "time": 1783294800
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uXDDOGfHkm",
+          "title": "苹果iPhone Ultra和iPhone 18 Pro Max五大差异曝光",
+          "origin": "凤凰科技",
+          "time": 1783319631
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvzfx8727509.shtml",
+          "title": "苹果iPhone Ultra和iPhone 18 Pro Max五大差异曝光",
+          "origin": "新浪新闻",
+          "time": 1783337986
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uXHst5sGxO",
+          "title": "iPhone Ultra本月开始大规模量产 供应链急招工人：月薪7500元包吃住",
+          "origin": "凤凰科技",
+          "time": 1783308452
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1568002.htm",
+          "title": "iPhone Ultra本月开始大规模量产 供应链急招工人：月薪7500元包吃住",
+          "origin": "cnBeta",
+          "time": 1783316760
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134334.htm",
+          "title": "iPhone Ultra马上量产 工厂急招人：月薪7500包吃住",
+          "origin": "快科技",
+          "time": 1783308420
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0706/1763050.shtml",
+          "title": "iOS 27提前泄露带摄像头AirPods：苹果无线耳机解锁全新玩法",
+          "origin": "站长之家",
+          "time": 1783299210
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uWvrNCFwMo",
+          "title": "iOS 27提前泄露带摄像头AirPods：苹果无线耳机解锁全新玩法",
+          "origin": "凤凰科技",
+          "time": 1783295190
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134267.htm",
+          "title": "iOS 27泄露带摄像头AirPods：苹果无线耳机解锁新玩法",
+          "origin": "快科技",
+          "time": 1783292880
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "中国海军成功试射潜射战略导弹 并与俄举行海上联合演习",
+      "tags": [
+        "军事演习",
+        "潜射导弹",
+        "中俄合作",
+        "战略威慑",
+        "海上联合"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIVUruXrYaPUTSdnZEBWef260706.shtml",
+          "title": "外交部：中国海军组织潜射战略导弹试射 不针对任何特定国家和目标",
+          "origin": "CCTV",
+          "time": 1783322989
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1139979&sid=21",
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "origin": "上观",
+          "time": 1783314199
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTIBKVUIf2DPvoBSpAPnhjw260706.shtml",
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "origin": "CCTV",
+          "time": 1783314676
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542635.html",
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "origin": "科技日报",
+          "time": 1783314845
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-06/4455797.html",
+          "title": "中方试射一枚潜射弹道导弹，日本、澳大利亚、新西兰等多国提出批评，外交部：例行",
+          "origin": "每经网",
+          "time": 1783330172
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783322106129501.html",
+          "title": "外交部：中国潜射战略导弹试射是例行性安排",
+          "origin": "新京报",
+          "time": 1783322462
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3776299",
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "origin": "华尔街见闻",
+          "time": 1783335953
+        },
+        {
+          "link": "https://www.news.cn/world/20260706/330c8ad6662b494fa4b5ef5209b40e87/c.html",
+          "title": "中俄海上联合-2026联合演习开幕",
+          "origin": "新华网",
+          "time": 1783267200
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542731.html",
+          "title": "中俄海上联合-2026联合演习开幕",
+          "origin": "科技日报",
+          "time": 1783323662
+        },
+        {
+          "link": "https://www.news.cn/world/20260706/f6d26d05501e427ca8a5a7b3db4f473f/c.html",
+          "title": "中俄海上联合-2026联合演习开幕",
+          "origin": "新华网",
+          "time": 1783267200
+        }
+      ],
+      "summary": "中国海军近期组织潜射战略导弹试射，外交部发言人毛宁表示，这是中方年度军事训练的例行性安排，符合国际法和国际惯例，不针对任何特定国家和目标。同时，中俄海上联合-2026联合演习于7月6日在青岛某军港开幕，演习设立由两国海军混合编组的联合指挥部。中方总导演表示，该演习已成为巩固两国两军关系、增进战略互信、提高联合行动能力的重要平台；俄方总导演称其有助于提升作战协同与维护地区和平稳定能力。演习分兵力集结、港岸筹划和海上演练三个阶段，双方参演兵力已于5日集结完毕。开幕式后展开指挥推演和战术协同，下一步将赴青岛附近海空域进行联合侦察、防空反导等课目演练及实弹训练。"
+    },
+    {
+      "title": "华为公开昇腾A2芯片部署细节 国际版Pura90将支持5G",
+      "tags": [
+        "华为",
+        "昇腾",
+        "5G",
+        "芯片",
+        "智能手机"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-07-06/doc-inifvuye8618469.shtml",
+          "title": "昇腾A2芯片立功，华为首次公开美团LongCat-2.0部署细节：推理仅20ms",
+          "origin": "新浪新闻",
+          "time": 1783338109
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uXBTHVyn0q",
+          "title": "美团开源万亿参数大模型LongCat-2.0，同步开放国产卡推理代码",
+          "origin": "凤凰科技",
+          "time": 1783303896
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134374.htm",
+          "title": "美团LongCat-2.0适配国产芯片 摩尔线程宣布实现Day-0支持",
+          "origin": "快科技",
+          "time": 1783318680
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134356.htm",
+          "title": "昇腾A2芯片立功，华为首次公开美团LongCat-2.0部署细节",
+          "origin": "快科技",
+          "time": 1783310340
+        },
+        {
+          "link": "https://www.caixin.com/2026-07-06/102461482.html",
+          "title": "美团大模型LongCat-2.0开源 国产芯片宣布完成推理适配",
+          "origin": "财新",
+          "time": 1783345580000
+        },
+        {
+          "link": "https://finance.sina.com.cn/tob/2026-07-06/doc-inifwmvs1886482.shtml",
+          "title": "美团LongCat-2.0正式开源 国产芯片厂商集体同步适配",
+          "origin": "新浪新闻",
+          "time": 1783337623
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8053723.html",
+          "title": "美团LongCat-2.0开源，同步开放国产卡推理代码",
+          "origin": "钛媒体",
+          "time": 1783306500
+        },
+        {
+          "link": "https://m.ithome.com/html/973031.htm",
+          "title": "重磅回归，曝华为 Pura 90 系列手机国际版将支持 5G 通信",
+          "origin": "IT之家",
+          "time": 1783314039
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifvzha8570785.shtml",
+          "title": "重磅回归，曝华为 Pura 90 系列手机国际版将支持 5G 通信",
+          "origin": "新浪新闻",
+          "time": 1783338105
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uXMoH0pttv",
+          "title": "重磅回归，曝华为Pura 90系列手机国际版将支持5G通信",
+          "origin": "凤凰科技",
+          "time": 1783314039
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "委内瑞拉地震死亡人数升至3342人 中国政府首批救灾物资运抵",
       "tags": [
         "自然灾害",
         "地震",
-        "委内瑞拉",
-        "人道主义危机"
+        "人道主义援助",
+        "国际救援",
+        "委内瑞拉"
       ],
       "links": [
         {
@@ -225,344 +779,91 @@
           "title": "委内瑞拉地震死亡人数升至3342人",
           "origin": "文汇网",
           "time": 1783292734
-        }
-      ],
-      "summary": "委内瑞拉全国代表大会主席豪尔赫·罗德里格斯于当地时间7月5日表示，该国日前发生的两次强烈地震已导致死亡人数上升至3342人，受伤人数达到16740人。官方最新统计数据显示，目前已有6462人获救，另有17345人因灾流离失所。自6月24日首次强震发生以来，当地已记录到995次余震。国际社会的救援行动仍在持续进行中。"
-    },
-    {
-      "title": "国家防总针对安徽山东启动防汛四级应急响应",
-      "tags": [
-        "防汛",
-        "应急响应",
-        "安徽",
-        "山东"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/07/06/ARTITJiCVn4RLpJBQypilekP260706.shtml",
-          "title": "国家防总针对安徽山东启动防汛四级应急响应",
-          "origin": "CCTV",
-          "time": 1783305853
         },
         {
-          "link": "https://news.cctv.com/2026/07/06/ARTIGqXlF1Jn07zyNxa3Hhj2260706.shtml",
-          "title": "国家防总针对安徽山东启动防汛四级应急响应",
-          "origin": "CCTV",
-          "time": 1783305056
-        },
-        {
-          "link": "http://www.chinanews.com//gn/2026/07-06/10653476.shtml",
-          "title": "国家防总针对广西启动防汛三级应急响应",
+          "link": "http://www.chinanews.com//shipin/2026/07-06/news1060707.shtml",
+          "title": "中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
           "origin": "中新网",
-          "time": 1783310700
+          "time": 1783307280
         },
         {
-          "link": "https://www.bjnews.com.cn/detail-1783310770129306.html",
-          "title": "国家防总针对广西启动防汛三级应急响应",
-          "origin": "新京报",
-          "time": 1783311159
+          "link": "http://www.chinanews.com//gj/2026/07-06/10653903.shtml",
+          "title": "中国政府援助委内瑞拉首批紧急人道主义救灾物资运抵",
+          "origin": "中新网",
+          "time": 1783342320
         },
         {
-          "link": "https://www.bjnews.com.cn/detail-1783293608129102.html",
-          "title": "国家防总针对安徽山东启动防汛四级应急响应",
-          "origin": "新京报",
-          "time": 1783304862
-        }
-      ],
-      "summary": "根据气象部门预报，7月6日至7日，安徽中北部、山东中南部等地部分地区有暴雨，其中安徽北部、山东南部等地部分地区有大暴雨，部分地区可能出现短时强降水，最大小时降雨量30至60毫米，局地可超过90毫米。依据《国家防汛抗旱应急预案》及有关规定，国家防总决定于7月6日8时针对安徽、山东启动防汛四级应急响应。"
-    },
-    {
-      "title": "旧金山多辆Waymo自动驾驶出租车碾过烟花，其中一车起火",
-      "tags": [
-        "Waymo",
-        "自动驾驶",
-        "事故",
-        "旧金山"
-      ],
-      "links": [
-        {
-          "link": "https://news.mydrivers.com/1/1134/1134282.htm",
-          "title": "算法没学过烟花？多辆谷歌无人出租车碾过烟花 1辆当场起火",
-          "origin": "快科技",
-          "time": 1783296720
-        },
-        {
-          "link": "https://m.ithome.com/html/972871.htm",
-          "title": "旧金山多辆 Waymo 自动驾驶出租车碾过烟花，其中一车起火",
-          "origin": "IT之家",
-          "time": 1783293315
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8uWuVMbTrLb",
-          "title": "美国自动驾驶出租车独立日趴窝Waymo回应：拥堵干扰正常运营",
-          "origin": "凤凰科技",
-          "time": 1783292263
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1567958.htm",
-          "title": "Waymo驾驶出租车独立日趴窝 拥堵干扰正常运营",
-          "origin": "cnBeta",
-          "time": 1783295580
-        }
-      ],
-      "summary": "7月4日美国独立日当晚，旧金山多辆Waymo自动驾驶出租车在运营过程中碾过路面烟花，其中一辆车辆起火燃烧。旧金山消防部门表示，起火事件发生在康涅狄格街1200号街区附近，一辆无人驾驶的Waymo车辆碾过烟花后被引燃，事发时车内无乘客，无人员受伤，消防人员扑灭明火后车辆被拖离。同晚，另一段由乘客拍摄的视频显示，一名行人在路口点燃烟花，Waymo车辆直接驶过正在爆炸的烟花区域，乘客确认车辆无损、人员安全。此外，当晚还有多辆Waymo车辆在旧金山北部遭遇严重交通拥堵，部分车辆因怠速等待电量"
-    },
-    {
-      "title": "日本开始新一轮核污染水排海",
-      "tags": [
-        "日本",
-        "核污染水",
-        "海洋环境",
-        "国际争议"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/07/06/ARTISjPcgmjKYdQ1m7uImBhA260706.shtml",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "CCTV",
-          "time": 1783313029
-        },
-        {
-          "link": "https://www.news.cn/world/20260706/f9282ff454b54f6089921a9851d1f4d6/c.html",
-          "title": "日本开始新一轮核污染水排海",
+          "link": "https://www.news.cn/world/20260706/8feecccc0cba4e65b786d2684cf0eafd/c.html",
+          "title": "中国援助委内瑞拉首批紧急人道主义救灾物资运抵",
           "origin": "新华网",
           "time": 1783267200
-        },
-        {
-          "link": "https://news.ifeng.com/c/8uXKJUTKPH1",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "凤凰网",
-          "time": 1783309920
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/06/AP6a4b34d4e4b0b49ad1c22ef6.html",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "文汇网",
-          "time": 1783313674
         }
       ],
-      "summary": "日本东京电力公司于2026年7月6日启动福岛第一核电站新一轮核污染水排海，这是该公司总计第21次核污染水排海。当地时间6日11时41分（北京时间10时41分），东京电力公司开始本轮排放。根据该公司2日发布的资料，本轮排海计划持续至7月24日结束，预计排放核污染水总量约7800吨，含放射性氚总量约1.3万亿贝克勒尔。自2023年8月日方无视国际社会强烈质疑和反对、单方面强行启动核污染水排海以来，截至目前共完成20次排放，累计排放量约15.7万吨。"
+      "summary": "委内瑞拉地震死亡人数升至3342人，受伤人数达16740人，另有17345人流离失所。当地时间7月5日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯公布了这一最新伤亡数据。中国政府援助的首批紧急人道主义救灾物资于7月6日运抵委内瑞拉首都加拉加斯附近的迈克蒂亚西蒙·玻利瓦尔国际机场，体现了中国对委内瑞拉的人道主义支持。"
     },
     {
-      "title": "旧金山多辆Waymo自动驾驶出租车碾过烟花，其中一车起火",
+      "title": "腾讯发布混元Hy3大模型 称更聪明更便宜",
       "tags": [
-        "Waymo",
-        "自动驾驶",
-        "事故",
-        "旧金山"
+        "腾讯",
+        "大模型",
+        "混元",
+        "AI",
+        "自然语言处理"
       ],
       "links": [
         {
-          "link": "https://news.mydrivers.com/1/1134/1134282.htm",
-          "title": "算法没学过烟花？多辆谷歌无人出租车碾过烟花 1辆当场起火",
-          "origin": "快科技",
-          "time": 1783296720
+          "link": "https://www.chinaz.com/2026/0706/1763175.shtml",
+          "title": "腾讯最强语言模型转正，混元Hy3正式发布：更聪明、更便宜",
+          "origin": "站长之家",
+          "time": 1783324839
         },
         {
-          "link": "https://m.ithome.com/html/972871.htm",
-          "title": "旧金山多辆 Waymo 自动驾驶出租车碾过烟花，其中一车起火",
-          "origin": "IT之家",
-          "time": 1783293315
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8uWuVMbTrLb",
-          "title": "美国自动驾驶出租车独立日趴窝Waymo回应：拥堵干扰正常运营",
-          "origin": "凤凰科技",
-          "time": 1783292263
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1567958.htm",
-          "title": "Waymo驾驶出租车独立日趴窝 拥堵干扰正常运营",
-          "origin": "cnBeta",
-          "time": 1783295580
-        }
-      ],
-      "summary": "美国独立日（7月4日）当晚，旧金山发生多起Waymo自动驾驶出租车碾过路面烟花的意外事件，其中一辆车辆因被烟花引燃而起火。旧金山消防部门表示，起火事件发生在康涅狄格街附近，一辆无人驾驶的Waymo车辆在行驶中碾过烟花，导致车辆起火燃烧。事发时车内无乘客，未造成人员伤亡，消防人员随后扑灭明火并将车辆拖离现场。同一晚，另一段由乘客拍摄的视频显示，有行人在路口点燃烟花后，一辆Waymo车辆直接驶过正在爆炸的烟花区域，所幸车辆无损且人员安全。此外，旧金山北部因金门大桥烟花表演及计划外道路封闭，出现严重交通拥堵，导致多辆Waymo车辆被困，部分车辆因怠速等待电量耗尽而被拖走。Waymo回应称，已启动内部调查以优化系统响应能力，并强调安全是首要目标，正与当地消防和交通部门保持协调。此次事件引发外界对自动驾驶系统在复杂城市环境中应对突发爆炸物等极端场景能力的讨论。Waymo为Alphabet旗下自动驾驶子公司，目前在美国多个城市运营无人驾驶出租车服务。"
-    },
-    {
-      "title": "日本开始新一轮核污染水排海",
-      "tags": [
-        "日本",
-        "核污染水",
-        "海洋环境",
-        "国际争议"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/07/06/ARTISjPcgmjKYdQ1m7uImBhA260706.shtml",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "CCTV",
-          "time": 1783313029
-        },
-        {
-          "link": "https://www.news.cn/world/20260706/f9282ff454b54f6089921a9851d1f4d6/c.html",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "新华网",
-          "time": 1783267200
-        },
-        {
-          "link": "https://news.ifeng.com/c/8uXKJUTKPH1",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "凤凰网",
-          "time": 1783309920
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/06/AP6a4b34d4e4b0b49ad1c22ef6.html",
-          "title": "日本开始新一轮核污染水排海",
-          "origin": "文汇网",
-          "time": 1783313674
-        }
-      ],
-      "summary": "日本东京电力公司于7月6日启动福岛第一核电站新一轮核污染水排海，这是该公司总计第21次核污染水排海。据福岛当地媒体报道，当地时间6日11时41分（北京时间10时41分），东京电力公司开始本轮核污染水排放。根据该公司2日发布的数据，本轮排放计划持续至7月24日结束，预计排放核污染水总量约7800吨，含放射性氚总量约1.3万亿贝克勒尔。自2023年8月日方无视国际社会强烈质疑和反对、单方面强行启动排海以来，截至目前共完成20次核污染水排放，累计排放量约15."
-    },
-    {
-      "title": "北约峰会火药味升级，特朗普调停俄乌冲突引发盟友内部分裂",
-      "tags": [
-        "北约",
-        "俄乌冲突",
-        "特朗普",
-        "国际关系"
-      ],
-      "links": [
-        {
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvqsa2039907.shtml",
-          "title": "特朗普赴土耳其参加北约峰会日程：将会见埃尔多安、吕特、泽连斯基等",
-          "origin": "新浪新闻",
-          "time": 1783305973
-        },
-        {
-          "link": "https://finance.sina.com.cn/world/2026-07-06/doc-inifvkkk8589421.shtml",
-          "title": "北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先内部分裂",
-          "origin": "新浪新闻",
-          "time": 1783295959
-        },
-        {
-          "link": "https://database.caixin.com/2026-07-06/102461121.html",
-          "title": "特朗普将参加北约峰会 会见警惕的盟友和泽连斯基",
+          "link": "https://www.caixin.com/2026-07-06/102461425.html",
+          "title": "腾讯发布混元3大模型正式版 元宝接入并上线免费Agent功能",
           "origin": "财新",
-          "time": 1783302980000
-        }
-      ],
-      "summary": "北约峰会将于土耳其举行，美国总统特朗普已确定行程。根据白宫公布的官方日程，特朗普将在当地时间周二下午与土耳其总统埃尔多安会面，晚间出席北约领导人社交晚宴。周三，他将先后与北约秘书长吕特、乌克兰总统泽连斯基及叙利亚总统沙拉举行双边会谈，随后参加记者会。\n\n然而，此次峰会氛围紧张，内部分歧明显。特朗普此前曾批评欧洲盟国对伊朗战争的支持力度不足，而欧洲领导人则呼吁美国及北约加大对俄罗斯与乌克兰之间新一轮和平谈判的支持。这一立场差异导致盟友关系出现裂痕，部分北约成员对特朗普可能采取的调停俄乌冲突的方式持警惕态度。峰会期间，各方围绕如何协调对俄乌冲突的立场、平衡对伊朗政策等关键议题的博弈预计将十分激烈。"
-    },
-    {
-      "title": "乌克兰首都基辅传出强烈爆炸声，局势持续紧张",
-      "tags": [
-        "乌克兰",
-        "爆炸",
-        "军事冲突"
-      ],
-      "links": [
-        {
-          "link": "https://news.ifeng.com/c/8uX2DecXo3t",
-          "title": "乌克兰首都遭袭，传出多次强烈爆炸声",
-          "origin": "凤凰网",
-          "time": 1783295160
+          "time": 1783333122000
         },
         {
-          "link": "https://www.news.cn/world/20260706/65432a038fd74eb2b7cc725d2f7a456b/c.html",
-          "title": "乌克兰首都基辅传出强烈爆炸声",
-          "origin": "新华网",
-          "time": 1783267200
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/06/AP6a4afbdfe4b0b49ad1c22716.html",
-          "title": "乌克兰首都基辅传出强烈爆炸声",
-          "origin": "文汇网",
-          "time": 1783299934
-        }
-      ],
-      "summary": "乌克兰首都基辅在2026年7月6日凌晨遭到袭击。当地时间2时9分至16分，新华社记者在基辅听到两轮强烈爆炸声。基辅市军事管理局局长特卡琴科在社交媒体发文称，俄军正在向基辅发射弹道导弹，并提醒市民躲避。基辅市市长克利奇科表示，戈洛谢耶夫斯基区的非住宅建筑和一处仓库遇袭起火，波多利斯基区的一栋居民楼也遭到袭击。目前尚无人员伤亡的具体报告，局势持续紧张。"
-    },
-    {
-      "title": "中国版星链两天两发，千帆星座在轨卫星总量突破238颗",
-      "tags": [
-        "卫星互联网",
-        "千帆星座",
-        "航天",
-        "中国"
-      ],
-      "links": [
-        {
-          "link": "https://news.mydrivers.com/1/1134/1134263.htm",
-          "title": "中国版星链两天两发，千帆星座在轨卫星总量突破238颗",
+          "link": "https://news.mydrivers.com/1/1134/1134410.htm",
+          "title": "元宝第一时间接入腾讯混元Hy3 同步上线Agent能力，免费开",
           "origin": "快科技",
-          "time": 1783291440
+          "time": 1783323240
         },
         {
-          "link": "https://tech.ifeng.com/c/8uWv7LM2z2V",
-          "title": "中国版星链两天两发 千帆星座在轨卫星总量突破238颗",
-          "origin": "凤凰科技",
-          "time": 1783292619
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1567954.htm",
-          "title": "中国版星链两天两发 千帆星座在轨卫星总量突破238颗",
-          "origin": "cnBeta",
-          "time": 1783295520
-        }
-      ],
-      "summary": "2026年7月5日晚，海南国际商业航天发射场使用长征八号甲运载火箭，以“一箭二十星”方式成功发射千帆极轨15组组网卫星。叠加7月4日常征六号改火箭在太原发射中心送出的18颗组网卫星，千帆星座在轨卫星总数正式增至238颗，创下该星座单次发射卫星数量的新纪录。\n\n千帆星座又称G60低轨卫星互联网星座，由中国版星链——上海垣信卫星主导研发、制造与商业化运营，是自主可控的国家级空天信息基础设施，从卫星平台、通信载荷到火箭发射、地面测控全部依托国产产业链。升空的组网卫星采用轻量化平板堆叠构型，搭载Ku、Q/V多频段通信载荷，配合相控阵天线与激光星际链路，可动态调配网络资源，在地面光纤与基站无法覆盖的远洋、深山、荒漠等区域提供低延迟、高带宽的稳定网络服务，技术架构可平滑兼容下一代6G标准。\n\n该星座最大的民用突破在于实现存量普通手机直连卫星通信，无需改装硬件即可完成上网、通话与消息传输，相关技术试验已完成验证，预计2026年底至2027年初面向大众开放。除民用宽带接入外，星座还承载远洋船舶联网、民航机载上网、农林物联网数据采集、地质灾害应急通信等多元业务，同时"
-    },
-    {
-      "title": "华为首次公开美团LongCat-2.0部署细节，昇腾A2芯片立功",
-      "tags": [
-        "华为",
-        "昇腾芯片",
-        "AI部署",
-        "美团"
-      ],
-      "links": [
-        {
-          "link": "https://tech.ifeng.com/c/8uXBTHVyn0q",
-          "title": "美团开源万亿参数大模型LongCat-2.0，同步开放国产卡推理代码",
-          "origin": "凤凰科技",
-          "time": 1783303896
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1134/1134356.htm",
-          "title": "昇腾A2芯片立功，华为首次公开美团LongCat-2.0部署细节",
+          "link": "https://news.mydrivers.com/1/1134/1134413.htm",
+          "title": "腾讯最强模型转正，混元Hy3发布：更聪明、更便宜",
           "origin": "快科技",
-          "time": 1783310340
+          "time": 1783323480
         },
         {
-          "link": "https://www.tmtpost.com/nictation/8053723.html",
-          "title": "美团LongCat-2.0开源，同步开放国产卡推理代码",
-          "origin": "钛媒体",
-          "time": 1783306500
+          "link": "https://m.ithome.com/html/973192.htm",
+          "title": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
+          "origin": "IT之家",
+          "time": 1783327028
+        },
+        {
+          "link": "https://www.oschina.net/news/471516",
+          "title": "腾讯混元 Hy3 开源发布",
+          "origin": "oschina",
+          "time": 1783332840
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifwfpv8696839.shtml",
+          "title": "腾讯混元Hy3正式发布",
+          "origin": "新浪新闻",
+          "time": 1783328604
         }
       ],
-      "summary": ""
+      "summary": "腾讯发布混元Hy3大模型正式版，该模型采用MoE架构，总参数规模2950亿（295B），激活参数210亿（21B），支持256K上下文长度。相比4月发布的预览版，Hy3通过提升后训练数据质量与多样性、扩大RL算力规模，在推理、智能体、长上下文等任务上实现显著进步，展现出比肩参数规模为其2至5倍的国内外更大尺寸旗舰模型的智能水平。\n\n在应用场景方面，Hy3在软件开发、办公生产、金融建模、前端设计、游戏制作等生产力任务中进步显著。腾讯内部组织的270位专家真实工作盲测显示，Hy3平均得分2.67"
     },
     {
-      "title": "俄乌冲突再升级，康斯坦丁诺夫卡成争夺焦点",
+      "title": "俄乌冲突持续升级 康斯坦丁诺夫卡成争夺焦点 谈判陷入僵局",
       "tags": [
         "俄乌冲突",
-        "军事冲突",
-        "康斯坦丁诺夫卡"
-      ],
-      "links": [
-        {
-          "link": "https://www.wenweipo.com/a/202607/06/AP6a4afbb1e4b0b49ad1c226fe.html",
-          "title": "（有片）俄乌冲突再升级，康斯坦丁诺夫卡成争夺焦点",
-          "origin": "文汇网",
-          "time": 1783299934
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1139856&sid=21",
-          "title": "俄乌冲突再升级，康斯坦丁诺夫卡成争夺焦点",
-          "origin": "上观",
-          "time": 1783298312
-        }
-      ],
-      "summary": "俄乌冲突近期持续升级，双方围绕顿涅茨克重镇康斯坦丁诺夫卡的控制权展开激烈争夺，并各执一词。俄方宣称已完全控制该地，而乌方则否认，称局势严峻但仍在其控制下。乌克兰总统泽连斯基甚至提议，若俄方控制该地，可与普京在此会面寻求外交解决方案，俄方则回应称莫斯科才是首都。\n\n与此同时，俄乌双方展开大规模互袭。俄军打击了乌军多个区域的军事及能源基础设施，并摧毁一座桥梁；乌军则打击了克里米亚的俄空军机场及顿涅茨克地区的桥梁和军火库。泽连斯基警告俄方计划发动新一轮大规模打击，俄方暂未回应。俄方曾提议在康斯坦丁诺夫卡停火以移交阵亡军人遗体，但被乌方拒绝。\n\n在战场激烈对抗的同时，外交磋商也在进行。俄、乌总统分别于4日与美国特朗普通话，讨论战场局势及和平解决途径。双方商定将在北约峰会期间举行面对面会晤。\n\n专家分析认为，当前俄乌冲突形势正发生深刻变化。乌方不再侧重于低效的前线阵地战，转而更多使用无人机打击俄后方造血体系；俄方则发起强力反击。冲突重心正从前线争夺转向后方战争潜力与后勤的博弈，战场边界已扩展至双方纵深区域。同时，俄乌双方的战略韧性均"
-    },
-    {
-      "title": "俄国防部称俄提议停火以移交乌军遗体被拒绝",
-      "tags": [
-        "俄乌冲突",
-        "停火",
-        "人道主义"
+        "军事行动",
+        "谈判",
+        "康斯坦丁诺夫卡",
+        "国际安全"
       ],
       "links": [
         {
@@ -576,9 +877,273 @@
           "title": "俄国防部表示俄提议在一地停火以移交乌军遗体被拒绝",
           "origin": "中新网",
           "time": 1783305840
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/06/AP6a4afbb1e4b0b49ad1c226fe.html",
+          "title": "（有片）俄乌冲突再升级，康斯坦丁诺夫卡成争夺焦点",
+          "origin": "文汇网",
+          "time": 1783299934
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1139856&sid=21",
+          "title": "俄乌冲突再升级，康斯坦丁诺夫卡成争夺焦点",
+          "origin": "上观",
+          "time": 1783298312
+        },
+        {
+          "link": "https://www.news.cn/world/20260706/b3c4bf68a4be40dca42776739d285a5f/c.html",
+          "title": "俄乌谈判为何这么难?",
+          "origin": "新华网",
+          "time": 1783267200
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGouOJQvxN",
+          "title": "俄乌谈判为何这么难",
+          "origin": "环球网",
+          "time": 1783327394
         }
       ],
-      "summary": "俄罗斯国防部5日表示，在俄军已完全控制顿涅茨克地区城市康斯坦丁诺夫卡后，俄方提议在该城市停火，以便向乌方移交阵亡乌克兰军人的遗体，但这一提议遭到乌方拒绝。乌克兰武装部队总参谋部发言人科瓦廖夫当天发表声明称，俄军仍试图夺取康斯坦丁诺夫卡，虽然目前局势严峻，但该城市仍处于乌军控制之下。双方对该城市的控制权存在明显分歧。"
+      "summary": "俄乌冲突持续升级，顿涅茨克地区城市康斯坦丁诺夫卡成为双方争夺焦点。俄罗斯国防部于7月5日表示，俄军已完全控制该城市，并提议在当地实施停火，以便向乌方移交阵亡乌克兰军人"
+    },
+    {
+      "title": "日本启动新一轮核污染水排海 国际社会持续关注",
+      "tags": [
+        "核污染水",
+        "日本",
+        "海洋环境",
+        "国际争议",
+        "福岛"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/06/ARTISjPcgmjKYdQ1m7uImBhA260706.shtml",
+          "title": "日本开始新一轮核污染水排海",
+          "origin": "CCTV",
+          "time": 1783313029
+        },
+        {
+          "link": "https://www.news.cn/world/20260706/f9282ff454b54f6089921a9851d1f4d6/c.html",
+          "title": "日本开始新一轮核污染水排海",
+          "origin": "新华网",
+          "time": 1783267200
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uXKJUTKPH1",
+          "title": "日本开始新一轮核污染水排海",
+          "origin": "凤凰网",
+          "time": 1783309920
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/06/AP6a4b34d4e4b0b49ad1c22ef6.html",
+          "title": "日本开始新一轮核污染水排海",
+          "origin": "文汇网",
+          "time": 1783313674
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGfjDUCnfH",
+          "title": "日本开始新一轮核污染水排海",
+          "origin": "环球网",
+          "time": 1783311978
+        }
+      ],
+      "summary": "日本东京电力公司于2026年7月6日启动福岛第一核电站新一轮核污染水排海，这是该公司总计第21次核污染水排海。据福岛当地媒体报道，当地时间6日11时41分（北京时间10时41分），东京电力公司开始本轮核污染水排放。国际社会持续关注此事，对核污染水排海的长期影响保持担忧。"
+    },
+    {
+      "title": "英国外交大臣警告AI威胁堪比核爆 呼吁各国建立紧急防护",
+      "tags": [
+        "人工智能",
+        "安全威胁",
+        "英国",
+        "国际呼吁",
+        "技术风险"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwfpx1871498.shtml",
+          "title": "英外交大臣发严厉警告：AI失控危害堪比广岛核爆，呼吁中美牵头监管",
+          "origin": "新浪新闻",
+          "time": 1783338182
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-07-06/doc-inifwfpx1826988.shtml",
+          "title": "英外交大臣警告AI威胁堪比广岛核爆：各国必须建立紧急防护措施",
+          "origin": "新浪新闻",
+          "time": 1783337997
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134438.htm",
+          "title": "英外交大臣警告AI威胁堪比广岛核爆：各国必须建立防护措施",
+          "origin": "快科技",
+          "time": 1783326900
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifwfpy8570695.shtml",
+          "title": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
+          "origin": "新浪新闻",
+          "time": 1783338079
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uXbodFR3Wk",
+          "title": "英国外交大臣库珀警告：AI或成未来10年最大安全挑战",
+          "origin": "凤凰科技",
+          "time": 1783325075
+        }
+      ],
+      "summary": "英国外交大臣伊薇特·库珀近日发出严厉警告，称人工智能可能成为未来十年全球面临的最严峻安全挑战。她强调，如果各国无法尽快建立统一的AI治理国际规范，该技术失控带来的潜在危害堪比当年广岛、长崎核爆的灾难性后果。库珀指出，随着美国弱化其全球秩序维护者的角色，国际环境暗流涌动，而AI技术的普及放大了安全漏洞，目前已有犯罪集团、极端组织及部分国家级势力利用前沿智能技术从事恶意活动，导致数字安全事件频发。她判断，未来两年内，AI治理将成为各国外交的核心议题。鉴于AI风险的跨国性，仅凭单一国家或传统盟友体系难以有效应对。库珀主张英国深化与欧洲的长期稳定合作，减少对单一外部力量的依赖。她特别呼吁美国和中国等科技大国牵头磋商，共同制定具备普遍约束力的全球AI监管准则。库珀最后强调，各国需放下分歧，建立统一的紧急防护体系并划定技术使用红线，在鼓励创新与强化安全管控之间取得平衡，避免AI技术失控演变为波及全人类的重大危机。"
+    },
+    {
+      "title": "中央网信办整治AI应用乱象 处置智能体等产品1.4万余款",
+      "tags": [
+        "AI监管",
+        "网信办",
+        "整治",
+        "虚假信息",
+        "技术治理"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-07-06/doc-inifwmvv1789018.shtml",
+          "title": "中央网信办出手整治AI应用乱象：处置智能体等AI产品1.4万余款",
+          "origin": "新浪新闻",
+          "time": 1783338019
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134483.htm",
+          "title": "官方出手整治AI应用乱象：处置智能体等AI产品1.4万余款",
+          "origin": "快科技",
+          "time": 1783332900
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/06/content_543014.html",
+          "title": "整治AI应用乱象 专项行动已处置1.4万余款AI产品",
+          "origin": "科技日报",
+          "time": 1783342909
+        },
+        {
+          "link": "https://m.ithome.com/html/973206.htm",
+          "title": "中央网信办出手整治 AI 应用乱象：清理违法违规信息 600 余万条",
+          "origin": "IT之家",
+          "time": 1783329431
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uXg5zmBBuv",
+          "title": "清理违法违规信息600余万条，中央网信办出手整治AI应用乱象",
+          "origin": "凤凰网",
+          "time": 1783328520
+        }
+      ],
+      "summary": "中央网信办自2026年4月起在全国范围内开展为期四个月的清朗·整治AI应用乱象专项行动，重点整治利用AI魔改经典、生成数字泔水等突出问题。据最新通报，专项行动第一阶段已取得积极进展，累计处置违规网站、应用程序、智能体等AI产品1.4万余款，清理违法违规信息600余万条，处置账号2.6万余个，下架违规AI商品1300余个、违规开源数据集9个。\n\n行动聚焦未按规定履行大模型备案登记义务、AI平台安全和审核过滤能力不足、AI数据投毒、生成合成内容标识落实不到位等乱象。各地网信部门深入推进重点整治任务，并开设涉AI应用乱象举报专区。\n\n同时，重点网站平台持续履行主体责任，加强管控。华为在应用商店增加生成式人工智能服务备案和标识专项审核；阿里巴巴完善数字指纹比对与关键词拦截机制，提升识别精度；智谱构建多模态审核模型，针对多轮对话意图反转等复杂场景开展交叉复核；稀宇及时识别并阻断利用AI编写病毒、钓鱼软件等恶意行为；DeepSeek在数据采集和预处理环节嵌入异常检测算法，防止恶意样本隐蔽操控。"
+    },
+    {
+      "title": "三星芯片代工部门3年来首次盈利 4nm产能供不应求",
+      "tags": [
+        "三星",
+        "芯片代工",
+        "盈利",
+        "4nm",
+        "半导体"
+      ],
+      "links": [
+        {
+          "link": "https://database.caixin.com/2026-07-06/102461171.html",
+          "title": "三星电子初步业绩出炉在即 或为全球芯片股走势奠定基调",
+          "origin": "财新",
+          "time": 1783311786000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifvuxz8741193.shtml",
+          "title": "三星电子初步业绩出炉在即 或为全球芯片股走势奠定基调",
+          "origin": "新浪新闻",
+          "time": 1783310299
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1567996.htm",
+          "title": "三星电子初步业绩出炉在即 或为全球芯片股走势奠定基调",
+          "origin": "cnBeta",
+          "time": 1783316580
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134486.htm",
+          "title": "3年来首次 三星芯片代工部门6月盈利：4nm都要挑客户了",
+          "origin": "快科技",
+          "time": 1783333380
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-07-06/doc-inifwmvv1791874.shtml",
+          "title": "3年来首次 三星芯片代工部门6月盈利：4nm都要挑客户了",
+          "origin": "新浪新闻",
+          "time": 1783338019
+        }
+      ],
+      "summary": "三星芯片代工部门在2026年6月首次实现月度盈利，这是自2023年以来的首次盈利，标志着该部门3年来扭亏为盈。受益于AI市场带动的HBM高带宽内存需求，三星在HBM4内存中采用自家4nm工艺生产的基础芯片从5月开始全球送样，产量提升贡献了收入。同时，三星4nm工艺良率被认为已提升至80%以上，有效降低了生产成本。尽管4月和5月该部门仍处于亏损状态，但6月的盈利趋势使第三季度实现全季度盈利成为可能。目前三星4nm工艺订单充足，"
+    },
+    {
+      "title": "旧金山多辆Waymo自动驾驶出租车碾压烟花起火 独立日运营受阻",
+      "tags": [
+        "Waymo",
+        "自动驾驶",
+        "事故",
+        "旧金山",
+        "公共安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134282.htm",
+          "title": "算法没学过烟花？多辆谷歌无人出租车碾过烟花 1辆当场起火",
+          "origin": "快科技",
+          "time": 1783296720
+        },
+        {
+          "link": "https://m.ithome.com/html/972871.htm",
+          "title": "旧金山多辆 Waymo 自动驾驶出租车碾过烟花，其中一车起火",
+          "origin": "IT之家",
+          "time": 1783293315
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uWuVMbTrLb",
+          "title": "美国自动驾驶出租车独立日趴窝Waymo回应：拥堵干扰正常运营",
+          "origin": "凤凰科技",
+          "time": 1783292263
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1567958.htm",
+          "title": "Waymo驾驶出租车独立日趴窝 拥堵干扰正常运营",
+          "origin": "cnBeta",
+          "time": 1783295580
+        }
+      ],
+      "summary": "7月4日美国独立日当晚，Waymo在旧金山运营的多辆自动驾驶出租车碾过路面烟花，其中一辆起火燃烧。旧金山消防部门表示，起火事件发生在康涅狄格街附近，一辆无人驾驶Waymo车辆行驶中碾过烟花引燃车辆，车内无乘客，无人员受伤。消防人员扑灭明火后车辆被拖离。当晚另一段视频显示，一名行人在路口点燃烟花，Waymo车辆直接驶过正在爆炸的烟花区域，乘客确认车辆无损、人员安全。此外，多辆Waymo车辆在旧金山北部遭遇严重交通拥堵，部分车辆因怠速等待电量耗尽被拖走，正常运营受影响，部分区域服务短暂中断。Waymo回应称已启动内部调查，正在复盘事件以优化系统响应能力，强调安全是首要目标，并与当地消防和交通部门保持协调。独立日是美国烟花燃放最密集时段，旧金山街头非法烟花普遍。自动驾驶车辆依赖激光雷达、摄像头等传感器感知路况，但路面突发爆炸物这类非常规场景构成感知与决策挑战。此事引发外界对自动驾驶系统在复杂城市环境中应对极端场景能力的讨论。Waymo为Alphabet旗下子公司，目前在多个城市运营无人驾驶出租车服务，今年已多次因车辆异常行为受关注，美国国家公路交通安全管理局正对其展开多项安全调查。"
+    },
+    {
+      "title": "刚果（金）埃博拉死亡病例超500例 疫情持续蔓延",
+      "tags": [
+        "埃博拉",
+        "公共卫生",
+        "刚果金",
+        "疫情",
+        "国际卫生"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260706/ecc4f5faf5b34437b41aeff027662764/c.html",
+          "title": "刚果(金)埃博拉死亡病例超500例 社区传播仍持续",
+          "origin": "新华网",
+          "time": 1783267200
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/06/AP6a4b359fe4b0b49ad1c22f13.html",
+          "title": "刚果（金）埃博拉死亡病例超500例",
+          "origin": "文汇网",
+          "time": 1783313914
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SGddXgtUrl",
+          "title": "刚果（金）埃博拉死亡病例超500例",
+          "origin": "环球网",
+          "time": 1783308466
+        }
+      ],
+      "summary": "刚果（金）卫生部7月5日发布的埃博拉疫情报告显示，该国本轮埃博拉疫情累计死亡病例已超过500例。截至7月4日，刚果（金）累计报告埃博拉确诊病例1561例，其中死亡506例，累计治愈254例，目前仍有628名确诊患者处于隔离或住院治疗状态。报告指出，每周新增确诊病例数仍呈上升趋势，显示社区传播仍在持续。为应对疫情，一项临床试验已在本轮疫情震中伊图里省的埃博拉治疗中心启动，将评估单克隆抗体MBP134和抗病毒药物瑞德西韦单独及联合使用等潜在治疗方法。邻国乌干达方面，卫生部官员表示通过收治输入病例"
     }
   ]
 }
