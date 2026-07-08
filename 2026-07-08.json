@@ -1,16 +1,227 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T04:22:53Z",
+  "generated_at": "2026-07-08T14:30:36Z",
   "summary": [
     {
-      "title": "广西强降雨致6人死亡水库溃坝 国家防总工作组赴横州指导京东运送解毒药",
+      "title": "中国多地遭遇强降雨、地震、滑坡等灾害 致数十人死亡 救援持续",
       "tags": [
-        "广西洪灾",
-        "水库溃坝",
-        "救灾",
-        "京东"
+        "自然灾害",
+        "地震",
+        "滑坡",
+        "强降雨",
+        "救援"
       ],
       "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SIBKWPTRUZ",
+          "title": "针对四川宜宾市高县5.0级地震 中国地震局启动三级应急响应",
+          "origin": "环球网",
+          "time": 1783469158
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/08/content_38873277.htm",
+          "title": "四川宜宾市高县发生5.0级地震 震源深度8千米",
+          "origin": "光明网",
+          "time": 1783472141
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/08/content_38873042.htm",
+          "title": "四川宜宾市高县发生5.0级地震 震源深度8千米",
+          "origin": "光明网",
+          "time": 1783472141
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIAr6yEKaR4DEnxaoU3kZw260708.shtml",
+          "title": "四川宜宾市高县发生5.0级地震",
+          "origin": "CCTV",
+          "time": 1783464947
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10654723.shtml",
+          "title": "四川宜宾市高县发生5.0级地震 震源深度8千米",
+          "origin": "中新网",
+          "time": 1783463460
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783465227129925.html",
+          "title": "四川宜宾市高县发生5.0级地震 中国地震局启动三级应急响应",
+          "origin": "新京报",
+          "time": 1783465282
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8056657.html",
+          "title": "针对四川宜宾市高县5.0级地震，中国地震局启动三级应急响应",
+          "origin": "钛媒体",
+          "time": 1783469340
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIJhzJbCnFZh7nQVPYzIlW260708.shtml",
+          "title": "四川高县再发5.0级地震",
+          "origin": "CCTV",
+          "time": 1783478648
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/08/content_543866.html",
+          "title": "四川宜宾市高县发生5.0级地震",
+          "origin": "科技日报",
+          "time": 1783478605
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783468807129969.html",
+          "title": "四川宜宾市高县发生5.0级地震，震源深度6千米",
+          "origin": "新京报",
+          "time": 1783476854
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10654960.shtml",
+          "title": "四川高县连发多次地震  其中两次5.0级",
+          "origin": "中新网",
+          "time": 1783484280
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIm2xyg4Zx2jrNwJ4luPt0260708.shtml",
+          "title": "四川宜宾市高县发生3.0级地震，震源深度6千米",
+          "origin": "CCTV",
+          "time": 1783491904
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTICqeMdOtkCrhYLMSP2vdA260708.shtml",
+          "title": "四川宜宾高县地震暂未收到人员伤亡报告",
+          "origin": "CCTV",
+          "time": 1783466818
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SI9vPHnEQh",
+          "title": "四川宜宾高县地震暂未收到人员伤亡报告",
+          "origin": "环球网",
+          "time": 1783466798
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10654737.shtml",
+          "title": "四川宜宾高县地震暂未收到人员伤亡报告",
+          "origin": "中新网",
+          "time": 1783467300
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTItCjH2tS26UUCA2rSCtbQ260708.shtml",
+          "title": "四川宜宾高县地震因灾受伤3人，均为轻微伤",
+          "origin": "CCTV",
+          "time": 1783478764
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/08/content_543686.html",
+          "title": "四川宜宾高县连续发生多次地震",
+          "origin": "科技日报",
+          "time": 1783468106
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/08/content_38874145.htm",
+          "title": "四川宜宾高县再次发生5.0级地震",
+          "origin": "光明网",
+          "time": 1783486531
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/08/content_38873404.htm",
+          "title": "四川宜宾高县5.0级地震目前2人受轻微伤",
+          "origin": "光明网",
+          "time": 1783486531
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/08/content_38873340.htm",
+          "title": "四川宜宾高县地震暂未收到人员伤亡报告",
+          "origin": "光明网",
+          "time": 1783486531
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783469263129973.html",
+          "title": "四川宜宾高县5.0级地震目前2人受轻微伤",
+          "origin": "新京报",
+          "time": 1783473121
+        },
+        {
+          "link": "https://www.jiemian.com/article/14719293.html",
+          "title": "四川宜宾高县今晨连发多次地震，暂未收到人员伤亡报告",
+          "origin": "界面新闻",
+          "time": 1783505134
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIC7ySo8pAh6XxGo0Kh7Qc260708.shtml",
+          "title": "两部门紧急预拨5000万元支持湖北、甘肃做好灾害应急抢险救灾",
+          "origin": "CCTV",
+          "time": 1783500019
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/08/content_118589190.shtml",
+          "title": "两部门预拨5000万元支持湖北、甘肃应急抢险救灾",
+          "origin": "中国网",
+          "time": 1783504534
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inihapmy8302287.shtml",
+          "title": "两部门紧急预拨5000万元支持湖北、甘肃抢险救灾",
+          "origin": "新浪新闻",
+          "time": 1783496317
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260708/ec4ef176955344028d26cf04da449959/c.html",
+          "title": "两部门预拨5000万元支持鄂甘应急抢险救灾",
+          "origin": "新华网",
+          "time": 1783440000
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/07-08/news1060977.shtml",
+          "title": "广西壮族自治区常务副主席：目前防灾、救灾依然面临艰巨任务和严峻挑战",
+          "origin": "中新网",
+          "time": 1783472220
+        },
+        {
+          "link": "https://www.jiemian.com/article/14718477.html",
+          "title": "广西强降雨致6人死亡，防灾救灾面临三项艰巨任务",
+          "origin": "界面新闻",
+          "time": 1783472741
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIXyirpFoxbECkB4HnDbYe260708.shtml",
+          "title": "把防灾救灾责任盯紧压实",
+          "origin": "CCTV",
+          "time": 1783497011
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10654976.shtml",
+          "title": "甘肃宕昌山体滑坡致21人遇难 现场搜救工作结束",
+          "origin": "中新网",
+          "time": 1783486260
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/08/content_543735.html",
+          "title": "甘肃宕昌滑坡现场搜救工作结束 21人遇难",
+          "origin": "科技日报",
+          "time": 1783474417
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/08/content_118588136.shtml",
+          "title": "甘肃宕昌滑坡现场搜救工作结束 21人遇难",
+          "origin": "中国网",
+          "time": 1783486530
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-08/10655196.shtml",
+          "title": "中国红十字会总会紧急向湖北调拨救灾物资",
+          "origin": "中新网",
+          "time": 1783501440
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783499519129363.html",
+          "title": "中国红十字会总会紧急向湖北调拨救灾物资",
+          "origin": "新京报",
+          "time": 1783499581
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SIARaUr6nO",
+          "title": "中国红十字会总会向湖北省调拨救灾物资",
+          "origin": "环球网",
+          "time": 1783467670
+        },
         {
           "link": "https://news.cctv.com/2026/07/08/ARTIPEnwvM2pGWcve4ihIPP5260708.shtml",
           "title": "国家防总办公室联合工作组赴广西南宁横州市协助指导水库溃坝抢险救灾工作",
@@ -30,16 +241,28 @@
           "time": 1783467526
         },
         {
-          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/07-08/news1060977.shtml",
-          "title": "广西壮族自治区常务副主席：目前防灾、救灾依然面临艰巨任务和严峻挑战",
-          "origin": "中新网",
-          "time": 1783472220
+          "link": "https://news.cctv.com/2026/07/08/ARTI8InB8Nxd7SLX85FqZT2M260708.shtml",
+          "title": "甘肃陇南宕昌县滑坡已致21人遇难",
+          "origin": "CCTV",
+          "time": 1783473062
         },
         {
-          "link": "https://www.jiemian.com/article/14718477.html",
-          "title": "广西强降雨致6人死亡，防灾救灾面临三项艰巨任务",
-          "origin": "界面新闻",
-          "time": 1783472741
+          "link": "https://politics.gmw.cn/2026-07/08/content_38873329.htm",
+          "title": "甘肃陇南宕昌县滑坡已致21人遇难",
+          "origin": "光明网",
+          "time": 1783486531
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SIApgJMl1m",
+          "title": "湖北多地遭遇强对流天气袭击 清障、抢修工作正在进行",
+          "origin": "环球网",
+          "time": 1783468323
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49596593.html",
+          "title": "湖北强对流天气致11人死 多地受灾严重救援进行中",
+          "origin": "中国网",
+          "time": 1783483470
         },
         {
           "link": "https://tech.ifeng.com/c/8uYhYI2akVk",
@@ -52,30 +275,85 @@
           "title": "京东第二批救灾物资送往广西灾区：含2000份毒蛇咬伤解毒药",
           "origin": "快科技",
           "time": 1783441020
+        },
+        {
+          "link": "https://www.jiemian.com/article/14720458.html",
+          "title": "甘肃宕昌山体滑坡共致21人遇难，7名伤者均无生命危险",
+          "origin": "界面新闻",
+          "time": 1783505134
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/08/content_118588201.shtml",
+          "title": "甘肃宕昌山体滑坡已累计找到31名被困人员",
+          "origin": "中国网",
+          "time": 1783486530
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIM9HC5uxglgvOTpYhuVl7260708.shtml",
+          "title": "两部门联合发布橙色地质灾害气象风险预警",
+          "origin": "CCTV",
+          "time": 1783503599
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10655265.shtml",
+          "title": "两部门联合发布橙色地质灾害气象风险预警",
+          "origin": "中新网",
+          "time": 1783503900
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uaPWyJCr11",
+          "title": "最大13级风力，罕见龙卷风突袭湖北多地，记者现场直击生死救援",
+          "origin": "凤凰网",
+          "time": 1783468800
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49597460.html",
+          "title": "直击广西洪灾救援现场 多地被淹紧急转移",
+          "origin": "中国网",
+          "time": 1783503309
+        },
+        {
+          "link": "https://m.ithome.com/html/974130.htm",
+          "title": "广西多地遭遇持续强降雨，长城汽车推出无忧救援、免费检测等四项应急关怀服务",
+          "origin": "IT之家",
+          "time": 1783500604
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/07-08/news1061006.shtml",
+          "title": "广西多地遭遇强降雨 抢险救灾进行中 洪峰过境 郁江水位超警5.68米",
+          "origin": "中新网",
+          "time": 1783479000
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIqMQ2nKMgBP0BHgXl9tJr260708.shtml",
+          "title": "交通运输部维持强降雨二级防御响应",
+          "origin": "CCTV",
+          "time": 1783483020
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8056946.html",
+          "title": "交通运输部维持强降雨二级防御响应",
+          "origin": "钛媒体",
+          "time": 1783482000
         }
       ],
-      "summary": "广西强降雨已导致6人死亡，并发生水库溃坝。国家防总办公室已联合应急管理部、水利部组成工作组，于7月6日晚赶赴广西南宁横州市，协助指导当地防汛抗洪、抢险救援及救灾救助工作。此外，京东物流也在积极行动，其第二批救灾物资包括近10000箱矿泉水、8000箱牛奶、2700份即食食品等生活物资已发往南宁、贵港等受灾区域。京东健康还联合药企筹备了21000件急救、消杀及常用药品，并专门准备了2000份毒蛇咬伤专用解毒药。此前有报道称，横州市一养蛇场被洪水冲毁，约有800至900条蛇出逃，其中包含眼镜蛇。对于道路阻断的山区，京东将出动无人机进行物资运送与险情勘察。"
+      "summary": "近日，中国多地遭受强降雨、地震、滑坡等自然灾害，造成数十人死亡，救援工作仍在持续。在四川宜宾市高县发生5.0级地震，中国地震局已启动三级应急响应，四川省地震局派出现场工作队赶赴震区，协助地方政府开展应急处置。同时，交通运输部维持强降雨二级防御响应。中央气象台7月8日继续发布暴雨橙色预警，自7月4日以来，广西中东部和南部持续出现暴雨到大暴雨，局地特大暴雨，累计降水量100至400毫米，局地达900毫米以上。预计7月8日14时至9日14时，广西南部局地仍有大暴雨，此外广东西部和北部、湖南南部、内蒙古东北部、黑龙江中部、吉林中部、辽宁西部和东部、河北北部、山东北部、江苏南部、云南南部和西部、西藏东南部等地部分地区有大到暴雨，广东西南部等局地有大暴雨，"
     },
     {
-      "title": "伊朗格什姆岛爆炸声后美伊冲突升级 伊朗谴责美国违反备忘录美国撤销石油销售授权",
+      "title": "美伊相互打击军事设施 特朗普称谅解备忘录终结 伊朗总统提前回国",
       "tags": [
+        "美伊冲突",
+        "军事打击",
+        "特朗普",
         "伊朗",
-        "美国制裁",
-        "军事冲突",
-        "石油"
+        "中东局势"
       ],
       "links": [
         {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1140950&sid=21",
-          "title": "伊朗格什姆岛再次传出爆炸声",
-          "origin": "上观",
-          "time": 1783472542
-        },
-        {
-          "link": "https://news.ifeng.com/c/8uaOc1ZvqoL",
-          "title": "伊朗格什姆岛再次传出爆炸声",
-          "origin": "凤凰网",
-          "time": 1783471260
+          "link": "https://news.cctv.com/2026/07/08/ARTIBToafq5UWvlkaIgr6KG7260708.shtml",
+          "title": "伊朗外交部：美国取消暂停制裁措施违反谅解备忘录",
+          "origin": "CCTV",
+          "time": 1783477325
         },
         {
           "link": "https://www.huanqiu.com/article/4SIBYKs3HOO",
@@ -90,6 +368,96 @@
           "time": 1783440000
         },
         {
+          "link": "https://news.cctv.com/2026/07/08/ARTIDFWrq2t6QDU0k19HjbJT260708.shtml",
+          "title": "特朗普：美伊谅解备忘录已终结",
+          "origin": "CCTV",
+          "time": 1783499998
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-08/10655236.shtml",
+          "title": "特朗普：美伊谅解备忘录已终结",
+          "origin": "中新网",
+          "time": 1783502520
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-08/10655174.shtml",
+          "title": "特朗普：美伊谅解备忘录已终结",
+          "origin": "中新网",
+          "time": 1783499400
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/08/AP6a4e0cfae4b0b49ad1c280ad.html",
+          "title": "特朗普：美伊谅解备忘录已终结",
+          "origin": "文汇网",
+          "time": 1783501534
+        },
+        {
+          "link": "https://www.news.cn/world/20260708/d9cffe97452c4f7bbfbfb07575dc0077/c.html",
+          "title": "特朗普：谅解备忘录已终结",
+          "origin": "新华网",
+          "time": 1783440000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "title": "伊朗伊斯兰革命卫队称对85个美国军事目标实施打击",
+          "origin": "凤凰网",
+          "time": 1783484100
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-08/10654971.shtml",
+          "title": "伊朗伊斯兰革命卫队称打击美军85处军事设施",
+          "origin": "中新网",
+          "time": 1783484460
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTI4C9NQzV0BMRAtW4jE1We260708.shtml",
+          "title": "伊朗伊斯兰革命卫队称打击美军85处军事设施",
+          "origin": "CCTV",
+          "time": 1783502541
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1141083&sid=21",
+          "title": "伊朗革命卫队称摧毁85处美军设施",
+          "origin": "上观",
+          "time": 1783485210
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SIJlcueJTO",
+          "title": "伊朗伊斯兰革命卫队称打击美军85处军事设施",
+          "origin": "环球网",
+          "time": 1783483326
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-08/10654714.shtml",
+          "title": "美军称开始对伊朗发动系列打击",
+          "origin": "中新网",
+          "time": 1783460100
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIIk7Uv3Qw3TcNTWenqE5I260708.shtml",
+          "title": "美军称完成对伊朗新一轮打击",
+          "origin": "CCTV",
+          "time": 1783476644
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/08/AP6a4db123e4b0b49ad1c27044.html",
+          "title": "美军称完成对伊朗新一轮打击",
+          "origin": "文汇网",
+          "time": 1783479932
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1141082&sid=21",
+          "title": "美军称完成对伊朗新一轮打击",
+          "origin": "上观",
+          "time": 1783485194
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/08/AP6a4d78a7e4b0b49ad1c2667b.html",
+          "title": "美军称开始对伊朗发动系列打击",
+          "origin": "文汇网",
+          "time": 1783465534
+        },
+        {
           "link": "https://www.huanqiu.com/article/4SI9ySbob3h",
           "title": "美国撤销对伊朗石油销售等的授权",
           "origin": "环球网",
@@ -100,6 +468,36 @@
           "title": "美国撤销对伊朗石油销售等的授权",
           "origin": "新华网",
           "time": 1783440000
+        },
+        {
+          "link": "https://www.cpnn.com.cn/news/gj/202607/t20260708_1900517.html",
+          "title": "美国撤销对伊朗石油销售等的授权",
+          "origin": "能源网",
+          "time": 1783486532
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49596595.html",
+          "title": "伊朗总统因美军袭击提前回国 美打击规模空前增大",
+          "origin": "中国网",
+          "time": 1783483541
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "title": "伊朗总统因美军袭击提前回国",
+          "origin": "凤凰网",
+          "time": 1783466580
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1140950&sid=21",
+          "title": "伊朗格什姆岛再次传出爆炸声",
+          "origin": "上观",
+          "time": 1783472542
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uaOc1ZvqoL",
+          "title": "伊朗格什姆岛再次传出爆炸声",
+          "origin": "凤凰网",
+          "time": 1783471260
         },
         {
           "link": "https://news.cctv.com/2026/07/08/ARTIbl2lRBgdzQL0X2cfYsQL260708.shtml",
@@ -117,37 +515,63 @@
       "summary": ""
     },
     {
-      "title": "古巴外长称美国封锁致古累计损失达1787亿美元",
+      "title": "特朗普宣布切断与西班牙贸易并再次声称格陵兰岛应由美国控制",
       "tags": [
-        "古巴",
-        "美国封锁",
-        "经济损失"
+        "贸易制裁",
+        "领土主张",
+        "特朗普",
+        "西班牙",
+        "格陵兰"
       ],
       "links": [
         {
-          "link": "https://www.huanqiu.com/article/4SID9eGFSp8",
-          "title": "古巴外长：美国封锁致古累计损失已达1787亿美元",
-          "origin": "环球网",
-          "time": 1783472222
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihattv1459162.shtml",
+          "title": "特朗普称不想再与西班牙有任何往来：全面切断两国贸易",
+          "origin": "新浪新闻",
+          "time": 1783499423
         },
         {
-          "link": "https://www.news.cn/world/20260708/58329cce18a949f189fe10a0c3261b94/c.html",
-          "title": "古巴外长：美国封锁致古累计损失已达1787亿美元",
-          "origin": "新华网",
-          "time": 1783440000
-        }
-      ],
-      "summary": "古巴外交部长罗德里格斯7日在联合国大会上表示，按现行价格计算，美国长期对古巴的经济、金融封锁和贸易禁运已累计造成1787亿美元损失。他同时指出，在2025年3月1日至2026年2月28日期间，封锁导致的损失达到创纪录的80.83亿美元，较上一年增长7%。自1962年美国对古巴实施封锁以来，联合国大会每年都会审议要求美国解除封锁的决议，这些决议多年来均以压倒性多数获得支持。"
-    },
-    {
-      "title": "特朗普再次声称格陵兰岛应由美国控制",
-      "tags": [
-        "特朗普",
-        "格陵兰岛",
-        "领土争议",
-        "美国外交"
-      ],
-      "links": [
+          "link": "https://news.ifeng.com/c/8ub1oqRPQxp",
+          "title": "特朗普要求切断美国与西班牙一切贸易往来，西班牙回应",
+          "origin": "凤凰网",
+          "time": 1783503180
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihatua4790889.shtml",
+          "title": "特朗普威胁要切断与西班牙的所有贸易和互访",
+          "origin": "新浪新闻",
+          "time": 1783498834
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-08/10655241.shtml",
+          "title": "特朗普：已下令切断与西班牙的贸易往来",
+          "origin": "中新网",
+          "time": 1783502700
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTI7LbWrQ0lbHhBUrhxxPEo260708.shtml",
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "origin": "CCTV",
+          "time": 1783502123
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/08/AP6a4e13f8e4b0b49ad1c28207.html",
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "origin": "文汇网",
+          "time": 1783501954
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uavCtKCvM5",
+          "title": "特朗普要求切断与西班牙所有贸易往来",
+          "origin": "凤凰网",
+          "time": 1783498380
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihattw8299453.shtml",
+          "title": "特朗普加码谋求掌控格陵兰岛，丹麦表态将全力捍卫该岛主权",
+          "origin": "新浪新闻",
+          "time": 1783502979
+        },
         {
           "link": "https://news.cctv.com/2026/07/08/ARTIi0WIK01Zd2ZwnVYid7dt260708.shtml",
           "title": "特朗普再次声称格陵兰岛应该由美国控制",
@@ -161,51 +585,16 @@
           "time": 1783446660
         }
       ],
-      "summary": "美国总统特朗普7日在土耳其首都安卡拉与土耳其总统埃尔多安举行双边会议前，再次声称格陵兰岛应由美国控制，而非丹麦。特朗普在回答记者提问时表示，格陵兰岛对丹麦没有用处，丹麦并未实际投入资金帮助该岛，但该岛对美国很重要。他将此问题与美国在欧洲的军事存在挂钩，威胁称美国可以撤出所有驻欧士兵，因为欧洲已与20年前大不相同。格陵兰岛是丹麦的自治领地。特朗普自2025年重返白宫以来，多次扬言要获取格陵兰岛，甚至不排除动用武力，导致美国与丹麦及欧洲盟友关系紧张。这一言论再次引发国际关注。"
+      "summary": "美国总统特朗普在出席土耳其北约峰会期间，因西班牙国防开支问题与对方发生争执。特朗普在安卡拉与北约秘书长吕特共同出席记者会时猛烈抨击西班牙，称其是北约糟糕的合作伙伴，不参与行动也不兑现军费投入承诺。他宣布不想再与西班牙有任何往来，要求全面切断与西班牙的所有贸易，包括双方人员互访。此前北约峰会各国约定2035年前将国防开支提升至本国GDP的5%，西班牙是唯一未作出该承诺的成员国。特朗普的言论加剧了市场波动，西班牙国债收益率上行，股市下挫。\n\n与此同时，特朗普在安卡拉与土耳其总统埃尔多安会面前再次声称格陵兰岛应由美国控制，而非丹麦。他称格陵兰岛对丹麦无用，丹麦并未真正帮助该岛，但该岛对美国很重要。特朗普还威胁可将所有美军撤出欧洲，因为欧洲已与20年前大不相同。格陵兰岛是丹麦自治领地，特朗普自2025年重返白宫以来多次扬言要得到格陵兰岛，甚至不排除动用武力，导致美国与丹麦及欧洲盟友关系紧张。"
     },
     {
-      "title": "SpaceX以600亿美元收购Cursor后发布首款AI模型并申请发射10万颗卫星",
+      "title": "小米发布增程汽车品牌SkyNomad中文名澎程 雷军回应上市时间",
       "tags": [
-        "SpaceX",
-        "AI模型",
-        "卫星互联网",
-        "收购"
-      ],
-      "links": [
-        {
-          "link": "https://m.ithome.com/html/973847.htm",
-          "title": "消息称 SpaceXAI 与 Cursor 合作 AI 模型最快今日亮相，部分性能可与 GPT 5.5 媲美",
-          "origin": "IT之家",
-          "time": 1783472405
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8uaMQ6YtrbL",
-          "title": "600亿收购Cursor后，SpaceX将发首款模型：部分性能对标GPT 5.5",
-          "origin": "凤凰科技",
-          "time": 1783469594
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8uYhYI2akVx",
-          "title": "马斯克再扔王炸，SpaceX申请发射10万颗卫星，打造AI全球通信底座",
-          "origin": "凤凰科技",
-          "time": 1783467221
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1134/1134808.htm",
-          "title": "马斯克再扔王炸，SpaceX申请发射10万颗卫星 承载全球流量",
-          "origin": "快科技",
-          "time": 1783467180
-        }
-      ],
-      "summary": "SpaceX以600亿美元收购AI编程应用Cursor的交易尚未正式落地，但双方开发人员已展开技术合作。据外媒消息，SpaceXAI首款与Cursor联合开发的AI模型最快于2026年7月8日亮相，该模型在某些方面可与Anthropic Claude Opus 4.8或OpenAI GPT-5.5相媲美。马斯克此前表示，基于1.5T V9基座模型训练的Grok 4.5已在旗下企业测试；Cursor CEO透露正开发从零训练的新模型，旨在直接与Anthropic和OpenAI竞争。\n\n与此同时，SpaceX本周正式向美国联邦通信委员会申请发射并运营由10万颗卫星组成的第三代卫星星座，目标构建AI时代的全球通信底座。该星座将部署在323至477.5公里高度的两组轨道壳层中，并申请在现有频段基础上拓展W频段和D频段。SpaceX现有第二代星链星座已获授权约1.2万颗卫星，在轨超7000颗。第三代星座规模扩大近10倍，旨在承载全球大部分互联网流量，并为Grok等AI服务提供低延迟数据传输通道，形成太空通信加地面AI的闭环生态。FCC审批进度和星舰发射能力是关键。"
-    },
-    {
-      "title": "小米汽车官宣增程品牌SkyNomad中文名小米澎程 首款增程SUV即将发布",
-      "tags": [
-        "小米汽车",
+        "小米",
+        "汽车",
         "SkyNomad",
-        "增程SUV",
-        "新能源汽车"
+        "增程",
+        "澎程"
       ],
       "links": [
         {
@@ -233,6 +622,30 @@
           "time": 1783467332
         },
         {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49596606.html",
+          "title": "雷军回应SkyNomad上市时间 新车下半年发布",
+          "origin": "中国网",
+          "time": 1783485840
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8057373.html",
+          "title": "雷军回应SkyNomad上市时间",
+          "origin": "钛媒体",
+          "time": 1783504740
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134929.htm",
+          "title": "股价大涨10%，小米汽车官宣新系列澎程 雷军称首款新车快了",
+          "origin": "快科技",
+          "time": 1783494420
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0708/1763639.shtml",
+          "title": "股价大涨10%，雷军回应小米汽车新系列澎程上市时间：快了",
+          "origin": "站长之家",
+          "time": 1783496750
+        },
+        {
           "link": "https://finance.sina.com.cn/tech/shenji/2026-07-08/doc-inifzwqk8125881.shtml",
           "title": "小米汽车官宣新品牌SkyNomad，即将发布首款增程SUV",
           "origin": "新浪新闻",
@@ -245,64 +658,302 @@
           "time": 1783469220
         }
       ],
-      "summary": "小米汽车科技有限公司正式官宣旗下增程品牌SkyNomad，其中文名确定为小米澎程。该品牌名称代表天空与游牧者，寓意一个关于空间和生活的新名字。目前，小米澎程已在微信公众号、视频号、B站等平台低调注册官方账号，截至发稿时尚未发布任何内容。据悉，小米澎程将归属为小米汽车的独立子品牌，首款增程式SUV计划于2026年下半年正式发布，该车型不再使用小米主品牌标识。此前有消息称该品牌中文名可能为寻天，但最终确定为小米澎程。此次官宣标志着小米汽车在增程动力领域迈出重要一步，进一步拓展产品线布局。"
+      "summary": "小米汽车于2026年7月8日正式推出新品牌SkyNomad，中文名定为“小米澎程”。该品牌已在微信公众号、视频号、B站等平台注册官方账号，但截至发文尚未发布任何内容。SkyNomad品牌寓意“天空”与“游牧者”，被定义为“一个关于空间和生活的新名字”。据此前媒体报道，小米汽车首款增程式SUV将归属该独立子品牌，不再使用小米主品牌标识，计划于2026年下半年正式发布。关于上市时间，小米CEO雷军尚未对此作出公开回应。"
     },
     {
-      "title": "美国芯片制造业复兴遭遇用工荒 半导体工人缺口近16万",
+      "title": "陈立泉、贲德两位院士获2025年度国家最高科学技术奖",
       "tags": [
-        "美国半导体",
-        "用工荒",
-        "芯片制造业"
+        "国家科技奖",
+        "院士",
+        "陈立泉",
+        "贲德"
       ],
       "links": [
         {
-          "link": "https://m.ithome.com/html/973841.htm",
-          "title": "美国芯片制造业复兴遭遇用工荒：半导体工人缺口高达近 16 万",
-          "origin": "IT之家",
-          "time": 1783471270
+          "link": "https://news.cctv.com/2026/07/08/ARTIOenrT3dAmi5DXymQdo3N260708.shtml",
+          "title": "2025年度国家科学技术奖今天揭晓 陈立泉、贲德获国家最高科学技术奖",
+          "origin": "CCTV",
+          "time": 1783481415
         },
         {
-          "link": "https://tech.ifeng.com/c/8uaEugBWEoF",
-          "title": "美国芯片制造业复兴遭遇用工荒：半导体工人缺口高达近16万",
-          "origin": "凤凰科技",
-          "time": 1783466023
+          "link": "http://www.chinanews.com//gn/2026/07-08/10654972.shtml",
+          "title": "陈立泉、贲德两位院士获中国2025年度国家最高科学技术奖",
+          "origin": "中新网",
+          "time": 1783485300
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-08/10654928.shtml",
+          "title": "陈立泉、贲德两位院士荣获2025年度国家最高科学技术奖",
+          "origin": "中新网",
+          "time": 1783480500
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIDFsEFXMY09nxLOxu2g9o260708.shtml",
+          "title": "揭晓，陈立泉院士、贲德院士获得国家最高科学技术奖",
+          "origin": "CCTV",
+          "time": 1783482545
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1134/1134889.htm",
+          "title": "2025国家科学技术奖揭晓，中国锂电池之父陈立泉获奖",
+          "origin": "快科技",
+          "time": 1783482660
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783480412129133.html",
+          "title": "陈立泉、贲德获国家最高科学技术奖",
+          "origin": "新京报",
+          "time": 1783480485
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SII33VmUMk",
+          "title": "陈立泉、贲德获国家最高科学技术奖",
+          "origin": "环球网",
+          "time": 1783480439
         }
       ],
-      "summary": "根据一份最新报告，美国半导体行业正面临严重的高技能工人短缺问题。由麦肯锡公司、半导体行业协会SEMI及美国国家科学基金会联合发布的报告预测，到2030年，美国半导体行业的熟练劳动力缺口最高将达到15.7万个全职岗位。这一短缺预计将在得州、加州、亚利桑那州、纽约州和俄亥俄州等拥有大量新建半导体工厂计划的州份最为严重。\n\n报告指出，人才短缺可能拖累多项大型芯片制造投资计划，包括台积电在亚利桑那州高达2650亿美元的投资、美光在纽约州的1000亿美元存储芯片项目，以及三星在得州的逻辑芯片工厂。即使是英特尔在俄亥俄州已推迟的280亿美元项目，未来产能提升时也将面临用工问题。若不解决，劳动力缺口不仅危及企业投资，还可能影响《2022年芯片与科学法案》促进国内生产的联邦拨款成效。\n\n研究显示，约74%的空缺将集中在制造领域，60%集中在工程领域。报告作者建议政府持续提供资金、扩大半导体相关课程，并让学生更早接触芯片行业职业。麦肯锡合伙人表示，潜在缺口规模巨大，单一企业无法解决，整个行业需共同应对。"
+      "summary": "陈立泉、贲德两位院士荣获2025年度国家最高科学技术奖。"
     },
     {
-      "title": "算力产业链业绩大增 AI需求推动增长",
+      "title": "工信部提示AI编程工具Claude Code存在安全后门隐患",
       "tags": [
-        "算力",
-        "AI需求",
-        "产业链",
-        "业绩增长"
+        "AI安全",
+        "后门隐患",
+        "工信部",
+        "Claude Code"
       ],
       "links": [
         {
-          "link": "https://finance.sina.com.cn/wm/2026-07-08/doc-inifzwqk8144701.shtml",
-          "title": "中信证券：高波不改AI超级周期，重视国产算力Plan B",
-          "origin": "新浪新闻",
-          "time": 1783472215
+          "link": "https://www.nbd.com.cn/articles/2026-07-08/4460969.html",
+          "title": "工信部发布风险提示：Anthropic公司AI编程工具Claude Code存安全后门隐患，危害严重",
+          "origin": "每经网",
+          "time": 1783493577
         },
         {
-          "link": "https://3g.china.com/act/news/10000169/20260708/49595695.html",
-          "title": "算力产业链业绩大增 AI需求推动增长",
+          "link": "https://news.cctv.com/2026/07/08/ARTIxwp3xheVJJXMthavei2w260708.shtml",
+          "title": "AI编程工具Claude Code存安全后门隐患 工信部发布风险提示",
+          "origin": "CCTV",
+          "time": 1783504940
+        },
+        {
+          "link": "https://www.oschina.net/news/471570",
+          "title": "工信部提示 AI 编程工具 Claude Code 存在安全后门隐患",
+          "origin": "oschina",
+          "time": 1783498800
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783499318129355.html",
+          "title": "工信部：Claude Code存在安全后门隐患，危害严重",
+          "origin": "新京报",
+          "time": 1783499562
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49597457.html",
+          "title": "工信部：Claude Code存在安全隐患 风险提示发布",
           "origin": "中国网",
-          "time": 1783472216
+          "time": 1783503103
         }
       ],
-      "summary": "2026年7月7日晚间，多家A股算力产业链上市公司集中发布半年度业绩预告，显示AI大模型训练与规模化推理带动算力需求爆发式增长，云厂商与通信运营商持续加码基础设施建设，产业链业绩进入集中释放期。行云科技预计上半年营收同比增长超过5倍，存储和算力业务开始确认收入；复旦微电净利润预增超3倍；智微智能、浪潮信息、光库科技、广合科技、瑞芯微等公司净利润均实现大幅增长，主要受益于AI算力硬件需求激增。\n\n中信证券研报指出，Meta拟出租部分算力引发市场对算力过剩"
+      "summary": "7月8日，工业和信息化部网络安全威胁和漏洞信息共享平台发布风险提示，称AI编程工具Claude Code存在严重安全后门隐患。Claude Code由美国Anthropic公司开发，可根据文字需求自主完成代码编写与修复。监测发现，该工具内置监控机制，未经用户同意便向远程服务器回传用户地域、身份标识等敏感信息，受影响版本为2.1.91至2.1.196。工信部建议相关单位和用户立即开展全面排查，对安装受影响版本的开发终端立即卸载或升级至已清除后门代码的最新安全版本，同时加强核心业务网段内开发工具的外联权限管控与流量监测，防止敏感数据违规外传。"
+    },
+    {
+      "title": "特朗普政府解除对OpenAI GPT 5.6的限制",
+      "tags": [
+        "OpenAI",
+        "监管解除",
+        "特朗普",
+        "AI"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/973922.htm",
+          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
+          "origin": "IT之家",
+          "time": 1783481452
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaicz1484917.shtml",
+          "title": "OpenAI周四将发布GPT-5.6 Sol人工智能模型",
+          "origin": "新浪新闻",
+          "time": 1783484140
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaicz1432586.shtml",
+          "title": "特朗普政府解除对OpenAI GPT 5.6的限制",
+          "origin": "新浪新闻",
+          "time": 1783481065
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1568274.htm",
+          "title": "特朗普政府解除对OpenAI GPT 5.6的限制",
+          "origin": "cnBeta",
+          "time": 1783486980
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaiea8218230.shtml",
+          "title": "OpenAI据悉获美国批准全面推出GPT-5.6",
+          "origin": "新浪新闻",
+          "time": 1783481586
+        }
+      ],
+      "summary": "美国商务部已正式批准OpenAI大规模发布其先进AI模型GPT-5.6，结束了此前因国家安全考量而实施的分阶段发布管控。该模型名为GPT-5.6 Sol，预计将于当地时间本周四完成最后准备工作后，与Terra和Luna一同面向公众推出。\n\n上个月，美国政府出于国家安全考虑，要求OpenAI对GPT-5.6采取分阶段发布策略，仅允许一小部分经政府批准的有限实体使用该模型。OpenAI当时表示，分阶段发布并非其首选方式。为促成最终放行，OpenAI派出技术专家团队驻扎华盛顿，配合美国商务部下属的AI标准与创新中心进行测试，随时回应政府官员在测试过程中提出的问题。\n\n此次获批标志着临时管控措施的结束。此外，美国政府即将出台最新的AI行政令，旨在为先进AI模型的发布建立一套正式的评估框架。OpenAI表示，AI公司与美国政府已在现行框架下协调运作。此前，另一家AI公司Anthropic的Mythos和Fable模型也曾受到类似的分阶段发布限制。"
+    },
+    {
+      "title": "国台办回应美AIT处长鼓吹台湾蜂巢论及民进党借大陆导弹试射散布威胁论",
+      "tags": [
+        "台海",
+        "国台办",
+        "美国",
+        "民进党",
+        "威胁论"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8uabzP4yxVj",
+          "title": "台海巡部门称已倡导台湾船只不要理会大陆海警船询问，国台办回应",
+          "origin": "凤凰网",
+          "time": 1783481640
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260708/49596600.html",
+          "title": "国台办回应美AIT处长鼓吹台湾蜂巢论 破坏台海和平稳定",
+          "origin": "中国网",
+          "time": 1783483754
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-08/10654880.shtml",
+          "title": "国台办回应美AIT处长鼓吹台湾蜂巢论",
+          "origin": "中新网",
+          "time": 1783478280
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783477568129104.html",
+          "title": "民进党当局借大陆导弹试射散布威胁论 国台办：过度反应",
+          "origin": "新京报",
+          "time": 1783477795
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIdsK28CxU9mn8LODDTdNZ260708.shtml",
+          "title": "民进党当局借大陆导弹试射散布威胁论 国台办：过度反应",
+          "origin": "CCTV",
+          "time": 1783502377
+        }
+      ],
+      "summary": "国务院台湾事务办公室7月8日举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回应记者提问。针对大陆海警船在台岛周边海域执法巡查，台海巡部门声称已倡导台湾船只不要理会大陆海警船询问，第一时间通报海巡并往台海巡艇方向移动，情势紧迫时海巡将在两船间卡位。陈斌华表示，世界上只有一个中国，台湾是中国领土"
+    },
+    {
+      "title": "超强台风巴威趋向台湾以东洋面 交通运输部启动台风四级防御响应",
+      "tags": [
+        "台风",
+        "巴威",
+        "预警",
+        "台湾",
+        "交通运输部"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-08/10654757.shtml",
+          "title": "巴威维持超强台风级强度 逐渐趋向台湾以东洋面",
+          "origin": "中新网",
+          "time": 1783470360
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/08/content_118588197.shtml",
+          "title": "巴威维持超强台风级强度 逐渐趋向台湾以东洋面",
+          "origin": "中国网",
+          "time": 1783486530
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1783490329129276.html",
+          "title": "巴威趋向我国，交通运输部启动台风四级防御响应",
+          "origin": "新京报",
+          "time": 1783490570
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/08/content_543966.html",
+          "title": "巴威趋向我国  交通运输部启动台风四级防御响应",
+          "origin": "科技日报",
+          "time": 1783488516
+        }
+      ],
+      "summary": "今年第9号超强台风巴威的中心8日早晨5时位于台湾基隆市东偏南约1650公里的洋面上，中心附近最大风力17级（60米/秒），中心最低气压920百帕"
+    },
+    {
+      "title": "古巴外长称美国封锁累计损失已达1787亿美元",
+      "tags": [
+        "古巴",
+        "美国封锁",
+        "经济损失",
+        "制裁"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SID9eGFSp8",
+          "title": "古巴外长：美国封锁致古累计损失已达1787亿美元",
+          "origin": "环球网",
+          "time": 1783472222
+        },
+        {
+          "link": "https://www.news.cn/world/20260708/58329cce18a949f189fe10a0c3261b94/c.html",
+          "title": "古巴外长：美国封锁致古累计损失已达1787亿美元",
+          "origin": "新华网",
+          "time": 1783440000
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/08/ARTIcu9Q9QIwAZEHhLpDCxsd260708.shtml",
+          "title": "古巴外长：美国封锁致古累计损失已达1787亿美元",
+          "origin": "CCTV",
+          "time": 1783477481
+        }
+      ],
+      "summary": "古巴外交部长罗德里格斯于2026年7月7日表示，按现行价格计算，美国长期对古巴实施的封锁已导致该国累计经济损失达到1787亿美元。这一数据反映了自美国对古巴实施经济、金融和贸易封锁以来，古巴在多个领域承受的严重损失。古巴政府长期以来一直谴责美国的封锁政策，认为其违反国际法并对古巴民众造成人道主义影响。此次声明是古巴官方对美国封锁政策最新一轮的公开控诉，旨在呼吁国际社会关注并推动解除这一制裁。"
+    },
+    {
+      "title": "微软开始改用自研AI模型减少对OpenAI和Anthropic依赖",
+      "tags": [
+        "微软",
+        "AI模型",
+        "自研",
+        "OpenAI",
+        "依赖"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inifzwqk8094276.shtml",
+          "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
+          "origin": "新浪新闻",
+          "time": 1783473148
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1568240.htm",
+          "title": "微软开始在部分软件中改用自研AI模型 减少对OpenAI和Anthropic依赖",
+          "origin": "cnBeta",
+          "time": 1783469520
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uYhYI2akVl",
+          "title": "微软自研AI模型MAI开始接手Office应用 逐步替代OpenAI和Anthropic",
+          "origin": "凤凰科技",
+          "time": 1783464455
+        }
+      ],
+      "summary": "微软已开始在Excel和Outlook等软件产品中使用内部自研的MAI模型，逐步替代此前依赖的OpenAI和Anthropic模型，以降低AI成本。据知情人士透露，目前每周有数万"
     },
     {
       "title": "三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘",
       "tags": [
         "三星",
-        "英伟达",
         "固态硬盘",
-        "Vera Rubin"
+        "英伟达",
+        "量产"
       ],
       "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3776457",
+          "title": "三星开始量产最新企业级固态硬盘，将用于英伟达Vera Rubin平台",
+          "origin": "华尔街见闻",
+          "time": 1783498604
+        },
         {
           "link": "https://www.cnbeta.com.tw/articles/tech/1568234.htm",
           "title": "三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘",
@@ -316,107 +967,92 @@
           "time": 1783467125
         }
       ],
-      "summary": "三星电子已开始量产其最先进的数据中心存储设备，该产品将在英伟达即将推出的Vera Rubin平台中使用。这款企业级固态硬盘型号为PM1763，于今年早些时候在英伟达GTC大会上发布，当时与下一代高带宽内存HBM4和低功耗模块SOCAMM2一同展示，作为专为AI数据中心设计的综合方案的一部分。PM1763采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍，并可减少先进处理器和AI加速器的数据延迟。为在AI训练和推理过程中保持高速运行，该硬盘配备了液冷系统。根据TrendForce数据，三星今年第一季度掌控企业级固态硬盘市场最大份额，为35"
+      "summary": "三星电子宣布已开始量产其最先进的企业级固态硬盘PM1763，该产品将用于英伟达即将推出的Vera Rubin平台。PM1763在今年早些时候的英伟达GTC大会上首次亮相，与下一代高带宽内存HBM4和低功耗模块SOCAMM2一同展示，作为专为AI数据中心设计的综合方案的一部分。该硬盘采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍，可有效减少先进处理器和AI加速器的数据延迟。为在AI训练和推理过程中保持高速运行，PM1763配备了液冷系统。根据市场研究机构TrendForce的数据，三星在2026年第一季度占据企业级固态硬盘市场最大份额，达35%，其后依次是SK海力士、美光、铠侠以及铠侠的合作伙伴闪迪。"
     },
     {
-      "title": "小鹏MONA M03首搭驾驶员失能辅助系统 自动靠边呼叫救援",
+      "title": "蚂蚁灵波LingBot-VLA 2.0开源支持17家机器人厂商20种构型",
       "tags": [
-        "小鹏汽车",
-        "驾驶员失能",
-        "辅助系统",
-        "安全"
+        "机器人",
+        "开源",
+        "蚂蚁",
+        "灵波",
+        "VLA"
       ],
       "links": [
         {
-          "link": "https://www.chinaz.com/2026/0708/1763516.shtml",
-          "title": "小鹏MONA L03官宣首搭驾驶员失能辅助系统：自动靠边、呼叫救援",
-          "origin": "站长之家",
-          "time": 1783472286
+          "link": "https://www.qbitai.com/2026/07/445668.html",
+          "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
+          "origin": "量子位",
+          "time": 1783479932
         },
         {
-          "link": "https://news.mydrivers.com/1/1134/1134805.htm",
-          "title": "小鹏MONA L03首搭驾驶员失能辅助系统：自动靠边、呼叫救援",
+          "link": "https://news.mydrivers.com/1/1134/1134874.htm",
+          "title": "支持17家机器人厂商20种构型 蚂蚁灵波LingBot-VLA 2.0开源",
           "origin": "快科技",
-          "time": 1783466040
-        }
-      ],
-      "summary": "小鹏汽车官方宣布，MONA L03首次搭载驾驶员失能辅助系统。在高速路辅助驾驶时，若驾驶员失去驾驶能力，系统可自动靠边停车并"
-    },
-    {
-      "title": "汽车之家内容部裁减85%人员缩至300人 总裁离职",
-      "tags": [
-        "汽车之家",
-        "裁员",
-        "内容部",
-        "高管离职"
-      ],
-      "links": [
-        {
-          "link": "https://tech.ifeng.com/c/8uXDDOGfHm6",
-          "title": "一刀裁掉85%人员，汽车之家内容部缩至300人，总裁王秋凤离职",
-          "origin": "凤凰科技",
-          "time": 1783468332
+          "time": 1783479180
         },
         {
-          "link": "https://news.mydrivers.com/1/1134/1134813.htm",
-          "title": "一刀裁掉85%人员，汽车之家内容部缩至300人 总裁遗憾离职",
-          "origin": "快科技",
-          "time": 1783468320
+          "link": "https://www.oschina.net/news/471566",
+          "title": "蚂蚁开源 LingBot-VLA 2.0",
+          "origin": "oschina",
+          "time": 1783491240
         }
       ],
-      "summary": "汽车之家近日开启大规模人员优化，内容部门大幅裁员，仅保留约300人，相比峰值时期2000人的规模缩减近85%。集团总裁王秋凤已离职，被移出内部工作群。王秋凤拥有多年汽车媒体与品牌管理经验，曾任职腾讯新闻、北汽极狐及快手，2025年5月加盟汽车之家，主导内容生态战略。此次裁员与监管层针对汽车网络测评的专项整治直接相关。今年1月，国家网信办联合多部门开展治理，汽车之家因违规开展冬季测试、智能驾驶横评等测评项目，发布片面误导内容，被列为典型问题平台通报，全平台账号被限制新增关注。6月8日，国家网信办与市场监管总局出台新规，要求无法定检测资质不得进行汽车性能测评，这对汽车之家原有内容业务模式造成巨大冲击。据悉，汽车之家于2005年创立，为国内头部汽车垂直平台，2025年被海尔集团旗下卡泰驰控股收购，目前正进入全面战略转型阶段。"
+      "summary": "2026年7月8日，蚂蚁灵波科技宣布升级并开源新一代具身基座模型LingBot-VLA 2.0。该版本在预训练阶段融入了6万小时高质量真实物理数据（从9万小时数据中清洗出5万小时真机数据，并从2万小时第一视角人类操作数据中提炼1万小时有效数据），覆盖乐聚、智元、宇树、松灵等17家主流机器人厂商的20种机器人构型，包括单臂/双臂、双足/轮式等多种形态。模型全面支持头部、腰部、末端执行器（手）以及移动底盘等自由度的控制。\n\n在性能方面，基于上海交通大学GM-100评测，LingBot-VLA 2.0在双臂协作任务中的平均任务进度分和成功率均领先于π0.5与GR00T N1.7。在长程移动操作任务中，其任务进度分和成功率也实现领先，尤其在跨域场景中优势明显。模型已与乐聚、钛虎等生态伙伴合作，在零售分拣、物流分拣、工业等场景开启商业落地测试。目前，LingBot-VLA 2.0已在Hugging Face、魔搭社区和GitHub开源，后续将推出更适合开发者的技术套件。"
     },
     {
-      "title": "Claude Cowork扩展至网页与手机端 超90%使用非代码开发",
+      "title": "美国芯片制造业复兴遭遇用工荒 半导体工人缺口近16万",
       "tags": [
-        "Claude Cowork",
-        "非代码开发",
-        "AI工具"
+        "芯片制造",
+        "用工荒",
+        "美国",
+        "半导体"
       ],
       "links": [
         {
-          "link": "https://m.ithome.com/html/973828.htm",
-          "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
+          "link": "https://m.ithome.com/html/973841.htm",
+          "title": "美国芯片制造业复兴遭遇用工荒：半导体工人缺口高达近 16 万",
           "origin": "IT之家",
-          "time": 1783467485
+          "time": 1783471270
         },
         {
-          "link": "https://tech.ifeng.com/c/8uXDDOGfHm5",
-          "title": "超90%使用非代码开发，Claude Cowork扩展至网页与手机端",
+          "link": "https://tech.ifeng.com/c/8uaEugBWEoF",
+          "title": "美国芯片制造业复兴遭遇用工荒：半导体工人缺口高达近16万",
           "origin": "凤凰科技",
-          "time": 1783467485
+          "time": 1783466023
         },
         {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1568216.htm",
-          "title": "Anthropic推出Claude Cowork网页与移动端应用",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1568248.htm",
+          "title": "美国芯片制造业复兴遭遇用工荒 半导体工人缺口高达近16万",
           "origin": "cnBeta",
-          "time": 1783467960
+          "time": 1783469820
         }
       ],
-      "summary": "Anthropic于7月7日宣布，将其任务智能体Claude Cowork扩展至网页端和移动端。用户现在可以在桌面端发起任务，通过手机查看进度，并在任意设备上接收完成结果。此次更新后，定时任务支持在无设备在线的情况下后台运行，涉及关键决策时，Claude会向用户发送确认请求至手机端，经审阅批准前不会发出。数据显示，超过90%的Cowork使用场景并非软件开发，而是日常知识型工作。其中，业务运营和内容创作合计占比约50%，典型任务包括支出核对、合同续签追踪、客户材料整理等。相关功能目前处于测试阶段，首批面向Max用户，后续将分批邀请更多用户。"
+      "summary": "一份最新报告显示，美国半导体行业正面临严重的高技能工人短缺。由麦肯锡、行业组织SEMI及美国国家科学基金会共同完成的分析预计，到2030年，美国熟练劳动力缺口最高将达15.7万个全职岗位。报告指出，人才短缺可能拖累多项大型芯片制造投资计划，包括台积电在亚利桑那州投资高达2650亿美元的工厂、美光在纽约州投资1000亿美元的项目、三星在得州的工厂，以及英特尔在俄亥俄州已推迟的280亿美元项目。劳动力缺口将主要影响得州、加州、亚利桑那州、纽约州和俄亥俄州等新建半导体设施集中的地区。到2030年，约74%的空缺岗位将集中在制造领域，60%集中在工程领域。分析认为，任何一家企业都无法独自解决如此大规模的人才缺口，整个行业必须共同应对。若不解决，这不仅危及企业投资，还可能影响根据《2022年芯片与科学法案》拨付的联邦资金效果。报告建议政府持续提供资金、扩大相关课程并让学生更早接触芯片行业。"
     },
     {
-      "title": "SK海力士美国IPO获得数倍超额认购",
+      "title": "北约盟友统一口径共同会晤特朗普",
       "tags": [
-        "SK海力士",
-        "美国IPO",
-        "超额认购"
+        "北约",
+        "美欧关系",
+        "外交会晤",
+        "特朗普"
       ],
       "links": [
         {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1568236.htm",
-          "title": "SK海力士美国上市交易据悉获得数倍超额认购 周四将正式定价",
-          "origin": "cnBeta",
-          "time": 1783469400
+          "link": "https://www.news.cn/world/20260708/03ecc25dd8404b2d951e4aefe64fb39a/c.html",
+          "title": "特朗普再威胁撤出欧洲  北约盟友忙想招儿",
+          "origin": "新华网",
+          "time": 1783440000
         },
         {
-          "link": "https://news.mydrivers.com/1/1134/1134802.htm",
-          "title": "知情人士：SK海力士美国IPO获得数倍超额认购",
-          "origin": "快科技",
-          "time": 1783465200
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihattv1497073.shtml",
+          "title": "北约盟友统一口径，共同会晤特朗普",
+          "origin": "新浪新闻",
+          "time": 1783501523
         }
       ],
-      "summary": "韩国存储芯片制造商SK海力士在美国的上市交易获得数倍超额认购，市场需求强劲。此次发行规模约280亿美元，计划发行1.779亿份美国存托凭证（ADR），每份ADR代表十分之一股普通股，发行量约占公司市值的2.5%。按上周五其韩国普通股收盘价计算，这将有望创下外国企业在美国市场规模最大的上市发行纪录。知情人士透露，约1000家机构投资者于周一参加了管理层举行的路演电话会议。全球做多型股票基金和专注科技领域的投资者踊跃认购，Baillie Gifford、Coatue Management和Situational Awareness Partners已表示有意认购最高70亿美元的ADR。本次发行的承销商包括美国银行、花旗集团、高盛集团和摩根大通。ADR定价预计于纽约时间周四下午早些时候完成，周五将在纳斯达克全球精选市场正式挂牌交易"
+      "summary": "美国总统特朗普在北约峰会开幕当天再次威胁欧洲盟友，称可能撤出全部驻欧美军。特朗普的不满主要集中在两点：一是欧洲盟友在格陵兰岛问题上未满足美方要求，二是意大利、德国、法国等拒绝在伊朗战事中提供支持。美国已着手削减驻欧兵力，去年从罗马尼亚撤出步兵旅，今年5月宣布计划从德国撤出约5000名美军，并取消向波兰部署4000多人的计划。美国防长已宣布对欧洲军事"
     }
   ]
 }
