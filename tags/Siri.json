@@ -1,0 +1,29 @@
+{
+  "tag": "Siri",
+  "generated_at": "2026-07-13T08:56:31Z",
+  "summary": [
+    {
+      "title": "苹果手表首次上线Siri AI，语音助手全面进化",
+      "tags": [
+        "苹果",
+        "智能手表",
+        "AI",
+        "Siri"
+      ],
+      "summary": "苹果今日向开发者推送了 watchOS 27 beta 3 系统，首次加入 Siri AI 及全新 Siri 应用程序，Apple Watch 用户可直接在手腕上使用进化后的语音助手。自 2015 年 Apple Watch 问世以来，Siri 虽已登陆该设备，但此前版本仅相当于手机端的简单语音助手，功能有限。进入 AI 时代后，Siri AI 能够理解更复杂的语音指令，胜任更多任务，启动后应用显示在屏幕中央，可回答各类问题并执行指令。\n\n需要注意的是，Apple Watch 上的 Siri AI 需依赖支持 Apple Intelligence 的 iPhone 进行数据处理，目前兼容设备包括 iPhone 15 Pro 系列、iPhone 16 系列和 iPhone 17 系列。此外，手表端 Siri 的对话记录可无缝同步至 iPhone、iPad 及 Mac 等所有设备上的 Siri 应用。\n\n升级限制方面，仅有极少数手表型号可升级至 watchOS 27，包括 Apple Watch SE 3、Series 9、Series 10、Series 11、Ultra 2 和 Ultra 3。而 Apple Watch Series 6、Series 7、Series 8、初代 Ultra 以及 SE 2 均无缘此次更新，这也是苹果手表系统历史上单次年度兼容机型削减最多的一次。",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平淡",
+      "tags": [
+        "科技",
+        "AI",
+        "苹果",
+        "Siri",
+        "WWDC"
+      ],
+      "summary": "苹果正式发布了iOS 27首个开发者测试版，带来了新一代Apple Intelligence平台和升级版Siri AI，同时引入了Liquid Glass自定义调节功能以及强化儿童安全功能。Siri AI深度融合多设备，可回答屏幕内容相关问题并结合个人情境完成跨App任务。性能方面，App启动速度提升30%，照片加载速度提升70%，AirDrop传输速度提升80%。iOS 27适配范围广泛，iPhone 11系列、iPhone SE二代及后续共30款机型均可升级。开发者测试版已推送，但仅限注册开发者账号的用户体验，官方强烈建议不要用主力机升级，因存在应用闪退、续航异常、数据丢失等风险。公测版",
+      "date": "2026-06-09"
+    }
+  ]
+}
