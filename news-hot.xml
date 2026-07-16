@@ -5,9 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>特朗普再度威胁袭击伊朗发电厂 放弃征收海峡通行费设想</title>
+      <link>https://international.caixin.com/2026-07-15/102464593.html</link>
+      <pubDate>Wed, 15 Jul 2026 12:27:12 +0000</pubDate>
+    </item>
+    <item>
       <title>美媒：美国防部正研究对古巴军事行动方案</title>
       <link>https://www.news.cn/world/20260716/9a9990145be547059e4ae17fd08677ba/c.html</link>
       <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>韩国考虑动用外汇基金吸纳SK海力士美国存托凭证募资美元</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxxkn4519487.shtml</link>
+      <pubDate>Wed, 15 Jul 2026 23:20:38 +0000</pubDate>
     </item>
     <item>
       <title>突发，澜起科技遭韩国检方突击搜查</title>
@@ -15,14 +25,14 @@
       <pubDate>Thu, 16 Jul 2026 02:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>美军连续5天对伊朗发动军事打击，对一艘油轮发射地狱火导弹，特朗普称可能很快打击镐山地下核设施，伊朗：目前没有谈判计划</title>
-      <link>https://www.163.com/dy/article/L1UMOA13051482MP.html?f=post1603_tab_news</link>
-      <pubDate>Wed, 15 Jul 2026 23:39:05 +0000</pubDate>
-    </item>
-    <item>
       <title>国家医保局：2025年全国基本医保参保率巩固在95%</title>
       <link>https://news.ifeng.com/c/8une72xwepl</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>商务部回应推动解决安世半导体问题进展</title>
+      <link>https://www.news.cn/fortune/20260716/65c088f5074542d195973eb39862420d/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>四川宝兴县发生一起交通事故 造成6人死亡11人受伤</title>
@@ -32,6 +42,21 @@
     <item>
       <title>俄方证实扎波罗热核电站总工程师遇袭身亡</title>
       <link>https://www.news.cn/world/20260716/d79d64b5d69645e588d3fa936b3a7a52/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第五轮三支一扶计划启动 每年招募3.64万人</title>
+      <link>https://news.cctv.com/2026/07/16/ARTIgUd8BDoPtKQaT7c5Lsj4260716.shtml</link>
+      <pubDate>Thu, 16 Jul 2026 07:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>中菲联手捣毁电诈窝点并遣返6名犯罪嫌疑人</title>
+      <link>https://www.news.cn/world/20260716/83054aee08c344fba2d179f0545a4731/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>报告强调所谓南海仲裁裁决与国际司法实践背道而驰</title>
+      <link>https://www.news.cn/world/20260716/1170f4e38a2443879605a4889f22e571/c.html</link>
       <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -45,9 +70,14 @@
       <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>韩国考虑动用外汇基金吸纳SK海力士美国存托凭证募资美元</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxxkn4519487.shtml</link>
-      <pubDate>Wed, 15 Jul 2026 23:20:38 +0000</pubDate>
+      <title>徐起官宣：realme退出中国市场，OPPO负责售后</title>
+      <link>https://news.mydrivers.com/1/1136/1136908.htm</link>
+      <pubDate>Thu, 16 Jul 2026 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>周星驰《功夫女足》内地票房近8亿</title>
+      <link>https://kite.kagi.com/70ac5cb0-c763-42be-b42f-37bad6f5277d/china/4</link>
+      <pubDate>Wed, 15 Jul 2026 17:19:56 +0000</pubDate>
     </item>
     <item>
       <title>美国宣布对部分巴西进口商品加征25%关税</title>
@@ -55,14 +85,74 @@
       <pubDate>Thu, 16 Jul 2026 03:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>报告强调所谓南海仲裁裁决与国际司法实践背道而驰</title>
-      <link>https://www.news.cn/world/20260716/1170f4e38a2443879605a4889f22e571/c.html</link>
-      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+      <title>小米推出开箱即用机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练</title>
+      <link>https://m.ithome.com/html/977453.htm</link>
+      <pubDate>Thu, 16 Jul 2026 04:00:01 +0000</pubDate>
     </item>
     <item>
       <title>联合国秘书长古特雷斯抵达上海</title>
       <link>https://www.news.cn/world/20260716/ad7d2e1259a4473dbdb7f3885156614e/c.html</link>
       <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中方高度赞赏巴新决定关闭驻巴新台北经济办事处</title>
+      <link>https://www.news.cn/world/20260716/79503ebf829f4223a19c25f767f7b0bf/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达端出开放模型，助攻日本AI生态进化</title>
+      <link>https://tech.ifeng.com/c/8untaBReGUx</link>
+      <pubDate>Thu, 16 Jul 2026 03:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>努比亚全球首款AI智能体手机亮相，搭载豆包手机助手</title>
+      <link>https://news.mydrivers.com/1/1136/1136782.htm</link>
+      <pubDate>Thu, 16 Jul 2026 03:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>辽宁一橡皮艇闪爆致7死1失联，搭载人员为赶海居民</title>
+      <link>https://news.ifeng.com/c/8uoJVVXm4Dy</link>
+      <pubDate>Thu, 16 Jul 2026 09:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>报道称苹果寻求收购芯片公司，加速布局AI服务器能力</title>
+      <link>https://wallstreetcn.com/articles/3777054</link>
+      <pubDate>Wed, 15 Jul 2026 22:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国务院批准向沙特出售近20亿美元武器装备</title>
+      <link>https://www.news.cn/world/20260716/8c3e77f510654bbd9a3cb3888038c409/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>登革热、基孔肯雅热由境外输入及跨省传播引起本地疫情风险上升</title>
+      <link>https://www.bjnews.com.cn/detail-1784169265129276.html</link>
+      <pubDate>Thu, 16 Jul 2026 02:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>俄外交部：俄方不承认南海仲裁案裁决程序合法性</title>
+      <link>https://www.news.cn/world/20260716/b24de994298e47aa8ac6a1019eff60c6/c.html</link>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>特朗普因新专机安全缺陷遭泄露震怒，多名美官员被要求交手机配合调查</title>
+      <link>https://news.ifeng.com/c/8uny9jOH3kz</link>
+      <pubDate>Thu, 16 Jul 2026 04:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>百度申请香港、纳斯达克双重主要上市，或赶上9月港股通窗口</title>
+      <link>https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihyuqa4487621.shtml</link>
+      <pubDate>Thu, 16 Jul 2026 08:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>涉嫌串通价格：中国半导体企业澜起科技遭韩国调查</title>
+      <link>https://tech.ifeng.com/c/8unjADfBLqM</link>
+      <pubDate>Thu, 16 Jul 2026 01:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>全国检察机关上半年提起公诉60.3万人</title>
+      <link>https://www.huanqiu.com/article/4SOtvoflnQr</link>
+      <pubDate>Thu, 16 Jul 2026 02:25:30 +0000</pubDate>
     </item>
     <item>
       <title>中国预制变电站，全球爆单</title>
