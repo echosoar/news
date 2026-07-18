@@ -5,14 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>加拿大山火肆虐，特朗普威胁将污染成本计入关税</title>
-      <link>https://wallstreetcn.com/articles/3777264</link>
-      <pubDate>Fri, 17 Jul 2026 20:52:48 +0000</pubDate>
+      <title>特朗普指责加拿大野火殃及美空气 威胁以关税追偿</title>
+      <link>https://www.news.cn/world/20260718/538c08dc05d447a6bc1e026cce3dcc59/c.html</link>
+      <pubDate>Fri, 17 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SpaceX身陷股价破发泥潭之际，向五角大楼兜售数十亿美元AI算力</title>
       <link>https://wallstreetcn.com/articles/3777265</link>
       <pubDate>Fri, 17 Jul 2026 21:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国足协发布有关申思等禁足人员的情况通报</title>
+      <link>https://news.ifeng.com/c/8urFgQ4TJDZ</link>
+      <pubDate>Sat, 18 Jul 2026 04:25:00 +0000</pubDate>
     </item>
     <item>
       <title>伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火</title>
@@ -23,6 +28,11 @@
       <title>苹果正与美国司法部就反垄断案展开初步和解谈判</title>
       <link>https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8255956.shtml</link>
       <pubDate>Fri, 17 Jul 2026 18:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>重庆彭水县山体崩塌已致8人死亡 还有34人失联（更新）</title>
+      <link>https://china.caixin.com/2026-07-17/102465427.html</link>
+      <pubDate>Fri, 17 Jul 2026 12:17:30 +0000</pubDate>
     </item>
     <item>
       <title>伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡</title>
@@ -55,9 +65,19 @@
       <pubDate>Fri, 17 Jul 2026 17:15:08 +0000</pubDate>
     </item>
     <item>
+      <title>腾讯副总裁林松涛：真实场景永远是AI价值的第一现场，让懂业务的人去拿起AI能创造更大价值</title>
+      <link>https://finance.sina.com.cn/tob/2026-07-18/doc-iniierwk1594720.shtml</link>
+      <pubDate>Sat, 18 Jul 2026 01:42:24 +0000</pubDate>
+    </item>
+    <item>
       <title>苹果多款 iPhone 在日本市场涨价，最高涨幅达 11.3%</title>
       <link>https://m.ithome.com/html/978330.htm</link>
       <pubDate>Fri, 17 Jul 2026 22:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧盟呼吁以色列停止在约旦河西岸扩建定居点</title>
+      <link>https://www.news.cn/world/20260718/928e136eafba4e5f9c2a3adb2fcad977/c.html</link>
+      <pubDate>Fri, 17 Jul 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
