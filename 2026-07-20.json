@@ -1,970 +1,637 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T04:42:30Z",
+  "generated_at": "2026-07-20T14:22:28Z",
   "summary": [
     {
-      "title": "美军对伊朗发动第8晚打击并袭击格什姆岛与在建核电站，伊朗革命卫队打击科威特及三国美军基地",
+      "title": "我国人形机器人整机产品超全球半数 智能算力规模达2185EFLOPS",
       "tags": [
-        "军事",
-        "美伊冲突",
-        "中东局势",
-        "空袭",
-        "基地打击"
+        "人形机器人",
+        "算力",
+        "中国",
+        "科技"
       ],
       "links": [
         {
-          "link": "https://news.ifeng.com/c/8usr7bLc8Eo",
-          "title": "连续8晚打击伊朗，美方公布最新战果，5万美军随时准备作战",
-          "origin": "凤凰网",
-          "time": 1784432760
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-19/doc-iniihuvm7947636.shtml",
-          "title": "美方宣布美军已启动针对伊朗的新一轮空袭行动",
-          "origin": "新浪新闻",
-          "time": 1784418120
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpr3755397.shtml",
-          "title": "美中央司令部：美军开始对伊朗发动新一轮空袭",
-          "origin": "新浪新闻",
-          "time": 1784414034
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIrMQFkBCeTUzyZqQzt2VV260719.shtml",
-          "title": "美中央司令部：美军开始对伊朗发动新一轮空袭",
+          "link": "https://news.cctv.com/2026/07/20/ARTIfbewQ2t62jQVhpjKp9ty260720.shtml",
+          "title": "我国人形机器人整机产品超全球半数",
           "origin": "CCTV",
-          "time": 1784427184
+          "time": 1784519184
         },
         {
-          "link": "https://www.news.cn/world/20260719/a87aba973fa943a586f1ea2465c808b5/c.html",
-          "title": "美军对伊朗发动新一轮空袭",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/e8e322db8efd42dfbffcd117eb7f0c30/c.html",
-          "title": "美军：完成新一轮对伊空袭",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c0066e4b0b49ad1c3ec20.html",
-          "title": "美军称2名美军士兵在约旦遭伊朗袭击身亡　1人失踪",
-          "origin": "文汇网",
-          "time": 1784415934
-        },
-        {
-          "link": "https://3g.china.com/act/news/1000/20260719/49619065.html",
-          "title": "伊朗本周袭击美军驻约旦基地致多名美军人员受伤",
-          "origin": "中国网",
-          "time": 1784420884
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/07-19/10662308.shtml",
-          "title": "约旦遭伊朗袭击，两名美军士兵丧生，一人失踪",
-          "origin": "中新网",
-          "time": 1784424540
-        },
-        {
-          "link": "https://news.ifeng.com/c/8us98j6W28N",
-          "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
-          "origin": "凤凰网",
-          "time": 1784395320
-        },
-        {
-          "link": "https://wallstreetcn.com/articles/3777329",
-          "title": "美官员称约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下刻骨铭心的教训",
-          "origin": "华尔街见闻",
-          "time": 1784421763
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIq1e296ARD25k7uJxs3Xe260719.shtml",
-          "title": "美官员：约旦美军基地5天遭4袭 表明伊导弹库存充足",
-          "origin": "CCTV",
-          "time": 1784416550
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRHSp8gjdx",
-          "title": "美官员：约旦美军基地5天遭4袭 表明伊导弹库存充足",
-          "origin": "环球网",
-          "time": 1784416472
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c56fce4b0b49ad1c3f735.html",
-          "title": "美军在宣布结束本轮打击前再次袭击伊朗格什姆岛",
-          "origin": "文汇网",
-          "time": 1784436574
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTII0PkM1pOJnd0jyi7sVTZ260719.shtml",
-          "title": "美军在宣布结束本轮打击前再次袭击伊朗格什姆岛",
-          "origin": "CCTV",
-          "time": 1784441031
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIjse9jLcNwy7TFZFSF2aR260719.shtml",
-          "title": "伊朗谴责美国对在建核电站发动恐怖袭击",
-          "origin": "CCTV",
-          "time": 1784459956
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5cb438e4b0b49ad1c4010f.html",
-          "title": "伊朗谴责美国对在建核电站发动恐怖袭击",
-          "origin": "文汇网",
-          "time": 1784462734
-        },
-        {
-          "link": "https://www.nbd.com.cn/articles/2026-07-19/4476961.html",
-          "title": "特朗普下令空袭，伊朗最大岛屿遭导弹袭击，伊朗：将毁灭性回击  ，美军称伊朗袭击",
-          "origin": "每经网",
-          "time": 1784429901
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/07-19/10662385.shtml",
-          "title": "美军对伊朗发动新一轮打击 伊朗称将予以毁灭性回击",
-          "origin": "中新网",
-          "time": 1784443920
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c56f2e4b0b49ad1c3f733.html",
-          "title": "美军称结束第八晚对伊朗打击行动",
-          "origin": "文汇网",
-          "time": 1784436574
-        },
-        {
-          "link": "https://news.ifeng.com/c/8usrGTyaU1V",
-          "title": "美军称结束第8晚对伊朗打击行动",
-          "origin": "凤凰网",
-          "time": 1784432280
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c00e9e4b0b49ad1c3ec36.html",
-          "title": "（有片）伊朗革命卫队称打击三国美军目标",
-          "origin": "文汇网",
-          "time": 1784415931
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfq1332307.shtml",
-          "title": "伊朗革命卫队称打击三国美军目标",
-          "origin": "新浪新闻",
-          "time": 1784411877
-        },
-        {
-          "link": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihkfq1316672.shtml",
-          "title": "美军连续七夜打击伊朗设施 伊朗反击多国美军基地并封锁海峡",
-          "origin": "新浪新闻",
-          "time": 1784399668
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/37eb1c85c604446fbe8761d0850ce052/c.html",
-          "title": "伊朗：打击科威特境内美军基地",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/07-19/10662633.shtml",
-          "title": "美国能源部长称对伊朗军事行动将持续进行",
-          "origin": "中新网",
-          "time": 1784471460
-        },
-        {
-          "link": "https://news.ifeng.com/c/8utazxvUxsR",
-          "title": "美国能源部长称对伊朗军事行动将持续进行",
-          "origin": "凤凰网",
-          "time": 1784469480
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIvyPQaSJUuDCKFykOGVLv260719.shtml",
-          "title": "伊朗武装部队：将毁灭性回击美国野蛮行径",
-          "origin": "CCTV",
-          "time": 1784429016
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/8070754.html",
-          "title": "伊朗武装部队：将毁灭性回击美国野蛮行径",
-          "origin": "钛媒体",
-          "time": 1784427960
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihcxv3972674.shtml",
-          "title": "伊朗最高领袖指责美国一再违约",
-          "origin": "新浪新闻",
-          "time": 1784416513
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c0127e4b0b49ad1c3ec4c.html",
-          "title": "伊朗最高领袖指责美国一再违约",
-          "origin": "文汇网",
-          "time": 1784415924
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRFiCAYJc7",
-          "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
-          "origin": "环球网",
-          "time": 1784413531
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniihcxv3963338.shtml",
-          "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
-          "origin": "新浪新闻",
-          "time": 1784413607
-        }
-      ],
-      "summary": "美军连续第8晚对伊朗发动空袭，打击目标包括海岸监视与防空设施、海上作战能力及导弹与无人机储存点，并对7月17日在约旦袭击美军的伊朗伊斯兰革命卫队部队实施打击。美国中央司令部声明称，超过5万名美军在中东各地保持战备状态。伊朗方面作出强硬回应，其最高领袖顾问雷扎伊警告，若美国持续攻击，伊朗将放弃威慑与对等反击，转向全面进攻阶段。伊朗最高领袖穆杰塔巴发表声明，指责美国违反谅解备忘录，并称其将付出沉重代价。一名伊朗议员警告美军应尽快逃离该地区。此外，伊朗霍尔木兹甘省贾斯克市西部的本吉海水淡化厂遭袭，海水抽取泵站和电力变压器被摧毁，导致周边20个村庄约1万居民饮用水供应中断，当地正努力提供应急供水并修复设施。"
-    },
-    {
-      "title": "俄罗斯向基辅发射40枚弹道导弹，乌克兰多地遭袭",
-      "tags": [
-        "军事",
-        "俄乌冲突",
-        "导弹袭击",
-        "基辅"
-      ],
-      "links": [
-        {
-          "link": "https://3g.china.com/act/news/10000169/20260719/49619551.html",
-          "title": "俄40分钟内向基辅发射约40枚弹道导弹 密集袭击震动乌首都",
-          "origin": "中国网",
-          "time": 1784455029
-        },
-        {
-          "link": "https://news.ifeng.com/c/8utHnLnhGdR",
-          "title": "40枚弹道导弹，射向基辅",
-          "origin": "凤凰网",
-          "time": 1784454060
-        }
-      ],
-      "summary": "当地时间7月19日，俄罗斯武装力量对乌克兰发动大规模联合打击，重点针对首都基辅。乌克兰空军通报称，自18日18时起，俄军共使用41枚导弹和125架无人机实施攻击，雷达记录到166个空中目标。凌晨时分，俄军在40分钟内向基辅发射约40枚弹道导弹，包括伊斯坎德尔-M和锆石等型号，这是冲突升级以来最密集的弹道导弹袭击。截至目前，基辅市及基辅州已造成1人死亡、16人受伤。\n\n俄罗斯国防部19日通报，俄军使用空基、陆基高精度武器及攻击型无人机，对基辅市及基辅州的军事工业企业和物流中心，以及敖德萨州南方港的基础设施实施打击。俄方称这些目标用于接收储存军用物资和保障乌武装部队的燃油润滑油料。"
-    },
-    {
-      "title": "英国政府强行将中国敬业集团所持英国钢铁公司收归国有，敬业钢铁强烈抗议",
-      "tags": [
-        "国际",
-        "中英关系",
-        "国有化",
-        "贸易冲突"
-      ],
-      "links": [
-        {
-          "link": "https://www.tmtpost.com/nictation/8070796.html",
-          "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
-          "origin": "钛媒体",
-          "time": 1784437500
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRSX6rG8pv",
-          "title": "敬业钢铁有限公司正告英国政府：立即停止以国内法践踏国际投资规则的行径",
-          "origin": "环球网",
-          "time": 1784435060
-        },
-        {
-          "link": "https://news.ifeng.com/c/8usvPlMErF5",
-          "title": "敬业钢铁：正告英国政府，立即停止以国内法践踏国际投资规则的行径",
-          "origin": "凤凰网",
-          "time": 1784430480
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1146985&sid=21",
-          "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
-          "origin": "上观",
-          "time": 1784435292
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1784429388129151.html",
-          "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
+          "link": "https://www.bjnews.com.cn/detail-1784513693129524.html",
+          "title": "我国人形机器人整机产品超全球半数",
           "origin": "新京报",
-          "time": 1784435602
+          "time": 1784515224
         },
         {
-          "link": "https://www.163.com/dy/article/L26TVB7I0534A4SC.html?f=post1603_tab_news",
-          "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
-          "origin": "网易号",
-          "time": 1784434752
-        },
-        {
-          "link": "https://www.nbd.com.cn/articles/2026-07-19/4477010.html",
-          "title": "旗下钢铁公司被英国政府强行收归国有，敬业钢铁郑重声明：赤裸裸的强取豪夺，保留包括",
-          "origin": "每经网",
-          "time": 1784441084
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniiifmi3578137.shtml",
-          "title": "英国将中国敬业集团控股的英国钢铁公司强行收归国有，敬业钢铁回应",
-          "origin": "新浪新闻",
-          "time": 1784438115
-        }
-      ],
-      "summary": "2026年7月19日，敬业钢铁有限公司发布声明，强烈抗议英国政府将其旗下英国钢铁有限公司强行收归国有。敬业集团于2020年收购濒临破产的英钢，通过改革运营实现一年扭亏为盈，五年间持续投入巨资升级装备、创造数万就业岗位，并足额纳税。声明指责英国政府背信弃义，从承诺共同投入到拒不兑现，最终强行接管，补偿近乎为零。据英国国家审计署报告，截至2026年1月底，英政府为英钢运营已耗资3.77亿英镑，预计6"
-    },
-    {
-      "title": "匈牙利总统签署宪法修正案，其任期即将终止",
-      "tags": [
-        "国际",
-        "欧洲政治",
-        "匈牙利",
-        "宪法修正"
-      ],
-      "links": [
-        {
-          "link": "https://news.ifeng.com/c/8us5Mx3B1sU",
-          "title": "匈牙利总统签署《基本法》修正案，其任期将终止",
-          "origin": "凤凰网",
-          "time": 1784391540
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/07-19/10662255.shtml",
-          "title": "匈牙利总统签署《基本法》修正案 其任期将终止",
-          "origin": "中新网",
-          "time": 1784412000
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRFxB1pjw8",
-          "title": "匈牙利总统签署宪法修正案 其任期即将终止",
-          "origin": "环球网",
-          "time": 1784413936
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/1b55748f93204fa88074524df9324e69/c.html",
-          "title": "匈牙利总统签署宪法修正案 其任期即将终止",
+          "link": "https://www.news.cn/tech/20260720/760fa4e39784420187798b8dfefb99ea/c.html",
+          "title": "我国人形机器人整机产品超全球半数",
           "origin": "新华网",
-          "time": 1784390400
-        }
-      ],
-      "summary": "匈牙利总统舒尤克于7月18日签署了国会通过的《基本法》第17次修正案，此举导致其任期立即终止。舒尤克在社交媒体上表示，该修正案违反宪法原则，但他在宪法框架内无法阻止其生效。匈牙利总理毛焦尔对修正案的签署表示欢迎，并将就新总统人选与各议会党团进行协商。根据该修正案，国会须在30天内以无记名投票方式选举产生新总统。若总统拒绝签署修正案，国会有权启动弹劾程序。在新总统就职前，由国会主席福斯特霍费尔·阿格奈什暂时代理国家元首职权。舒尤克于2024年当选匈牙利总统，原定于2029年3月"
-    },
-    {
-      "title": "德国联盟党议会党团主席因争议辞职",
-      "tags": [
-        "国际",
-        "德国政治",
-        "辞职",
-        "联盟党"
-      ],
-      "links": [
-        {
-          "link": "https://news.ifeng.com/c/8usnEhy0GU6",
-          "title": "在美国代孕生子引争议，德国联盟党议会党团主席辞职",
-          "origin": "凤凰网",
-          "time": 1784427840
+          "time": 1784476800
         },
         {
-          "link": "https://news.cctv.com/2026/07/19/ARTIgv0yzzeqk7FxV8vtwE1v260719.shtml",
-          "title": "德国联盟党议会党团主席因争议辞职",
-          "origin": "CCTV",
-          "time": 1784429120
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/90849dc31f87460d9045cad8991a8c0f/c.html",
-          "title": "德国联盟党议会党团主席因争议辞职",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/8070759.html",
-          "title": "德国联盟党议会党团主席因争议辞职",
-          "origin": "钛媒体",
-          "time": 1784429280
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRPLyq5H0J",
-          "title": "德媒：德国联盟党议会党团主席因争议辞职",
-          "origin": "环球网",
-          "time": 1784429721
-        }
-      ],
-      "summary": "德国联盟党议会党团主席延斯·施潘因与同性伴侣在美国代孕生子一事引发争议，于7月18日辞职。施潘是德国总理默茨的资深盟友，现年46岁。他在辞职信中表示，过去几天逐渐意识到，与丈夫组建家庭、成为父亲的个人幸福与政治职务无法兼得。尽管德国禁止代孕，但抚养由境外代孕母亲所生的婴儿并不违法。然而，施潘所属的联盟党持坚决反对代孕的立场，消息一出便引发党内要求其辞职的呼声。"
-    },
-    {
-      "title": "加拿大山火持续蔓延，总理称全员动员应对，美加就烟霾问题再起争端",
-      "tags": [
-        "自然灾害",
-        "山火",
-        "加拿大",
-        "美加关系",
-        "环境"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTI8naVyJzgge5wxWtpkb3D260719.shtml",
-          "title": "加拿大总理：正全员动员应对严重野火灾情",
-          "origin": "CCTV",
-          "time": 1784445313
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/a99607550b8848a6a175311ee8ef9cf7/c.html",
-          "title": "加拿大总理：正全员动员应对严重野火灾情",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRXlc57ntf",
-          "title": "加拿大总理：正全员动员应对严重野火灾情",
-          "origin": "环球网",
-          "time": 1784443849
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c61b0e4b0b49ad1c3f874.html",
-          "title": "（有片）加拿大不列颠哥伦比亚省山火蔓延　居民撤离",
-          "origin": "文汇网",
-          "time": 1784441134
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRVFZKyHbT",
-          "title": "加拿大不列颠哥伦比亚省山火蔓延 居民撤离",
-          "origin": "环球网",
-          "time": 1784439623
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1146906&sid=21",
-          "title": "安大略省省长：美方不应将山火烟霾归咎于加拿大，美遭难时加方曾多次支援",
-          "origin": "上观",
-          "time": 1784421188
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRKN01o0Sk",
-          "title": "安大略省省长：美方不应将山火烟霾问题归咎于加拿大",
-          "origin": "环球网",
-          "time": 1784421352
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/97e75e7d3b824f628e53c9583751e38c/c.html",
-          "title": "烟霾跨境蔓延 美加龃龉再添一把火",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRdLTiEKZo",
-          "title": "烟霾跨境蔓延 美加龃龉再添一把火",
-          "origin": "环球网",
-          "time": 1784453216
-        }
-      ],
-      "summary": "加拿大正遭遇史上最严峻的野火季之一。总理马克·卡尼于2026年7月18日晚间表示，在极端热浪和破纪录干旱天气的共同作用下，全国面临严重灾情，政府已采取全员动员的方式应对。与此同时，大规模野火产生的烟霾跨境飘散至美国，引发美加之间新一轮争端。加拿大安大略省省长道格·福特批评美国政府，因加拿大山火影响美国空气质量而指责加方无能，并威胁加征关税。福特认为此举完全不可接受，并暗讽美国缺乏友邻情谊，表示若美国遭遇类似灾害，加方会南下支援，而非施加惩罚。这场由自然灾害引发的空气质量危机，使得两国关系再添紧张。"
-    },
-    {
-      "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
-      "tags": [
-        "国际",
-        "金融",
-        "委内瑞拉",
-        "IMF",
-        "地震重建"
-      ],
-      "links": [
-        {
-          "link": "https://www.huanqiu.com/article/4SRJqALVV4S",
-          "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
-          "origin": "环球网",
-          "time": 1784420463
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/5fb180c01ea14e1cb04918e293100544/c.html",
-          "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
-          "origin": "新华网",
-          "time": 1784390400
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIzmY1KNBidfDMLFZZSAHW260719.shtml",
-          "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
-          "origin": "CCTV",
-          "time": 1784427173
-        }
-      ],
-      "summary": "委内瑞拉代总统德尔西·罗德里格斯于2026年7月17日宣布，该国已从其在国际货币基金组织（IMF）的储备档头寸中提取3.46亿美元，这笔资金将专门用于地震灾区的重建工作。此次提取的资金属于成员国的自有资源，体现了委内瑞拉在遭遇严重自然灾害后，利用其在IMF的储备资产进行人道主义援助和灾后恢复的举措。此举旨在为受地震影响的地区提供重建所需的财政支持。"
-    },
-    {
-      "title": "2026世界人工智能大会在上海举行，发布星枢计划，腾讯联想阿里等推出多项AI新成果",
-      "tags": [
-        "科技",
-        "人工智能",
-        "WAIC",
-        "上海",
-        "AI成果"
-      ],
-      "links": [
-        {
-          "link": "https://www.qbitai.com/2026/07/454170.html",
-          "title": "摩尔线程首次公开多项训练推理实践成果，三大AI工厂持续释放算力价值",
-          "origin": "量子位",
-          "time": 1784444725
-        },
-        {
-          "link": "https://g.pconline.com.cn/x/2178/21788299.html",
-          "title": "摩尔线程首次公开多项训练推理实践成果 三大AI工厂持续释放算力价值",
-          "origin": "pconline",
-          "time": 1784393280
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1137/1137409.htm",
-          "title": "摩尔线程首次公开多项训练推理实践成果 持续释放算力价值",
-          "origin": "快科技",
-          "time": 1784391300
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1147110&sid=47",
-          "title": "重塑机器人能力边界，ABB机器人亮相WAIC展示工业级物理AI创新成果",
-          "origin": "上观",
-          "time": 1784453567
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4027778.html",
-          "title": "可远程遥控机器人 当虹科技机器人巡逻巡检平台亮相WAIC",
-          "origin": "证券时报",
-          "time": 1784469120
-        },
-        {
-          "link": "https://www.qbitai.com/2026/07/454040.html",
-          "title": "WAIC看了一圈，这家公司的机器人在认真打工",
-          "origin": "量子位",
-          "time": 1784473534
-        },
-        {
-          "link": "https://www.qbitai.com/2026/07/454015.html",
-          "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂无限画布、新品Filmora.AI与Virbo AI火爆首秀",
-          "origin": "量子位",
-          "time": 1784473534
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ut851eGzCk",
-          "title": "四位科学家WAIC共识：AI真正改变科研，不只是大模型能力",
-          "origin": "凤凰科技",
-          "time": 1784449062
-        },
-        {
-          "link": "https://www.qbitai.com/2026/07/454802.html",
-          "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了",
-          "origin": "量子位",
-          "time": 1784462734
-        },
-        {
-          "link": "https://www.chinaz.com/2026/0719/1765758.shtml",
-          "title": "阿里千问输入法App正式发布，AI自动润色 无广告无弹窗超纯净",
-          "origin": "站长之家",
-          "time": 1784470822
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8uskujiWqeX",
-          "title": "阿里千问输入法App正式发布，AI自动润色 无广告无弹窗",
-          "origin": "凤凰科技",
-          "time": 1784426004
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1137/1137423.htm",
-          "title": "千问输入法App发布，AI自动润色 无广告无弹窗超纯净",
-          "origin": "快科技",
-          "time": 1784425980
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ussnIXF7RJ",
-          "title": "近十项发布密集登场，蚂蚁在WAIC甩出一串AI全家桶",
-          "origin": "凤凰科技",
-          "time": 1784432541
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-19/doc-iniiiwic0205286.shtml",
-          "title": "WAIC 2026：联想以混合式AI加速智能生产力落地",
-          "origin": "新浪新闻",
-          "time": 1784469166
-        },
-        {
-          "link": "https://kite.kagi.com/9f8d4986-8974-44e0-954a-b2640921d50a/china/0",
-          "title": "上海WAIC发布AI治理倡议和产业新品",
-          "origin": "kagi",
-          "time": 1784393615
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ut55NfcUH6",
-          "title": "穹彻智能WAIC展示具身智能大脑：零遥操实时选投球队，智能药房方案已落地",
-          "origin": "凤凰科技",
-          "time": 1784443739
-        },
-        {
-          "link": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimtc7924002.shtml",
-          "title": "腾讯发布多款具身智能基座模型与智能体",
-          "origin": "新浪新闻",
-          "time": 1784442223
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8useQoYrHiK",
-          "title": "具身智能站上大会C位",
-          "origin": "凤凰科技",
-          "time": 1784423169
-        },
-        {
-          "link": "https://m.ithome.com/html/978614.htm",
-          "title": "英伟达 CEO 黄仁勋东京行：敲定国家级 AI 工厂合作，送粉丝红豆糕",
+          "link": "https://m.ithome.com/html/978908.htm",
+          "title": "我国人形机器人整机产品超全球半数",
           "origin": "IT之家",
-          "time": 1784418829
+          "time": 1784516169
         },
         {
-          "link": "https://www.qbitai.com/2026/07/453352.html",
-          "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
-          "origin": "量子位",
-          "time": 1784423130
+          "link": "http://www.chinanews.com//cj/2026/07-20/10662824.shtml",
+          "title": "工信部：我国人形机器人整机产品超全球半数",
+          "origin": "中新网",
+          "time": 1784518980
         },
         {
-          "link": "https://tech.ifeng.com/c/8usaHJ5nB9A",
-          "title": "英伟达CEO黄仁勋东京行：敲定国家级AI工厂合作",
+          "link": "http://www.chinanews.com//cj/2026/07-20/10662791.shtml",
+          "title": "我国人形机器人整机产品超全球半数",
+          "origin": "中新网",
+          "time": 1784515080
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SSENvsEELh",
+          "title": "我国人形机器人整机产品超全球半数",
+          "origin": "环球网",
+          "time": 1784515415
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuUsZIw2VA",
+          "title": "中国人形机器人整机产品超全球半数",
           "origin": "凤凰科技",
-          "time": 1784418897
+          "time": 1784518495
         },
         {
-          "link": "https://news.cctv.com/2026/07/19/ARTI3b6sSvXj5yo5jFVYvlNZ260719.shtml",
-          "title": "多国媒体积极评价中国推动全球人工智能治理合作",
-          "origin": "CCTV",
-          "time": 1784448358
+          "link": "https://www.bjnews.com.cn/detail-1784514948129536.html",
+          "title": "我国智能算力规模达2185EFLOPS",
+          "origin": "新京报",
+          "time": 1784515046
         },
         {
-          "link": "http://news.china.com.cn/2026-07/19/content_118607047.shtml",
-          "title": "多国媒体积极评价中国推动全球人工智能治理合作",
+          "link": "http://www.chinanews.com//cj/2026/07-20/10662790.shtml",
+          "title": "我国智能算力规模达2185EFLOPS",
+          "origin": "中新网",
+          "time": 1784514960
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SSEKPnum3c",
+          "title": "我国智能算力规模达2185EFLOPS",
+          "origin": "环球网",
+          "time": 1784515319
+        },
+        {
+          "link": "https://www.jiemian.com/article/14794286.html",
+          "title": "我国智能算力规模达2185EFLOPS",
+          "origin": "界面新闻",
+          "time": 1784523928
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/20/content_118608335.shtml",
+          "title": "我国智能算力规模达2185EFLOPS",
           "origin": "中国网",
-          "time": 1784472934
+          "time": 1784541328
         },
         {
-          "link": "http://www.chinanews.com//sh/2026/07-19/10662614.shtml",
-          "title": "多国媒体积极评价中国推动全球人工智能治理合作",
-          "origin": "中新网",
-          "time": 1784468460
-        },
-        {
-          "link": "http://www.chinanews.com//gn/2026/07-19/10662320.shtml",
-          "title": "多份AI安全治理成果在上海集中发布",
-          "origin": "中新网",
-          "time": 1784427960
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRNskPp85V",
-          "title": "多份AI安全治理成果在上海集中发布",
-          "origin": "环球网",
-          "time": 1784427250
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SRNrjFWtTu",
-          "title": "看见中国人工智能创新力量",
-          "origin": "环球网",
-          "time": 1784427222
-        },
-        {
-          "link": "http://news.china.com.cn/2026-07/19/content_118607071.shtml",
-          "title": "看见中国人工智能创新力量",
-          "origin": "中国网",
-          "time": 1784472934
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ut8I6RkSiv",
-          "title": "上海重磅发布星枢计划：打造分布式太空算力 实现按需即问即算",
-          "origin": "凤凰科技",
-          "time": 1784445636
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1137/1137450.htm",
-          "title": "上海重磅发布星枢计划：打造分布式太空算力 即问即算",
-          "origin": "快科技",
-          "time": 1784445600
-        },
-        {
-          "link": "https://news.cctv.com/2026/07/19/ARTIkuJod4GNLlmTivWkwE5q260719.shtml",
-          "title": "《2026中国AI盛典》发布十大年度AI人物",
-          "origin": "CCTV",
-          "time": 1784433703
-        },
-        {
-          "link": "https://news.ifeng.com/c/8usoUjysokh",
-          "title": "《2026中国AI盛典》发布十大年度AI人物",
-          "origin": "凤凰网",
-          "time": 1784429580
-        }
-      ],
-      "summary": "2026年7月18日，2026世界人工智能大会（WAIC）分论坛“摩尔线程词元时代·万物智能主题论坛”在上海世博展览馆举行。论坛上，摩尔线程创始人张建中系统介绍了三大AI工厂的落地部署与最新进展：模型训练工厂、词元生产工厂和智能体生产工厂，旨在以全功能GPU支撑从训练"
-    },
-    {
-      "title": "苹果二季度业绩逆势大涨，iPhone 17系列销量突破3776万台，AI市场地位逆转",
-      "tags": [
-        "科技",
-        "苹果",
-        "业绩",
-        "iPhone",
-        "AI"
-      ],
-      "links": [
-        {
-          "link": "https://tech.ifeng.com/c/8usZR9y5HAP",
-          "title": "苹果二季度中国出货量逆势大涨，iPhone 17系列销量突破3776万台",
-          "origin": "凤凰科技",
-          "time": 1784417153
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1137/1137412.htm",
-          "title": "苹果二季度逆势大涨，iPhone 17系列销量突破3776万台",
-          "origin": "快科技",
-          "time": 1784417100
-        },
-        {
-          "link": "https://m.ithome.com/html/978613.htm",
-          "title": "分析师：苹果 AI 策略保守反而是优势，可降低资本压力并驱动硬件升级",
-          "origin": "IT之家",
-          "time": 1784418156
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1569416.htm",
-          "title": "苹果在AI领域的市场地位发生逆转 更低资本支出带来结构性优势",
-          "origin": "cnBeta",
-          "time": 1784419260
-        }
-      ],
-      "summary": "截至2026年第28周，iPhone 17系列累计销量已突破3776万台，最近两周新增销量约145.91万台，展现出较强的后程爆发力。中国市场方面，2026年第二季度智能手机整体出货量约6601万台，同比下降4.3%，连续五个季度下滑。但苹果逆势增长，该季度在中国出货量达1240万台，同比增长24%，以19%市场份额位居第二，出货量及份额均创下其历年第二季度新高。此外，科技行业对苹果在人工智能领域地位的评价发生逆转。此前市场曾因苹果在AI投入上相对审慎而对其持批评态度，但分析师指出，苹果不必像其他科技巨头那样进行沉重的资本开支，这使其处于更有利的财务位置，能够通过强大的服务业务将AI功能融入生态系统。凭借约4.88万亿美元市值，苹果已超越英伟达成为全球最有价值的公司，市场关注点从研发投入转向了商业落地能力。"
-    },
-    {
-      "title": "小米与华为多款设备获国标人工智能L3认证",
-      "tags": [
-        "科技",
-        "人工智能",
-        "认证",
-        "小米",
-        "华为"
-      ],
-      "links": [
-        {
-          "link": "https://m.ithome.com/html/978603.htm",
-          "title": "小米获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
-          "origin": "IT之家",
-          "time": 1784415176
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8usZpVeowch",
-          "title": "小米获首批《人工智能终端智能化分级》系列国家标准L3评级证书",
-          "origin": "凤凰科技",
-          "time": 1784418697
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ut88J4Q5e6",
-          "title": "vivo获首批《人工智能终端智能化分级》系列国家标准L3评级证书",
-          "origin": "凤凰科技",
-          "time": 1784445961
-        },
-        {
-          "link": "https://m.ithome.com/html/978615.htm",
-          "title": "华为 Pura X Max、智慧屏 S7 Pro 获国标人工智能 L3 等级手机、电视首证",
-          "origin": "IT之家",
-          "time": 1784419125
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8usc3j7vrCd",
-          "title": "华为Pura X Max手机、智慧屏S7 Pro获国标人工智能L3认证",
-          "origin": "凤凰科技",
-          "time": 1784419254
-        }
-      ],
-      "summary": "小米与华为旗下多款设备近期获得《人工智能终端智能化分级》系列国家标准的L3等级认证。该标准由工业和信息化部、国家市场监督管理总局、商务部等部门于今年5月联合发布，将终端智能化水平划分为L1响应级、L2工具级、L3辅助级和L4协同级。目前L3级是标准中有明确划分的最高等级，小米方面表示L3为现有最高智能化水平；L4协同级则需根据产业发展在后续修订中明确。\n\n小米手机官方宣布，小米17 Max手机荣获首批该国家标准L3评级证书。华为终端官方则宣布，HUAWEI Pura X Max手机、HUAWEI MateBook Pro以及华为智慧屏S7 Pro分别获得国标人工智能L3等级的手机、电脑、电视领域的首张认证。此前，华为MateBook Pro已率先通过该国家级人工智能分级标准认证。这意味着两家科技巨头的多款终端产品均达到了国家认定的辅助级智能化水平。"
-    },
-    {
-      "title": "AI算力需求驱动光通信与芯片企业业绩爆发，长鑫科技IPO中签率约0.47%",
-      "tags": [
-        "科技",
-        "AI算力",
-        "芯片",
-        "IPO",
-        "光通信"
-      ],
-      "links": [
-        {
-          "link": "https://tech.ifeng.com/c/8utKHOBOuqE",
-          "title": "AI算力竞争进入系统时代，中兴OEX超节点发布，重新定义AI工厂底座",
-          "origin": "凤凰科技",
-          "time": 1784452600
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1137/1137441.htm",
-          "title": "云天励飞公布算力路线图：涵盖AI推理芯片和超节点异构集群",
-          "origin": "快科技",
-          "time": 1784439960
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4027815.html",
-          "title": "光通信企业，业绩预告集体爆发，AI算力需求仍是核心引擎",
-          "origin": "证券时报",
-          "time": 1784472960
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1146844&sid=2",
-          "title": "这道光将改变AI算力游戏规则，上海处于生态中心",
-          "origin": "上观",
-          "time": 1784422178
-        },
-        {
-          "link": "https://m.ithome.com/html/978721.htm",
-          "title": "长鑫科技中签号出炉：共约 770.22 万个，中签率约为 0.4714%",
-          "origin": "IT之家",
-          "time": 1784447323
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8ut9E9yC6bd",
-          "title": "长鑫科技中签号出炉：共约770.22万个，中签率约为0.4714%",
-          "origin": "凤凰科技",
-          "time": 1784447765
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniiirzf0217077.shtml",
-          "title": "长鑫科技中签号出炉，共约770.22万个（附号码）",
-          "origin": "新浪新闻",
-          "time": 1784449528
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4027521.html",
-          "title": "业绩利好，端侧AI公司，净利预增超5倍",
-          "origin": "证券时报",
-          "time": 1784434200
-        },
-        {
-          "link": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiifmi3549675.shtml",
-          "title": "业绩利好，端侧AI公司，净利预增超5倍",
-          "origin": "新浪新闻",
-          "time": 1784433465
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4027524.html",
-          "title": "拟募资约50亿元，国科微加码AI芯片",
-          "origin": "证券时报",
-          "time": 1784434200
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/relnews/2026-07-19/doc-iniiifmm0336405.shtml",
-          "title": "拟募资约50亿元，300672，加码AI芯片",
-          "origin": "新浪新闻",
-          "time": 1784434086
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4027433.html",
-          "title": "光通信巨头，业绩预喜",
-          "origin": "证券时报",
-          "time": 1784419740
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/relnews/2026-07-19/doc-iniihuvp3671437.shtml",
-          "title": "光通信巨头，业绩预喜",
-          "origin": "新浪新闻",
-          "time": 1784419184
-        }
-      ],
-      "summary": "AI算力需求正驱动光通信与芯片企业业绩增长。中兴通讯在WAIC期间发布新一代OEX超节点，采用正交无背板互联架构，取消内部高速线缆，提升信号质量、算力密度和"
-    },
-    {
-      "title": "俄副外长警告称日本与乌克兰在无人机领域合作是敌对行为",
-      "tags": [
-        "国际",
-        "俄日关系",
-        "无人机",
-        "乌克兰",
-        "敌对行为"
-      ],
-      "links": [
-        {
-          "link": "https://www.huanqiu.com/article/4SRT7zaDh8E",
-          "title": "俄媒：俄副外长称，俄方将日本与乌克兰在无人机领域的合作视为敌对行为",
-          "origin": "环球网",
-          "time": 1784436059
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202607/19/AP6a5c6721e4b0b49ad1c3f91c.html",
-          "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
-          "origin": "文汇网",
-          "time": 1784441124
-        },
-        {
-          "link": "https://www.news.cn/world/20260719/10a8790e25da40929a461e4a118f0c01/c.html",
-          "title": "俄副外长：日本与乌在无人机领域合作是敌对行为",
+          "link": "https://www.news.cn/tech/20260720/63025e398f234092b9876272271417fb/c.html",
+          "title": "我国智能算力规模达2185EFLOPS",
           "origin": "新华网",
-          "time": 1784390400
-        }
-      ],
-      "summary": "俄罗斯副外长鲁坚科18日表示，俄方将日本与乌克兰在无人机领域的合作视为公开敌对行为。鲁坚科在接受俄媒采访时指出，俄方正密切关注日本无人机制造商与乌克兰无人机开发商之间的合作。他强调，乌克兰无人机正在杀害俄罗斯平民，而日本方面为此提供协助。鲁坚科警告称，对俄罗斯构成威胁的武器以及在乌克兰境内生产这些武器的设施，均为俄军打击目标。他同时指出，此举将把俄日关系进一步推向深渊。"
-    },
-    {
-      "title": "英国新任首相伯纳姆宣布取消数字身份证计划",
-      "tags": [
-        "国际",
-        "英国政治",
-        "数字身份证",
-        "政策取消"
-      ],
-      "links": [
-        {
-          "link": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihqpr3741471.shtml",
-          "title": "英国下一任首相伯纳姆宣布取消数字身份证计划",
-          "origin": "新浪新闻",
-          "time": 1784414444
+          "time": 1784476800
         },
         {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1569422.htm",
-          "title": "英国下一任首相伯纳姆宣布取消数字身份证计划",
-          "origin": "cnBeta",
-          "time": 1784419980
+          "link": "http://www.chinanews.com//cj/2026/07-20/10662934.shtml",
+          "title": "中国智能算力规模达2185EFLOPS",
+          "origin": "中新网",
+          "time": 1784534520
+        },
+        {
+          "link": "https://m.ithome.com/html/978943.htm",
+          "title": "我国智能算力规模达 2185EFLOPS，全国算力设施整体上架率达 71.4%",
+          "origin": "IT之家",
+          "time": 1784519920
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuX66dkW0U",
+          "title": "中国智能算力规模达2185EFLOPS，算力设施整体上架率达71.4%",
+          "origin": "凤凰科技",
+          "time": 1784520478
         }
       ],
-      "summary": "英国将于周一正式就职的新任首相安迪·伯纳姆宣布，上台后将废止前政府推出的数字身份证计划。伯纳姆于周五当选工党领袖，其发言人表示，跨党派议员委员会已将该项目评价为一场彻底失败的工程，原本投入该项目的全部人力财力将转投最急需资金的民生领域，例如缓解民众生活开支压力。\n\n该计划由前任首相斯塔默于去年9月推出，要求所有务工人员持有数字身份凭证，初衷是打击非法移民并应对英国改革党的政治影响力。但因引发民众强烈反对，斯塔默在今年1月已取消了强制办理要求。英国预算责任办公室去年11月测算，2026/27至2028/29三个财年内，该项目总成本约18亿英镑（折"
+      "summary": "工业和信息化部7月20日发布数据显示，上半年我国一批具有国际竞争优势的产业加快壮大。在智能机器人领域，我国研发的四足机器人占全球销量份额接近70%，人形机器人整机产品达400余款，数量超过全球半数。此外，人工智能、半导体、新能源、生物医药等领域涌现出一批全球独角兽企业，在国际标准研制和产业治理方面积极贡献中国方案。同日，国务院新闻办公室举行新闻发布会，工业和信息化部信息通信管理局局长谢存介绍，截至今年6月底，我国智能算力规模已达2185EFLOPS（FP16）。其中，东部地区智算规模占全国比例最高，为55.9%，其次是西部地区占32.6%，中部和东北地区分别占10.6%和0.9%。全国算力设施整体上架率达71.4%。近两年，围绕国家算力枢纽节点建设了超过70条算力大通道，相关枢纽节点间网络性能提升了10%。此前，鹏城实验室主任、中国工程院院士高文在2026世界人工智能大会上指出，中国算力网发展的第一阶段（算力资源汇聚）任务已完成70%，全国70%的算力资源已纳入实时更新的统一数据库。"
     },
     {
-      "title": "美国调整对欧援助重点，欲推行MAGA议程",
+      "title": "美军连续九晚空袭伊朗并称愿外交解决 伊朗声称袭击约旦美军基地打死数十人",
       "tags": [
-        "国际",
+        "国际冲突",
+        "军事",
+        "伊朗",
         "美国",
-        "欧洲",
-        "援助",
-        "MAGA"
+        "中东"
       ],
       "links": [
         {
-          "link": "https://news.cctv.com/2026/07/19/ARTIoJ7F7dnxI6NYcmXQTrds260719.shtml",
-          "title": "美国调整对欧援助重点 欲推MAGA议程？",
+          "link": "https://news.cctv.com/2026/07/20/ARTIOxooeaVOIbmtq2QY3S3X260720.shtml",
+          "title": "美军称完成连续第九晚对伊朗袭击",
           "origin": "CCTV",
-          "time": 1784452323
+          "time": 1784515661
         },
         {
-          "link": "https://www.huanqiu.com/article/4SRdOE86RDP",
-          "title": "美国调整对欧援助重点 欲推MAGA议程？",
+          "link": "https://www.huanqiu.com/article/4SSDvZzFdyu",
+          "title": "美军称完成连续第九晚对伊朗袭击",
           "origin": "环球网",
-          "time": 1784453291
+          "time": 1784514647
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIBXVI3jCp2BH2CIK0TjWU260720.shtml",
+          "title": "美军连续第九晚对伊朗发动空袭",
+          "origin": "CCTV",
+          "time": 1784507858
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIe3fNR2b6vXdemva33hsd260720.shtml",
+          "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
+          "origin": "CCTV",
+          "time": 1784513335
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SSDwt1AqzV",
+          "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
+          "origin": "环球网",
+          "time": 1784514682
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIFWDorO08Od8wd5tqy4zH260720.shtml",
+          "title": "连续九晚袭击伊朗后 美称愿通过外交途径解决问题",
+          "origin": "CCTV",
+          "time": 1784515577
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SSDzMG0iPw",
+          "title": "连续九晚袭击伊朗后 美称愿通过外交途径解决问题",
+          "origin": "环球网",
+          "time": 1784514750
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIZMoPV8YVuk5kRg3FryxY260720.shtml",
+          "title": "俄莫斯科州州长：3名中国公民在无人机袭击中受伤",
+          "origin": "CCTV",
+          "time": 1784536372
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uurYgnCADA",
+          "title": "莫斯科州州长：3名中国公民在无人机袭击中受伤",
+          "origin": "凤凰网",
+          "time": 1784536320
+        },
+        {
+          "link": "https://www.news.cn/world/20260720/2545365739eb49f4b52f2a40e608a970/c.html",
+          "title": "外交部回应沙特机场遭袭击：中方反对袭击民用设施",
+          "origin": "新华网",
+          "time": 1784476800
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uuo0Uc7lLD",
+          "title": "外交部回应沙特机场遭袭击：中方反对袭击民用设施",
+          "origin": "凤凰网",
+          "time": 1784533260
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1784533585129827.html",
+          "title": "外交部回应沙特机场遭袭击：中方反对袭击民用设施",
+          "origin": "新京报",
+          "time": 1784533704
         }
       ],
-      "summary": "据英国媒体18日报道，美国特朗普政府计划调整对欧洲及其他地区的援助重点，旨在投入资金支持与“让美国再次伟大”（MAGA）议程相关的项目。这些项目包括以维护竞争和推动所谓言论自由为名，对抗欧盟的监管体系与政策法规。此举反映出美国试图通过援助手段在欧洲推行其政治议程，进一步影响欧盟的内部规则与治理框架。"
+      "summary": ""
     },
     {
-      "title": "柬埔寨国家航空公司与中国商飞签署20架C909飞机购机协议",
+      "title": "重庆彭水山体崩塌搜救持续 120余名专家现场协助救援处置",
       "tags": [
-        "国际",
-        "航空",
-        "中国商飞",
-        "C909",
-        "柬埔寨"
+        "山体崩塌",
+        "重庆",
+        "救援",
+        "自然灾害"
       ],
       "links": [
         {
-          "link": "http://www.chinanews.com//cj/2026/07-19/10662333.shtml",
-          "title": "柬国航与中国商飞签署20架C909飞机购机协议",
-          "origin": "中新网",
-          "time": 1784431020
+          "link": "https://news.cctv.com/2026/07/20/ARTIl6mg3kGstsmisdMXiXB1260720.shtml",
+          "title": "重庆彭水山体崩塌孤石爆破作业首爆成功",
+          "origin": "CCTV",
+          "time": 1784526178
         },
         {
-          "link": "https://www.huanqiu.com/article/4SRReEsv5K2",
-          "title": "柬国航与中国商飞签署20架C909飞机购机协议",
-          "origin": "环球网",
-          "time": 1784433574
-        },
-        {
-          "link": "https://www.stdaily.com/web/gdxw/2026-07/19/content_549753.html",
-          "title": "柬国航与中国商飞签署20架C909飞机购机协议",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/20/content_550259.html",
+          "title": "重庆彭水山体崩塌孤石爆破作业首爆成功",
           "origin": "科技日报",
-          "time": 1784459383
+          "time": 1784532445
         },
         {
-          "link": "http://www.chinanews.com//cj/2026/07-19/10662603.shtml",
-          "title": "柬埔寨国家航空与中国商飞签署20架C909飞机购机协议",
+          "link": "https://politics.gmw.cn/2026-07/20/content_38895904.htm",
+          "title": "重庆彭水山体崩塌孤石爆破作业首爆成功",
+          "origin": "光明网",
+          "time": 1784541328
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-20/10662979.shtml",
+          "title": "彭水山体崩塌孤石爆破作业首爆成功",
           "origin": "中新网",
-          "time": 1784466120
+          "time": 1784537820
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1784519410129621.html",
+          "title": "重庆彭水山体崩塌孤石爆破作业首爆成功 进入深度救援",
+          "origin": "新京报",
+          "time": 1784525827
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIKfjXaUyzvux5QbgnJjiM260720.shtml",
+          "title": "金融监管总局指导保险业全力应对重庆彭水山体崩塌等自然灾害",
+          "origin": "CCTV",
+          "time": 1784533838
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1784529359129733.html",
+          "title": "金融监管总局指导保险业全力应对重庆彭水山体崩塌等自然灾害",
+          "origin": "新京报",
+          "time": 1784530270
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/20/content_118607289.shtml",
+          "title": "重庆彭水山体崩塌灾害救援汇聚凡人微光",
+          "origin": "中国网",
+          "time": 1784523327
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/20/content_118607095.shtml",
+          "title": "重庆彭水山体崩塌搜救持续进行 120余名专家现场协助救援处置",
+          "origin": "中国网",
+          "time": 1784523327
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/20/content_38894946.htm",
+          "title": "重庆彭水山体崩塌搜救持续进行 120余名专家现场协助救援处置",
+          "origin": "光明网",
+          "time": 1784523327
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-20/10662827.shtml",
+          "title": "重庆彭水山体崩塌搜救持续进行 120余名专家现场协助救援处置",
+          "origin": "中新网",
+          "time": 1784518680
         }
       ],
-      "summary": "柬埔寨国家航空与中国商飞在上海签署协议，购买20架C909飞机。C909是中国自主研发的90座级中短程涡扇支线客机，主要用于连接中小城市与枢纽机场。该机型已在印度尼西亚、老挝、越南等海外市场运营。此次购机协议于2026年7月17日签署，中国商飞还与柬埔寨民航国务秘书处签署了战略合作谅解备忘录，双方将在航空安全、适航审定和人才培养方面深化合作。截至2026年6月，C909飞机已投入商业运营十年，累计交付186架，占中国国内支线机队70%；载客超过3700万人次，累计开通860余条航线，通航180余座城市。海外市场方面，C909已开通25条航线，通航28座城市，载客超100万人次。此次协议进一步推动了C909飞机的海外市场拓展。"
+      "summary": "7月19日，重庆彭水山体崩塌现场搜救持续加紧进行。消防、中国安能等多支救援力量在崩塌体两侧同时展开作业，利用大型"
+    },
+    {
+      "title": "国产AI模型Kimi K3发布三天暂停新订阅 算力紧缺且遭OpenAI高管批评",
+      "tags": [
+        "AI",
+        "K3",
+        "算力",
+        "OpenAI",
+        "争议"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/0720/1765812.shtml",
+          "title": "Kimi K3爆火算力紧缺，月之暗面宣布暂停C端新用户订阅",
+          "origin": "站长之家",
+          "time": 1784507517
+        },
+        {
+          "link": "https://www.qbitai.com/2026/07/455179.html",
+          "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
+          "origin": "量子位",
+          "time": 1784520329
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137510.htm",
+          "title": "Kimi K3爆火算力紧缺，官方暂停C端新用户订阅",
+          "origin": "快科技",
+          "time": 1784499300
+        },
+        {
+          "link": "https://www.huxiu.com/article/4876737.html",
+          "title": "Kimi K3爆火，GPU先扛不住了",
+          "origin": "虎嗅",
+          "time": 1784538788
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimzhe8169128.shtml",
+          "title": "Kimi K3爆火，GPU先扛不住了",
+          "origin": "新浪新闻",
+          "time": 1784540138
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3777389",
+          "title": "更多Token、更多芯片，Kimi K3体现杰文斯悖论，效率提升反而增加资源消耗",
+          "origin": "华尔街见闻",
+          "time": 1784513959
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137642.htm",
+          "title": "OpenAI高管炮轰Kimi K3：中国开源是减速主义",
+          "origin": "快科技",
+          "time": 1784529360
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1569498.htm",
+          "title": "Kimi K3发布三天后暂停新会员订阅 月之暗面称算力已逼近极限",
+          "origin": "cnBeta",
+          "time": 1784500080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uu7Rdq2PvA",
+          "title": "算力已逼近极限 Kimi K3发布三天后暂停新会员订阅",
+          "origin": "凤凰科技",
+          "time": 1784476907
+        }
+      ],
+      "summary": "月之暗面于7月16日发布最新大模型Kimi K3，该模型参数规模达2.8万亿，支持100万Token上下文窗口，面向长程编程、知识工作等复杂任务，发布后数小时即登顶AI代码工具评测榜单。由于用户请求量在48小时内大幅超出预估，逼近现有算力集群承载极限，月之暗面于7月20日宣布即日起暂停C端新用户订阅，优先保障现有会员体验。公司正全力推进算力扩容，后续将逐步恢复开放。同时，面向新用户计划拆分Kimi主权益与Kimi Code权益，主权益涵盖Kimi Web、App和Work，以精准匹配算力需求。Kimi总裁张予彤透露，7月17日K3发布节点公司年化收入创历史最大单日增幅。"
+    },
+    {
+      "title": "外交部回应日本核问题 称日方错判形势将付出沉重代价",
+      "tags": [
+        "日本",
+        "核问题",
+        "外交部"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-20/10662969.shtml",
+          "title": "外交部：如果日本执政当局在核问题上继续错判形势 必将付出沉重代价",
+          "origin": "中新网",
+          "time": 1784534820
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/20/content_118608674.shtml",
+          "title": "外交部：日方在核问题上错判形势将付出沉重代价",
+          "origin": "中国网",
+          "time": 1784541328
+        },
+        {
+          "link": "https://www.news.cn/world/20260720/0abaf909f54e49468e7194c4481d7bb7/c.html",
+          "title": "外交部：日方在核问题上错判形势将付出沉重代价",
+          "origin": "新华网",
+          "time": 1784476800
+        },
+        {
+          "link": "https://news.ifeng.com/c/8uuo3FlOPsD",
+          "title": "外交部：日方在核问题上错判形势将付出沉重代价",
+          "origin": "凤凰网",
+          "time": 1784541420
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1784533407129822.html",
+          "title": "外交部：日方在核问题上错判形势将付出沉重代价",
+          "origin": "新京报",
+          "time": 1784533458
+        }
+      ],
+      "summary": "中国外交部发言人林剑在7月20日的例行记者会上就日本核问题作出回应。据报道，日本高市早苗政府上台后，广岛、长崎等82个地方议会向中央政府提交意见书，要求坚持无核三原则或将其法制化，而日本执政联盟的维新会则建议讨论修改该原则。林剑指出，地方议会的呼声反映了向往和平的民意，表明日本执政当局背离和平宪法、加速再军事化的选择不得人心。他警告说，如果日本执政当局在核问题上继续错判形势，执迷不悟推进修改无核三原则、引进盟国核武器在日部署，这既是对二战后国际秩序和国际核不扩散体系的严重挑衅，也违背日本自身和平承诺和国内普遍"
+    },
+    {
+      "title": "鸿海斩获SpaceX 520亿美元AI服务器机架订单 打破美厂垄断",
+      "tags": [
+        "鸿海",
+        "SpaceX",
+        "AI服务器",
+        "订单"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1569502.htm",
+          "title": "SpaceX斥资520亿美元采购1.3万台英伟达GB300服务器 富士康斩获大单",
+          "origin": "cnBeta",
+          "time": 1784507940
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137621.htm",
+          "title": "打破美厂垄断，鸿海斩获SpaceX 520亿美元AI服务器机架订单",
+          "origin": "快科技",
+          "time": 1784521080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuNtJaoblF",
+          "title": "鸿海首度夺下SpaceX AI服务器代工订单，总价高达520亿美元",
+          "origin": "凤凰科技",
+          "time": 1784512205
+        }
+      ],
+      "summary": "据台湾媒体报道，鸿海（富士康）已成功从SpaceX获得一笔价值高达520亿美元的AI服务器代工订单，打破了此前由戴尔、超微等美系厂商长期垄断的局面。根据协议，鸿海将为SpaceX提供约1.3万台英伟达GB300 AI服务器机架，每台机架造价约为400万美元。这批设备的交付工作预计将于2026年第四季度启动，并持续至2027年第一季度。凭借这笔巨额订单，鸿海预计到2026年底将占据全球AI服务器市场约40%的份额。此次大规模采购是SpaceX提升其算力基础设施的重要举措。截至2026年5月，SpaceX旗下的Colossus 1数据中心已部署超过22万颗英伟达GPU，而Colossus 2数据中心的规模更为庞大，拥有超过55万颗GPU，主要由GB200和GB300加速器组成。此外，SpaceX近期在云服务领域也动作频频，包括与Google和Anthropic签署了价值巨大的云服务及算力协议。"
+    },
+    {
+      "title": "Netflix以5.87亿美元收购本·阿弗莱克创办的AI初创公司InterPositive",
+      "tags": [
+        "Netflix",
+        "AI",
+        "收购",
+        "电影"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/979175.htm",
+          "title": "斥资 5.87 亿美元，Netflix 收购本 · 阿弗莱克创办的 AI 初创公司 InterPositive",
+          "origin": "IT之家",
+          "time": 1784540945
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8utJ07KL1bH",
+          "title": "斥资5.87亿美元，Netflix收购本·阿弗莱克创办的AI初创公司InterPositive",
+          "origin": "凤凰科技",
+          "time": 1784540945
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/movie/1569488.htm",
+          "title": "Netflix斥资5.87亿美元收购本·阿弗莱克旗下的AI电影制作初创公司",
+          "origin": "cnBeta",
+          "time": 1784499780
+        }
+      ],
+      "summary": "Netflix在最新提交的监管文件中披露，以5.87亿美元现金收购了由演员兼导演本·阿弗莱克共同创立的人工智能初创公司InterPositive。该公司开发的AI工具主要服务于影视后期制作，可解决补拍缺失镜头、替换背景、修正灯光等实际拍摄中的问题。Netflix于今年3月宣布此项收购，当时未公开具体金额。根据协议，InterPositive整个团队将加入Netflix，阿弗莱克将以高级顾问身份参与工作。Netflix在最新财报中表示，目前已有约300部影视作品使用了生成式人工智能技术，公司正在探索利用AI提升制作效率并降低部分后期制作成本。"
+    },
+    {
+      "title": "百度发布全国产AI芯片对标NVIDIA H20 首次展出",
+      "tags": [
+        "百度",
+        "AI芯片",
+        "国产",
+        "对标"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8uuTJBkdnE5",
+          "title": "百度昆仑芯M100首次展出：全国产对标NVIDIA H20",
+          "origin": "凤凰科技",
+          "time": 1784515987
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137577.htm",
+          "title": "百度重磅产品首次展出，全国产对标NVIDIA H20",
+          "origin": "快科技",
+          "time": 1784515980
+        }
+      ],
+      "summary": "在2026年世界人工智能大会上，百度旗下昆仑芯科技首次公开展示了其第四代AI芯片M100实物。该芯片基于全国产供应链打造，主要对标英伟达面向中国市场的特供产品H20，主打高性价比的大模型推理应用。作为参考，英伟达H20配备96GB HBM3显存，带宽4.0TB/s，FP8算力296 TFLOPS。昆仑芯M100的HBM容量略低于H20。\n\n昆仑芯早在2025年11月的百度世界大会上便首次披露了M100，并同时公布了面向超大规模多模态大模型训练与推理的M300芯片，后者计划于2027年初上市。在此次展会上，昆仑芯还展出了已大规模出货的第三代AI加速器P800，该产品基于自研XPU架构，FP16算力达345 TFLOPS。2026年4月，基于P800的天池256卡超节点已首次点亮，吞吐性能较上一代提升25%，推理效率提升50%。此外，昆仑芯还在研发新一代P系列高性能AI芯片，对标华为昇腾950。\n\n市场格局方面，据IDC数据，2025年中国AI加速卡总出货约400万张，其中国产厂商合计出货约165万张，占比41%。昆仑芯与寒武纪各出货约11.6万张，并列国产第三，仅次于华为昇腾和阿里平"
+    },
+    {
+      "title": "阿里千问发布语音合成大模型Qwen-Audio-3.0-TTS 登顶Artificial Analysis榜首",
+      "tags": [
+        "阿里",
+        "语音合成",
+        "大模型"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/979128.htm",
+          "title": "位列 Artificial Analysis 榜首，阿里千问发布语音合成大模型 Qwen-Audio-3.0-TTS",
+          "origin": "IT之家",
+          "time": 1784537705
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuu7UMsIyJ",
+          "title": "阿里千问发布语音合成大模型Qwen-Audio-3.0-TTS，登顶Artificial Analysis榜首",
+          "origin": "凤凰科技",
+          "time": 1784539420
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "三星SK海力士美光放弃自研CXL控制器 怕砸DRAM饭碗",
+      "tags": [
+        "三星",
+        "内存",
+        "CXL",
+        "放弃"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3777431",
+          "title": "自研CXL会砸自己DRAM饭碗？三星、SK海力士、美光同时放弃CXL控制器自研",
+          "origin": "华尔街见闻",
+          "time": 1784536913
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137730.htm",
+          "title": "怕砸了自家DRAM饭碗，三星SK海力士美光放弃自研CXL控制器",
+          "origin": "快科技",
+          "time": 1784541300
+        }
+      ],
+      "summary": "三星、SK海力士和美光已集体停止自研CXL控制器。主要原因在于，自研CXL扩展设备会直接与自家DRAM DIMM产品争夺市场，从而冲击核心利润来源。三星已将内部控制器从商品化项目中移除，仅保留非商用研发；SK海力士正式通知合作伙伴停止自研控制器业务，相关人员转向PIM存内计算；美光更早前就已停止自研，转而采用PrimeMAS的方案。目前，三家巨头均转向从澜起科技、Asteralabs、PrimeMAS等无晶圆厂芯片设计公司采购控制器。客户需求也推动了这一转变，市场更倾向于主板上独立CXL控制器加普通DIMM的组合方案，而非内存厂商自家的一体化高价模组。业内人士表示，此举并非放弃CXL技术，而是分工专业化的体现，让存储器厂商专注本业，由芯片设计公司负责控制器"
+    },
+    {
+      "title": "台积电CFO回应马斯克英特尔竞争 称不会给对手任何机会",
+      "tags": [
+        "台积电",
+        "竞争",
+        "芯片制造"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1569518.htm",
+          "title": "台积电CFO回应马斯克、英特尔竞争：不会给对手任何机会",
+          "origin": "cnBeta",
+          "time": 1784510880
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuGbiuyu1d",
+          "title": "台积电CFO回应马斯克、英特尔竞争：不会给对手任何机会",
+          "origin": "凤凰科技",
+          "time": 1784506537
+        }
+      ],
+      "summary": "台积电首席财务官黄仁昭近日针对埃隆·马斯克自建芯片厂以及英特尔公司的竞争作出回应，表示不会给对手留下任何机会。为满足美国客户的强劲需求并抵御竞争对手，台积电将追加1000亿美元投资亚利桑那州工厂。台积电第二季度营收和利润超出预期，并上调了增长预期，但满足所有客户订单仍面临挑战。公司认为AI大趋势将在未来几年持续推动增长，并正在尽一切努力扩大产能。与此同时，英特尔正积极争取先进制造客户，马斯克则启动自己的半导体制造业务，理由是台积电产能不足。台积电承认未来数年无法满足AI带来的全部需求，已将今年资本支出计划"
+    },
+    {
+      "title": "三星晶圆代工超80%员工计划离职 因奖金差距巨大",
+      "tags": [
+        "三星",
+        "晶圆代工",
+        "离职"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1137/1137555.htm",
+          "title": "三星晶圆代工超80%员工计划离职：对奖金差距巨大不满",
+          "origin": "快科技",
+          "time": 1784511840
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8uuPbRaq1V2",
+          "title": "三星晶圆代工超80%员工计划离职：对奖金差距巨大不满",
+          "origin": "凤凰科技",
+          "time": 1784511858
+        }
+      ],
+      "summary": "三星电子半导体（DS）事业部近期一项内部调查显示，晶圆代工业务部门超过80%的管理人员及员工计划离职，这一比例是存储器业务部门的两倍以上。该调查由三星电子最大工会联合企业工会发起，于今年6月17日至30日面向DS事业部员工进行，共收到8297份有效问卷。结果显示，晶圆代工部门81.5%的员工有意离职，其中意向非常高的约占62%，较高的约占19%，其离职意向比例在DS事业部七个组织中最高，较整体平均水平（49.5%）高出超30个百分点。此外，系统LSI部门（75.4%）与半导体研发中心（60.6%）等非存储器业务部门离职意向也显著偏高，而存储器业务部门仅为32.7%。分析认为，该现象直接反映了员工对绩效奖金差距持续扩大的强烈不满。今年5月，DS事业部引入以营业利润10.5%为资金来源的特殊管理绩效奖金制度，使业绩突出的存储器部门成为最大受益者。据估算，若2026年三星营业利润达300万亿韩元，存储器部门员工预计可领取总计约6亿韩元薪酬，而晶圆代工和系统LSI部门员工仅约2.1亿韩元。工会会长表示，企业必须正视该问题并迅速采取有效措施，防止人才流失加剧。"
+    },
+    {
+      "title": "美高超音速导弹项目受挫 产能减半成本飙升",
+      "tags": [
+        "高超音速导弹",
+        "美国",
+        "军事"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIymWwlTyZAVh8LhWZTvfC260720.shtml",
+          "title": "美高超音速导弹项目受挫：产能减半 成本飙升",
+          "origin": "CCTV",
+          "time": 1784512475
+        },
+        {
+          "link": "https://www.news.cn/world/20260720/29c6009dd6694f7782728e066eceacfa/c.html",
+          "title": "美高超音速导弹项目受挫：产能减半 成本飙升",
+          "origin": "新华网",
+          "time": 1784476800
+        }
+      ],
+      "summary": "美国国会下属的政府问责局日前发布报告，披露美国军方名为常规快速打击的高超音速导弹项目存在一系列重大问题。主承包商洛克希德-马丁公司因零部件供应、生产技术和操作说明过于复杂，目前每年仅能生产6至7枚导弹，仅为原计划12枚的一半。操作说明以工程规范形式编写，对普通工人而言不切实际。成本方面大幅上升，美国海军2020年预计262枚"
+    },
+    {
+      "title": "德国土安全部队拟扩充至逾万人 加强内部安全",
+      "tags": [
+        "德国",
+        "军事",
+        "安全部队"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/20/ARTIXvXlqSCqyXVDMVOIab46260720.shtml",
+          "title": "德国土安全部队拟扩充至逾万人",
+          "origin": "CCTV",
+          "time": 1784532055
+        },
+        {
+          "link": "https://www.news.cn/world/20260720/c54a425b89c64ca08bdb7b3d373879a4/c.html",
+          "title": "德国土安全部队拟扩充至逾万人",
+          "origin": "新华网",
+          "time": 1784476800
+        }
+      ],
+      "summary": "德国联邦国防军国土安全部队计划在2035年前从当前的6500人扩增至逾1万人。该部队指挥官安德烈亚斯·亨纳少将表示，目前部队规模仅具备初始作战能力，能在冲突初期保障基础设施安全，但面对旷日持久的冲突则人手不足，因此需要显著增强兵力。国土安全部队于2024年组建，由预备役和现役军人组成，归属陆军指挥。战时，该部队将留驻德国境内负责国土防卫，保护港口、铁路、货运转运点、管道、道路、桥梁及数字基础设施等关键设施；和平时期则承担突发事件应对、重大灾害救援和防范恐怖袭击等任务。此次"
+    },
+    {
+      "title": "SpaceX将星舰第13次试飞推迟至7月23日",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "试飞"
+      ],
+      "links": [
+        {
+          "link": "https://www.wenweipo.com/a/202607/20/AP6a5d66a2e4b0b49ad1c40d14.html",
+          "title": "SpaceX将星舰第13次试飞推迟至7月23日",
+          "origin": "文汇网",
+          "time": 1784509527
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4901809.shtml",
+          "title": "SpaceX将星舰第13次试飞推迟至7月23日",
+          "origin": "新浪新闻",
+          "time": 1784510331
+        }
+      ],
+      "summary": "美国太空探索技术公司（SpaceX）宣布，原定于7月16日进行的星舰第13次试飞因部分发动机未能启动而自动中止，现已推迟至7月23日再次尝试发射。此次试飞原计划是SpaceX自今年6月上市以来的首次发射任务。试飞取消后，公司市值一度蒸发约1000亿美元。相关信息由央视新闻等媒体于当地时间7月19日披露。"
     }
   ]
 }
