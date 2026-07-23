@@ -5,9 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>菲方两艘公务船执意侵闯中国黄岩岛管辖海域，被驱离</title>
+      <link>https://news.ifeng.com/c/8uzWAyFay1R</link>
+      <pubDate>Thu, 23 Jul 2026 03:46:00 +0000</pubDate>
+    </item>
+    <item>
       <title>美军对伊朗发动新一轮打击</title>
       <link>https://www.news.cn/world/20260723/2b83eb2a6fe440a3be00313b3b0a85e6/c.html</link>
       <pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD押注Anthropic：最高投50亿美元 锁定百亿AI服务器订单</title>
+      <link>https://news.mydrivers.com/1/1138/1138388.htm</link>
+      <pubDate>Thu, 23 Jul 2026 00:48:00 +0000</pubDate>
     </item>
     <item>
       <title>打击编造传播涉汛等网络谣言 公安部公布20起典型案例</title>
@@ -18,6 +28,26 @@
       <title>两名男子涉嫌盗窃转运数百只猫，山东莱州警方：已采取刑事强制措施</title>
       <link>https://www.bjnews.com.cn/detail-1784763137129673.html</link>
       <pubDate>Wed, 22 Jul 2026 23:44:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>墨西哥要求美方调查17名墨公民在美死亡事件</title>
+      <link>https://www.news.cn/world/20260723/1b860acd1c0b4ce98b39698b4f59e021/c.html</link>
+      <pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>胡塞武装称袭击两艘沙特油轮</title>
+      <link>https://news.cctv.com/2026/07/23/ARTIgk5cOGRyiRPn0r7y9DzI260723.shtml</link>
+      <pubDate>Wed, 22 Jul 2026 22:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>特斯拉被困纯视觉</title>
+      <link>https://tech.ifeng.com/c/8uzC0lIfURf</link>
+      <pubDate>Wed, 22 Jul 2026 22:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>12号台风或将生成 多部门提前部署</title>
+      <link>https://news.cctv.com/2026/07/23/ARTIktkPsDcxNJQ7BAqsMhv7260722.shtml</link>
+      <pubDate>Wed, 22 Jul 2026 17:05:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
