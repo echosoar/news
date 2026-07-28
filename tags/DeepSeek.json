@@ -1,7 +1,17 @@
 {
   "tag": "DeepSeek",
-  "generated_at": "2026-07-18T23:19:48Z",
+  "generated_at": "2026-07-28T08:52:56Z",
   "summary": [
+    {
+      "title": "美国大模型沿用DeepSeek架构，被指开始抄袭中国作业",
+      "tags": [
+        "DeepSeek",
+        "美国大模型",
+        "中国AI"
+      ],
+      "summary": "OpenAI前首席技术官穆拉蒂创办的明星公司Thinking Machines Lab发布了首款模型Inkling。该模型采用混合专家架构，主要沿用了中国DeepSeek-V3的设计，并在后训练冷启动阶段使用了中国Kimi K2.5生成的合成数据。然而，在多项关键基准评测中，Inkling的性能落后于中国的Kimi和GLM模型，其调用价格反而更高，被形容为“中国模型的贵替”。\n\nThinking Machines团队聚集了大量OpenAI前员工，融资高达20亿美元，估值120亿美元。其技术选择并非因为DeepSeek全面领先OpenAI，而是因为OpenAI采用闭源路线，而DeepSeek和Kimi公开了权重和技术，便于合法复用。\n\n文章指出，Inkling性能一般但定价更高，是经过计算的商业策略。随着美国对中国AI模型的监管收紧，美国企业使用中国模型面临合规不确定性。Inkling作为一款美国本土开发的开放模型，能够满足企业私有部署和合规审查的需求，填补了市场空缺。性能上的劣势并不妨碍其成为那些担心政治风险企业的替代选择。这一局面最终可能导致美国企业被迫使用性能更弱、价格更高的本土模型，从而削弱美国AI产业的整体竞争力。",
+      "date": "2026-07-21"
+    },
     {
       "title": "DeepSeek V4正式版官宣7月上线 将引入峰谷定价机制 华为openPangu-2.0-Flash开源",
       "tags": [
