@@ -5,19 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>特朗普称同意取消对伊军事打击</title>
+      <link>https://www.news.cn/world/20260802/03f910e129f64f469de8a65f7266ad77/c.html</link>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国爱达荷州一快餐店枪击致多人死伤</title>
+      <link>https://www.news.cn/world/20260802/21dbc77992944b59aca464189c3e065c/c.html</link>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>美计划本周末发动猛烈轰炸伊朗：全面反击方案已就绪</title>
       <link>https://news.ifeng.com/c/8vFm8oefWuS</link>
       <pubDate>Sat, 01 Aug 2026 22:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击</title>
-      <link>https://news.cctv.com/2026/08/02/ARTIxHhaLEC5AA8OIWwSnJm2260802.shtml</link>
-      <pubDate>Sat, 01 Aug 2026 22:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>巴基斯坦雪崩致一名中国籍登山者失联</title>
-      <link>https://www.news.cn/world/20260802/2a3defce9e86431fb598e920a675f153/c.html</link>
-      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>松花江发生2026年第1号洪水</title>
@@ -25,19 +25,44 @@
       <pubDate>Sat, 01 Aug 2026 23:29:10 +0000</pubDate>
     </item>
     <item>
-      <title>超算互联网上线DeepSeek-V4-Flash正式版API 一键调用</title>
-      <link>https://news.mydrivers.com/1/1140/1140741.htm</link>
-      <pubDate>Sat, 01 Aug 2026 23:15:00 +0000</pubDate>
+      <title>莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击</title>
+      <link>https://news.cctv.com/2026/08/02/ARTIxHhaLEC5AA8OIWwSnJm2260802.shtml</link>
+      <pubDate>Sat, 01 Aug 2026 22:26:48 +0000</pubDate>
     </item>
     <item>
-      <title>美国爱达荷州发生枪击事件 造成3死2伤</title>
-      <link>https://www.huanqiu.com/article/4ScvBkbe9k2</link>
-      <pubDate>Sat, 01 Aug 2026 23:53:39 +0000</pubDate>
+      <title>包钢板材厂爆炸事故调查报告公布</title>
+      <link>http://www.chinanews.com//sh/2026/08-02/10670732.shtml</link>
+      <pubDate>Sun, 02 Aug 2026 02:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世卫：本轮疫情为刚果（金）史上最大埃博拉疫情</title>
+      <link>https://www.news.cn/world/20260802/8568ca0bcf8f4278a653e59690a0d50d/c.html</link>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>伊朗警告美国不要采取冒险行动</title>
       <link>https://www.news.cn/world/20260802/cb098e764af742c296bb30123847c997/c.html</link>
       <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦雪崩致一名中国籍登山者失联</title>
+      <link>https://www.news.cn/world/20260802/2a3defce9e86431fb598e920a675f153/c.html</link>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>超算互联网上线DeepSeek-V4-Flash正式版API 一键调用</title>
+      <link>https://news.mydrivers.com/1/1140/1140741.htm</link>
+      <pubDate>Sat, 01 Aug 2026 23:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本熊本县地震已造成38人死亡</title>
+      <link>https://www.news.cn/world/20260802/dc661901869f4a6ca60722a950c46325/c.html</link>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>伊朗革命卫队称摧毁3架美军F-35战机</title>
+      <link>http://www.chinanews.com//gj/2026/08-02/10670779.shtml</link>
+      <pubDate>Sun, 02 Aug 2026 03:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
