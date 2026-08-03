@@ -1,750 +1,544 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T00:09:58Z",
+  "generated_at": "2026-08-03T04:39:21Z",
   "summary": [
     {
-      "title": "水利部启动防汛应急响应，松花江及嫩江支流发生2026年第1号洪水",
+      "title": "特朗普称美伊3日将谈判，随后又称同意取消对伊打击，以色列称从社媒得知",
       "tags": [
-        "防汛应急",
-        "洪水灾害",
-        "水利部",
-        "松花江"
+        "美伊关系",
+        "特朗普",
+        "以色列",
+        "中东局势"
       ],
       "links": [
         {
-          "link": "https://news.cctv.com/2026/08/02/ARTIosioB23ZpPximJ0NHKfa260802.shtml",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
-          "origin": "CCTV",
-          "time": 1785659842
-        },
-        {
-          "link": "http://www.chinanews.com//gn/2026/08-02/10670857.shtml",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
-          "origin": "中新网",
-          "time": 1785660420
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1785304286129786.html",
-          "title": "国家防总、应急管理部针对重庆启动防汛四级应急响应",
-          "origin": "新京报",
-          "time": 1785626752
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670850.shtml",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
-          "origin": "中新网",
-          "time": 1785658620
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vGQdnRfy4p",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
+          "link": "https://news.ifeng.com/c/8vHFmlOEjcu",
+          "title": "特朗普称霍尔木兹海峡已有协议，将与伊朗举行谈判",
           "origin": "凤凰网",
-          "time": 1785658440
+          "time": 1785711960
         },
         {
-          "link": "https://news.cctv.com/2026/08/02/ARTIciNjN9zH3tMMNc88h1NM260802.shtml",
-          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
-          "origin": "CCTV",
-          "time": 1785666317
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SdDLgOaaMO",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
-          "origin": "环球网",
-          "time": 1785658914
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1785658821129454.html",
-          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
-          "origin": "新京报",
-          "time": 1785665231
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1785657985129452.html",
-          "title": "国家防总、应急管理部针对北京河北启动防汛四级应急响应",
-          "origin": "新京报",
-          "time": 1785658616
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670891.shtml",
-          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
-          "origin": "中新网",
-          "time": 1785666660
-        },
-        {
-          "link": "http://www.chinanews.com//gn/2026/08-02/10670878.shtml",
-          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
-          "origin": "中新网",
-          "time": 1785665220
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIREoGFfP6Dnnj1PGeMJzX260802.shtml",
-          "title": "松花江发生2026年第1号洪水",
-          "origin": "CCTV",
-          "time": 1785626950
-        },
-        {
-          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154100&sid=21",
-          "title": "松花江发生2026年第1号洪水",
-          "origin": "上观",
-          "time": 1785627988
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670692.shtml",
-          "title": "松花江发生2026年第1号洪水",
-          "origin": "中新网",
-          "time": 1785630180
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4ScwLx9Stl3",
-          "title": "松花江发生2026年第1号洪水",
-          "origin": "环球网",
-          "time": 1785630374
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670768.shtml",
-          "title": "松花江发生2026年第1号洪水",
-          "origin": "中新网",
-          "time": 1785640380
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIWoAuoRpEeS9fTrAkwdv8260802.shtml",
-          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
-          "origin": "CCTV",
-          "time": 1785652909
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670828.shtml",
-          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
-          "origin": "中新网",
-          "time": 1785654240
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670821.shtml",
-          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
-          "origin": "中新网",
-          "time": 1785652620
-        },
-        {
-          "link": "https://www.bjnews.com.cn/detail-1785651641129402.html",
-          "title": "水利部针对重庆市启动洪水防御Ⅳ级应急响应",
-          "origin": "新京报",
-          "time": 1785652969
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670765.shtml",
-          "title": "嫩江支流甘河发生2026年第1号洪水",
-          "origin": "中新网",
-          "time": 1785640620
-        },
-        {
-          "link": "https://www.tmtpost.com/nictation/8088373.html",
-          "title": "嫩江支流甘河发生2026年第1号洪水",
-          "origin": "钛媒体",
-          "time": 1785639240
-        }
-      ],
-      "summary": "根据气象部门预报，8月2日至4日，华北地区将出现较强降雨过程，河北北部、北京西部和北部部分地区有大到暴雨。依据《国家防汛抗旱应急预案》有关规定，国家防总、应急管理部于8月2日10时针对北京、河北启动防汛四级应急响应。同时，受降雨影响，黑龙江省嫩江支流甘河加格达奇水文站于8月2日9时水位涨至警戒水位371.68米，依据主要江河洪水编号规定，此次洪水被编号为甘河2026年第1号洪水。目前相关部门已启动相应应急措施，防范强降雨可能引发的灾害风险。"
-    },
-    {
-      "title": "伊朗与美军对峙升级，革命卫队称摧毁3架美军F-35战机，美计划猛烈轰炸",
-      "tags": [
-        "伊朗美军冲突",
-        "军事对抗",
-        "中东局势",
-        "F-35战机"
-      ],
-      "links": [
-        {
-          "link": "http://www.chinanews.com//gj/2026/08-02/10670688.shtml",
-          "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
-          "origin": "中新网",
-          "time": 1785626520
-        },
-        {
-          "link": "https://wallstreetcn.com/articles/3778501",
-          "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
-          "origin": "华尔街见闻",
-          "time": 1785631614
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vFm8oefWuS",
-          "title": "美计划本周末发动猛烈轰炸伊朗：全面反击方案已就绪",
-          "origin": "凤凰网",
-          "time": 1785624780
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4SctkuVUnyd",
-          "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
-          "origin": "环球网",
-          "time": 1785626012
-        },
-        {
-          "link": "https://finance.sina.com.cn/world/2026-08-02/doc-inikwkfr3289706.shtml",
-          "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
-          "origin": "新浪新闻",
-          "time": 1785629785
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTI5j0ZTfLXPNiptZdAC8nd260802.shtml",
-          "title": "伊朗革命卫队称摧毁3架美军F-35战机",
-          "origin": "CCTV",
-          "time": 1785642818
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/08-02/10670779.shtml",
-          "title": "伊朗革命卫队称摧毁3架美军F-35战机",
-          "origin": "中新网",
-          "time": 1785642480
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6eca4ce4b0c1e500233935.html",
-          "title": "伊朗革命卫队称摧毁3架美军F-35战机",
-          "origin": "文汇网",
-          "time": 1785645692
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTInj748TaVssTltgPDOA7d260802.shtml",
-          "title": "美军称已部署一架重型运输直升机至中东地区",
-          "origin": "CCTV",
-          "time": 1785622459
-        },
-        {
-          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikvtiz5752599.shtml",
-          "title": "美军称已部署一架重型运输直升机至中东地区",
-          "origin": "新浪新闻",
-          "time": 1785603106
-        }
-      ],
-      "summary": ""
-    },
-    {
-      "title": "莫斯科市中心咖啡馆发生炸弹袭击致3死21伤，俄称系自制炸弹袭击",
-      "tags": [
-        "莫斯科爆炸",
-        "恐怖袭击",
-        "俄罗斯安全",
-        "自制炸弹"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIxHhaLEC5AA8OIWwSnJm2260802.shtml",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "CCTV",
-          "time": 1785623208
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/08-02/10670682.shtml",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "中新网",
-          "time": 1785623760
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4ScseMwszcf",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "环球网",
-          "time": 1785624156
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6e809be4b0c1e500232ff0.html",
-          "title": "莫斯科餐厅爆炸已致3死21伤　俄称系自制炸弹袭击",
-          "origin": "文汇网",
-          "time": 1785629127
-        },
-        {
-          "link": "https://3g.china.com/act/news/1000/20260802/49648566.html",
-          "title": "莫斯科市中心爆炸已致3死21伤 官方披露事发经过",
+          "link": "https://3g.china.com/act/news/10000169/20260803/49649893.html",
+          "title": "特朗普称美伊3日将谈判 霍尔木兹海峡协议有望",
           "origin": "中国网",
-          "time": 1785631785
+          "time": 1785718214
         },
         {
-          "link": "https://www.huanqiu.com/article/4Sctnl7f6UL",
-          "title": "莫斯科市中心爆炸已致3死21伤 官方披露事发经过",
+          "link": "https://www.huanqiu.com/article/4SdkdaU23vd",
+          "title": "特朗普称美伊将于8月3日举行谈判",
           "origin": "环球网",
-          "time": 1785626090
+          "time": 1785714814
         },
         {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6ea5dce4b0c1e500233413.html",
-          "title": "莫斯科市中心一咖啡馆发生爆炸　俄称系自制爆炸袭击",
-          "origin": "文汇网",
-          "time": 1785639940
-        },
-        {
-          "link": "https://www.news.cn/world/20260802/2c479d1837054c77a67c2da9dffa374b/c.html",
-          "title": "莫斯科一咖啡馆发生爆炸 俄称系自制爆炸袭击",
-          "origin": "新华网",
-          "time": 1785600000
-        }
-      ],
-      "summary": ""
-    },
-    {
-      "title": "OpenAI下一代AI攻克10项菲尔兹奖级难题，专家警示自主AI安全威胁加剧",
-      "tags": [
-        "OpenAI",
-        "人工智能突破",
-        "AI安全",
-        "菲尔兹奖级"
-      ],
-      "links": [
-        {
-          "link": "https://finance.sina.com.cn/tech/internet/2026-08-02/doc-inikwqpk9912251.shtml",
-          "title": "突发，OpenAI下一代AI攻克10项菲尔兹奖级难题",
-          "origin": "新浪新闻",
-          "time": 1785629780
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8vFrkUmsOBf",
-          "title": "OpenAI下一代AI攻克10项菲尔兹奖级难题",
-          "origin": "凤凰科技",
-          "time": 1785629976
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1571310.htm",
-          "title": "OpenAI下一代AI攻克10项菲尔兹奖级难题",
-          "origin": "cnBeta",
-          "time": 1785629940
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-02/doc-inikxfma9704080.shtml",
-          "title": "OpenAI人工智能体突破沙箱入侵网络平台 专家警示自主AI安全威胁加剧",
-          "origin": "新浪新闻",
-          "time": 1785652541
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1571326.htm",
-          "title": "OpenAI人工智能体突破沙箱入侵网络平台 专家警示自主AI安全威胁加剧",
-          "origin": "cnBeta",
-          "time": 1785656940
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8vFxzItXygN",
-          "title": "OpenAI下一代模型Astra：10项开放问题新突破 成本2000美元",
-          "origin": "凤凰科技",
-          "time": 1785634636
-        },
-        {
-          "link": "https://www.cnbeta.com.tw/articles/tech/1571316.htm",
-          "title": "OpenAI下一代模型Astra：10项开放问题新突破 成本2000美元",
-          "origin": "cnBeta",
-          "time": 1785636780
-        }
-      ],
-      "summary": "OpenAI近期公布其下一代内部模型Astra在数学领域取得重大突破，一次性解决了十项长期未解的开放难题，涵盖高维几何、编码理论、群论、算术电路复杂度、量子复杂性、格密码学和极值组合学等广泛领域。其中最具代表性的成果包括：构造出首个非sofic群，终结了自1999年由数学家Gromov提出的相关猜想；推翻1982年菲尔兹奖得主Connes的刚性猜想，构造出一族互不同构但生成相同冯·诺依曼代数的群；以及在高维球体堆积问题上首次突破1978年以来的密度上界。这些结果以249页论文形式发布，并附有Lean 4形式化验证证书，确保推理步骤可机器独立检验。据OpenAI称，模型生成所有解法消耗的算力按API价格计算不足2000美元，"
-    },
-    {
-      "title": "包钢板材厂爆炸事故调查报告公布，62人被追责问责",
-      "tags": [
-        "爆炸事故",
-        "责任追究",
-        "生产安全",
-        "调查报告"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTI0pjMvM3x2mJTlDGodICI260802.shtml",
-          "title": "包钢板材厂爆炸事故调查报告公布",
+          "link": "https://news.cctv.com/2026/08/03/ARTI4bEuAHPPzhH3y9KSnXRd260803.shtml",
+          "title": "特朗普称美伊3日将举行谈判",
           "origin": "CCTV",
-          "time": 1785636466
+          "time": 1785712284
         },
         {
-          "link": "https://politics.gmw.cn/2026-08/02/content_38922583.htm",
-          "title": "包钢板材厂爆炸事故调查报告公布",
-          "origin": "光明网",
-          "time": 1785646531
-        },
-        {
-          "link": "http://www.chinanews.com//sh/2026/08-02/10670732.shtml",
-          "title": "包钢板材厂爆炸事故调查报告公布",
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670978.shtml",
+          "title": "特朗普称美伊3日将举行谈判",
           "origin": "中新网",
-          "time": 1785636120
+          "time": 1785710160
         },
         {
-          "link": "https://www.tmtpost.com/nictation/8088351.html",
-          "title": "包钢板材厂爆炸事故调查报告公布",
+          "link": "https://www.news.cn/world/20260803/6513c69d5eaa4c3fa8f01ac805180cbc/c.html",
+          "title": "特朗普称美伊3日举行谈判",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://database.caixin.com/2026-08-03/102470704.html",
+          "title": "特朗普取消袭击伊朗计划 称谈判将于周一开始",
+          "origin": "财新",
+          "time": 1785717650000
+        },
+        {
+          "link": "https://www.jiemian.com/article/14862363.html",
+          "title": "反转，特朗普称同意取消打击伊朗",
+          "origin": "界面新闻",
+          "time": 1785715614
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "title": "接连反转，特朗普透露三个信息",
+          "origin": "凤凰网",
+          "time": 1785714660
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHU3Votkzf",
+          "title": "以媒：内塔尼亚胡通过特朗普社媒得知美取消对伊打击",
+          "origin": "凤凰网",
+          "time": 1785713760
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vH4dcp8CAM",
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "origin": "凤凰网",
+          "time": 1785697740
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikypev6377125.shtml",
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "origin": "新浪新闻",
+          "time": 1785709446
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/03/AP6a6fd40de4b0c1e500234e95.html",
+          "title": "特朗普称今日与伊朗谈判　以色列自曝被盟友抛弃",
+          "origin": "文汇网",
+          "time": 1785713755
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670989.shtml",
+          "title": "特朗普称3日与伊朗谈判 以色列自曝被盟友抛弃",
+          "origin": "中新网",
+          "time": 1785714420
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-03/doc-inikytnt6318016.shtml",
+          "title": "特朗普称3日与伊朗谈判 以色列自曝被盟友抛弃",
+          "origin": "新浪新闻",
+          "time": 1785713387
+        }
+      ],
+      "summary": "美国总统特朗普8月2日表示，认为霍尔木兹海峡已有协议，无核化也将达成协议，美伊谈判将于美东时间3日下午开始。此前美国态度出现反复，8月1日还称要对伊朗发动迄今最猛烈的轰炸，8月2日却同意取消对伊打击，特朗普临阵收兵，并称以色列也加入了他的承诺。然而多名以色列官员透露，在美国取消针对伊朗的既定袭击计划前，以色列作为计划参与方，被排除在决策信息之外长达数小时，以总理内塔尼亚胡等人均是通过特朗普在社交媒体上的发文才得知美方叫停行动。分析认为，以色列已成为美国对伊谈判的一张牌，伊朗已找到直接触动美国利益关切的方式，以色列对美国决策的影响力正被稀释。"
+    },
+    {
+      "title": "美日联合干预日元汇率，日本证实为15年来首次",
+      "tags": [
+        "日元汇率",
+        "美日联合干预",
+        "外汇市场",
+        "国际金融"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SdaPqI7tjB",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年，当时担忧日本金融危机扩散",
+          "origin": "环球网",
+          "time": 1785697649
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-03/doc-inikytnz2970652.shtml",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年，当时担忧日本金融危机扩散",
+          "origin": "新浪新闻",
+          "time": 1785712587
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHT4t7Augr",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年",
+          "origin": "凤凰网",
+          "time": 1785697620
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikyxuv6111690.shtml",
+          "title": "日本证实15年来首次与美国联手干预日元 交易员高度警惕更多干预风险",
+          "origin": "新浪新闻",
+          "time": 1785717395
+        },
+        {
+          "link": "https://database.caixin.com/2026-08-03/102470706.html",
+          "title": "日本证实15年来首次与美国联手干预日元",
+          "origin": "财新",
+          "time": 1785718400000
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnt6335618.shtml",
+          "title": "特朗普证实美日联合干预日元汇率，再提珍珠港",
+          "origin": "新浪新闻",
+          "time": 1785714299
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088701.html",
+          "title": "特朗普证实美日联合干预日元汇率，再提珍珠港",
           "origin": "钛媒体",
-          "time": 1785636180
+          "time": 1785715500
         },
         {
-          "link": "https://www.huanqiu.com/article/4SczoDj14cv",
-          "title": "包钢板材厂爆炸事故调查报告公布",
-          "origin": "环球网",
-          "time": 1785636178
+          "link": "https://www.tmtpost.com/nictation/8088685.html",
+          "title": "美国财长贝森特：将毫不犹豫地进行更多日元联合干预",
+          "origin": "钛媒体",
+          "time": 1785713940
         },
         {
-          "link": "http://www.chinanews.com//gn/2026/08-02/10670793.shtml",
-          "title": "包钢板材厂爆炸事故调查报告公布：62人被追责问责",
-          "origin": "中新网",
-          "time": 1785647940
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vFzClQhQ4j",
-          "title": "包钢板材厂爆炸事故62人被追责问责",
-          "origin": "凤凰网",
-          "time": 1785636000
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikytnt6320285.shtml",
+          "title": "贝森特：将毫不犹豫地进行更多日元联合干预",
+          "origin": "新浪新闻",
+          "time": 1785712284
         }
       ],
       "summary": ""
     },
     {
-      "title": "伊朗外长警告美国不要采取冒险行动，外交部称继续抵抗直至消除威胁",
+      "title": "四川宜宾高县发生4.8级地震，暂无人员伤亡报告",
       "tags": [
-        "伊朗外交",
-        "美国威胁",
-        "中东紧张",
-        "外交警告"
+        "四川",
+        "地震",
+        "自然灾害"
       ],
       "links": [
         {
-          "link": "https://news.ifeng.com/c/8vFYksJDPFP",
-          "title": "伊朗外长警告美国，不要采取冒险行动",
-          "origin": "凤凰网",
-          "time": 1785621120
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIYT2RwQti0aXFrWrFwbMl260802.shtml",
-          "title": "伊朗外长警告美国不要采取冒险行动",
-          "origin": "CCTV",
-          "time": 1785628084
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6ea75fe4b0c1e5002334a9.html",
-          "title": "伊朗外长警告美国不要採取冒险行动",
-          "origin": "文汇网",
-          "time": 1785639932
-        },
-        {
-          "link": "https://www.news.cn/world/20260802/cb098e764af742c296bb30123847c997/c.html",
-          "title": "伊朗警告美国不要采取冒险行动",
-          "origin": "新华网",
-          "time": 1785600000
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIksSy1ZmdHsVYnSm9mvgY260802.shtml",
-          "title": "伊朗外交部：将继续抵抗直至消除敌人威胁",
-          "origin": "CCTV",
-          "time": 1785623157
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4ScsbyNSrQi",
-          "title": "伊朗外交部：将继续抵抗直至消除敌人威胁",
-          "origin": "环球网",
-          "time": 1785624091
-        }
-      ],
-      "summary": ""
-    },
-    {
-      "title": "俄罗斯莫斯科餐厅爆炸致伤亡，官方披露事发经过",
-      "tags": [
-        "莫斯科爆炸",
-        "袭击事件",
-        "官方通报",
-        "伤亡情况"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIxHhaLEC5AA8OIWwSnJm2260802.shtml",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "CCTV",
-          "time": 1785623208
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/08-02/10670682.shtml",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "中新网",
-          "time": 1785623760
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4ScseMwszcf",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "origin": "环球网",
-          "time": 1785624156
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6e809be4b0c1e500232ff0.html",
-          "title": "莫斯科餐厅爆炸已致3死21伤　俄称系自制炸弹袭击",
-          "origin": "文汇网",
-          "time": 1785629127
-        },
-        {
-          "link": "https://3g.china.com/act/news/1000/20260802/49648566.html",
-          "title": "莫斯科市中心爆炸已致3死21伤 官方披露事发经过",
-          "origin": "中国网",
-          "time": 1785631785
-        },
-        {
-          "link": "https://www.huanqiu.com/article/4Sctnl7f6UL",
-          "title": "莫斯科市中心爆炸已致3死21伤 官方披露事发经过",
-          "origin": "环球网",
-          "time": 1785626090
-        }
-      ],
-      "summary": "当地时间8月1日，俄罗斯莫斯科市中心一家餐厅发生爆炸，截至次日已造成3人死亡、21人受伤。俄罗斯国家反恐委员会通报称，该事件系自制爆炸装置引爆所致。一名女子企图携带自制爆炸装置闯入餐厅，遭到餐厅保安阻拦，随后爆炸装置启动，该女子和保安当场死亡。目前官方尚未公布更多细节，相关调查仍在进行中。"
-    },
-    {
-      "title": "小米多款手机涨价300元起，涵盖小米17系列和REDMI K90",
-      "tags": [
-        "小米手机",
-        "涨价",
-        "小米17",
-        "REDMI K90"
-      ],
-      "links": [
-        {
-          "link": "https://www.nbd.com.cn/articles/2026-08-02/4529462.html",
-          "title": "小米多款手机涨价，有旗舰机型上涨500元，店员：昨晚接到调价通知",
-          "origin": "每经网",
-          "time": 1785650801
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1140/1140793.htm",
-          "title": "300元起 小米多款手机涨价，店员：昨晚就接到了调价通知",
-          "origin": "快科技",
-          "time": 1785665580
-        },
-        {
-          "link": "https://www.stcn.com/article/detail/4053959.html",
-          "title": "小米手机涨价冲上热搜，昨晚接到调价通知，旗舰机型涨500元",
-          "origin": "证券时报",
-          "time": 1785646560
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8vG3MK0DYyU",
-          "title": "小米旗下主力机型全线涨价：最大涨幅500元",
-          "origin": "凤凰科技",
-          "time": 1785635820
-        },
-        {
-          "link": "https://www.chinaz.com/2026/0802/1768522.shtml",
-          "title": "涨幅、涉及机型一览，小米手机正式涨价300元起：涵盖小米17系列、REDMI K90等",
-          "origin": "站长之家",
-          "time": 1785651862
-        },
-        {
-          "link": "https://tech.ifeng.com/c/8vFJtmzQbAV",
-          "title": "涨幅、涉及机型一览，小米手机正式涨价300元起：涵盖小米17系列、REDMI K90等",
-          "origin": "凤凰科技",
-          "time": 1785602620
-        }
-      ],
-      "summary": "小米多款在售主力机型于2026年8月2日起正式涨价，涨幅均为300元起步，范围覆盖小米17系列、REDMI K90全产品线及Turbo 5等热门机型。具体来看，REDMI Turbo 5从2299元起涨至2599元起，Turbo 5 Max从2499元起涨至2799元起；REDMI K90从2799元起涨至3099元起，K90 Max从3199元起涨至3499元起，K90 Pro Max从4199元起涨至4499元起，K90至尊版从2999元起涨至3299元起；小米17从4499元起涨至4799元起，小米17 Pro从4999元起涨至5399元起，小米17 Pro Max从5999元起"
-    },
-    {
-      "title": "日本熊本县地震已造成38人死亡，救援持续进行",
-      "tags": [
-        "日本地震",
-        "熊本县",
-        "人员伤亡",
-        "灾害救援"
-      ],
-      "links": [
-        {
-          "link": "https://www.news.cn/world/20260802/dc661901869f4a6ca60722a950c46325/c.html",
-          "title": "日本熊本县地震已造成38人死亡",
-          "origin": "新华网",
-          "time": 1785600000
-        },
-        {
-          "link": "http://www.chinanews.com//gj/2026/08-02/10670714.shtml",
-          "title": "日本熊本县地震已造成38人死亡",
-          "origin": "中新网",
-          "time": 1785633060
-        },
-        {
-          "link": "https://www.wenweipo.com/a/202608/02/AP6a6ea712e4b0c1e50023346d.html",
-          "title": "日本熊本县地震已造成38人死亡",
-          "origin": "文汇网",
-          "time": 1785639932
-        },
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTIgdHwqBkNDfTMMQVy8pF4260802.shtml",
-          "title": "日本熊本县地震已致38人死亡",
-          "origin": "CCTV",
-          "time": 1785633191
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vFvsgNWGTK",
-          "title": "日本熊本县地震已致38人死亡",
-          "origin": "凤凰网",
-          "time": 1785632460
-        }
-      ],
-      "summary": "日本熊本县灾害对策总部8月2日上午通报，该县地震造成的死亡人数已升至38人。据中国地震台网正式测定，当地时间7月28日16时27分，日本九州岛发生6.8级地震，震源深度10公里。熊本县政府表示，相关遇难者统计包括正在进行关联性调查的死者。目前救援工作仍在持续进行。"
-    },
-    {
-      "title": "甘肃渭源县山洪致25死，国家防减救灾委挂牌督办",
-      "tags": [
-        "山洪灾害",
-        "挂牌督办",
-        "渭源县",
-        "灾害评估"
-      ],
-      "links": [
-        {
-          "link": "https://www.bjnews.com.cn/detail-1785639577129273.html",
-          "title": "甘肃渭源县重大山洪灾害已致25死23伤 国家防减救灾委挂牌督办",
-          "origin": "新京报",
-          "time": 1785639828
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vG3old8IBW",
-          "title": "甘肃渭源县山洪致25死，国家防减救灾委挂牌督办",
-          "origin": "凤凰网",
-          "time": 1785639600
-        },
-        {
-          "link": "https://www.stdaily.com/web/gdxw/2026-08/02/content_557844.html",
-          "title": "国家防减救灾委挂牌督办渭源重大山洪灾害调查评估",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/03/content_558168.html",
+          "title": "四川宜宾高县发生4.8级地震  中国地震局启动四级应急响应",
           "origin": "科技日报",
-          "time": 1785648845
+          "time": 1785714829
         },
         {
-          "link": "http://news.china.com.cn/2026-08/02/content_118629894.shtml",
-          "title": "国家防减救灾委挂牌督办渭源重大山洪灾害调查评估",
-          "origin": "中国网",
-          "time": 1785664539
-        }
-      ],
-      "summary": "甘肃渭源县重大山洪灾害已造成25人死亡、23人受伤。2026年7月26日，甘肃省定西市渭源县会川镇罗家磨村双石门沟区域突发短时强降雨，引发山洪灾害。根据《自然灾害调查评估暂行办法》有关规定，国家防灾减灾救灾委员会对该起灾害调查评估实施挂牌督办，要求甘肃省人民政府依照有关法律法规及规章规定，及时组织开展灾害调查评估，推动提高防灾减灾救灾能力，切实维护人民群众生命财产安全。"
-    },
-    {
-      "title": "中国跨境电商从卖产品转向拥有品牌议价权和定价权，破壁寻新机",
-      "tags": [
-        "跨境电商",
-        "品牌议价权",
-        "中国制造",
-        "国际贸易"
-      ],
-      "links": [
-        {
-          "link": "https://news.cctv.com/2026/08/02/ARTID4H25M926BqU28kFzosg260802.shtml",
-          "title": "破壁而立，寻新机， 中国跨境电商从卖产品转向拥有品牌议价权和定价权",
-          "origin": "CCTV",
-          "time": 1785662787
-        },
-        {
-          "link": "http://news.china.com.cn/2026-08/02/content_118630168.shtml",
-          "title": "破壁而立，寻新机， 中国跨境电商从卖产品转向拥有品牌议价权和定价权",
-          "origin": "中国网",
-          "time": 1785682529
-        },
-        {
-          "link": "http://www.chinanews.com//cj/2026/08-02/10670951.shtml",
-          "title": "破壁而立，寻新机， 中国跨境电商从卖产品转向拥有品牌议价权和定价权",
+          "link": "http://www.chinanews.com//sh/2026/08-03/10670962.shtml",
+          "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
           "origin": "中新网",
-          "time": 1785678480
+          "time": 1785704520
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SdkECnUifu",
+          "title": "四川宜宾高县发生4.8级地震，多地震感明显",
+          "origin": "环球网",
+          "time": 1785714126
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SdkZYk9C7U",
+          "title": "四川宜宾高县4.8级地震 暂未接到人员伤亡报告",
+          "origin": "环球网",
+          "time": 1785714705
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-08/03/content_38923086.htm",
+          "title": "四川宜宾高县4.8级地震 暂未接到人员伤亡报告",
+          "origin": "光明网",
+          "time": 1785718524
         }
       ],
-      "summary": "欧盟自2026年7月1日起正式取消150欧元以下进口包裹免税政策，两年过渡期内对所有入境小包裹按件征收3欧元临时统一关税，并与原有增值税叠加征收。延续多年的免税红利终结后，中国跨境电商低价直邮模式"
+      "summary": "据中国地震台网正式测定，2026年8月3日2时21分，四川宜宾市高县（北纬28.54度，东经104.67度）发生4.8级地震，震源深度6公里。地震发生时，宜宾、泸州、成都等地震感明显，高县县城震感强烈，部分群众家中监控记录了地震瞬间。地震发生后，中国地震局迅速启动四级应急响应，调度中国地震台网中心、四川省地震局开展应急处置，要求加强震情监测和震后趋势研判。四川省地震局已派出现场工作队赶赴震区，协助地方政府开展应急处置工作。截至报道时，暂未接获人员伤亡和房屋垮塌报告，震中电力、通信、交通均正常，高县、珙县等地正集中排查灾险情。"
     },
     {
-      "title": "微信地震预警功能上新，支持震感汇聚与位置更新",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡",
       "tags": [
-        "微信",
-        "地震预警",
-        "功能更新",
-        "科技应用"
+        "巴基斯坦",
+        "爆炸",
+        "恐怖主义"
       ],
       "links": [
         {
-          "link": "https://news.zol.com.cn/1224/12247164.html",
-          "title": "中国地震台网小程序上线震感上报与位置更新双新功能",
-          "origin": "zol",
-          "time": 1785643200
+          "link": "https://news.cctv.com/2026/08/03/ARTI0mSFnKK0aC3nUJ8LhCZ0260803.shtml",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "CCTV",
+          "time": 1785709623
         },
         {
-          "link": "https://m.ithome.com/html/984663.htm",
-          "title": "微信地震预警功能上新，支持震感汇聚与位置更新",
-          "origin": "IT之家",
-          "time": 1785632622
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670974.shtml",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "中新网",
+          "time": 1785706620
         },
         {
-          "link": "https://news.zol.com.cn/1224/12247017.html",
-          "title": "微信地震预警上线震感汇聚与位置更新双新功能",
-          "origin": "zol",
-          "time": 1785638400
+          "link": "https://www.news.cn/world/20260803/1bbd8b52cbef45f6820538fa222f6a95/c.html",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154448&sid=21",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "上观",
+          "time": 1785717022
         }
       ],
       "summary": ""
     },
     {
-      "title": "巴西总统卢拉已登记为总统候选人，参加下届选举",
+      "title": "阿斯利康与百时美施贵宝洽谈合并，或缔造4000亿美元大药厂",
       "tags": [
-        "巴西",
-        "卢拉",
-        "总统候选人",
-        "选举"
+        "阿斯利康",
+        "百时美施贵宝",
+        "医药并购"
       ],
       "links": [
         {
-          "link": "https://news.cctv.com/2026/08/02/ARTIfw0HxPppDOL1tBP9BPIR260802.shtml",
-          "title": "巴西总统卢拉已在高等选举法院登记为总统候选人",
-          "origin": "CCTV",
-          "time": 1785678396
-        },
-        {
-          "link": "https://www.news.cn/world/20260802/7f021f51bdac45c19bf90369a8fb2f69/c.html",
-          "title": "巴西总统卢拉已在高等选举法院登记为总统候选人",
-          "origin": "新华网",
-          "time": 1785600000
-        },
-        {
-          "link": "https://news.ifeng.com/c/8vGlogM0wKp",
-          "title": "卢拉已在高等选举法院登记为总统候选人",
-          "origin": "凤凰网",
-          "time": 1785677940
-        }
-      ],
-      "summary": "巴西总统卢拉已在巴西高等选举法院正式登记为该国劳工党总统候选人，参加下届总统选举。这一消息由巴西劳工党主席埃迪尼奥·席尔瓦于2026年8月2日在劳工党全国代表大会开始前向媒体公布。据新华社里约热内卢8月2日电报道，席尔瓦确认了卢拉的候选人资格登记事宜。此次登记标志着卢拉将代表劳工党正式角逐下届巴西总统职位。"
-    },
-    {
-      "title": "SpaceX上市后首次财报电话会将至，散户投资者问题五花八门",
-      "tags": [
-        "SpaceX",
-        "财报电话会",
-        "散户投资者",
-        "科技金融"
-      ],
-      "links": [
-        {
-          "link": "https://m.ithome.com/html/984706.htm",
-          "title": "SpaceX 上市后首次财报电话会将至，散户投资者问题五花八门",
-          "origin": "IT之家",
-          "time": 1785641487
-        },
-        {
-          "link": "https://news.mydrivers.com/1/1140/1140785.htm",
-          "title": "SpaceX上市后首次财报电话会将至：散户投资者问题五花八门",
-          "origin": "快科技",
-          "time": 1785658860
-        }
-      ],
-      "summary": "SpaceX将于近期召开上市后首次财报电话会议，预计重点围绕人工智能投入及星链卫星通信网络的利润展开。但许多散户投资者更关注其他话题。SpaceX效仿特斯拉开设了在线投资者提问平台，股东可提交问题并投票排序。\n\n在已提交的问题中，最受关注的是要求公布星舰人类着陆系统的更多画面，该飞行器计划明年执行NASA阿尔忒弥斯载人登月任务。投资者还询问柴犬吉祥物Asteroid未来是否会在教育、儿童慈善及公众推广中承担更重要的角色，以及新一代星舰轨道加注燃料测试时间、助推器和上级飞船同步捕获回收的进度，甚至有人提问能否将火箭涂成粉色，或出售隔热瓦冠名权让粉丝名字随火箭进入太空。\n\n这些提问出现在SpaceX为IPO预留约30%股份给散户投资者"
-    },
-    {
-      "title": "美日韩联合干预汇市，美财政部罕见下场，贝森特被指悄悄救市",
-      "tags": [
-        "美日韩干预",
-        "汇市",
-        "财政部",
-        "金融稳定"
-      ],
-      "links": [
-        {
-          "link": "https://wallstreetcn.com/articles/3778503",
-          "title": "被忽略的市场大事：美日韩联合干预，美国财政部罕见下场，贝森特悄悄救市？",
-          "origin": "华尔街见闻",
-          "time": 1785649462
-        },
-        {
-          "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-02/doc-inikxrzc5082756.shtml",
-          "title": "贝森特悄悄救市？被忽略的大事：美日韩联合干预，美财政部罕见下场",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikytnt6347898.shtml",
+          "title": "消息人士：阿斯利康与百时美施贵宝就一笔4000亿美元的巨额交易进行了磋商",
           "origin": "新浪新闻",
-          "time": 1785678988
+          "time": 1785715439
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088676.html",
+          "title": "阿斯利康据悉正与百时美施贵宝就4000亿美元超级并购案进行谈判",
+          "origin": "钛媒体",
+          "time": 1785713340
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778527",
+          "title": "4000亿美元大药厂世纪联姻，阿斯利康与百时美施贵宝洽谈合并",
+          "origin": "华尔街见闻",
+          "time": 1785715699
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikytnr4728797.shtml",
+          "title": "阿斯利康正就4000亿美元巨额交易与百时美施贵宝展开谈判",
+          "origin": "新浪新闻",
+          "time": 1785713677
         }
       ],
-      "summary": "美国、日本和韩国本周联手实施近三十年来最大规模的协调外汇干预，重点应对日元和韩元贬值压力。此次行动也被视为美国稳定日韩盟友"
+      "summary": "据知情人士透露，英国制药巨头阿斯利康与美国竞争对手百时美施贵宝已就潜在合并事宜进行初步磋商，若交易达成，将缔造一家总市值接近4000亿美元的全球最大制药公司之一。消息人士表示，目前尚不确定交易能否最终落地，但两家企业过去数月一直在洽谈合并事宜，若完成合并，将成为史上规模最大的并购交易之一。\n\n该匿名人士指出，潜在合并面临监管风险，外界担忧在特朗普总统领导下的美国反垄断机构将如何评估这笔交易。特朗普一直致力于推动制药行业在美国的国内投资并扩大制造业规模。尽管阿斯利康去年公布了在美国直接上市的计划，旨在利用美国市场更高的估值，但此类交易意味着总部位于英国的公司实际上将收购一家美国制药巨头。\n\n在首席执行官帕斯卡尔·索里奥特掌舵的14年间，阿斯利康股价涨幅超过三倍，大幅跑赢富时100指数及英国主要竞争对手葛兰素史克。阿斯利康上周发布的第二季度财报显示，抗癌药与罕见病药物需求旺盛，持续拉动业绩增长。2025年抗肿瘤药物销售额约250亿美元，"
+    },
+    {
+      "title": "伊朗正与阿曼讨论划定霍尔木兹海峡新航线",
+      "tags": [
+        "伊朗",
+        "阿曼",
+        "霍尔木兹海峡",
+        "航运"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670987.shtml",
+          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "中新网",
+          "time": 1785714180
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sdk7GxGfRb",
+          "title": "伊朗：正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "环球网",
+          "time": 1785713938
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/03/AP6a6fde71e4b0c1e500234f41.html",
+          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "文汇网",
+          "time": 1785716426
+        }
+      ],
+      "summary": "伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。巴加埃称，即使伊阿双方就新航线达成谅解，也不意味着霍尔木兹海峡将开放或关闭。他同时强调，伊阿相关对话属于双边事务，与任何第三方无关。此外，巴加埃还透露，过去24小时内，英国、保加利亚和乌克兰方面多次联系伊朗，表示不会参与针对伊朗的战争。"
+    },
+    {
+      "title": "华为千元机升级鸿蒙7并深度适配，功能体验对标高端旗舰",
+      "tags": [
+        "华为",
+        "鸿蒙7",
+        "千元机",
+        "智能手机"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140831.htm",
+          "title": "华为千元机重磅升级：鸿蒙7深度适配 功能体验媲美高端旗舰",
+          "origin": "快科技",
+          "time": 1785712800
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0803/1768599.shtml",
+          "title": "华为千元机重磅升级：鸿蒙7深度适配 功能体验媲美高端旗舰",
+          "origin": "站长之家",
+          "time": 1785717325
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHT4t7Aurd",
+          "title": "华为千元机重磅升级：鸿蒙7深度适配 功能体验媲美高端旗舰",
+          "origin": "凤凰科技",
+          "time": 1785712858
+        }
+      ],
+      "summary": "华为鸿蒙7系统正加速向千元机机型适配，此前仅高端机型独享的部分功能将逐步下放至千元档设备。鸿蒙7已开启Beta版报名，适配机型包含畅享90系列，用户可通过升级尝鲜入口参与测试。该系统在2026年华为开发者大会首次亮相，核心突破在于方舟引擎引入鸿蒙性能大模型，通过AI动态优化实现系统资源精细分配，从被动响应转为主动供给。其内核级端侧AI可理解用户意图并预判操作，实现个性化流畅体验。具体优化包括：学习用户习惯后，个人高频应用流畅度较鸿蒙6提升22%；应用跳转速度提升25%；通勤打卡等固定场景启动速度提升22%。内存管理方面，方舟内存引擎与大模型协同进行优先级判别，重点应用保活率提升34%，系统应用启动速度提升24%，支付宝、美团等第三方应用启动速度提升34%。方舟多媒体引擎还推出FAST Kit套件，多图"
+    },
+    {
+      "title": "米哈游回应创作者被拖欠酬劳，已终止合作并永久拉黑",
+      "tags": [
+        "米哈游",
+        "创作者",
+        "维权"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-08-03/doc-inikyxup4655123.shtml",
+          "title": "米哈游回应创作者酬劳被拖欠：系合作商未按约结算、已永久拉黑终止合作，将持续跟进创作者后续诉求",
+          "origin": "新浪新闻",
+          "time": 1785719095
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHPJI0FDRG",
+          "title": "米哈游回应创作者被拖欠酬劳：已终止合作并永久拉黑 全力助创作者维权",
+          "origin": "凤凰科技",
+          "time": 1785711122
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140825.htm",
+          "title": "米哈游回应创作者被拖欠酬劳：已终止合作并永久拉黑",
+          "origin": "快科技",
+          "time": 1785711120
+        }
+      ],
+      "summary": "米哈游官方近日就创作者酬劳被拖欠一事作出回应。近期，米哈游陆续收到部分创作者反映，其通过云南昊曦文化传媒有限公司承接的合作款项未能按约收到。米哈游表示高度重视，已第一时间建立专项沟通渠道，并与百余位受影响创作者取得联系。经核查，米哈游与云南昊曦之间的合作款项已按合同约定及履约进度完成结算。米哈游此前已致函云南昊曦，要求其尽快处理与创作者的报酬纠纷，但对方在收到律师函后未采取任何解决措施，也未积极沟通。米哈游认为该行为严重损害了创作者合法权益，并伤害了双方信任。目前，米哈游已终止与云南昊曦的合作，将其永久列入《米哈游黑名单合作方清单》。米哈游表示将继续支持创作者依法维权，并积极配合司法机关提供必要材料与协助。对于尚未与米哈游取得联系的受影响创作者，可通过米游社或游戏内官方客服联系，米哈游承诺在5个工作日内安排专人对接，并严格保护个人信息。"
+    },
+    {
+      "title": "以军空袭加沙致18人死亡",
+      "tags": [
+        "以色列",
+        "加沙",
+        "空袭",
+        "巴以冲突"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260803/6d06c2a3806a4bc6b7b631542ab3e5c9/c.html",
+          "title": "以军空袭加沙致18人死亡",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154447&sid=21",
+          "title": "以军空袭加沙致18人死亡",
+          "origin": "上观",
+          "time": 1785716971
+        }
+      ],
+      "summary": "巴勒斯坦加沙地带民防部门发言人马哈茂德·巴萨勒2日发表视频声明说，以军无人机当天袭击加沙地带多地，造成至少18人死亡，其中包括2名妇女和4名儿童。巴萨勒说，以军空袭目标包括居民公寓、安置流离失所者的帐篷、民用车辆以及居民集会场所。最近一次袭击发生在当天傍晚，一架以色列无人机向加沙城一辆民用车辆发射两枚导弹，造成4人死亡；以军还在加沙城西部空袭一处帐篷，造成两人死亡，其中包括一名13岁儿童，另有8人受伤。当天下午早些时候，以军空袭加沙地带中部城市代尔拜拉赫一辆吉普车，致两人死亡；以军还对加沙地带北部杰巴利耶难民营附近人群发动空袭，造成1人死亡，多人受伤。在当天另一份声明中，巴萨勒表示，以军对加沙城、汗尤尼斯市和代尔"
+    },
+    {
+      "title": "SK批准向斗山出售SK siltron多数股份，全球第三大12英寸硅晶圆制造商易主",
+      "tags": [
+        "SK",
+        "斗山",
+        "硅晶圆",
+        "半导体",
+        "并购"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/984853.htm",
+          "title": "全球第三大 12 英寸硅晶圆制造商将易主：SK 批准向斗山出售 SK siltron 多数股份",
+          "origin": "IT之家",
+          "time": 1785717502
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHYp2Ufxod",
+          "title": "全球第三大12英寸硅晶圆制造商将易主：SK批准向斗山出售SK siltron多数股份",
+          "origin": "凤凰科技",
+          "time": 1785718797
+        }
+      ],
+      "summary": "SK集团董事会于韩国当地时间7月31日批准向斗山集团出售半导体晶圆制造商SK siltron的70.6%股份，交易价值约2.3万亿韩元，现汇率约合108.91亿元人民币。SK siltron在全球12英寸硅晶圆市场占据第三大份额，该企业于2017年加入SK集团，剩余29.4%股份由SK集团会长崔泰源个人持有，预计斗山集团也将收购这部分股份。SK集团表示，此次股份转让旨在筹集资金，以增强财务稳健性并确保未来增长动力。据韩媒报道，斗山集团将支付总价的10%作为首付款，双方还达成一系列与SK siltron业绩挂钩的额外财务条款，包括超额利润返还、碳化硅业务清算超额收益分配以及客户项目取得激励。"
+    },
+    {
+      "title": "日本发生国内首例电动大巴起火，涉事车辆电池为韩国制造",
+      "tags": [
+        "电动大巴",
+        "火灾",
+        "日本",
+        "韩国电池"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vHV3ihqOb7",
+          "title": "日本国内首例电动大巴起火，涉事车辆为本土品牌五十铃、电池韩国造",
+          "origin": "凤凰科技",
+          "time": 1785715123
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140840.htm",
+          "title": "日本国内首例电动大巴起火，涉事车为本土品牌、电池韩国造",
+          "origin": "快科技",
+          "time": 1785715080
+        }
+      ],
+      "summary": "7月31日正午，日本大阪市住之江区一辆五十铃纯电动巴士在行驶中突发起火，车顶前部燃烧剧烈，浓烟冲天。事发车辆为Erga EV车型，属于大阪燃气集团关联公司的员工通勤用车。司机发现异常后停车，车上仅司机一人，未造成人员伤亡。这是日本国内首例电动巴士火灾事故，起火原因仍在调查中。\n\n涉事车辆的电池供应商为韩国LG新能源，而非日本本土的松下或村田。公开资料显示，LG新能源自2022年起向五十铃供应三元锂电池。此前在2021年前后，LG新能源三元锂电池曾接连引发起火事故，通用汽车因此召回14.3万辆雪佛兰Bolt EV，LG为此赔偿约19亿美元"
+    },
+    {
+      "title": "北大研制首款毫秒级神经动力学芯片，单步运算仅需2.12毫秒",
+      "tags": [
+        "北京大学",
+        "神经形态芯片",
+        "芯片",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vHS3FKewQg",
+          "title": "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒",
+          "origin": "凤凰科技",
+          "time": 1785711600
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140827.htm",
+          "title": "北大研制首款毫秒级神经动力学芯片：单步运算仅2.12毫秒",
+          "origin": "快科技",
+          "time": 1785711600
+        }
+      ],
+      "summary": "北京大学集成电路学院杨玉超教授团队与中国科学院联合研制出全球首款基于相变忆阻器的毫秒级神经动力学系统芯片，首次将神经动力学硬件系统的单步运算时间压缩至2.12毫秒，实现了类人脑级别的高速、高精度运算。该成果为脑机接口、脑疾病早筛及个性化诊疗等领域开辟了全新技术路径。\n\n人脑是最复杂的动力学系统之一，脑机接口实时解析神经状态、医学影像重建脑皮层均需对连续神经形态与动态过程进行快速建模。科研人员将神经网络与微分方程结合构建神经动力学系统，但长期受困于存储墙瓶颈，即海量数据在存储器和处理器间频繁搬运导致延迟和能耗过高。杨玉超团队提出基于相变型忆阻器的可控存内计算新范式，使数据无需搬运即可原位高效处理，相比主流先进芯片运算性能大幅跃升，功耗显著降低，满足高"
+    },
+    {
+      "title": "联发科首度确认ASIC项目采用英特尔EMIB封装",
+      "tags": [
+        "联发科",
+        "英特尔",
+        "ASIC",
+        "EMIB",
+        "先进封装"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140835.htm",
+          "title": "双轨并行，联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+          "origin": "快科技",
+          "time": 1785714540
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHU3Votl7D",
+          "title": "双轨并行，联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+          "origin": "凤凰科技",
+          "time": 1785714596
+        }
+      ],
+      "summary": "联发科在近日举行的业绩说明会上首次公开确认，其ASIC（专用集成电路）项目已采用英特尔EMIB-T先进封装技术。联发科CEO蔡力行给出了比此前更清晰的定位：联发科作为数据中心客户的重要合作伙伴，正通过与台积电深度协同的设计优化，以及与主要先进封装厂商的紧密配合，结合自身在2纳米等先进制程设计上的积累和架构工程能力，帮助客户基于CoWoS与EMIB-T两种技术路径，开发各类超大芯片尺寸的高性能ASIC产品。\n\n英特尔EMIB属于2.5D封装方案，"
+    },
+    {
+      "title": "DoorDash让骑手为配送机器人装货，每5分钟支付5美元",
+      "tags": [
+        "DoorDash",
+        "外卖配送",
+        "机器人",
+        "零工经济"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/984833.htm",
+          "title": "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
+          "origin": "IT之家",
+          "time": 1785712808
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHNBz7j7XZ",
+          "title": "美外卖平台DoorDash让骑手给配送机器人装货，5分钟支付5美元",
+          "origin": "凤凰科技",
+          "time": 1785710452
+        }
+      ],
+      "summary": "美国外卖平台DoorDash在部分地区试点一项新配送模式，让平台骑手负责将餐厅订单装入配送机器人，机器人再完成后续配送。每单耗时约5分钟，报酬约5美元，约合人民币33.8元。\n\n目前该试点主要在美国亚利桑那州凤凰"
+    },
+    {
+      "title": "苹果被曝研发两款带摄像头的AirPods，其中一款有望今年推出",
+      "tags": [
+        "苹果",
+        "AirPods",
+        "摄像头",
+        "可穿戴设备"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/984825.htm",
+          "title": "消息称苹果正研发两款带摄像头的 AirPods，其中一款有望今年推出",
+          "origin": "IT之家",
+          "time": 1785710828
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHPJcH92U0",
+          "title": "消息称苹果正研发两款带摄像头的AirPods，其中一款有望今年推出",
+          "origin": "凤凰科技",
+          "time": 1785711965
+        }
+      ],
+      "summary": "苹果正在并行研发两款配备摄像头的AirPods产品，这一消息由IT之家援引马克·古尔曼的报道披露。其中，代号为B790的版本开发进度较快，最初计划于今年发布，目前iOS 27代码中已出现相关引用，该产品最快有望在2026年9月正式亮相。另一款代号为B798的版本定位更高阶，原计划2026年发布，现已推迟至2027年推出。两款产品的核心功能均为视觉智能，但具体区别尚不明确，也不确定最终是否都会上市。据悉，为了容纳摄像头模组，新款耳机的耳机柄会比AirPods Pro略长，并配备LED指示灯以提示设备向云端传输数据。苹果内部经常并行开发多个方案并让其竞争，此次曝光的两款产品即属于此类情况。目前有关设计细节及最终功能仍未完全确定。"
     }
   ]
 }
