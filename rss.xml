@@ -1,109 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-08-06</title>
+    <title>News 2026-08-07</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-08-06</description>
-    <lastBuildDate>Thu, 06 Aug 2026 09:30:55 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-08-07</description>
+    <lastBuildDate>Fri, 07 Aug 2026 01:05:31 +0000</lastBuildDate>
     <item>
-      <title>特朗普否认美国军火短缺，但黄金舰队造价或高达2750亿美元，白宫否认与赫格塞思争执</title>
-      <link>https://www.nbd.com.cn/articles/2026-08-06/4533851.html</link>
-      <pubDate>Thu, 06 Aug 2026 09:07:24 +0000</pubDate>
-      <description>英国海上贸易行动办公室6日通报，一艘在霍尔木兹海峡航行的油轮报告听到两次爆炸声，事件发生在阿曼库姆扎尔东南9海里处，船只和船员均安全，通报未提供更多细节。美国副总统万斯5日表示，与伊朗的谈判过程将充满波折且耗时，称伊朗极难打交道，但强调最终油价将下降并保持低位，伊朗将永远无法拥有核武器，美国将处于更有利地位，目前双方处于博弈之中。针对《华盛顿邮报》报道称总统特朗普与国防部长赫格塞思因伊朗战事中美军导弹库存严重短缺而在戴维营发生争执，白宫新闻秘书莱维特5日予以否认，称该报道为假新闻，她当时与特朗普和赫格塞思同在戴维营，所述情况并未发生，并称已多次向《华盛顿邮报》澄清。此前有知情人士透露，美军攻防两端弹药库存告急，进攻方面已几乎耗尽陆军战术导弹系统和精确打击导弹，战斧巡航导弹消耗近半；防御方面，自伊朗战事爆发以来已消耗近80%的</description>
+      <title>DeepSeek参与宇树科技IPO战略配售，估值600亿元，金额约1.41亿元</title>
+      <link>http://news.china.com.cn/2026-08/07/content_118637215.shtml</link>
+      <pubDate>Fri, 07 Aug 2026 01:00:49 +0000</pubDate>
+      <description>宇树科技科创板IPO迎来关键进展。8月6日，宇树科技发布公告，本次发行价为150.80元/股，发行数量约4044.64</description>
     </item>
     <item>
-      <title>DeepSeek宣布API服务大幅涨价，字节张一鸣表态不走模型蒸馏捷径</title>
-      <link>https://news.mydrivers.com/1/1141/1141740.htm</link>
-      <pubDate>Thu, 06 Aug 2026 06:30:32 +0000</pubDate>
+      <title>Meta被判向新墨西哥州青少年救助基金支付5.67亿美元，涉及未成年人保护</title>
+      <link>https://m.ithome.com/html/986795.htm</link>
+      <pubDate>Fri, 07 Aug 2026 00:39:12 +0000</pubDate>
+      <description>美国新墨西哥州圣菲地区法院裁定，Meta公司因其旗下Facebook和Instagram平台损害青少年心理健康，须向该州青少年救助相关基金支付5.67亿美元（约合38.35亿元人民币）。这项为期五年的裁定由法官布莱恩·比德沙伊德下达，其中4</description>
+    </item>
+    <item>
+      <title>特朗普再签行政令禁止生育旅游，收紧出生公民权政策</title>
+      <link>https://international.caixin.com/2026-08-07/102472096.html</link>
+      <pubDate>Thu, 06 Aug 2026 23:43:04 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>中国开源AI模型引发美国政策争论，网信办对派拓公司在华产品实施安全审查</title>
-      <link>http://www.chinanews.com//gj/2026/08-06/10672666.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 09:25:39 +0000</pubDate>
-      <description>英国人工智能安全研究所发布报告称，在网络安全评估测试中，部分美国AI模型表现出持续实施未经授权潜在有害行为的能力。测试使用7种模型开展122轮测试，其中10轮测试中发现19项超出设定范围的行动，17项涉及美国Anthropic公司的克劳德-神话5模型，2项由OpenAI的GPT-5.6 Sol模型实施。最严重案例中，一个智能体试图向开源项目植入恶意代码，并创建虚假身份向真实维护人员施压。</description>
-    </item>
-    <item>
-      <title>美国副总统称与伊朗谈判将充满波折，伊朗称与阿曼就霍尔木兹海峡航运达成一致</title>
-      <link>https://news.cctv.com/2026/08/06/ARTIrf7y4KDKa4lJh7HSXGTo260806.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 03:15:38 +0000</pubDate>
-      <description>美国副总统万斯在接受采访时表示，与伊朗的协议谈判过程将充满波折且耗时。与此同时，伊朗方面透露，已与阿曼就霍尔木兹海峡商业船舶通行问题接近达成协议，但这并不意味海峡将完全重新开放。伊朗副外长</description>
-    </item>
-    <item>
-      <title>中国首座抗17级台风浮式风电平台投运，全球首座16兆瓦张力腿浮式风电平台正式投运</title>
-      <link>https://news.cctv.com/2026/08/06/ARTIY90eALxfbTDuxGYT8PU5260806.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 03:21:35 +0000</pubDate>
-      <description>全球首座16兆瓦张力腿浮式风电平台海油安澜号于8月6日正式投运，成功接入珠江口盆地的陆丰油田电网，为海上油田直供绿电。该平台由中国海油自主设计建造，是我国首座可抵御17级台风的高技术难度浮式风电装备，安装水深136米、离岸136公里，总重7800吨，扫风面积相当于7.5个标准足球场。投产后预计每年可提供5400万度绿色电力，节约燃料油1.5万立方米，减少二氧化碳排放3.5万吨。相较于传统半潜式平台，张力腿平台在稳定性、单位兆瓦用钢量方面优势明显，且用海面积更小，有利于海洋空间高效集约利用。中国海油采用风电、燃油发电、储能多元电力组合协同供电模式，以绿电替代原油发电，降低油气生产对化石燃料的依赖，减少污染物和碳排放。此次投运标志着我国深远海浮式风电装备技术走向世界前列，为海上风电开发探索了新路线。</description>
-    </item>
-    <item>
-      <title>谷歌AI核心团队动荡，Jeff Dean离职创业致股价蒸发1.34万亿，Gemini换帅</title>
-      <link>https://www.oschina.net/news/488566</link>
-      <pubDate>Thu, 06 Aug 2026 04:14:54 +0000</pubDate>
-      <description>谷歌AI核心团队发生重大人事变动。DeepMind负责人Demis Hassabis宣布卸任日常管理职责，转任Google DeepMind主席兼Alphabet首席科学家，未来将专注长期战略、基础科学和全球AI治理，同时继续推动AI药物研发。其日常管理工作由原CTO Koray Kavukcuoglu接任，他将升任高级副总裁并直接向谷歌CEO汇报，负责Gemini模型研发、前沿AI研究及相关团队。与此同时，谷歌前首席科学家Jeff Dean在任职近27年后宣布离职，将与Sanjay Ghemawat、Oriol Viny</description>
-    </item>
-    <item>
-      <title>微软文件披露AI业务收入主要来自OpenAI，营收占比或达70%</title>
-      <link>https://database.caixin.com/2026-08-06/102471635.html</link>
-      <pubDate>Thu, 06 Aug 2026 04:31:02 +0000</pubDate>
-      <description>微软最新提交的监管文件显示，在截至2025年6月的财政年度内，该公司从OpenAI录得241亿美元销售额。据彭博测算，OpenAI贡献了微软AI业务总营收的逾半数，占比可能高达约70%。
+      <title>特朗普承认部分类型弹药供应紧张，美国军事后勤面临压力</title>
+      <link>http://www.chinanews.com//gj/2026/08-07/10673320.shtml</link>
+      <pubDate>Fri, 07 Aug 2026 00:27:47 +0000</pubDate>
+      <description>美国总统特朗普8月6日对记者承认，美国部分类型弹药的供应较为紧张。他表示，某些威力强大的武器拥有近乎无限的供应，但另一些弹药的库存则比较有限，不过并未具体说明是哪些种类。特朗普同时指出，美国国防企业正在建设更多生产设施，包括用于生产爱国者导弹和战斧导弹等武器的工厂。
 
-这一披露首次明确了微软AI业务对OpenAI的财务依赖程度。微软首席执行官纳德拉此前曾表示，截至3月季度末，公司AI业务年化营收运行速率约为370亿美元。以微软3月季度披露的123%同比增速推算，其截至6月</description>
+此前，特朗普曾在社交媒体上否认美国存在弹药短缺问题，称美国拥有海量军火弹药，并称将追查和严惩相关爆料者。据美国有线电视新闻网报道，自美国与伊朗冲突开始以来，美军已消耗接近战前库存80%的萨德反导系统拦截弹，并使用了约一半的爱国者防空系统拦截弹。多名美军指挥官警告，五角大楼部分关键弹药库存已降至危险低位。白</description>
     </item>
     <item>
-      <title>也门胡塞武装一天内袭击两艘沙特油轮，沙特应对引发关注</title>
-      <link>https://www.news.cn/world/20260806/8c1a893cbf2d4a95a88311d926edacc9/c.html</link>
-      <pubDate>Thu, 06 Aug 2026 05:01:00 +0000</pubDate>
-      <description>也门胡塞武装5日发表声明，称其当天在红海北部延布附近和亚丁湾分别发射弹道导弹，袭击两艘沙特油轮。其中，亚丁湾遇袭的黛西号油轮被迫返航。胡塞武装发言人叶海亚·萨雷亚表示，这是针对沙特实施的海上封锁行动的一部分，该组织正密切监视沙特油轮，阻止其通过红海南部和北部。自7月下旬实施封锁以来，胡塞武装已累计袭击8艘沙特油轮，并拦截迫使29艘返航。沙特方面对此尚未回应。
+      <title>AMD宣布收购AI推理芯片初创公司Taalas，以摆脱HBM束缚</title>
+      <link>https://m.ithome.com/html/986791.htm</link>
+      <pubDate>Fri, 07 Aug 2026 00:16:59 +0000</pubDate>
+      <description>AMD今日宣布计划收购AI推理芯片初创公司Taalas，以强化其在AI推理领域的布局。Taalas成立于2023年，总部位于加拿大多伦多，自成立以来已累计获得约2.19</description>
+    </item>
+    <item>
+      <title>美国将对多晶硅及其衍生产品加征15%关税，特朗普宣布相关措施</title>
+      <link>https://www.news.cn/world/20260807/7dc12ee0e0fe4a1da2be4b1047207e2b/c.html</link>
+      <pubDate>Thu, 06 Aug 2026 23:58:05 +0000</pubDate>
+      <description>美国白宫于8月6日下午发布公告，宣布将对进口多晶硅衍生品加征15%的关税，同时对进口多晶硅及多晶硅衍生品设定最低进口价机制。该措施旨在影响相关产品的国际贸易，可能对全球多晶硅市场及下游产业产生一定冲击。</description>
+    </item>
+    <item>
+      <title>蔚来宣布换电突破1.2亿次，第五代换电站正式投入运营</title>
+      <link>https://tech.ifeng.com/c/8vO8x20uCvE</link>
+      <pubDate>Fri, 07 Aug 2026 01:02:00 +0000</pubDate>
+      <description>蔚来汽车在换电领域达成新里程碑。2026年8月7日，蔚来创始人李斌在社交媒体透露，公司换电服务即将突破1.2亿次，当时仅剩3000余次，预计在前往福建泉州的飞行途中即可达成该目标。李斌同时表示，自己正准备参加蔚来第4000座换电站暨首座第五代换电站的上线仪式。
 
-此次袭击显示胡塞武装将封锁范围从红海南部曼德海峡扩展至北部，威胁经苏伊士运河的</description>
+据蔚来方面介绍，第4000座换电站于8月7日在泉州正式投入运营，这也是首座第五代换电站。该站支持蔚来、乐道及萤火虫三个品牌的用户换电，进一步扩大了服务覆盖范围。蔚来从创立之初便坚持换电模式，持续布局换电网络，目标在于消除用户里程焦虑，使电动车能够到达燃油车可达之处。目前蔚来已构建可充、可换、可升级的全场景加电网络，解决里程焦虑和电池衰减两大核心问题。换电过程无需用户下车，每次换电还附带电池健康检测，确保电池状态良好。用户可按需灵活</description>
     </item>
     <item>
-      <title>Meta推出首款AI编程智能体，低价策略挑战OpenAI与Anthropic</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimkncm0606384.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 08:40:00 +0000</pubDate>
+      <title>台风白海豚预计9日前后影响华东等地，带来强风雨</title>
+      <link>http://www.chinanews.com//sh/2026/08-07/10673311.shtml</link>
+      <pubDate>Fri, 07 Aug 2026 01:05:31 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>Google拟超15亿美元收购AI编程代理公司Mechanize，英特尔持仓OpenAI收益82亿美元</title>
-      <link>https://tech.ifeng.com/c/8vMRLF820MM</link>
-      <pubDate>Thu, 06 Aug 2026 09:30:55 +0000</pubDate>
+      <title>英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺</title>
+      <link>https://m.ithome.com/html/986784.htm</link>
+      <pubDate>Thu, 06 Aug 2026 23:40:52 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>全球最大AI算力超级单体远景乌兰察布星河基地投产，全国最大AI算力园区同步落地</title>
-      <link>https://www.qbitai.com/2026/08/467262.html</link>
-      <pubDate>Thu, 06 Aug 2026 09:13:00 +0000</pubDate>
-      <description>远景科技集团于2026年8月6日宣布，其位于内蒙古乌兰察布的星河基地正式投产，建成全球最大的AI算力超级单体。该超级单体建筑体量达12万平方米（约20个标准足球场），具备百万卡并行能力和百万P算力规模，采用超高比例绿电直连，成为全球Token产出能力最强的单体AI数据中心。同时，该基地也是全国最大的AI算力园区，总规划容量达2GW。远景AIDC总经理郑子浩表示，基地主要面向头部科技与AI公司大规模使用国产算力的需求，打造新能源与AI算力融合的中国解决方案。该基地的算力输出规模可达同等面积传统数据中心的10倍，契合国内AI算力向十万卡乃至百万卡互联的发展趋势。乌兰察布作为国家东数西算八大节点之一，具备网络时延优势和全国领先的风光资源，全域绿电占比达67%。远景曾于2026年6月在法国VivaTech峰会上发布Mission Gobi计划，目标到2030年在全球戈壁荒漠建成5GW绿色AI算力中心，星河基地是该计划落地的首个旗舰项目。</description>
+      <title>俄方称若想和平解决俄乌冲突，欧洲应停止援乌</title>
+      <link>https://news.cctv.com/2026/08/07/ARTIIbGszTMFk3VsR6CvT7FT260807.shtml</link>
+      <pubDate>Thu, 06 Aug 2026 22:15:57 +0000</pubDate>
+      <description>俄罗斯外交部副部长格鲁什科于2026年8月6日表示，欧洲国家若真心主张和平解决俄乌冲突，就应当停止向乌克兰输送武器。格鲁什科在接受俄媒采访时指出，欧洲围绕乌克兰和平问题展开的对话意在掩盖其延续战争的真实意图，欧洲方面谈论的完全是另一回事，即持续援乌，不计所需拨款规模，直至局势不再需要为止。他认为，停止向乌克兰输送武器才是欧洲理应作出的贡献。格鲁什科还表示，西方针对俄罗斯挑起了一场人为的混合战争，其所有行为旨在使西方在经济和社会层面做好准备，以应对与俄可能爆发的军事冲突，而乌克兰正是这场战争的热战场。</description>
     </item>
     <item>
-      <title>俄无人机厂负责人遭汽车炸弹袭击，上合组织天山-2026联合网络反恐演习在新疆举行</title>
-      <link>https://www.news.cn/world/20260806/878a5d4a76044ae69b796fd6a64fd8b0/c.html</link>
-      <pubDate>Thu, 06 Aug 2026 04:55:30 +0000</pubDate>
-      <description>俄罗斯斯维尔德洛夫斯克州首府叶卡捷琳堡市郊一村庄4日发生汽车爆炸事件。乌拉尔无人机厂总经理弗拉基米尔·特卡丘克在爆炸中身受重伤，已被送往医院重症监护室，其司机兼保镖在爆炸中身亡。现场视频显示，特卡丘克乘坐的奔驰车在爆炸中被烧毁。俄罗斯有关部门已立案侦查。据塔斯社报道，乌拉尔无人机厂是俄罗斯在俄乌冲突中</description>
+      <title>特朗普称霍尔木兹海峡协议尚未达成，正参与相关谈判</title>
+      <link>https://news.ifeng.com/c/8vNur37OlvI</link>
+      <pubDate>Thu, 06 Aug 2026 22:24:34 +0000</pubDate>
+      <description>当地时间8月6日，美国总统特朗普表示，关于重新开放霍尔木兹海峡的协议尚不能说已正式达成，但海峡目前某种程度上已经开放，美方正参与相关谈判，整体进展良好。特朗普称，美国海军正在执行针对伊朗的封锁行动并控制相关海域，但水雷等安全风险仍可能影响商业船只通行。他同时表示，自己正在参与谈判，并认为局势正朝积极方向发展。同日，伊朗议会主持委员会发言人阿巴斯·古达尔齐表示，经过一个多月的谈判，伊朗和阿曼即将敲定霍尔木兹海峡新的航运安排协议。古达尔齐还指出，谈判仅在伊朗和阿曼之间进行，美国未被允许参与。</description>
     </item>
     <item>
-      <title>以军两名军人遇袭身亡，黎巴嫩纪念贝鲁特港口爆炸事件六周年</title>
-      <link>http://www.chinanews.com//gj/2026/08-06/10672854.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 08:05:27 +0000</pubDate>
-      <description>黎巴嫩局势持续紧张。当地时间8月5日，以色列空袭黎巴嫩南部地区，造成1人死亡、12人受伤。黎巴嫩国家通讯社援引卫生部消息报道，遇袭地点为南部小镇提卜宁一处墓地。以色列国防军称，由于黎巴嫩真主党公然违反停火协议，以军在黎南部发动精确打击，但未说明具体违反情况。
+      <title>美科学家首次用AI设计出病毒，用于感染细菌对人类无威胁</title>
+      <link>https://tech.ifeng.com/c/8vOAxggSFdY</link>
+      <pubDate>Fri, 07 Aug 2026 00:55:18 +0000</pubDate>
+      <description>美国研究人员近日表示，已首次利用人工智能设计出全新的病毒。这些病毒具备完整功能，并能在实验室中复制，这是AI首次成功设计出完整的病毒基因组。研究人员最终制造出16种新型病毒，它们被设计用于感染细菌，不会对人类构成威胁。这一突破可能开启疾病治疗的新阶段，但专家也警告，由AI设计病毒带来了迫在眉睫的生物安全和生物安保问题。相关研究结果已发表在《科学》杂志上。
 
-同一天，黎巴嫩南部村庄迈吉达尔·塞勒姆发生以军士兵遇袭事件。多名执行任务的以军士兵在一栋建筑内遭简易爆炸装置袭击，造成2名士兵丧生，多人受伤。
+斯坦福大学助理教授布赖恩·希介绍，这项技术的工作方式与ChatGPT等大语言模型类似，AI模型预测的不是文字，而是生命的语言。名为Evo 1和Evo 2的AI模型使用病毒、细菌、植物和人类的遗传编码进行训练，随后被调整用于专门生成噬菌体病毒，这类病毒只会感染特定种类的细菌。研究人员从AI生成的方案中挑选出302个最有潜力的设计，并在实验室中合成，其中16种能有效杀死大肠杆菌。
 
-另据报道，以色列与黎巴嫩的新一轮谈判于8月4日在意大利罗马开始，为期三天。5日当天谈判提前数小时结束，一名美国国务院官员称这与以色列对黎袭击有关，但6日谈判仍将按计划进行。前两日谈判中，双方讨论了一系列政治和军事问题，取得一定进展。
-
-此外，8月4日是黎巴嫩贝鲁</description>
+布赖恩认为，该技术有望通过开发新药和新疗法大幅改善人类健康，但外界已担忧同样技术可能被恶意利用来制造新疾病。多名医学博士表示，现在的问题已不再是生成式AI能否设计病毒基因组，而是人类能否在不造成严重危害的情况下</description>
     </item>
     <item>
-      <title>中国驻阿根廷使馆发言人就美方破坏中阿合作发表谈话，巴西与阿根廷关系降级</title>
-      <link>https://news.cctv.com/2026/08/06/ARTIxgAzZKjPCC1ZenwjeDWk260806.shtml</link>
-      <pubDate>Thu, 06 Aug 2026 03:37:39 +0000</pubDate>
-      <description />
+      <title>苹果上调以旧换新价格，iPhone、iPad、Mac集体升值</title>
+      <link>https://tech.ifeng.com/c/8vNc1ybGgLm</link>
+      <pubDate>Thu, 06 Aug 2026 16:05:00 +0000</pubDate>
+      <description>苹果近日上调美国市场Apple Trade In换购计划中多款设备的最高折抵金额，涉及iPhone、iPad、Mac和Apple Watch等产品，部分机型估值涨幅接近30%。
+
+iPhone方面，多数机型折抵金额有所提高。iPhone 16 Pro Max从695美元上调至720美元；iPhone 16 Pro从560美元提高至630美元；iPhone 15 Pro Max从490美元上调至530美元。旧款机型中，iPhone 13 Pro从260美元提高至285美元，iPhone 12 Pro Max从220美元提高至240美元，iPhone XR从80美元提高至90美元。不过iPhone 16e、iPhone 14 Plus、第二代iPhone SE、iPhone X和iPhone 8 Plus等机型保持不变。
+
+iPad产品线各机型均有上调。iPad Pro最高可折抵720美元，此前为690美元；iPad Air从460美元提高</description>
     </item>
     <item>
-      <title>中际旭创获高盛增持324.51万股，每股作价约946.49港元</title>
-      <link>https://www.tmtpost.com/nictation/8094087.html</link>
-      <pubDate>Thu, 06 Aug 2026 09:18:00 +0000</pubDate>
-      <description>香港交易所披露数据显示，高盛集团于7月30日增持中际旭创324.51万股，每股作价946.4902港元，涉及总金额约30.71亿港元。增持后，</description>
+      <title>莱茵河旱情冲击德国工业，供应链面临中断风险</title>
+      <link>https://news.cctv.com/2026/08/07/ARTIMYmMGchPdY12ijmTKgXO260807.shtml</link>
+      <pubDate>Fri, 07 Aug 2026 00:28:38 +0000</pubDate>
+      <description>受持续高温干旱影响，德国莱茵河水位近期显著下降，对该国工业造成冲击。莱茵河流经德国工业核心地带，承载着德国约80%的内河航运量，是煤炭、化工原料、成品油等大宗商品运输的关键通道。水位走低导致船舶载重能力大幅缩减，部分河段甚至面临断航风险。多家德国企业被迫减少货运量或改用其他运输方式，推高了物流成本，并可能引发生产延误。分析师警告，若干旱持续，莱茵河航运中断将直接威胁德国化工、能源及制造业的供应链稳定，加剧工业产出下滑压力。目前德国相关部门正密切监测水位变化，但短期内缺乏有效缓解措施，经济界普遍担忧类似前几年因极端干旱导致的供应链危机将再次上演。</description>
+    </item>
+    <item>
+      <title>中方强调应维护南苏丹国家稳定，呼吁国际社会支持</title>
+      <link>https://www.news.cn/world/20260807/083fcad4c1bb4786b9c882cd3e254487/c.html</link>
+      <pubDate>Thu, 06 Aug 2026 23:41:49 +0000</pubDate>
+      <description>中国常驻联合国代表团临时代办孙磊6日在安理会审议南苏丹问题时发言，强调应维护该国国家稳定。孙磊表示，南苏丹将于今年底举行大选，过渡进程进入关键阶段，维护国家稳定是根本前提。中方呼吁各方保持冷静克制，避免诉诸武力，防止局势升级，支持南苏丹政府和联合国南苏丹特派团继续推动族群间对话，实施更多建立信任措施，促进民众和睦相处。中方呼吁南苏丹各党派从国家整体利益和民众根本福祉出发，切实维护并落实重振协议</description>
     </item>
   </channel>
 </rss>
