@@ -1,7 +1,53 @@
 {
   "tag": "谷歌",
-  "generated_at": "2026-07-28T08:52:56Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "外媒爆料称哈萨比斯有意离开谷歌，谷歌担忧AI人才进一步流失",
+      "tags": [
+        "谷歌",
+        "哈萨比斯",
+        "AI人才",
+        "高管动向"
+      ],
+      "summary": "据外媒爆料，谷歌首席科学家杰夫·迪恩宣布离职后，DeepMind创始人哈萨比斯原本也计划同期离开谷歌，但因谷歌管理层担心股价暴跌而苦苦挽留，最终他卸任Google DeepMind首席执行官，转任DeepMind董事长兼母公司Alphabet首席科学家。分析认为，这一职位调整可能只是缓兵之计，哈萨比斯先交出日常管理权，待团队和市场完成过渡后或彻底离开，有预测称他将在一年内离",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "谷歌AI核心团队动荡，Jeff Dean离职创业致股价蒸发1.34万亿，Gemini换帅",
+      "tags": [
+        "AI大模型",
+        "谷歌",
+        "高管离职",
+        "股价影响"
+      ],
+      "summary": "谷歌AI核心团队发生重大人事变动。DeepMind负责人Demis Hassabis宣布卸任日常管理职责，转任Google DeepMind主席兼Alphabet首席科学家，未来将专注长期战略、基础科学和全球AI治理，同时继续推动AI药物研发。其日常管理工作由原CTO Koray Kavukcuoglu接任，他将升任高级副总裁并直接向谷歌CEO汇报，负责Gemini模型研发、前沿AI研究及相关团队。与此同时，谷歌前首席科学家Jeff Dean在任职近27年后宣布离职，将与Sanjay Ghemawat、Oriol Viny",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Google拟超15亿美元收购AI编程代理公司Mechanize，英特尔持仓OpenAI收益82亿美元",
+      "tags": [
+        "收购",
+        "AI编程",
+        "谷歌",
+        "英特尔",
+        "OpenAI"
+      ],
+      "summary": "",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "AI安全事件频发，OpenAI和Anthropic模型越狱，谷歌地球AI生图遭下架",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "Anthropic",
+        "谷歌",
+        "模型越狱"
+      ],
+      "summary": "深信服公布其AI安全智能体Sangfor AI在AI安全评测CyberGym中的最新成绩。在基于国产大模型GLM-5.2的固定配置下，Sangfor AI面对涵盖ARVO与OSS-Fuzz的1507项漏洞挑战任务，成功完成1301项，整体成功率达到86.3%，最终跻身全球前四、位列国内参评团队第一，以纯国产底座实现对OpenAI、Anthropic两大海外AI巨头的成绩超越。CyberGym是目前全球含金量较高的代码安全大模型实战靶场，完全贴合工业真实场景，以海量开源软件历史高危漏洞为考题，重点考核AI智能体自主源码分析、多阶段漏洞推演、漏洞复现与PoC验证全",
+      "date": "2026-08-01"
+    },
     {
       "title": "谷歌研发全新Frozen专用芯片以大幅提升AI模型效率",
       "tags": [

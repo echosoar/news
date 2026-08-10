@@ -1,7 +1,40 @@
 {
   "tag": "AI编程",
-  "generated_at": "2026-07-28T08:52:56Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "Meta推出首款AI编程智能体，低价策略挑战OpenAI与Anthropic",
+      "tags": [
+        "AI编程",
+        "Meta",
+        "竞争",
+        "低价"
+      ],
+      "summary": "",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Google拟超15亿美元收购AI编程代理公司Mechanize，英特尔持仓OpenAI收益82亿美元",
+      "tags": [
+        "收购",
+        "AI编程",
+        "谷歌",
+        "英特尔",
+        "OpenAI"
+      ],
+      "summary": "",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "DeepSeek官方AI编程工具Harness开始内测",
+      "tags": [
+        "DeepSeek",
+        "AI编程",
+        "开发者工具"
+      ],
+      "summary": "",
+      "date": "2026-08-03"
+    },
     {
       "title": "小米MiMo Code发布并开源，界面全汉化，自进化AI编程助手",
       "tags": [

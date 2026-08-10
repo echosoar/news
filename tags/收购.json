@@ -1,7 +1,30 @@
 {
   "tag": "收购",
-  "generated_at": "2026-07-28T08:52:56Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "AMD宣布收购AI推理芯片初创公司Taalas，解锁模型刻进硅片",
+      "tags": [
+        "AMD",
+        "收购",
+        "AI芯片",
+        "Taalas"
+      ],
+      "summary": "",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Google拟超15亿美元收购AI编程代理公司Mechanize，英特尔持仓OpenAI收益82亿美元",
+      "tags": [
+        "收购",
+        "AI编程",
+        "谷歌",
+        "英特尔",
+        "OpenAI"
+      ],
+      "summary": "",
+      "date": "2026-08-06"
+    },
     {
       "title": "Netflix以5.87亿美元收购本·阿弗莱克创办的AI初创公司InterPositive",
       "tags": [
