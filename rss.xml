@@ -1,109 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-08-12</title>
+    <title>News 2026-08-13</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-08-12</description>
-    <lastBuildDate>Wed, 12 Aug 2026 09:58:30 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-08-13</description>
+    <lastBuildDate>Thu, 13 Aug 2026 00:59:35 +0000</lastBuildDate>
     <item>
-      <title>苹果弃M6转攻M7芯片，iOS27确认国行AI功能并可能收费</title>
-      <link>https://www.caixin.com/2026-08-11/102473256.html</link>
-      <pubDate>Wed, 12 Aug 2026 08:28:02 +0000</pubDate>
+      <title>哥伦比亚强震已致265人遇难，宣布进入经济紧急状态并获欧盟援助</title>
+      <link>https://news.cctv.com/2026/08/13/ARTIODHeHnheY9J62DgH3ECH260813.shtml</link>
+      <pubDate>Thu, 13 Aug 2026 00:48:41 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>国产大飞机C919首航国际商业航线，完成首飞并获水门迎接</title>
-      <link>https://politics.gmw.cn/2026-08/12/content_38939788.htm</link>
-      <pubDate>Wed, 12 Aug 2026 09:02:00 +0000</pubDate>
+      <title>苹果iPhone 18标准版将搭载12GB内存，采用缩小版灵动岛</title>
+      <link>https://m.ithome.com/html/989013.htm</link>
+      <pubDate>Thu, 13 Aug 2026 00:34:34 +0000</pubDate>
+      <description>据IT之家和快科技报道，苹果即将调整iPhone产品线发布节奏。今年9月的秋季发布会预计仅推出iPhone 18 Pro、iPhone 18 Pro Max及折叠屏机型iPhone Ultra，标准版iPhone 18将推迟至2027年初发布，届时与iPhone 18e和iPhone Air 2一同亮相。
+
+分析师Jeff Pu根据供应链调查指出，标准版iPhone 18将获得两项此前仅Pro机型才有的升级。首先，内存将从iPhone 17的8GB提升至12GB，直接看齐Pro级别。目前关于内存规格存在不同说法，郭明錤曾预测为9GB，但Jeff Pu认为9GB将用于iPhone 18e，标准版为12GB，两款机型均搭载A20芯片。
+
+其次，标准版iPhone 18将采用全新的缩小版灵动岛设计，该设计预计首先出现在iPhone 18 Pro上。新版灵动岛面积进一步缩小，在保留交互方式的同时减少对屏幕显示的影响。值得注意的是，苹果以往下放新设计较慢，例如灵动岛在iPhone</description>
+    </item>
+    <item>
+      <title>美国战略石油储备不足3亿桶，创43年来新低</title>
+      <link>https://www.wenweipo.com/a/202608/13/AP6a7d0292e4b0c1e50024a2f6.html</link>
+      <pubDate>Thu, 13 Aug 2026 00:05:26 +0000</pubDate>
+      <description>美国能源信息局8月12日发布的周度石油库存数据显示，在截至本月7日的一周，美国战略石油储备规模进一步降至2.987亿桶，为1983年1月以来的最低水平，即创下43年来新低。这一数据反映出美国战略石油储备已不足3亿桶，引发外界对能源安全储备能力的关注。</description>
+    </item>
+    <item>
+      <title>美国得州一架阿帕奇直升机坠毁，致两人死亡</title>
+      <link>https://www.wenweipo.com/a/202608/13/AP6a7cf543e4b0c1e50024a09b.html</link>
+      <pubDate>Wed, 12 Aug 2026 23:21:16 +0000</pubDate>
+      <description>美国得克萨斯州警方12日发布消息称，胡德堡附近一架阿帕奇军用直升机当天坠毁，引发山火，事故已造成两人死亡。贝尔县治安官办公室发言人科尔曼表示，当局于当天13时34分左右接到坠机事故报告，直升机坠毁在萨拉多以南的一处田野中，距离胡德堡约30分钟车程。科尔曼称此次坠机事故非常惨烈，确认有两人丧生，未造成其他人员受伤。胡德堡随后证实，该飞行器为驻扎于该基地的AH-64阿帕奇直升机。当地应急部门、军方救援人员及执法人员正赶赴现场进行处置。</description>
+    </item>
+    <item>
+      <title>特朗普称白宫新闻秘书莱维特将离职</title>
+      <link>https://news.ifeng.com/c/8vXiELLNuwN</link>
+      <pubDate>Thu, 13 Aug 2026 00:42:00 +0000</pubDate>
+      <description>美国总统特朗普于当地时间8月12日宣布，白宫新闻秘书卡罗琳·莱维特将在本月底卸任，以便有更多时间陪伴家人。特朗普在社交媒体上发文称，莱维特将加入其核心外部顾问团队，并在共和党内发挥重要作用，助力该党赢得中期选举。特朗普称赞莱维特是他最信任的助手之一，也是白宫新闻秘书职位历史上最杰出的代表之一。莱维特随后在社交媒体上证实，她因照顾</description>
+    </item>
+    <item>
+      <title>谷歌AI重组内幕曝光，布林不满落后Anthropic，全力押注Gemini</title>
+      <link>https://m.ithome.com/html/989035.htm</link>
+      <pubDate>Thu, 13 Aug 2026 00:59:35 +0000</pubDate>
+      <description>谷歌联合创始人谢尔盖·布林近几个月来敦促公司核心AI员工全力投入Gemini模型研发，以缩小与竞争对手的差距。在Anthropic推出强大模型预览版后，布林于4月向数百名员工发表讲话，要求Google DeepMind实验室加快步伐。谷歌的Gemini模型去年11月曾短暂领先，但随后被Anthropic和OpenAI超越，因内部测试显示其新版旗舰在编程等领域仍落后，谷歌将发布推迟了两个月。8月5日，谷歌宣布对DeepMind进行重大领导层调整，原CEO戴密斯·哈萨比斯卸任转任董事长，由其副手科雷·卡武克丘奥卢接任CEO，同时Gemini项目两位技术负责人辞职创业。这些变动标志着DeepMind自主权进一步削弱，部分团队</description>
+    </item>
+    <item>
+      <title>DeepSeek发布V4 Pro正式版，宣称对标美国最顶级大模型</title>
+      <link>https://www.ifanr.com/1674965</link>
+      <pubDate>Wed, 12 Aug 2026 22:55:33 +0000</pubDate>
+      <description>Deep</description>
+    </item>
+    <item>
+      <title>SpaceXAI发布Grok 4.6模型，剑指GPT-5.6 Sol</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1572950.htm</link>
+      <pubDate>Wed, 12 Aug 2026 22:26:46 +0000</pubDate>
+      <description>SpaceXAI于8月12日发布旗舰AI模型Grok 4.6，专为复杂长程智能体任务设计，在多项基准测试中追平甚至超越OpenAI的GPT-5.6 Sol。该模型在Grok 4.5基础上优化，采用精选生成数据和强化学习训练，可处理资料研究、代码库操作及产品构想落地等任务。在综合九项基准的测试中，其成绩与GPT-5.6 Sol持平。定价方面，输入每百万Token 2美元，输出每百万Token 6美元，高速版价格翻倍。模型已上线Cursor和Grok Build，开发者可通过API接入，首周用户可获双倍使用额度。</description>
+    </item>
+    <item>
+      <title>亚马逊将默认使用Twitch主播内容训练AI模型，引发社区强烈不满</title>
+      <link>https://m.ithome.com/html/989032.htm</link>
+      <pubDate>Thu, 13 Aug 2026 00:49:34 +0000</pubDate>
+      <description>亚马逊旗下直播平台Twitch近日证实，其母公司亚马逊一直在使用Twitch平台上的直播内容训练AI模型。Twitch于本周三宣布推出新的隐私设置，允许用户选择退出该训练计划，但该设置默认处于同意状态，即用户若不主动操作，其内容将被默认用于AI训练。
+
+这一消息在Twitch社区引发强烈不满。在官方解释直播中，Twitch社区负责人Mary Kish表示预料到用户会产生强烈反弹，而实时聊天区确实迅速被大量反对AI训练的留言刷屏。多名知名主播也在社交媒体上</description>
+    </item>
+    <item>
+      <title>新思科技联手AMD和微软，用AI加速芯片设计，开发周期缩短40%</title>
+      <link>https://tech.ifeng.com/c/8vY3J1B9LrC</link>
+      <pubDate>Wed, 12 Aug 2026 23:25:43 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>淡马锡据报考虑直接投资SK海力士和三星电子，韩芯片股大涨</title>
-      <link>https://www.tmtpost.com/nictation/8100231.html</link>
-      <pubDate>Wed, 12 Aug 2026 06:04:00 +0000</pubDate>
-      <description>据新加坡媒体报道，新加坡国有投资公司淡马锡正考虑直接投资韩国芯片巨头三星电子和SK海力士，而非通过外部资产管理公司进行间接投资。据知情人士透露，淡马锡计划通过其内部投资团队直接入股这两家芯片制造商，目前正在考虑合适的入场时机，并已与韩国政府方面就投资时机进行沟通。受此消息影响，韩国芯片股在周三出现强劲反弹，三星电子和SK海力士股价均大涨逾8%，韩国Kospi指数一度上涨5.1%。该报道引发市场对韩国半导体行业前景的乐观情绪，但相关投资计划尚未得到淡马锡或两家企业的官方确认，具体投资规模和投资细节仍待披露。</description>
-    </item>
-    <item>
-      <title>宇树人形机器人产量达1.8万台，IPO获978万户抢购</title>
-      <link>https://m.ithome.com/html/988851.htm</link>
-      <pubDate>Wed, 12 Aug 2026 09:46:21 +0000</pubDate>
-      <description />
-    </item>
-    <item>
-      <title>中方严斥美国炮制弹道导弹发射通报涉华共同发言</title>
-      <link>http://news.china.com.cn/2026-08/12/content_118643729.shtml</link>
-      <pubDate>Wed, 12 Aug 2026 00:55:32 +0000</pubDate>
-      <description>中国裁军事务大使李驰江8月11日在日内瓦裁军谈判会议全体会议上，严正驳斥美国等国发表的所谓弹道导弹发射通报涉华共同发言。该发言无端指责中国7月进行的潜射洲际弹道导弹试射。李驰江指出，美方为一己政治私利，诱拉包括非裁谈会成员国在内的一些国家参加共同发言，对中方提前通报导弹试射的善意举动吹毛求疵，是典型的政治操弄和赤裸裸的双重标准，中方坚决反对。他强调，美方援引防止弹道导弹扩散海牙行为准则要求中方提前通报，但中方并非该准则成员，不受其约束。中方始终安全、规范、负责任地开展洲际弹道导弹试射，并提前向美国等国通报，采取审慎合理措施，未损害任何国家利益，体现了善意和负责任态度，不应被地缘政治算计绑架。</description>
-    </item>
-    <item>
-      <title>阿里云上线灵骏真武M890超节点实例，可承载十万亿参数模型</title>
-      <link>https://m.ithome.com/html/988688.htm</link>
-      <pubDate>Wed, 12 Aug 2026 04:49:00 +0000</pubDate>
-      <description />
-    </item>
-    <item>
-      <title>中国最大端侧模型独角兽面壁智能启动IPO</title>
-      <link>https://www.caixin.com/2026-08-12/102473442.html</link>
-      <pubDate>Wed, 12 Aug 2026 09:58:30 +0000</pubDate>
-      <description>端侧模型企业北京面壁智能科技股份有限公司于2026年8月11日向北京证监局提交IPO上市辅导备案，辅导机构为中信证券，最新估值超过200亿元。公司计划于年底前上市，目前正在进行股份制改造。面壁智能或将成为首个适用科创板第五套上市标准的大模型企业。根据上交所6月17日发布的指引，该标准要求企业在申报时至少有一个大模型产品已完成上线发布并实现规模化应用。辅导备案报告显示，该公司无控股股东，第一大股东为北京清语启航科技中心（有限合伙），持股比例16.45%。</description>
-    </item>
-    <item>
-      <title>美国撤销联邦政府设备使用TikTok禁令</title>
-      <link>https://news.ifeng.com/c/8vX3mzcIRsB</link>
-      <pubDate>Wed, 12 Aug 2026 09:02:00 +0000</pubDate>
-      <description>美国政府已撤销一项禁止在联邦政府设备上使用短视频社交平台TikTok的指令。据美国彭博社报道，白宫管理和预算办公室于8月10日在一份备忘录中撤销了2023年发布的该指令，此前美国司法部已出具书面意见，结论是TikTok不再属于相关法律定义的受管制应用。撤销原因是TikTok美国业务重组后已不再构成国家安全威胁。自2022年底以来，美国联邦政府及多个州曾以数据安全为由，禁止在政府电子设备上使用TikTok。此次撤销意味着联邦政府设备上可重新使用TikTok。</description>
-    </item>
-    <item>
-      <title>全球存储芯片供应趋紧，内存合约价格向二三线厂商扩散</title>
-      <link>https://news.mydrivers.com/1/1143/1143082.htm</link>
-      <pubDate>Wed, 12 Aug 2026 09:56:25 +0000</pubDate>
-      <description>全球存储芯片供应紧张态势持续升级，长期供应协议（LTA）的覆盖范围已从三星、SK海力士与美光三大原厂，快速延展至闪迪及中国长鑫存储。
+      <title>白宫拟议新规限制对华科研合作，美科学界愤怒称将损害美国利益</title>
+      <link>https://www.huanqiu.com/article/4SlqvjVw4rf</link>
+      <pubDate>Wed, 12 Aug 2026 22:57:00 +0000</pubDate>
+      <description>白宫管理和预算办公室拟议新规，计划禁止使用联邦拨款资助美中科研合作，并将限制范围从美国国家航空航天局扩大至所有联邦机构及接受联邦资助的科研人员。新规赋予政治任命官员更大经费审批权，要求受资助项目服务于总统政策优先事项，中国被列入受限范畴。新规收到近50万条公众意见，其中《华盛顿邮报》分析5万条发现约88%持负面看法。
 
-据外媒报道，苹果公司曾试图与长鑫存储就DRAM采购价展开谈判，希望争取更低报价，但遭到后者断然拒绝。长鑫存储坚持其报价不得低于三星电子和SK海力士的同期水平，甚至要求更高。</description>
-    </item>
-    <item>
-      <title>新能源汽车月度新车销量占比首超60%</title>
-      <link>https://www.tmtpost.com/nictation/8100919.html</link>
-      <pubDate>Wed, 12 Aug 2026 09:30:00 +0000</pubDate>
-      <description>据中国汽车工业协会发布的数据，2026年7月，我国新能源汽车月度新车销量占比首次超过60%，累计占比也首次超过50%。当月新能源汽车产销分别完成157.6万辆和156.1万辆，同比分别增长26.8%和23.7%，其中纯电动汽车产销量均超过100万辆，同比增长</description>
-    </item>
-    <item>
-      <title>AI智能体失控引担忧，英伟达等120家组织提议建立事故追踪机制</title>
-      <link>https://tech.ifeng.com/c/8vWPPBscPFK</link>
-      <pubDate>Wed, 12 Aug 2026 00:31:00 +0000</pubDate>
-      <description>由英伟达、思科和CrowdStrike等超过120家组织组成的联盟，正提议为AI智能体建立一套全新的事故报告机制，要求参与企业披露特定智能体故障，并保留详细的事故原因记录。随着AI智能体自主执行任务能力增强，行业缺乏标准化安全故障上报方式，近期包括OpenAI在内的多家公司已披露智能体失控事件。英伟达牵头的开放安全AI联盟正在制定名为共享AI发现交换机制的指导方针，用于规范各组织如何报告涉及AI智能体的网络安全事件。草案呼吁模型部署方、AI开发者、云服务与工具提供商、独立研究人员、关键基础设施运营商等共同参与，政府机构可作为非控制性观察员加入。成员需报告AI系统未经授权访问或利用第三方系统、泄露机密信息，或在怀疑活动未经授权后</description>
-    </item>
-    <item>
-      <title>黄仁勋澄清5000亿美元融资计划，称芯片已是投资级资产</title>
-      <link>https://tech.ifeng.com/c/8vWejx6akf1</link>
-      <pubDate>Wed, 12 Aug 2026 03:21:00 +0000</pubDate>
-      <description>英伟达近日宣布与贝莱德、黑石、高盛、KKR、阿波罗和博枫六家全球顶级资产管理机构达成合作，共同搭建一个独立的算力融资平台，目标是为AI企业购买芯片和建设数据中心撬动超过5000亿美元的第三方资本。英伟达创始人兼CEO黄仁勋表示，此举旨在将GPU及数据中心等AI计算基础设施重新定义为类似商业地产、收费公路的可投资资产类别，因为这些硬件已具备生产能力、长使用寿命、可互换性等金融产品所需的流动性属性，能够持续产生稳定收入流。
+美国科学界对此表示愤怒和担忧，认为新规未认识到美国在量子科学、人工智能等关键领域已落后于中国，减少合作可能拉大差距。美洲大学协会提交长达47页的意见书，指出限制将阻碍国际合作、降低研究效率，并削弱美国机构吸引全球顶尖人才的能力。昆西治国方略研究所认为，新规将终止涉及健康、清洁能源等领域的合作，阻碍美国科学进步，并可能促使顶尖科学家流向中国等更利于国际合作的地区。
 
-该计划公布后，市场出现分歧。英伟达股价一度下跌，信用违约互换利差上升，部分分析师和投资者质疑这是循环融资，即英伟达帮客户筹钱买自家芯片，相当于左手倒右手，并担忧AI泡沫风险。对此，黄仁勋亲自澄清，强调5000亿美元是长期动员目标，并非英伟达收入或单一基金承诺；每家金融机构将独立评估客户需求、使用率和资产残值，英伟达在部分项目中最多仅提供25%的残值支持。摩根士丹利也表态称该结构从机制上化解了循环</description>
+数据显示，中国已在多个尖端领域研究产出领先，荷兰莱顿大学排名显示中国高校在全球科研论文榜占据主导，前10名中占8席。2024年美国国际合著论文中约23%包含中国合作者，中国是美国主要国际研究伙伴。科学家指出，美国在知识领域已无垄断地位，封堵</description>
     </item>
     <item>
-      <title>安理会巴以问题紧急公开会上中方提出三个必须</title>
-      <link>https://news.ifeng.com/c/8vX0dRXKpp3</link>
-      <pubDate>Wed, 12 Aug 2026 07:34:00 +0000</pubDate>
-      <description>中国常驻联合国代表傅聪11日在安理会巴以问题紧急公开会上发言，敦促国际社会全力遏制冲突暴力。傅聪表示，中方对近期巴勒斯坦被占领土局势升级深感担忧，对持续暴力造成越来越多平民伤亡深感痛心，强调巴勒斯坦问题不能被忽视和边缘化。
-
-傅聪指出，约旦河西岸和加沙局势急剧恶化，根源在于国际法基本原则未得到遵守，巴勒斯坦人民的生存权和发展权长期遭到漠视。国际社会必须凝聚共识，纠正否认、侵犯巴勒斯坦正当权利的错误言行，维护国际公道正义。
-
-在约旦河西岸问题上，傅聪要求以色列必须停止定居点活动，遏制定居者暴力，确保严肃问责。在加沙问题上，他呼吁以色列和有关各方真诚、全面履行加沙停火协议，遵守国际人道法，解除人道物资准入限制，并呼吁对当事方有重要影响的国家采取切实行动缓和局势。
-
-傅聪</description>
+      <title>谷歌发布首款2nm折叠屏Pixel 11 Pro Fold，售价12800元</title>
+      <link>https://www.chinaz.com/2026/0813/1770734.shtml</link>
+      <pubDate>Thu, 13 Aug 2026 00:37:18 +0000</pubDate>
+      <description>谷歌于8月13日正式发布旗下首款采用2nm工艺的折叠屏手机Pixel 11 Pro Fold，起售价为1899美元，对应16GB加256GB存储</description>
     </item>
     <item>
-      <title>中国海军第49批护航编队起航赴亚丁湾</title>
-      <link>http://www.chinanews.com//gn/2026/08-12/10676266.shtml</link>
-      <pubDate>Wed, 12 Aug 2026 07:21:14 +0000</pubDate>
-      <description>中国海军第49批护航编队于2026年8月12日上午从海南三亚某军港解缆起航，赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。上午10时30分许，在军乐声中，编队舰艇依次解缆驶离码头，护航官兵在甲板上列队向祖国和亲人告别。该编队主要由南部战区海军兵力组成，包括导弹驱逐舰昆明舰、</description>
+      <title>谷歌发布防丢追踪器Pixel Tag，售价29美元起支持UWB</title>
+      <link>https://www.chinaz.com/2026/0813/1770733.shtml</link>
+      <pubDate>Thu, 13 Aug 2026 00:39:38 +0000</pubDate>
+      <description>谷歌在Made by Google新品发布会上推出品牌首款物品防丢追踪器Pixel Tag，专为钥匙、钱包、行李箱等随身物品设计，将于11月11日在谷歌商城发售，单支售价29美元，四支组合套装定价99美元。
+
+产品采用超薄胶囊造型，正面为不锈钢面板，背部为雾面聚碳酸酯外壳，仅提供雾银配色，机身厚度5.4毫米。整</description>
     </item>
     <item>
-      <title>腾讯Q2营收破2047亿，混元Hy3调用暴涨68倍</title>
-      <link>https://news.mydrivers.com/1/1143/1143214.htm</link>
-      <pubDate>Wed, 12 Aug 2026 09:46:21 +0000</pubDate>
-      <description>腾讯控股发布2026年第二季度财报，期内实现营收2047.9亿元，同比增长11%；非国际财务报告准则经营利润为756.4亿元，同比增长9%。若剔除新AI产品的影响，经营利润同比增长19%至861亿元。</description>
+      <title>中国计划2035年登月基建，月球机器狗将负责挖矿和建造栖息地</title>
+      <link>https://news.mydrivers.com/1/1143/1143343.htm</link>
+      <pubDate>Wed, 12 Aug 2026 23:33:44 +0000</pubDate>
+      <description>中国航天科技研究院团队提出一项新方案，计划在月球基地投放四足机器狗，协助宇航员完成采矿、搭建居住舱等繁重危险工作，目标服务于2035年建成的国际月球科研站。由于月球存在低重力、强辐射、昼夜温差大和月尘等问题，研究人员设计人机分工模式，由宇航员负责复杂判断和精细操作，机器狗承担重复性及高危体力任务。相比轮式月球车，四足机器狗在坑洼碎石、熔岩管道等复杂地形中通行能力更强。标准出舱配置为3名宇航员搭配2台机器狗，其中一人操控机器狗探路排查危险区域，一人采集岩石样本开展科研，一人在加压舱内统筹设备。机器狗的任务包括四大类：一是资源开采，</description>
+    </item>
+    <item>
+      <title>731部队又有新罪证被揭露，历史研究再获重要发现</title>
+      <link>https://www.huanqiu.com/article/4Sm2nUECfPc</link>
+      <pubDate>Wed, 12 Aug 2026 23:43:30 +0000</pubDate>
+      <description>侵华日军第七三一部队罪证陈列馆近日披露了新整理的罪证史料，包括原731部队海拉尔支队卫生兵谷崎等的口述证言和《身上申告书》档案，为日军侵华罪行研究提供了重要证据。
+
+谷崎等原名尾崎等，其长达70分钟的证言证实，日军战败前夕曾在中国东北埋藏大量毒气弹。他回忆了在731部队接受培训、饲养野鼠等经历，并指出日军撤退时虽焚毁了部队设施，但毒气部队将大量毒气弹暗中掩埋。研究人员表示，这一口述直接印证了日军战败时遗弃化学武器的事实，解释了战后毒气遗害的历史根源。
+
+此外，公布的731部队海</description>
     </item>
   </channel>
 </rss>
