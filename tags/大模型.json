@@ -1,7 +1,38 @@
 {
   "tag": "大模型",
-  "generated_at": "2026-08-10T13:38:58Z",
+  "generated_at": "2026-08-16T01:56:51Z",
   "summary": [
+    {
+      "title": "DeepSeek发布V4 Pro并上调API价格",
+      "tags": [
+        "DeepSeek",
+        "大模型",
+        "API"
+      ],
+      "summary": "8月15日消息，国家超算互联网宣布上线DeepSeek V4 Pro正式版（编号0813）及智能体框架DeepSeek Harness。该模型增强了Agent能力，生产环境下性能提升显著，整体表现可与国外闭源模型Claude Fable 5、Opus-4.8相媲美。超算互联网作为全国首个十万卡级超智融合算力资源池，可为科研院所、企业及开发者提供大模型全生命周期算力支撑，其AI社区已汇聚170",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "DeepSeek-V4-Pro正式版上线 调用价格大幅上涨",
+      "tags": [
+        "DeepSeek",
+        "大模型",
+        "AI技术",
+        "涨价"
+      ],
+      "summary": "",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "阿里云上线灵骏真武M890超节点实例，可承载十万亿参数模型",
+      "tags": [
+        "阿里云",
+        "AI",
+        "大模型"
+      ],
+      "summary": "",
+      "date": "2026-08-12"
+    },
     {
       "title": "OpenAI曝光GPT-6，传10万亿参数，计划8月强行发布",
       "tags": [

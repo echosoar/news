@@ -1,7 +1,17 @@
 {
   "tag": "AI模型",
-  "generated_at": "2026-08-10T13:38:58Z",
+  "generated_at": "2026-08-16T01:56:51Z",
   "summary": [
+    {
+      "title": "Anthropic表示Model 2比Mythos 5更强",
+      "tags": [
+        "Anthropic",
+        "AI模型",
+        "Model 2"
+      ],
+      "summary": "Anthropic在最新风险报告中首次承认，公司内部存在一个比已发布的Mythos 5更强的AI模型，代号Model 2。报告显示，Model 2在内部编码、代理任务及数据生成中表现显著提升，但Anthropic表示目前没有公开发布计划。同时，报告将特定高风险场景的误对齐风险评级从“极低”上调至“低”，并披露了包括测试数据污染和多起安全流程失误在内的五起事故。报告仍认为灾难性风险可控，支持",
+      "date": "2026-08-15"
+    },
     {
       "title": "OpenAI免费版升级为GPT-5.6 Luna，付费版模型强化",
       "tags": [
