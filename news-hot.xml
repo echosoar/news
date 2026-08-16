@@ -5,99 +5,29 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>印尼7.7级强震现场画面</title>
-      <link>https://www.news.cn/world/20260815/e2ae9e11226e464597b7e154e144839a/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+      <title>中国队在第38届国际信息学奥赛斩获3金1银</title>
+      <link>https://www.huanqiu.com/article/4SoTvbWzPrm</link>
+      <pubDate>Sat, 15 Aug 2026 22:13:14 +0000</pubDate>
     </item>
     <item>
-      <title>声称击败伊朗后会宣布霍尔木兹海峡为美国领土</title>
-      <link>https://www.news.cn/world/20260815/78bd8e52f395455693989f013a32fa00/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+      <title>日本千叶县暴雨已致9人死亡 超千栋房屋被淹</title>
+      <link>https://www.huanqiu.com/article/4SoTqJF2hKT</link>
+      <pubDate>Sat, 15 Aug 2026 22:10:51 +0000</pubDate>
     </item>
     <item>
-      <title>高市早苗向靖国神社供奉玉串料</title>
-      <link>https://www.news.cn/world/20260815/6e76da810c984062a05a3b7cc097e8f5/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+      <title>哈佛持有价值22亿美元SpaceX股份</title>
+      <link>https://news.ifeng.com/c/8vd85Vdr0yQ</link>
+      <pubDate>Sun, 16 Aug 2026 00:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>日政要向靖国神社供奉祭祀费或参拜 受到和平人士反对</title>
-      <link>https://www.huanqiu.com/article/4SnooHXpLbs</link>
-      <pubDate>Sat, 15 Aug 2026 03:02:27 +0000</pubDate>
+      <title>中国使馆：日政要参拜靖国神社严重挑战战后国际秩序</title>
+      <link>https://www.wenweipo.com/a/202608/15/AP6a808c51e4b0c1e50025009e.html</link>
+      <pubDate>Sat, 15 Aug 2026 16:05:30 +0000</pubDate>
     </item>
     <item>
-      <title>知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininiyyw2068780.shtml</link>
-      <pubDate>Fri, 14 Aug 2026 23:33:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>韩国总统李在明：将追缴亲日反民族行为者财产</title>
-      <link>https://www.news.cn/world/20260815/3faca34aabbd4b71992ed40b88d83f21/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>两部门将针对江苏的防汛四级应急响应提升至三级</title>
-      <link>http://www.chinanews.com//sh/2026/08-15/10678202.shtml</link>
-      <pubDate>Sat, 15 Aug 2026 06:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek发布V4 Pro并上调API价格</title>
-      <link>https://kite.kagi.com/china/2026081411/deepseek发布v4-pro并上调api价格</link>
-      <pubDate>Fri, 14 Aug 2026 17:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>81年前的今天，日本投降了</title>
-      <link>https://www.news.cn/world/20260815/368c01aae7b3432e922786c3d14ae23c/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Q2营收飙升至逾115亿美元，同比涨超14倍</title>
-      <link>https://wallstreetcn.com/articles/3779495</link>
-      <pubDate>Fri, 14 Aug 2026 22:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>生态环境法典正式施行</title>
-      <link>http://www.chinanews.com//gn/2026/08-15/10678023.shtml</link>
-      <pubDate>Sat, 15 Aug 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>河南省长在周口现场研究堤防溃口处置 紧急转移781人无伤亡</title>
-      <link>https://3g.china.com/act/news/10000169/20260815/49676373.html</link>
-      <pubDate>Sat, 15 Aug 2026 00:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>巴勒斯坦谴责以方定居点民事执法权移交计划</title>
-      <link>https://www.news.cn/world/20260815/724cb7b171454fbd8300945a66ceb4e5/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>胡塞武装称袭击沙特油企设施和也门政府军控制地区</title>
-      <link>https://www.news.cn/world/20260815/5a06d491166c423681a7bb318e1ec21e/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>侵华日军南京暴行再添新证 日军士兵亲笔信记载杀了一万多</title>
-      <link>http://www.chinanews.com//gn/2026/08-15/10678208.shtml</link>
-      <pubDate>Sat, 15 Aug 2026 07:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美联合健康集团高管枪杀案嫌疑人就联邦指控认罪</title>
-      <link>https://wallstreetcn.com/articles/3779483</link>
-      <pubDate>Fri, 14 Aug 2026 17:44:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>韩国总统李在明提出对朝和平共处蓝图</title>
-      <link>https://www.news.cn/world/20260815/4438941b4feb452f842c11e18d726038/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>普京致电金正恩：俄朝正在各方面积极合作</title>
-      <link>https://www.news.cn/world/20260815/646c3c43cdd14fa386637bfdcccb625b/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>卢拉：巴西将在大选后决定是否接受美驻巴大使提名</title>
-      <link>https://www.news.cn/world/20260815/bc3c6af2a96a45da9d638ee595a69b4c/c.html</link>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+      <title>伊朗称与阿曼达成海峡通航协议 美证实继续中东航母接力</title>
+      <link>https://www.huanqiu.com/article/4SoVcznBr52</link>
+      <pubDate>Sat, 15 Aug 2026 23:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
