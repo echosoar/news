@@ -1,0 +1,821 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T14:30:01Z",
+  "summary": [
+    {
+      "title": "特斯拉中国车机接入豆包和阿里千问大模型，马斯克否认出售中国业务",
+      "tags": [
+        "特斯拉",
+        "中国AI合作",
+        "车机系统"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/983982.htm",
+          "title": "曝特斯拉考虑出售中国业务：为与 SpaceX 的潜在合并铺平道路，回应称不实消息",
+          "origin": "IT之家",
+          "time": 1785467259
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-31/4528016.html",
+          "title": "特斯拉考虑出售或剥离中国业务与SpaceX合并？特斯拉官方回应：不实消息",
+          "origin": "每经网",
+          "time": 1785469776
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vClNlXxL07",
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "origin": "凤凰网",
+          "time": 1785468600
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140390.htm",
+          "title": "美媒称特斯拉正在考虑出售中国业务：为与SpaceX合并铺路",
+          "origin": "快科技",
+          "time": 1785467280
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-07-31/doc-inikshrh9387038.shtml",
+          "title": "传特斯拉正考虑出售中国业务，官方回应：不实消息",
+          "origin": "新浪新闻",
+          "time": 1785469152
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCcvhMsbW4",
+          "title": "特斯拉考虑出售中国业务，为潜在SpaceX合并交易铺路",
+          "origin": "凤凰科技",
+          "time": 1785461878
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571092.htm",
+          "title": "特斯拉考虑出售中国业务 为潜在SpaceX合并交易铺路",
+          "origin": "cnBeta",
+          "time": 1785464220
+        },
+        {
+          "link": "https://www.huxiu.com/article/4879630.html",
+          "title": "特斯拉考虑拆分中国业务，为潜在合并SpaceX铺路",
+          "origin": "虎嗅",
+          "time": 1785467677
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140418.htm",
+          "title": "特斯拉回应出售中国业务：消息不属实",
+          "origin": "快科技",
+          "time": 1785469740
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0731/1768244.shtml",
+          "title": "特斯拉车机系统更新：首次接入豆包大模型",
+          "origin": "站长之家",
+          "time": 1785466159
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140380.htm",
+          "title": "特斯拉车机系统更新：首次接入豆包大模型",
+          "origin": "快科技",
+          "time": 1785465060
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8086583.html",
+          "title": "特斯拉中国车机正式接入豆包大模型",
+          "origin": "钛媒体",
+          "time": 1785474180
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikstfm1328877.shtml",
+          "title": "特斯拉正式上线豆包大模型",
+          "origin": "新浪新闻",
+          "time": 1785486786
+        },
+        {
+          "link": "https://www.huxiu.com/article/4879732.html",
+          "title": "若马斯克真出售特斯拉中国业务，适合接盘的是上汽还是小米？",
+          "origin": "虎嗅",
+          "time": 1785487192
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vD2XpZx8Wy",
+          "title": "马斯克否认特斯拉正在考虑剥离其中国业务，外交部回应",
+          "origin": "凤凰网",
+          "time": 1785482520
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-07-31/doc-inikstfm1270093.shtml",
+          "title": "马斯克否认特斯拉正在考虑剥离其中国业务，外交部回应",
+          "origin": "新浪新闻",
+          "time": 1785486754
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCpuNJECJc",
+          "title": "特斯拉正考虑剥离中国业务？马斯克本人发声了",
+          "origin": "凤凰网",
+          "time": 1785472920
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140473.htm",
+          "title": "刚接入豆包，阿里千问被曝也冲进特斯拉车机内测了",
+          "origin": "快科技",
+          "time": 1785481320
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCxjroSx7t",
+          "title": "阿里千问已在特斯拉车机内测",
+          "origin": "凤凰科技",
+          "time": 1785480326
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571106.htm",
+          "title": "马斯克回应特斯拉出售中国业务：假消息",
+          "origin": "cnBeta",
+          "time": 1785472380
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCoy7kX6Sg",
+          "title": "马斯克回应特斯拉出售中国业务：假消息",
+          "origin": "凤凰科技",
+          "time": 1785471422
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "特朗普称已就哈马斯全面解除武装达成协议，哈马斯重申分阶段停火并以军先撤",
+      "tags": [
+        "中东和平",
+        "停火谈判",
+        "以哈冲突"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-31/10669594.shtml",
+          "title": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+          "origin": "中新网",
+          "time": 1785453720
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbFEmwd0rm",
+          "title": "特朗普称哈马斯解除武装后以色列将从加沙撤军",
+          "origin": "环球网",
+          "time": 1785453860
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTInlnES15qqQU4FFbsuKJs260731.shtml",
+          "title": "特朗普称已就哈马斯全面解除武装达成协议",
+          "origin": "CCTV",
+          "time": 1785451714
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbFAE0VQ7Y",
+          "title": "特朗普称已就哈马斯全面解除武装达成协议",
+          "origin": "环球网",
+          "time": 1785453737
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "origin": "凤凰网",
+          "time": 1785457680
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-31/10669589.shtml",
+          "title": "特朗普称已就哈马斯全面解除武装达成协议",
+          "origin": "中新网",
+          "time": 1785451920
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniksair4589866.shtml",
+          "title": "特朗普称哈马斯将解除武装 加沙将迎来新政府",
+          "origin": "新浪新闻",
+          "time": 1785456862
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-31/news1063931.shtml",
+          "title": "特朗普称已就哈马斯全面解除武装达成协议",
+          "origin": "中新网",
+          "time": 1785469140
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1153582&sid=64",
+          "title": "哈马斯称与以色列达成协议，特朗普：哈马斯全面解除武装，以军队将撤出",
+          "origin": "上观",
+          "time": 1785492189
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbagioSkF4",
+          "title": "美称就解除哈马斯武装达成协议 落实前景仍存疑",
+          "origin": "环球网",
+          "time": 1785489881
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTITB2p9sKVszjC30JWR4zz260731.shtml",
+          "title": "哈马斯官员重申加沙停火须分阶段实施且以军须首先撤军",
+          "origin": "CCTV",
+          "time": 1785490445
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbZpb6MkzF",
+          "title": "哈马斯官员重申加沙停火须分阶段实施且以军须首先撤军",
+          "origin": "环球网",
+          "time": 1785488442
+        }
+      ],
+      "summary": "美国总统特朗普当地时间7月30日表示，已就哈马斯全面解除武装达成协议，该协议将分阶段实施。随着解除武装进程推进，以色列军队将撤出加沙地带，国际稳定部队将与一支新的巴勒斯坦警察部队合作确保安全，加沙最终将由新的巴勒斯坦政府管理。但哈马斯方面对此说法暂无回应。\n\n同日，哈马斯高级成员哈马德重申，哈马斯及巴勒斯坦各派别愿为拯救加沙人民在停火协议上做出让步，但解除武装有严格的前提条件。哈马斯强调停火必须分阶段实施，且以军须首先撤军。\n\n报道称，自2023年10月以来，本轮巴以冲突已造成73000名巴勒斯坦人死亡。尽管停火协议已于2025年10月10日生效，但以色列仍继续在加沙地带每天发动袭击"
+    },
+    {
+      "title": "日本自卫队在太平洋首次试射战斧导弹，日本正式设立国家情报局",
+      "tags": [
+        "日本军事",
+        "战斧导弹",
+        "国家安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIsFwcrubFuXUzUBm712aP260731.shtml",
+          "title": "日本政府正式设立国家情报局",
+          "origin": "CCTV",
+          "time": 1785428219
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-31/10669587.shtml",
+          "title": "日本政府正式设立国家情报局",
+          "origin": "中新网",
+          "time": 1785451020
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-31/news1063932.shtml",
+          "title": "日本政府正式设立国家情报局",
+          "origin": "中新网",
+          "time": 1785469140
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6b7198e4b0c1e50022ece7.html",
+          "title": "日本政府正式设立国家情报局",
+          "origin": "文汇网",
+          "time": 1785427540
+        },
+        {
+          "link": "https://www.news.cn/world/20260731/b25881d817484b2688ecebf4297d175d/c.html",
+          "title": "外交部谈日本设国家情报局：又一消极动向",
+          "origin": "新华网",
+          "time": 1785427200
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vD26i3wBCG",
+          "title": "外交部回应日本设立国家情报局",
+          "origin": "凤凰网",
+          "time": 1785482220
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/31/AP6a6c4e33e4b0c1e50023022a.html",
+          "title": "日本设立国家情报局　外交部回应",
+          "origin": "文汇网",
+          "time": 1785485138
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCOAeHmmpn",
+          "title": "日本自卫队在太平洋首次试射战斧导弹",
+          "origin": "凤凰网",
+          "time": 1785448800
+        },
+        {
+          "link": "https://www.news.cn/world/20260731/69517836fc7349f381ae000dcbce69b5/c.html",
+          "title": "日本自卫队在太平洋首次试射战斧导弹",
+          "origin": "新华网",
+          "time": 1785427200
+        }
+      ],
+      "summary": "日本政府于2026年7月31日正式设立国家情报局。同日，据日本防卫省消息，日本自卫队近日在太平洋首次成功试射了美国的战斧巡航导弹。此次试射标志着日本在远程攻击能力方面取得新进展，也是日美军事合作深化的体现。"
+    },
+    {
+      "title": "2025年末中国60周岁及以上老年人口超3.23亿，基本养老保险覆盖范围继续扩大",
+      "tags": [
+        "人口老龄化",
+        "养老保险",
+        "中国社会"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-31/10670009.shtml",
+          "title": "截至2025年末，我国60周岁及以上老年人口超3.23亿人",
+          "origin": "中新网",
+          "time": 1785487440
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260731/49647256.html",
+          "title": "中国60周岁及以上老年人口超3.23亿 老龄化趋势显著",
+          "origin": "中国网",
+          "time": 1785491164
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/31/content_557088.html",
+          "title": "截至2025年末  我国60周岁及以上老年人口超3.23亿人",
+          "origin": "科技日报",
+          "time": 1785489919
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIc7xXf143EmQ3z3IIPcdw260731.shtml",
+          "title": "截至2025年末 我国60周岁及以上老年人口超3.23亿人",
+          "origin": "CCTV",
+          "time": 1785490400
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-31/10669987.shtml",
+          "title": "截至2025年末 我国60周岁及以上老年人口超3.23亿人",
+          "origin": "中新网",
+          "time": 1785485040
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vD624OmlSx",
+          "title": "中国60周岁及以上老年人口超3.23亿人",
+          "origin": "凤凰网",
+          "time": 1785484800
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbZdkPOk18",
+          "title": "截至2025年末 我国60周岁及以上老年人口超3.23亿人",
+          "origin": "环球网",
+          "time": 1785488121
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-31/10669996.shtml",
+          "title": "我国基本养老保险覆盖范围继续扩大",
+          "origin": "中新网",
+          "time": 1785488580
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785485369129488.html",
+          "title": "我国基本养老保险覆盖范围继续扩大",
+          "origin": "新京报",
+          "time": 1785485761
+        }
+      ],
+      "summary": "截至2025年末，全国60周岁及以上老年人口达32338万人，占总人口的23.0%；65周岁及以上老年人口22365万人，占总人口的15.9%。65周岁及以上老年人口抚养比为23.1%，全国人均预期寿命为"
+    },
+    {
+      "title": "中国海警执法巡查黄岩岛领海及周边区域，中国军队发布国际形象网宣片《当红》",
+      "tags": [
+        "南海主权",
+        "中国海警",
+        "军事宣传"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIlPEnzEXKIHxvcnj6EAtU260731.shtml",
+          "title": "中国军队国际形象网宣片《当红》",
+          "origin": "CCTV",
+          "time": 1785457721
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1153236&sid=42",
+          "title": "中国军队国际形象网宣片《当红》",
+          "origin": "上观",
+          "time": 1785459510
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-31/10669622.shtml",
+          "title": "中国军队国际形象网宣片《当红》",
+          "origin": "中新网",
+          "time": 1785458580
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/07-31/news1063874.shtml",
+          "title": "中国军队国际形象网宣片《当红》",
+          "origin": "中新网",
+          "time": 1785457860
+        },
+        {
+          "link": "http://www.chinanews.com//shipin/2026/07-31/news1063919.shtml",
+          "title": "中国海警：位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "中新网",
+          "time": 1785468540
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-31/10669583.shtml",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "中新网",
+          "time": 1785450600
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIKrYAL8jR4faRChcLITpz260731.shtml",
+          "title": "事关黄岩岛，南部战区、中国海警同日行动",
+          "origin": "CCTV",
+          "time": 1785434784
+        }
+      ],
+      "summary": "中国人民解放军南部战区于7月30日组织海空兵力，在中国黄岩岛领海领空及周边海空域开展战备警巡，中国海警同步在黄岩岛领海及周边区域进行执法巡查。同日，在中国人民解放军建军99周年暨中国工农红军长征胜利90周年之际，中国军队国际形象网宣片《当红》于海内外同步上线。该片由中央军委政治工作部宣传局与新华社新媒体中心联合出品，解放军新闻传播中心中国军号协助制作，旨在致敬最当红的人。"
+    },
+    {
+      "title": "DeepSeek拟在内蒙古建设1吉瓦AI数据中心，欧盟斥资100亿欧元建7座AI超级工厂",
+      "tags": [
+        "AI基础设施",
+        "数据中心",
+        "算力竞赛"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/983925.htm",
+          "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
+          "origin": "IT之家",
+          "time": 1785456536
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCOAeHmmxw",
+          "title": "DeepSeek拟在内蒙古建设大型AI数据中心 增加1吉瓦算力",
+          "origin": "凤凰科技",
+          "time": 1785451167
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571076.htm",
+          "title": "DeepSeek拟在内蒙古建设大型AI数据中心 增加1吉瓦算力",
+          "origin": "cnBeta",
+          "time": 1785457260
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/31/content_118626895.shtml",
+          "title": "AI算力带动有色金属盈利大增 铜锡等价格大幅上涨",
+          "origin": "中国网",
+          "time": 1785459329
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/07-31/10669576.shtml",
+          "title": "AI带动有色金属盈利大增 铜锡等价格大幅上涨",
+          "origin": "中新网",
+          "time": 1785435180
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-07-31/doc-inikquqc1234371.shtml",
+          "title": "欧盟计划投资 100 亿欧元建设 7 座 AI 超级工厂，发力追赶中美",
+          "origin": "新浪新闻",
+          "time": 1785463315
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140485.htm",
+          "title": "100亿欧元砸下去，欧盟要建7座AI超级工厂追赶中美",
+          "origin": "快科技",
+          "time": 1785482940
+        }
+      ],
+      "summary": "DeepSeek正计划在内蒙古乌兰察布建设一座大型AI数据中心，新增1吉瓦（GW）算力。部分算力预计在2027年底或2028年初投入运行，该公司还将从其他公司租赁额外算力。乌兰察布年平均气温约4°C，天然低温环境有利于降低高功耗AI服务器的散热需求。目前尚不清楚该项目使用何种芯片，参考英伟达是行业标准，华为则是中国数据中心领域的代表企业。有分析称，一座配备最先进AI加速器的1GW级数据中心投资成本可能高达500亿美元，但中国建设成本通常低于美国。\n\n与此同时，欧盟委员会宣布将投入100亿欧元（约合777亿元人民币），建设7座AI超级工厂，计划吸引至少200亿欧元民间投资。这些超级工厂将整合先进AI芯片、软件、云计算、超高速通信网络和数据中心，每座将配备至少10万颗先进AI芯片，性能是欧盟现有数据中心的4倍以上。项目计划在2027年初选定运营商，签约后18个月内投入运营。英伟达、AMD"
+    },
+    {
+      "title": "美多名议员阻挠苹果采购中国芯片，苹果CEO库克预警iPhone等供应链短缺加剧",
+      "tags": [
+        "中美科技",
+        "芯片供应链",
+        "苹果"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4Sb29eaLxo9",
+          "title": "美多名议员阻挠苹果采购中国芯片，专家：将破坏中美企业产业链合作",
+          "origin": "环球网",
+          "time": 1785431891
+        },
+        {
+          "link": "https://www.guancha.cn/internation/2026_07_31_825674.shtml",
+          "title": "美多名议员逼苹果承诺：不买中国芯片",
+          "origin": "观察者",
+          "time": 1785468757
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCQLK2EcvE",
+          "title": "美多名议员阻挠苹果采购中国芯片",
+          "origin": "凤凰网",
+          "time": 1785451860
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8085992.html",
+          "title": "美多名议员阻挠苹果采购中国芯片",
+          "origin": "钛媒体",
+          "time": 1785459000
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0731/1768198.shtml",
+          "title": "苹果CEO库克预警：iPhone、Mac、iPad供应链短缺加剧，远超预期",
+          "origin": "站长之家",
+          "time": 1785458370
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCQLK2Ecve",
+          "title": "苹果CEO库克预警：iPhone、Mac、iPad供应链短缺加剧，远超预期",
+          "origin": "凤凰科技",
+          "time": 1785453843
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140328.htm",
+          "title": "苹果CEO库克预警：iPhone、Mac、iPad供应链短缺加剧，远超",
+          "origin": "快科技",
+          "time": 1785451980
+        }
+      ],
+      "summary": "美国多名参议员近期联合致信苹果CEO库克，要求苹果不得在其产品中使用中国存储芯片企业长鑫科技和长江存储的产品，即便这些产品仅在中国市场销售。这些议员声称，两家企业已被列入美国国防部更新的中国军事企业清单。此举被专家认为将破坏中美企业间的产业链合作。与此同时，苹果CEO库克在财报电话会上发出预警，称iPhone、Mac、iPad全产品线将面临比预期更严重的供应链短缺。"
+    },
+    {
+      "title": "美军空袭伊拉克民兵武装，伊朗无人机打击科威特境内美军基地并扣留霍尔木兹海峡油轮",
+      "tags": [
+        "中东局势",
+        "伊朗",
+        "美军基地",
+        "霍尔木兹海峡"
+      ],
+      "links": [
+        {
+          "link": "https://www.wenweipo.com/a/202607/31/AP6a6c3665e4b0c1e50022ff18.html",
+          "title": "（有片）伊朗对科威特境内美空军基地实施无人机打击",
+          "origin": "文汇网",
+          "time": 1785477938
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCr9dr7f4K",
+          "title": "伊朗对科威特境内美空军基地实施无人机打击",
+          "origin": "凤凰网",
+          "time": 1785471360
+        },
+        {
+          "link": "https://www.news.cn/world/20260731/eb23ea56c96040cd82c689f82538c19a/c.html",
+          "title": "美沙空袭伊拉克民兵武装 伊总理推迟访沙",
+          "origin": "新华网",
+          "time": 1785427200
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbHSgrXH7p",
+          "title": "美沙空袭伊拉克民兵武装 伊总理推迟访沙",
+          "origin": "环球网",
+          "time": 1785457595
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/31/AP6a6c6ea5e4b0c1e500230720.html",
+          "title": "伊朗革命卫队在霍尔木兹海峡击中并扣留两艘违反禁令油轮",
+          "origin": "文汇网",
+          "time": 1785491198
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SbboFYQhGK",
+          "title": "伊朗革命卫队在霍尔木兹海峡击中并扣留两艘违反禁令油轮",
+          "origin": "环球网",
+          "time": 1785491764
+        }
+      ],
+      "summary": "当地时间7月31日，伊朗军方宣布对科威特境内的艾哈迈德·贾比尔空军基地实施无人机打击，作为对美军此前袭击伊朗格什姆岛等行动的回应。打击目标包括美军战机机库、卫星通信系统及装备仓库。伊朗军方声明指出，该基地是美军在地中海地区重要的空中后勤保障枢纽，承担大量空中与侦察作战任务。同日，伊朗伊斯兰革命卫队发布声明称，其海军在霍尔木兹海峡击中并扣留了两艘违反禁令的油轮。此前，美军已对伊拉克民兵武装发动空袭。这一系列事件导致中东地区紧张局势显著升级。"
+    },
+    {
+      "title": "苹果连续四个季度营收突破1000亿美元，库克最后一次以CEO身份主持财报会",
+      "tags": [
+        "苹果财报",
+        "库克",
+        "营收新高"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/0731/1768188.shtml",
+          "title": "15年缔造5万亿美元帝国，苹果第三季度财报今日发布：库克最后一次以CEO身份主持",
+          "origin": "站长之家",
+          "time": 1785458068
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0731/1768202.shtml",
+          "title": "库克最后一次财报电话会发言：感谢股东，苹果新CEO特努斯9月上任",
+          "origin": "站长之家",
+          "time": 1785458353
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140313.htm",
+          "title": "15年缔造5万亿美元帝国，库克最后一次以CEO身份主持财报会",
+          "origin": "快科技",
+          "time": 1785427740
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140334.htm",
+          "title": "库克最后一次财报会发言：感谢股东，新CEO特努斯9月上任",
+          "origin": "快科技",
+          "time": 1785454500
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140505.htm",
+          "title": "库克最后一舞：苹果连续四个季度营收突破1000亿美元",
+          "origin": "快科技",
+          "time": 1785484200
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0731/1768334.shtml",
+          "title": "库克最后一舞：苹果连续四个季度营收突破1000亿美元",
+          "origin": "站长之家",
+          "time": 1785485340
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "波兰确认境内坠入一枚俄制导弹，欧盟向乌克兰拨付34.7亿欧元军事支持",
+      "tags": [
+        "俄乌冲突",
+        "波兰",
+        "欧盟",
+        "军事援助"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260731/08ee9521927743c2b4d5b7cc945ca509/c.html",
+          "title": "乌克兰称收到欧盟34.7亿欧元国防援助贷款",
+          "origin": "新华网",
+          "time": 1785427200
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-31/news1063929.shtml",
+          "title": "欧盟向乌克兰拨付34.7亿欧元军事支持",
+          "origin": "中新网",
+          "time": 1785469080
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vCI1pDgAtt",
+          "title": "波兰确认境内坠入一枚俄制导弹",
+          "origin": "凤凰网",
+          "time": 1785444000
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIMZgEK3JbqkDFN3Iup3Yl260731.shtml",
+          "title": "波兰确认境内坠入一枚俄制导弹",
+          "origin": "CCTV",
+          "time": 1785470657
+        }
+      ],
+      "summary": "波兰国防部国务秘书采扎雷·托姆奇克于2026年7月30日确认，当天凌晨侵入波兰领空并坠落在该国东部卢布林省塔纳瓦－科洛尼亚附近的是一枚俄制Kh-101导弹。与此同时，欧盟向乌克兰拨付了34.7亿欧元军事支持。"
+    },
+    {
+      "title": "谷歌发布新一代机器人AI模型Gemini Robotics ER 2及最强具身推理模型",
+      "tags": [
+        "谷歌AI",
+        "具身智能",
+        "机器人技术"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8086562.html",
+          "title": "谷歌发布新一代机器人AI模型，剑指灵巧性难题",
+          "origin": "钛媒体",
+          "time": 1785473820
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vC6LX7lzvs",
+          "title": "谷歌发布新一代机器人AI模型 剑指灵巧性难题",
+          "origin": "凤凰科技",
+          "time": 1785436658
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571030.htm",
+          "title": "DeepMind推出Gemini Robotics ER 2模型 实现多机器人协同作业",
+          "origin": "cnBeta",
+          "time": 1785454980
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140336.htm",
+          "title": "谷歌最强具身推理模型：Gemini Robotics ER 2登场",
+          "origin": "快科技",
+          "time": 1785454860
+        }
+      ],
+      "summary": "谷歌DeepMind于7月31日发布新一代机器人AI模型，包括Gemini Robotics 2和Gemini Robotics ER 2。Gemini Robotics 2首次实现人形机器人全身控制，可完成行走、下蹲、操控物体等动作，并结合推理能力自主完成任务。在演示中，该模型操控Apptronik公司的人形机器人Apollo穿过房间、拿起洒水壶放到架子上，并避开障碍物。同时发布的Gemini Robotics ER 2被定位为机器人的推理系统，负责规划多步骤任务并协调多个机器人协作，是谷歌最强的具身推理模型。该模型支持连续视频理解，机器人可追踪自身任务进度，在出错时调整或重试，并准确判断下一步时机。在任务进度分类测试中，准确率为57.4%；在关键时刻定位测试中，准确率达91.3%，平均时间误差0.96秒。此外，在灵巧性测试中，系统完成拧下灯泡任务的成功率为92%，但更复杂的操作如扎垃圾袋等成功率仍较低。两款模型可协同工作也可独立运行。"
+    },
+    {
+      "title": "熊本7.1级强震冲击芯片厂，瑞萨率先复工；台积电泄密案主犯工程师被判刑10年",
+      "tags": [
+        "日本地震",
+        "芯片产业",
+        "台积电"
+      ],
+      "links": [
+        {
+          "link": "http://www.infzm.com/contents/327455",
+          "title": "日本熊本强震再起：十年两震，首日余震近200次",
+          "origin": "南方周末",
+          "time": 1785474000
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140375.htm",
+          "title": "熊本7.1级强震冲击芯片厂，瑞萨率先复工",
+          "origin": "快科技",
+          "time": 1785463920
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140330.htm",
+          "title": "台积电泄密案新进展：主犯工程师被判刑10年",
+          "origin": "快科技",
+          "time": 1785452700
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vCTDdfuHqm",
+          "title": "台积电泄密案新进展：主犯工程师被判刑10年",
+          "origin": "凤凰科技",
+          "time": 1785457193
+        }
+      ],
+      "summary": "日本熊本县于2026年7月28日发生7.1级强震，震源深度约10公里，九州地区震感强烈。此次地震与2016年熊本地震同属走滑型断层破裂，发震机制高度相似。截至7月30日，地震已造成34人死亡、5人重伤，九州新干线一度停运，熊本部分地区断水断电。震后不到一天内，当地记录到近200次有感余震，并出现震度5弱的强余震。位于九州及周边的鹿儿岛川内核电站、佐贺玄海核电站及爱媛伊方核电站均未发现异常。半导体产业方面，地震对当地芯片厂造成冲击，但瑞萨电子已率先复工。此外，台积电泄密案有新进展，前工程师陈力铭因窃取并外泄2纳米等关键制程机密数据，被台湾智慧财产及商业法院一审判处有期徒刑10年，与其同案的其他三名工程师分别被判2至6年不等。陈力铭及部分同案被告上诉后，台湾最高法院于7月30日驳回上诉，判决确定，将直接发监执行。"
+    },
+    {
+      "title": "重庆彭水山体崩塌致51人遇难10人失联，内蒙古在建项目塌方致4人死亡",
+      "tags": [
+        "自然灾害",
+        "安全事故",
+        "救援"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTI4S0MCcX5dKSlniMWM5sN260731.shtml",
+          "title": "内蒙古一在建项目塌方致4人死亡 事故责任人已被控制",
+          "origin": "CCTV",
+          "time": 1785480625
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/31/content_118627902.shtml",
+          "title": "内蒙古一在建项目塌方致4人死亡 事故责任人已被控制",
+          "origin": "中国网",
+          "time": 1785491736
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-31/10669579.shtml",
+          "title": "重庆彭水山体崩塌找到并确认51人遇难 10人失联",
+          "origin": "中新网",
+          "time": 1785450420
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/31/content_556554.html",
+          "title": "重庆彭水山体崩塌已致51人遇难，仍有10人失联",
+          "origin": "科技日报",
+          "time": 1785455395
+        }
+      ],
+      "summary": "重庆彭水县汉葭街道发生山体崩塌灾害，已造成51人遇难，仍有10人失联。灾害发生后，市、县两级启动一级应急响应，调集1080余名救援人员及2300余台套装备，持续搜寻325小时，爆破巨石1.78万方，翻挖渣石33.4万方，并在下游60公里水域反复搜寻。目前陆上区域已搜寻完毕，乌江水域清淤搜寻仍在进行。共疏散群众1100余人，救出10人，其中3人已出院。善后及灾后重建工作有序推进。\n\n内蒙古乌兰察布市卓资县一在建压缩空气储能项目施工隧道发生塌方事故，截至7月31日12时，救援工作结束，事故造成4人死亡。事故相关责任人已被控制，内蒙古自治区政府已成立调查组，善后工作正在开展。"
+    },
+    {
+      "title": "联合国秘书长遴选首轮意向性投票举行，中国赴两任务区维和警队出征",
+      "tags": [
+        "联合国",
+        "秘书长遴选",
+        "维和"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/31/ARTIa2fTaJtXTlxMPdIJAbH3260731.shtml",
+          "title": "安理会举行联合国秘书长遴选首轮意向性投票",
+          "origin": "CCTV",
+          "time": 1785437167
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-31/news1063912.shtml",
+          "title": "联合国秘书长遴选首轮意向性投票举行",
+          "origin": "中新网",
+          "time": 1785468060
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/31/content_118627643.shtml",
+          "title": "中国赴联合国两任务区维和警队出征仪式举行",
+          "origin": "中国网",
+          "time": 1785473738
+        },
+        {
+          "link": "https://www.news.cn/world/20260731/794bf93578334ed88de84f0af7b3a40c/c.html",
+          "title": "中国赴联合国两任务区维和警队出征仪式举行",
+          "origin": "新华网",
+          "time": 1785427200
+        }
+      ],
+      "summary": "联合国安理会于2026年7月30日举行下一任秘书长遴选首轮意向性投票。同日，中国赴联合国中非任务区和塞浦路斯任务区的维和警队出征仪式在北京举行。两支警队共7名队员，来自公安部常备维和警队和地方公安机关，经多轮严格筛选及强化训练，以优异成绩通过联合国维和单警甄选考核。他们将从北京出发，前往任务区执行"
+    },
+    {
+      "title": "日本央行行长称将视情况加快加息，日元急涨引发再度干预汇市猜测",
+      "tags": [
+        "日本央行",
+        "加息",
+        "汇率干预"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniksaip0890814.shtml",
+          "title": "日元在纽约交易时段大涨 日本据悉在央行决议前再度干预汇市",
+          "origin": "新浪新闻",
+          "time": 1785455021
+        },
+        {
+          "link": "https://database.caixin.com/2026-07-31/102469800.html",
+          "title": "日元急涨引发日本再度干预汇市猜测",
+          "origin": "财新",
+          "time": 1785458847000
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778410",
+          "title": "日本央行行长：将视情况继续加息、节奏可能加快，汇率对通胀的影响比以往更大",
+          "origin": "华尔街见闻",
+          "time": 1785485195
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-31/doc-iniksxpf4433323.shtml",
+          "title": "日本央行行长：将视情况继续加息、节奏可能加快，汇率对通胀的影响比以往更大",
+          "origin": "新浪新闻",
+          "time": 1785488282
+        }
+      ],
+      "summary": "日本央行行长植田和男在7月31日议息会议后表示，央行将视经济形势继续加息，若金融环境过度宽松，加息节奏可能加快。他指出潜在通胀已接近2%目标，需更警惕价格上涨风险，汇率对通胀的影响比以往更加显著，需密切监测。日本央行本次会议维持基准利率于1%不变，但小幅上调经济增长预测，审议委员高田创投唯一反对票主张连续加息。在央行决议前一日，日元在纽约交易时段大幅上涨，兑美元汇率一度攀升3.3%，创2023年12月以来最大单日涨幅。市场消息人士透露，日本当局在央行议息前再次出手干预汇市，美国财长贝森特表示日元被严重低估，过度波动不健康。日本首席汇率官三村淳称日本从美国获得的支持不仅限于道义层面，引发市场对协调干预的猜测。尽管如此，受美日利差主导，套息交易逻辑未变，日元升值更多依赖官方干预而非利差收窄。市场预计日本央行最快可能于10月再次"
+    }
+  ]
+}

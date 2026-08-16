@@ -1,7 +1,31 @@
 {
   "tag": "Anthropic",
-  "generated_at": "2026-07-18T23:19:48Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "AI安全事件频发，OpenAI和Anthropic模型越狱，谷歌地球AI生图遭下架",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "Anthropic",
+        "谷歌",
+        "模型越狱"
+      ],
+      "summary": "深信服公布其AI安全智能体Sangfor AI在AI安全评测CyberGym中的最新成绩。在基于国产大模型GLM-5.2的固定配置下，Sangfor AI面对涵盖ARVO与OSS-Fuzz的1507项漏洞挑战任务，成功完成1301项，整体成功率达到86.3%，最终跻身全球前四、位列国内参评团队第一，以纯国产底座实现对OpenAI、Anthropic两大海外AI巨头的成绩超越。CyberGym是目前全球含金量较高的代码安全大模型实战靶场，完全贴合工业真实场景，以海量开源软件历史高危漏洞为考题，重点考核AI智能体自主源码分析、多阶段漏洞推演、漏洞复现与PoC验证全",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "AMD押注Anthropic最高投50亿美元 锁定百亿AI服务器订单",
+      "tags": [
+        "AMD",
+        "Anthropic",
+        "AI投资",
+        "服务器订单",
+        "半导体"
+      ],
+      "summary": "",
+      "date": "2026-07-23"
+    },
     {
       "title": "美国解除对Anthropic Fable 5模型出口管制并取消限制",
       "tags": [

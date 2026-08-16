@@ -1,7 +1,41 @@
 {
   "tag": "收购",
-  "generated_at": "2026-07-18T23:19:48Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "AMD宣布收购AI推理芯片初创公司Taalas，解锁模型刻进硅片",
+      "tags": [
+        "AMD",
+        "收购",
+        "AI芯片",
+        "Taalas"
+      ],
+      "summary": "",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Google拟超15亿美元收购AI编程代理公司Mechanize，英特尔持仓OpenAI收益82亿美元",
+      "tags": [
+        "收购",
+        "AI编程",
+        "谷歌",
+        "英特尔",
+        "OpenAI"
+      ],
+      "summary": "",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Netflix以5.87亿美元收购本·阿弗莱克创办的AI初创公司InterPositive",
+      "tags": [
+        "Netflix",
+        "AI",
+        "收购",
+        "电影"
+      ],
+      "summary": "Netflix在最新提交的监管文件中披露，以5.87亿美元现金收购了由演员兼导演本·阿弗莱克共同创立的人工智能初创公司InterPositive。该公司开发的AI工具主要服务于影视后期制作，可解决补拍缺失镜头、替换背景、修正灯光等实际拍摄中的问题。Netflix于今年3月宣布此项收购，当时未公开具体金额。根据协议，InterPositive整个团队将加入Netflix，阿弗莱克将以高级顾问身份参与工作。Netflix在最新财报中表示，目前已有约300部影视作品使用了生成式人工智能技术，公司正在探索利用AI提升制作效率并降低部分后期制作成本。",
+      "date": "2026-07-20"
+    },
     {
       "title": "施耐德电气以31亿美元收购工业AI公司Cognite",
       "tags": [

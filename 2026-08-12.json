@@ -1,0 +1,587 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T13:26:12Z",
+  "summary": [
+    {
+      "title": "苹果弃M6转攻M7芯片，iOS27确认国行AI功能并可能收费",
+      "tags": [
+        "苹果",
+        "AI",
+        "芯片",
+        "iOS27",
+        "收费"
+      ],
+      "links": [
+        {
+          "link": "https://www.caixin.com/2026-08-11/102473256.html",
+          "title": "英伟达联合六家金融机构建立AI算力融资平台 引入5000亿美元第三方资本",
+          "origin": "财新",
+          "time": 1786460636000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzivx4137955.shtml",
+          "title": "英伟达拉华尔街巨头组团筹5000亿美元支持AI基建 信用市场暂获安抚",
+          "origin": "新浪新闻",
+          "time": 1786501076
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3779235",
+          "title": "黄仁勋的5000亿美元：如果收益既有算力租金还有AI Venture分成？",
+          "origin": "华尔街见闻",
+          "time": 1786494014
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143193.htm",
+          "title": "苹果放弃M6高阶芯片 主攻新一代M7：AI算力竞争是首要诱因",
+          "origin": "快科技",
+          "time": 1786521720
+        },
+        {
+          "link": "https://www.oschina.net/news/501899/nvidias-risky-business",
+          "title": "黄仁勋的豪赌：当 AI 算力成为可投资的资产类别",
+          "origin": "oschina",
+          "time": 1786516560
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWjCAuj0Wy",
+          "title": "马斯克上天之后，AI算力又瞄准了大海",
+          "origin": "凤凰科技",
+          "time": 1786507959
+        },
+        {
+          "link": "https://www.huxiu.com/article/4882503.html",
+          "title": "马斯克上天之后，AI算力又瞄准了大海",
+          "origin": "虎嗅",
+          "time": 1786523282
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0812/1770476.shtml",
+          "title": "iOS 27代码确认：国行AI功能要上线了，iPhone 15 Pro及以上都能用",
+          "origin": "站长之家",
+          "time": 1786495769
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vVuNXGs83c",
+          "title": "iOS 27代码确认：国行AI功能要上线了，iPhone 15 Pro及以上都能用",
+          "origin": "凤凰科技",
+          "time": 1786464060
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572822.htm",
+          "title": "iOS 27代码确认国行AI功能要上线了 iPhone 15 Pro及以上都能用",
+          "origin": "cnBeta",
+          "time": 1786494480
+        },
+        {
+          "link": "https://www.ifanr.com/1674897",
+          "title": "iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱",
+          "origin": "爱范儿",
+          "time": 1786518237
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWwywRD9ZZ",
+          "title": "iOS 27曝光苹果AI收费：想让iPhone更聪明？得加钱",
+          "origin": "凤凰科技",
+          "time": 1786520096
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "国产大飞机C919首航国际商业航线，完成首飞并获水门迎接",
+      "tags": [
+        "C919",
+        "航空",
+        "国际航线"
+      ],
+      "links": [
+        {
+          "link": "https://politics.gmw.cn/2026-08/12/content_38939788.htm",
+          "title": "C919首条国际航线将开通",
+          "origin": "光明网",
+          "time": 1786510531
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/08-12/10676257.shtml",
+          "title": "C919首条国际航线将开通",
+          "origin": "中新网",
+          "time": 1786505340
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SlLYpPj1nl",
+          "title": "C919首条国际航线将开通",
+          "origin": "环球网",
+          "time": 1786505605
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/08-12/1200871.shtml",
+          "title": "C919首条国际航线开通",
+          "origin": "中新网",
+          "time": 1786523280
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1786519015129426.html",
+          "title": "C919首条国际航线开通",
+          "origin": "新京报",
+          "time": 1786519129
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-08-12/doc-inimzivr6975975.shtml",
+          "title": "国产大飞机C919今起首次执飞常态化国际商业航线",
+          "origin": "新浪新闻",
+          "time": 1786499615
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572848.htm",
+          "title": "国产大飞机C919今起首次执飞常态化国际商业航线",
+          "origin": "cnBeta",
+          "time": 1786500840
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-12/10676463.shtml",
+          "title": "C919圆满完成首次国际商业航班飞行",
+          "origin": "中新网",
+          "time": 1786525320
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1786525203129611.html",
+          "title": "C919圆满完成首次国际商业航班飞行",
+          "origin": "新京报",
+          "time": 1786525239
+        },
+        {
+          "link": "http://news.china.com.cn/2026-08/12/content_118644244.shtml",
+          "title": "C919首条国际航线将开通，飞往蒙古首都乌兰巴托",
+          "origin": "中国网",
+          "time": 1786510531
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143195.htm",
+          "title": "C919首条国际航线开通，民航最高礼仪水门迎接",
+          "origin": "快科技",
+          "time": 1786522080
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "淡马锡据报考虑直接投资SK海力士和三星电子，韩芯片股大涨",
+      "tags": [
+        "淡马锡",
+        "芯片",
+        "投资",
+        "韩国"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8100231.html",
+          "title": "SK海力士和三星电子股价大涨，淡马锡据报考虑直接投资韩国芯片巨头",
+          "origin": "钛媒体",
+          "time": 1786510680
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyaak5781264.shtml",
+          "title": "消息称 SK 海力士大连 NAND 闪存二厂重启建设，将令当地产能提高五成",
+          "origin": "新浪新闻",
+          "time": 1786499216
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzqcs5389738.shtml",
+          "title": "SK海力士和三星电子股价大涨 淡马锡据报考虑直接投资韩国芯片巨头",
+          "origin": "新浪新闻",
+          "time": 1786510250
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572870.htm",
+          "title": "淡马锡据报考虑直接投资韩国芯片巨头 SK海力士和三星电子股价大涨",
+          "origin": "cnBeta",
+          "time": 1786514640
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWPPBscPBS",
+          "title": "卡位长江、长鑫，海力士重启中国NAND闪存工厂建设 将产能扩大约50%",
+          "origin": "凤凰科技",
+          "time": 1786492682
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572798.htm",
+          "title": "SK海力士计划2027年将中国工厂的NAND闪存产量提升50%",
+          "origin": "cnBeta",
+          "time": 1786492920
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzqcp6893021.shtml",
+          "title": "淡马锡计划投资三星电子和SK海力士",
+          "origin": "新浪新闻",
+          "time": 1786503432
+        }
+      ],
+      "summary": "据新加坡媒体报道，新加坡国有投资公司淡马锡正考虑直接投资韩国芯片巨头三星电子和SK海力士，而非通过外部资产管理公司进行间接投资。据知情人士透露，淡马锡计划通过其内部投资团队直接入股这两家芯片制造商，目前正在考虑合适的入场时机，并已与韩国政府方面就投资时机进行沟通。受此消息影响，韩国芯片股在周三出现强劲反弹，三星电子和SK海力士股价均大涨逾8%，韩国Kospi指数一度上涨5.1%。该报道引发市场对韩国半导体行业前景的乐观情绪，但相关投资计划尚未得到淡马锡或两家企业的官方确认，具体投资规模和投资细节仍待披露。"
+    },
+    {
+      "title": "宇树人形机器人产量达1.8万台，IPO获978万户抢购",
+      "tags": [
+        "宇树科技",
+        "机器人",
+        "IPO"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/988851.htm",
+          "title": "宇树科技宣布人形机器人累计下线约 18000 台",
+          "origin": "IT之家",
+          "time": 1786525737
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8100916.html",
+          "title": "宇树人形机器人累计生产下线约1.8万台",
+          "origin": "钛媒体",
+          "time": 1786526820
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-12/doc-inimzyti6873398.shtml",
+          "title": "宇树人形机器人累计生产下线约18000台",
+          "origin": "新浪新闻",
+          "time": 1786527981
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3779268",
+          "title": "978万户散户抢购宇树科技，谁中签了？梁文锋浮盈7亿元？",
+          "origin": "华尔街见闻",
+          "time": 1786518494
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWvu99tl21",
+          "title": "978万户散户抢购宇树科技，谁中签了？",
+          "origin": "凤凰科技",
+          "time": 1786520114
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWY82Q7HFE",
+          "title": "中一签或赚20万 宇树科技中签结果公布，股民：计划全款买小米汽车",
+          "origin": "凤凰科技",
+          "time": 1786512525
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143130.htm",
+          "title": "或赚20万 宇树科技中签结果公布，股民：要全款买小米汽车",
+          "origin": "快科技",
+          "time": 1786512480
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "中方严斥美国炮制弹道导弹发射通报涉华共同发言",
+      "tags": [
+        "中美",
+        "军事",
+        "外交"
+      ],
+      "links": [
+        {
+          "link": "http://news.china.com.cn/2026-08/12/content_118643729.shtml",
+          "title": "中方严斥美国炮制\"弹道导弹发射通报\"涉华共同发言",
+          "origin": "中国网",
+          "time": 1786496132
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-12/10676080.shtml",
+          "title": "中方严斥美国炮制弹道导弹发射通报涉华共同发言",
+          "origin": "中新网",
+          "time": 1786487460
+        },
+        {
+          "link": "https://www.news.cn/world/20260812/ac398e4ffcb7467899447c5ad33c5d93/c.html",
+          "title": "中方严斥美国炮制弹道导弹发射通报涉华共同发言",
+          "origin": "新华网",
+          "time": 1786464000
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1786489724129867.html",
+          "title": "中方严斥美国炮制弹道导弹发射通报涉华共同发言",
+          "origin": "新京报",
+          "time": 1786489783
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/12/AP6a7bc2a7e4b0c1e500247ec2.html",
+          "title": "中方严斥美国炮制弹道导弹发射通报涉华共同发言",
+          "origin": "文汇网",
+          "time": 1786495773
+        }
+      ],
+      "summary": "中国裁军事务大使李驰江8月11日在日内瓦裁军谈判会议全体会议上，严正驳斥美国等国发表的所谓弹道导弹发射通报涉华共同发言。该发言无端指责中国7月进行的潜射洲际弹道导弹试射。李驰江指出，美方为一己政治私利，诱拉包括非裁谈会成员国在内的一些国家参加共同发言，对中方提前通报导弹试射的善意举动吹毛求疵，是典型的政治操弄和赤裸裸的双重标准，中方坚决反对。他强调，美方援引防止弹道导弹扩散海牙行为准则要求中方提前通报，但中方并非该准则成员，不受其约束。中方始终安全、规范、负责任地开展洲际弹道导弹试射，并提前向美国等国通报，采取审慎合理措施，未损害任何国家利益，体现了善意和负责任态度，不应被地缘政治算计绑架。"
+    },
+    {
+      "title": "阿里云上线灵骏真武M890超节点实例，可承载十万亿参数模型",
+      "tags": [
+        "阿里云",
+        "AI",
+        "大模型"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/988688.htm",
+          "title": "国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线",
+          "origin": "IT之家",
+          "time": 1786505238
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-08-12/doc-inimzivu5426848.shtml",
+          "title": "阿里云：灵骏真武M890超节点实例上线，可承载十万亿参数模型",
+          "origin": "新浪新闻",
+          "time": 1786502449
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWdgy4mUFz",
+          "title": "阿里云上线灵骏真武M890超节点实例，可承载十万亿参数模型",
+          "origin": "凤凰科技",
+          "time": 1786503649
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143125.htm",
+          "title": "阿里云灵骏真武M890超节点上线 可运行超2万亿参数大模型",
+          "origin": "快科技",
+          "time": 1786510140
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "中国最大端侧模型独角兽面壁智能启动IPO",
+      "tags": [
+        "面壁智能",
+        "IPO",
+        "AI",
+        "端侧模型"
+      ],
+      "links": [
+        {
+          "link": "https://www.caixin.com/2026-08-12/102473442.html",
+          "title": "端侧模型企业面壁智能启动IPO辅导 最新估值超200亿元",
+          "origin": "财新",
+          "time": 1786528710000
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWvu99tl0o",
+          "title": "中国最大端侧模型独角兽，启动IPO",
+          "origin": "凤凰科技",
+          "time": 1786501803
+        },
+        {
+          "link": "https://m.ithome.com/html/988581.htm",
+          "title": "AI 公司面壁智能启动 IPO",
+          "origin": "IT之家",
+          "time": 1786496023
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8099645.html",
+          "title": "面壁智能启动IPO",
+          "origin": "钛媒体",
+          "time": 1786496340
+        }
+      ],
+      "summary": "端侧模型企业北京面壁智能科技股份有限公司于2026年8月11日向北京证监局提交IPO上市辅导备案，辅导机构为中信证券，最新估值超过200亿元。公司计划于年底前上市，目前正在进行股份制改造。面壁智能或将成为首个适用科创板第五套上市标准的大模型企业。根据上交所6月17日发布的指引，该标准要求企业在申报时至少有一个大模型产品已完成上线发布并实现规模化应用。辅导备案报告显示，该公司无控股股东，第一大股东为北京清语启航科技中心（有限合伙），持股比例16.45%。"
+    },
+    {
+      "title": "美国撤销联邦政府设备使用TikTok禁令",
+      "tags": [
+        "TikTok",
+        "美国",
+        "科技政策"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vX3mzcIRsB",
+          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
+          "origin": "凤凰网",
+          "time": 1786525320
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/12/ARTI5e1cuwjUvtmuWoRBKrG2260812.shtml",
+          "title": "美国撤销联邦政府设备使用TikTok禁令",
+          "origin": "CCTV",
+          "time": 1786524137
+        },
+        {
+          "link": "https://www.news.cn/world/20260812/1ed3975c01a4424d8a43b51ba656fb22/c.html",
+          "title": "美国撤销联邦政府设备使用TikTok禁令",
+          "origin": "新华网",
+          "time": 1786464000
+        }
+      ],
+      "summary": "美国政府已撤销一项禁止在联邦政府设备上使用短视频社交平台TikTok的指令。据美国彭博社报道，白宫管理和预算办公室于8月10日在一份备忘录中撤销了2023年发布的该指令，此前美国司法部已出具书面意见，结论是TikTok不再属于相关法律定义的受管制应用。撤销原因是TikTok美国业务重组后已不再构成国家安全威胁。自2022年底以来，美国联邦政府及多个州曾以数据安全为由，禁止在政府电子设备上使用TikTok。此次撤销意味着联邦政府设备上可重新使用TikTok。"
+    },
+    {
+      "title": "全球存储芯片供应趋紧，内存合约价格向二三线厂商扩散",
+      "tags": [
+        "存储芯片",
+        "涨价",
+        "供应链"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143082.htm",
+          "title": "全球存储芯片供应趋紧：内存长协议逐步向二三线厂商扩散",
+          "origin": "快科技",
+          "time": 1786501200
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vWc2HWpIuC",
+          "title": "全球存储芯片供应趋紧：内存长协议逐步向二三线厂商扩散",
+          "origin": "凤凰科技",
+          "time": 1786501223
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzivr7003524.shtml",
+          "title": "全球存储芯片供应趋紧：内存长协议逐步向二三线厂商扩散",
+          "origin": "新浪新闻",
+          "time": 1786528585
+        }
+      ],
+      "summary": "全球存储芯片供应紧张态势持续升级，长期供应协议（LTA）的覆盖范围已从三星、SK海力士与美光三大原厂，快速延展至闪迪及中国长鑫存储。\n\n据外媒报道，苹果公司曾试图与长鑫存储就DRAM采购价展开谈判，希望争取更低报价，但遭到后者断然拒绝。长鑫存储坚持其报价不得低于三星电子和SK海力士的同期水平，甚至要求更高。"
+    },
+    {
+      "title": "新能源汽车月度新车销量占比首超60%",
+      "tags": [
+        "新能源汽车",
+        "销量"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8100919.html",
+          "title": "7月中国新能源汽车新车销量占比首超60%",
+          "origin": "钛媒体",
+          "time": 1786527000
+        },
+        {
+          "link": "https://jingji.cctv.com/2026/08/12/ARTIpIkAEZDXAqYGtnFUGtDa260812.shtml",
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "origin": "CCTV",
+          "time": 1786516566
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260812/56986a184f9044b399603d4c85643ede/c.html",
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "origin": "新华网",
+          "time": 1786464000
+        }
+      ],
+      "summary": "据中国汽车工业协会发布的数据，2026年7月，我国新能源汽车月度新车销量占比首次超过60%，累计占比也首次超过50%。当月新能源汽车产销分别完成157.6万辆和156.1万辆，同比分别增长26.8%和23.7%，其中纯电动汽车产销量均超过100万辆，同比增长"
+    },
+    {
+      "title": "AI智能体失控引担忧，英伟达等120家组织提议建立事故追踪机制",
+      "tags": [
+        "AI安全",
+        "智能体",
+        "英伟达"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vWPPBscPFK",
+          "title": "AI智能体失控引担忧 英伟达等120家组织提议建立事故追踪机制",
+          "origin": "凤凰科技",
+          "time": 1786491859
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572834.htm",
+          "title": "AI智能体失控引担忧 英伟达等120家组织提议建立事故追踪机制",
+          "origin": "cnBeta",
+          "time": 1786494660
+        }
+      ],
+      "summary": "由英伟达、思科和CrowdStrike等超过120家组织组成的联盟，正提议为AI智能体建立一套全新的事故报告机制，要求参与企业披露特定智能体故障，并保留详细的事故原因记录。随着AI智能体自主执行任务能力增强，行业缺乏标准化安全故障上报方式，近期包括OpenAI在内的多家公司已披露智能体失控事件。英伟达牵头的开放安全AI联盟正在制定名为共享AI发现交换机制的指导方针，用于规范各组织如何报告涉及AI智能体的网络安全事件。草案呼吁模型部署方、AI开发者、云服务与工具提供商、独立研究人员、关键基础设施运营商等共同参与，政府机构可作为非控制性观察员加入。成员需报告AI系统未经授权访问或利用第三方系统、泄露机密信息，或在怀疑活动未经授权后"
+    },
+    {
+      "title": "黄仁勋澄清5000亿美元融资计划，称芯片已是投资级资产",
+      "tags": [
+        "英伟达",
+        "融资",
+        "芯片"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vWejx6akf1",
+          "title": "黄仁勋打通了华尔街的六个电话，英伟达从此不再只是一家芯片公司",
+          "origin": "凤凰科技",
+          "time": 1786504860
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143074.htm",
+          "title": "黄仁勋亲自澄清5000亿美元融资计划：芯片已是投资级资产",
+          "origin": "快科技",
+          "time": 1786499100
+        }
+      ],
+      "summary": "英伟达近日宣布与贝莱德、黑石、高盛、KKR、阿波罗和博枫六家全球顶级资产管理机构达成合作，共同搭建一个独立的算力融资平台，目标是为AI企业购买芯片和建设数据中心撬动超过5000亿美元的第三方资本。英伟达创始人兼CEO黄仁勋表示，此举旨在将GPU及数据中心等AI计算基础设施重新定义为类似商业地产、收费公路的可投资资产类别，因为这些硬件已具备生产能力、长使用寿命、可互换性等金融产品所需的流动性属性，能够持续产生稳定收入流。\n\n该计划公布后，市场出现分歧。英伟达股价一度下跌，信用违约互换利差上升，部分分析师和投资者质疑这是循环融资，即英伟达帮客户筹钱买自家芯片，相当于左手倒右手，并担忧AI泡沫风险。对此，黄仁勋亲自澄清，强调5000亿美元是长期动员目标，并非英伟达收入或单一基金承诺；每家金融机构将独立评估客户需求、使用率和资产残值，英伟达在部分项目中最多仅提供25%的残值支持。摩根士丹利也表态称该结构从机制上化解了循环"
+    },
+    {
+      "title": "安理会巴以问题紧急公开会上中方提出三个必须",
+      "tags": [
+        "巴以",
+        "安理会",
+        "中国"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vX0dRXKpp3",
+          "title": "安理会巴以问题紧急公开会上，中方提出三个必须",
+          "origin": "凤凰网",
+          "time": 1786520040
+        },
+        {
+          "link": "https://www.news.cn/world/20260812/ebca5794c02f4107b1a59131cfc06085/c.html",
+          "title": "安理会巴以问题紧急公开会上，中方提出三个必须",
+          "origin": "新华网",
+          "time": 1786464000
+        }
+      ],
+      "summary": "中国常驻联合国代表傅聪11日在安理会巴以问题紧急公开会上发言，敦促国际社会全力遏制冲突暴力。傅聪表示，中方对近期巴勒斯坦被占领土局势升级深感担忧，对持续暴力造成越来越多平民伤亡深感痛心，强调巴勒斯坦问题不能被忽视和边缘化。\n\n傅聪指出，约旦河西岸和加沙局势急剧恶化，根源在于国际法基本原则未得到遵守，巴勒斯坦人民的生存权和发展权长期遭到漠视。国际社会必须凝聚共识，纠正否认、侵犯巴勒斯坦正当权利的错误言行，维护国际公道正义。\n\n在约旦河西岸问题上，傅聪要求以色列必须停止定居点活动，遏制定居者暴力，确保严肃问责。在加沙问题上，他呼吁以色列和有关各方真诚、全面履行加沙停火协议，遵守国际人道法，解除人道物资准入限制，并呼吁对当事方有重要影响的国家采取切实行动缓和局势。\n\n傅聪"
+    },
+    {
+      "title": "中国海军第49批护航编队起航赴亚丁湾",
+      "tags": [
+        "中国海军",
+        "护航"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-12/10676266.shtml",
+          "title": "中国海军第49批护航编队起航赴亚丁湾",
+          "origin": "中新网",
+          "time": 1786505940
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/12/content_562840.html",
+          "title": "中国海军第49批护航编队起航赴亚丁湾",
+          "origin": "科技日报",
+          "time": 1786519274
+        }
+      ],
+      "summary": "中国海军第49批护航编队于2026年8月12日上午从海南三亚某军港解缆起航，赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。上午10时30分许，在军乐声中，编队舰艇依次解缆驶离码头，护航官兵在甲板上列队向祖国和亲人告别。该编队主要由南部战区海军兵力组成，包括导弹驱逐舰昆明舰、"
+    },
+    {
+      "title": "腾讯Q2营收破2047亿，混元Hy3调用暴涨68倍",
+      "tags": [
+        "腾讯",
+        "财报",
+        "AI"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143214.htm",
+          "title": "腾讯Q2营收破2047亿 混元Hy3调用暴涨68倍",
+          "origin": "快科技",
+          "time": 1786525080
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0812/1770651.shtml",
+          "title": "腾讯Q2营收破2047亿 混元Hy3调用暴涨68倍",
+          "origin": "站长之家",
+          "time": 1786527981
+        }
+      ],
+      "summary": "腾讯控股发布2026年第二季度财报，期内实现营收2047.9亿元，同比增长11%；非国际财务报告准则经营利润为756.4亿元，同比增长9%。若剔除新AI产品的影响，经营利润同比增长19%至861亿元。"
+    }
+  ]
+}

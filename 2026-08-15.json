@@ -1,0 +1,820 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T12:52:48Z",
+  "summary": [
+    {
+      "title": "日本高市早苗供奉靖国神社玉串料，防卫相小泉进次郎参拜靖国神社，韩国表示深切遗憾",
+      "tags": [
+        "日本",
+        "靖国神社",
+        "韩国",
+        "外交"
+      ],
+      "links": [
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-15/4542825.html",
+          "title": "日本首相高市早苗向靖国神社供奉玉串料 ，多名内阁成员参拜靖国神社，自民党高层首",
+          "origin": "每经网",
+          "time": 1786753343
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbNcWaUREA",
+          "title": "战败投降日，高市早苗向靖国神社供奉祭祀费，多名政要拜鬼",
+          "origin": "凤凰网",
+          "time": 1786749960
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260815/49676384.html",
+          "title": "高市早苗向靖国神社供奉玉串料 引发广泛关注",
+          "origin": "中国网",
+          "time": 1786752371
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/6e76da810c984062a05a3b7cc097e8f5/c.html",
+          "title": "高市早苗向靖国神社供奉玉串料",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678027.shtml",
+          "title": "高市早苗向靖国神社供奉玉串料",
+          "origin": "中新网",
+          "time": 1786753980
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a7fab3be4b0c1e50024e9b9.html",
+          "title": "高市早苗向靖国神社供奉玉串料",
+          "origin": "文汇网",
+          "time": 1786752327
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260815/49676707.html",
+          "title": "高市早苗向靖国神社供奉 中方抗议 引发强烈反对",
+          "origin": "中国网",
+          "time": 1786764027
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678230.shtml",
+          "title": "日媒称高市早苗遥拜靖国神社 多名政客拜鬼遭多方反对",
+          "origin": "中新网",
+          "time": 1786781280
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678131.shtml",
+          "title": "高市早苗向靖国神社供奉玉串料 内阁大臣及自民党高层多人参拜",
+          "origin": "中新网",
+          "time": 1786777380
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbx3pLHsv3",
+          "title": "高市早苗第一个战败日，果然露出了底色",
+          "origin": "凤凰网",
+          "time": 1786779360
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbv3MfQtMV",
+          "title": "高市早苗遥拜靖国神社",
+          "origin": "凤凰网",
+          "time": 1786777380
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-15/4542922.html",
+          "title": "绝口不提反省，高市早苗：日本要做印太灯塔，成为值得信赖的国家，小泉进次郎拜",
+          "origin": "每经网",
+          "time": 1786770939
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260815/49677004.html",
+          "title": "高市早苗遥拜靖国神社 引发广泛关注",
+          "origin": "中国网",
+          "time": 1786783833
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-15/10678140.shtml",
+          "title": "中方强烈谴责日方涉靖国神社消极动向 提出严正交涉强烈抗议",
+          "origin": "中新网",
+          "time": 1786768200
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhq3625790.shtml",
+          "title": "严正交涉、强烈抗议，外交部回应日本政要参拜供奉靖国神社",
+          "origin": "新浪新闻",
+          "time": 1786764195
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1160478&sid=21",
+          "title": "韩国执政党与在野党对日本官员参拜靖国神社表示深切遗憾",
+          "origin": "上观",
+          "time": 1786766324
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678126.shtml",
+          "title": "韩国执政党与在野党对日本官员参拜靖国神社表示深切遗憾",
+          "origin": "中新网",
+          "time": 1786767240
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbgd6Jm0kp",
+          "title": "日本政要参拜靖国神社，韩国朝野怒了",
+          "origin": "凤凰网",
+          "time": 1786765320
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnqkoJQVg5",
+          "title": "韩国执政党与在野党对日本官员参拜靖国神社表示深切遗憾",
+          "origin": "环球网",
+          "time": 1786766212
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnqFnOg4LT",
+          "title": "日本政要参拜靖国神社，韩国朝野怒了",
+          "origin": "环球网",
+          "time": 1786765371
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnqFIlBO7A",
+          "title": "韩国朝野一致谴责日本政要参拜靖国神社：逆时代潮流的挑衅",
+          "origin": "环球网",
+          "time": 1786765358
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnooHXpLbs",
+          "title": "日政要向靖国神社供奉祭祀费或参拜 受到和平人士反对",
+          "origin": "环球网",
+          "time": 1786762947
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678017.shtml",
+          "title": "日本防卫大臣小泉进次郎参拜靖国神社",
+          "origin": "中新网",
+          "time": 1786747860
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbKCK8iKTh",
+          "title": "日本防相小泉进次郎参拜靖国神社",
+          "origin": "凤凰网",
+          "time": 1786746900
+        }
+      ],
+      "summary": "8月15日是日本宣布无条件投降81周年。当天，日本首相高市早苗向靖国神社供奉玉串料（祭祀费）。日本防卫大臣小泉进次郎、地方创生担当大臣黄川田仁志等多名内阁成员参拜靖国神社。这是继2024年时任防卫大臣木原稔之后，再有现任防卫大臣在8月15日参拜靖国神社，也是连续第7年有日本现任阁僚在这一天参拜。\n\n此外，日本自民党干事长铃木俊一、总务会长有村治子以及选举对策委员长西村康稔参拜靖国神社，这是自民党高层首次集体参拜。靖国神社供奉有二战甲级战犯，是日本军国主义发动对外侵略战争的精神工具和象征。韩国对日本政治人物此举表示深切遗憾。"
+    },
+    {
+      "title": "印尼发生7.7级地震并触发海啸预警",
+      "tags": [
+        "印尼",
+        "地震",
+        "海啸预警"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/15/content_564272.html",
+          "title": "印尼发生7.7级地震 已触发海啸预警",
+          "origin": "科技日报",
+          "time": 1786754328
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1143/1143920.htm",
+          "title": "印尼发生7.7级地震 已触发海啸预警",
+          "origin": "快科技",
+          "time": 1786751580
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnhXLqTWw0",
+          "title": "印尼7.7级地震引发海啸",
+          "origin": "环球网",
+          "time": 1786750734
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sng6XfQraL",
+          "title": "印尼发生7.7级地震 已触发海啸预警",
+          "origin": "环球网",
+          "time": 1786748329
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-15/10678015.shtml",
+          "title": "印尼弗洛勒斯岛附近海域发生7.7级地震",
+          "origin": "中新网",
+          "time": 1786747020
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260815/49676365.html",
+          "title": "印尼发生7.7级强震 触发海啸预警",
+          "origin": "中国网",
+          "time": 1786751102
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a7fac40e4b0c1e50024ea0f.html",
+          "title": "印尼7.7级地震引发海啸",
+          "origin": "文汇网",
+          "time": 1786752327
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/gjcj/2026-08-15/doc-ininiyyv2413176.shtml",
+          "title": "印尼突发7.7级强震，一建筑物剧烈摇晃碎片不停脱落，现场一片混乱尖叫不断",
+          "origin": "新浪新闻",
+          "time": 1786754640
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiusy2182036.shtml",
+          "title": "印尼弗洛勒斯岛附近海域发生7.7级地震",
+          "origin": "新浪新闻",
+          "time": 1786751507
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/15/ARTIq9mQs0DGcDTYvnPKWKXK260815.shtml",
+          "title": "印尼7.7级地震已致2人死亡 海啸预警解除",
+          "origin": "CCTV",
+          "time": 1786760979
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vbj79d6GH3",
+          "title": "多名中国游客亲历印尼7.7级强震：有人头撞墙受伤流血，海面出现巨大漩涡致船只侧翻",
+          "origin": "凤凰网",
+          "time": 1786766760
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-15/10678135.shtml",
+          "title": "印尼弗洛勒斯岛地区海域7.7级地震引发海啸 不会对中国沿岸造成灾害性影响",
+          "origin": "中新网",
+          "time": 1786768200
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a7fca15e4b0c1e50024ef7b.html",
+          "title": "印尼7.7级地震已致2人死亡　海啸预警解除",
+          "origin": "文汇网",
+          "time": 1786763127
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/e2ae9e11226e464597b7e154e144839a/c.html",
+          "title": "印尼7.7级强震现场画面",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104490.html",
+          "title": "印尼7.7级地震已致2人死亡，可能仍有余震发生",
+          "origin": "钛媒体",
+          "time": 1786760340
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/15/ARTIfWyUWaivhF3Vatx3VfIs260815.shtml",
+          "title": "印尼7.7级地震已致东努沙登加拉省5人死亡",
+          "origin": "CCTV",
+          "time": 1786770619
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Snt189oQv1",
+          "title": "印尼7.7级地震已造成至少20人死亡",
+          "origin": "环球网",
+          "time": 1786770012
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnsdTkM9uT",
+          "title": "印尼7.7级地震已致东努沙登加拉省5人死亡",
+          "origin": "环球网",
+          "time": 1786769371
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678178.shtml",
+          "title": "印尼7.7级地震：暂无外国公民伤亡",
+          "origin": "中新网",
+          "time": 1786778100
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678107.shtml",
+          "title": "印尼解除7.7级地震引发的海啸预警",
+          "origin": "中新网",
+          "time": 1786777320
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a8031c9e4b0c1e50024f8a7.html",
+          "title": "印尼7.7级地震已造成38人死亡　2人重伤",
+          "origin": "文汇网",
+          "time": 1786786409
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a7ff766e4b0c1e50024f46c.html",
+          "title": "印尼7.7级地震已造成至少20人死亡",
+          "origin": "文汇网",
+          "time": 1786773929
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104608.html",
+          "title": "印尼7.7级地震已造成至少33人死亡",
+          "origin": "钛媒体",
+          "time": 1786780080
+        }
+      ],
+      "summary": "据印度尼西亚气象、气候和地球物理局消息，当地时间8月15日凌晨4时58分，印尼东努沙登加拉省弗洛勒斯岛附近海域发生7.7级地震，震源深度约20千米。中国地震台网正式测定震中位于南纬8.40度，东经121.40度。地震发生后，当局发布了海啸预警。弗洛勒斯"
+    },
+    {
+      "title": "伊朗称霍尔木兹海峡由伊方掌控，外长表示暂无与美恢复谈判决定",
+      "tags": [
+        "伊朗",
+        "美国",
+        "霍尔木兹海峡",
+        "外交"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vbTcnyFXQF",
+          "title": "特朗普称很快将宣布霍尔木兹海峡为美国领土，伊朗回击",
+          "origin": "凤凰网",
+          "time": 1786755600
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3779487",
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "origin": "华尔街见闻",
+          "time": 1786741440
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/78bd8e52f395455693989f013a32fa00/c.html",
+          "title": "声称击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/15/ARTI23Tl6KMAyP3DELIjq40u260815.shtml",
+          "title": "特朗普称很快将宣布霍尔木兹海峡为美国领土",
+          "origin": "CCTV",
+          "time": 1786746772
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678012.shtml",
+          "title": "特朗普称很快将宣布霍尔木兹海峡为美国领土",
+          "origin": "中新网",
+          "time": 1786745880
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vb6er7QWO0",
+          "title": "特朗普称很快将宣布霍尔木兹海峡为美国领土",
+          "origin": "凤凰网",
+          "time": 1786742640
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiyys3657216.shtml",
+          "title": "淡化中期选举影响 特朗普说准备重创伊朗经济",
+          "origin": "新浪新闻",
+          "time": 1786751337
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininiyys3646083.shtml",
+          "title": "特朗普：很快会宣布霍尔木兹海峡为美国领土",
+          "origin": "新浪新闻",
+          "time": 1786751369
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiusy2182998.shtml",
+          "title": "特朗普称很快将宣布霍尔木兹海峡为美国领土",
+          "origin": "新浪新闻",
+          "time": 1786748520
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2578419.shtml",
+          "title": "报道：特朗普称将重创伊朗经济",
+          "origin": "新浪新闻",
+          "time": 1786738524
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2577803.shtml",
+          "title": "特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压",
+          "origin": "新浪新闻",
+          "time": 1786742065
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqkw3842945.shtml",
+          "title": "特朗普称将在经济上对伊朗实施严厉打击",
+          "origin": "新浪新闻",
+          "time": 1786745426
+        },
+        {
+          "link": "https://www.jiemian.com/article/14927450.html",
+          "title": "特朗普扬言将宣布霍尔木兹为美国领土，伊朗回应",
+          "origin": "界面新闻",
+          "time": 1786770327
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a7fddc7e4b0c1e50024f124.html",
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "origin": "文汇网",
+          "time": 1786766727
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/ad738d5fb43d455ba0b257b2aec4fe8c/c.html",
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104522.html",
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "origin": "钛媒体",
+          "time": 1786764900
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnpeJBQLPr",
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "origin": "环球网",
+          "time": 1786764356
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678130.shtml",
+          "title": "特朗普声称将宣布霍尔木兹海峡为美国领土 伊朗回应",
+          "origin": "中新网",
+          "time": 1786777200
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104638.html",
+          "title": "伊朗司法总监回应特朗普：霍尔木兹海峡属于伊朗",
+          "origin": "钛媒体",
+          "time": 1786785780
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnsbwwYsC8",
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "origin": "环球网",
+          "time": 1786769330
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104536.html",
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈",
+          "origin": "钛媒体",
+          "time": 1786768800
+        }
+      ],
+      "summary": "据伊朗方面消息，针对美国总统特朗普宣称将很快宣布霍尔木兹海峡为美国领土一事，伊朗强硬回应。伊朗副外长加里巴巴迪在社交媒体上表示，霍尔木兹海峡不是靠推文、航母或命令就能夺取的，伊朗不惧怕威胁，也不会在武力展示前屈服。他强调霍尔木兹海峡过去、现在和将来都属于伊朗，只有伊朗才能决定海峡的开放或关闭，并称德黑兰将维持封锁，直到美国接受失败的现实。此前，特朗普在纽约一场政治集会上称，美军对伊朗实施了海上封锁，未经美方许可任何船只无法通过海峡，并可能宣布该海峡为美国领土。美伊双方还互相要求赔偿。伊朗方面曾提出重开海峡的条件，包括美国永久停止对伊军事行动、解除制裁、归还被冻结资产等。与此同时，伊朗外长阿拉格齐表示，伊朗目前没有决定是否与美国重新开始谈判。他透露，卡塔尔和巴基斯坦等调停方正在进行信息交流，但不意味着谈判已开始。他还表示，伊朗"
+    },
+    {
+      "title": "巴勒斯坦谴责以色列定居点民事执法权移交及约旦河西岸升级行动",
+      "tags": [
+        "巴勒斯坦",
+        "以色列",
+        "约旦河西岸",
+        "定居点"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/15/ARTIKPihKNXxGse0VfVtRdmp260815.shtml",
+          "title": "巴勒斯坦谴责以方定居点民事执法权移交计划",
+          "origin": "CCTV",
+          "time": 1786746690
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vb8eocFDKH",
+          "title": "巴勒斯坦谴责以方定居点民事执法权移交计划",
+          "origin": "凤凰网",
+          "time": 1786741140
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqkw3847223.shtml",
+          "title": "巴勒斯坦谴责以方定居点民事执法权移交计划",
+          "origin": "新浪新闻",
+          "time": 1786750222
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/724cb7b171454fbd8300945a66ceb4e5/c.html",
+          "title": "巴勒斯坦谴责以方定居点民事执法权移交计划",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SneEzA9b59",
+          "title": "巴勒斯坦总统府：以色列在约旦河西岸升级行动构成战争罪",
+          "origin": "环球网",
+          "time": 1786745199
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vawMvIm7BF",
+          "title": "巴勒斯坦：以色列在约旦河西岸升级行动构成战争罪",
+          "origin": "凤凰网",
+          "time": 1786729920
+        }
+      ],
+      "summary": "巴勒斯坦方面于当地时间14日强烈谴责以色列在约旦河西岸的系列行动。巴勒斯坦副总统侯赛因·谢赫批评以色列计划将约旦河西岸犹太人定居点的民事执法权从以军移交至以警方，认为此举意在巩固以色列对巴方被占领土的非法吞并。同日，巴勒斯坦总统府发言人纳比勒·阿布·鲁代纳发表声明，谴责以军及犹太定居者在约旦河西岸不断升级的单方面行动，特别提及以方人员在纳布卢斯附近古斯拉村围困居民并强占土地搭建前哨站，导致当地局势危险恶化。阿布·鲁代纳指出，以方持续的军事行动和定居者侵占行为严重违反国际法和相关国际决议，构成战争罪，并指责以色列官方采取升级局势、强加既成事实的政策，企图迫使巴勒斯坦人离开家园。他强调以方应对破坏性后果承担全部责任，并呼吁国际社会特别是联合国安理会采取行动，迫使以色列停止全面行动，向巴勒斯坦人民提供国际保护，并追究相关涉事人员责任。"
+    },
+    {
+      "title": "英伟达大幅收缩对OpenAI数据中心的融资担保，减少1300亿美元",
+      "tags": [
+        "英伟达",
+        "OpenAI",
+        "数据中心",
+        "融资担保"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininiyyw2068780.shtml",
+          "title": "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "origin": "新浪新闻",
+          "time": 1786750400
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573278.htm",
+          "title": "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "origin": "cnBeta",
+          "time": 1786756020
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkrwr8621415.shtml",
+          "title": "减少1300亿美元 英伟达大幅收缩对OpenAI数据中心的融资担保",
+          "origin": "新浪新闻",
+          "time": 1786775262
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vbRu5KYLVd",
+          "title": "英伟达大幅收缩对OpenAI数据中心的融资担保",
+          "origin": "凤凰科技",
+          "time": 1786753263
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573306.htm",
+          "title": "英伟达大幅收缩对OpenAI数据中心的融资担保",
+          "origin": "cnBeta",
+          "time": 1786757580
+        }
+      ],
+      "summary": "据知情人士透露，英伟达与OpenAI正就俄亥俄州一处大型数据中心园区融资达成协议，但双方已修改交易架构，英伟达的财务担保规模从最初计划的2500亿美元大幅下调至1200亿美元以下，以缓解投资者对英伟达风险敞口的担忧。调整后，英伟达将仅为项目一期约5吉瓦供电规模的建设提供财务兜底，后续部分再决定是否及如何融资。OpenAI仍在谈判，预计未来数日将签署该项目10吉瓦算力的约束性租约。\n\n该项目由软银旗下子公司SB Energy开发，建成后将成为迄今公布的最大数据中心项目。首期担保将覆盖数据中心租约及建设债务，以增强贷方信心、降低借贷成本。此外，英伟达还在洽谈另一笔独立交易，"
+    },
+    {
+      "title": "DeepSeek发布V4 Pro并上调API价格",
+      "tags": [
+        "DeepSeek",
+        "大模型",
+        "API"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vbfO0XDVh0",
+          "title": "DeepSeek-V4-Pro正式版、DeepSeek Harness上线超算互联网",
+          "origin": "凤凰科技",
+          "time": 1786766544
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104486.html",
+          "title": "DeepSeek V4 Pro正式版+Harness上线国家超算互联网",
+          "origin": "钛媒体",
+          "time": 1786759620
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026081411/deepseek发布v4-pro并上调api价格",
+          "title": "DeepSeek发布V4 Pro并上调API价格",
+          "origin": "kagi",
+          "time": 1786728413
+        },
+        {
+          "link": "https://www.huxiu.com/article/4883287.html",
+          "title": "DeepSeek Harness，杀死Agent黑箱",
+          "origin": "虎嗅",
+          "time": 1786767868
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vbS2rQkj40",
+          "title": "DeepSeek Harness，杀死Agent黑箱",
+          "origin": "凤凰科技",
+          "time": 1786753500
+        }
+      ],
+      "summary": "8月15日消息，国家超算互联网宣布上线DeepSeek V4 Pro正式版（编号0813）及智能体框架DeepSeek Harness。该模型增强了Agent能力，生产环境下性能提升显著，整体表现可与国外闭源模型Claude Fable 5、Opus-4.8相媲美。超算互联网作为全国首个十万卡级超智融合算力资源池，可为科研院所、企业及开发者提供大模型全生命周期算力支撑，其AI社区已汇聚170"
+    },
+    {
+      "title": "Anthropic二季度营收超过115亿美元，同比实现14倍增长",
+      "tags": [
+        "Anthropic",
+        "营收",
+        "AI公司"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/990074.htm",
+          "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+          "origin": "IT之家",
+          "time": 1786779873
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/2026-08-15/doc-ininiyys3671314.shtml",
+          "title": "太炸裂，Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "origin": "新浪新闻",
+          "time": 1786753357
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573282.htm",
+          "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "origin": "cnBeta",
+          "time": 1786756080
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3779495",
+          "title": "Anthropic Q2营收飙升至逾115亿美元，同比涨超14倍",
+          "origin": "华尔街见闻",
+          "time": 1786748219
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vbPvGaOdt9",
+          "title": "Anthropic第二季度收入超115亿美元，同比增14倍",
+          "origin": "凤凰科技",
+          "time": 1786753169
+        }
+      ],
+      "summary": "据彭博社报道，人工智能公司Anthropic向潜在投资者透露，其2026年第二季度初步营收超过115亿美元，较2025年同期的7.87亿美元增长逾14倍，并首次实现调整后运营盈利。该公司第一季度营收为47.3亿美元，年化收入在5月已突破470亿美元。相关数据仍在讨论中，Anthropic拒绝置评。Anthropic凭借Claude聊天机器人快速抢占企业客户市场，与OpenAI展开激烈竞争。多位投资者预计该公司将于10月进行IPO，估值有望达到2万亿美元或更高，或将超越SpaceX创下的1.77万亿美元上市纪录。在二级市场上，Anthropic股票交易估值已高达1.5万亿美元，较过去一个月上涨25%，卖家惜售。该公司已秘密提交上市申请，并与摩根士丹利、高盛集团和摩根大通合作筹备IPO事宜。"
+    },
+    {
+      "title": "也门政府军称胡塞武装发射6枚弹道导弹袭击摩卡港",
+      "tags": [
+        "也门",
+        "胡塞武装",
+        "导弹袭击",
+        "摩卡港"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260815/5a06d491166c423681a7bb318e1ec21e/c.html",
+          "title": "胡塞武装称袭击沙特油企设施和也门政府军控制地区",
+          "origin": "新华网",
+          "time": 1786723200
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqmc9030066.shtml",
+          "title": "也门政府军称胡塞武装发射6枚弹道导弹袭击摩卡港",
+          "origin": "新浪新闻",
+          "time": 1786745445
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-15/10678182.shtml",
+          "title": "胡塞武装称袭击也门摩卡港及沙特南部石油设施",
+          "origin": "中新网",
+          "time": 1786778040
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "普京致电金正恩，称俄朝正在各方面积极合作",
+      "tags": [
+        "俄罗斯",
+        "朝鲜",
+        "合作"
+      ],
+      "links": [
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1160416&sid=21",
+          "title": "普京致电金正恩：俄朝正在各方面积极合作",
+          "origin": "上观",
+          "time": 1786755333
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SnkDtDUJNy",
+          "title": "普京致电金正恩：俄朝正在各方面积极合作",
+          "origin": "环球网",
+          "time": 1786755244
+        },
+        {
+          "link": "https://www.news.cn/world/20260815/646c3c43cdd14fa386637bfdcccb625b/c.html",
+          "title": "普京致电金正恩：俄朝正在各方面积极合作",
+          "origin": "新华网",
+          "time": 1786723200
+        }
+      ],
+      "summary": "据朝中社15日报道，朝鲜国务委员长金正恩14日收到俄罗斯总统普京发来的贺电。普京在贺电中祝贺朝鲜祖国解放日，并表示俄朝正在各方面积极合作，为保障地区安全稳定共同努力。贺电指出，俄罗斯和朝鲜的关系已提升到全面战略伙伴关系，双方将继续推进涉及紧迫的双边及国际问题的共同事业。8月15日是朝鲜祖国解放日，纪念1945年朝鲜半岛从日本殖民统治下获得解放。"
+    },
+    {
+      "title": "英伟达披露持有约210亿美元的SpaceX股份",
+      "tags": [
+        "英伟达",
+        "SpaceX",
+        "股权投资"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3779494",
+          "title": "英伟达首度披露SpaceX持仓，借道xAI间接持有约210亿美元",
+          "origin": "华尔街见闻",
+          "time": 1786747721
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2461874.shtml",
+          "title": "英伟达披露持有210亿美元的SpaceX股份",
+          "origin": "新浪新闻",
+          "time": 1786741109
+        }
+      ],
+      "summary": "根据英伟达提交的申报文件，该公司披露持有价值209.7亿美元的SpaceX股份，约合210亿美元。此外，英伟达还披露持有价值约300亿美元的英特尔股份。相关消息发布于2026年8月15日。"
+    },
+    {
+      "title": "Anthropic表示Model 2比Mythos 5更强",
+      "tags": [
+        "Anthropic",
+        "AI模型",
+        "Model 2"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8van8J4QvMv",
+          "title": "Anthropic自曝私藏核武器，Model 2比Mythos 5更强",
+          "origin": "凤凰科技",
+          "time": 1786749739
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573300.htm",
+          "title": "Anthropic自曝私藏核武器 Model 2比Mythos 5更强",
+          "origin": "cnBeta",
+          "time": 1786757460
+        }
+      ],
+      "summary": "Anthropic在最新风险报告中首次承认，公司内部存在一个比已发布的Mythos 5更强的AI模型，代号Model 2。报告显示，Model 2在内部编码、代理任务及数据生成中表现显著提升，但Anthropic表示目前没有公开发布计划。同时，报告将特定高风险场景的误对齐风险评级从“极低”上调至“低”，并披露了包括测试数据污染和多起安全流程失误在内的五起事故。报告仍认为灾难性风险可控，支持"
+    },
+    {
+      "title": "阿里开源270亿参数的Qwen3.8模型，编程能力超越Qwen3.7 Plus",
+      "tags": [
+        "阿里巴巴",
+        "开源模型",
+        "Qwen",
+        "AI编程"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vbMNx17cfF",
+          "title": "阿里开源Qwen3.8-27B，270亿参数模型编程能力超越Qwen3.7-Plus",
+          "origin": "凤凰科技",
+          "time": 1786748841
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573298.htm",
+          "title": "阿里开源Qwen3.8-27B 270亿参数模型编程能力超越Qwen3.7-Plus",
+          "origin": "cnBeta",
+          "time": 1786757400
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "SpaceX完成600亿美元收购交易，正式进入Vibe Coding领域",
+      "tags": [
+        "SpaceX",
+        "Vibe Coding",
+        "收购"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vbNcWaURMM",
+          "title": "600亿美元科技收购落地 马斯克正式杀入Vibe Coding战场",
+          "origin": "凤凰科技",
+          "time": 1786751331
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
+          "title": "600亿美元科技收购落地 SpaceX正式杀入Vibe Coding战场",
+          "origin": "cnBeta",
+          "time": 1786757520
+        }
+      ],
+      "summary": "SpaceX已完成对人工智能编程初创公司Cursor的收购，交易于2026年8月14日正式生效，估值达600亿美元，成为科技行业规模较大的收购案之一。收购流程始于今年4月，两家公司最初宣布合作以加速模型训练。此举被视为马斯克在编程工具领域追赶Anthropic、OpenAI等竞争对手的重要一步。马斯克旗下的AI业务现称SpaceXAI，此前在企业市场应用有限，并经历裁员与重组。马斯克在员工会议上强调软件领域必须成功，并称到9月AI收入将超过SpaceX所有其他收入。Cursor于2023年推出AI助手，帮助程序员高效编写和调试代码，已成为氛围编程时代核心参与者。交易完成后，Cursor联合创始人成为亿万富翁，团队可使用SpaceX储备的大量先进AI芯片及全球最大GPU集群，以构建更强模型并降低成本。今年7月，双方联合推出首个模型Grok 4.5，专注于编程、金融、法律等任务，使用成本低于竞品。随后SpaceX推出Grok Bot，可像AI智能体团队持续执行任务，并发布升级版Grok 4.6。此外，SpaceX还达成多项数十亿美元交易，让Anthropic、谷歌等使用其计算资源。"
+    },
+    {
+      "title": "老虎环球二季度增持英特尔并新进Cerebras和AMD，减持全部十大重仓股",
+      "tags": [
+        "老虎环球",
+        "AI芯片",
+        "持仓调整"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3779485",
+          "title": "老虎环球Q2押注AI二线选手：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+          "origin": "华尔街见闻",
+          "time": 1786737113
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqma2277311.shtml",
+          "title": "老虎环球Q2押注AI二线选手：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+          "origin": "新浪新闻",
+          "time": 1786745771
+        }
+      ],
+      "summary": "老虎环球管理公司提交的13F文件显示，2026年第二季度其美股持仓总市值约239.82亿美元，持仓数量由一季度的"
+    },
+    {
+      "title": "以军空袭黎巴嫩真主党多处基础设施",
+      "tags": [
+        "以色列",
+        "黎巴嫩",
+        "真主党",
+        "空袭"
+      ],
+      "links": [
+        {
+          "link": "https://www.wenweipo.com/a/202608/15/AP6a8031abe4b0c1e50024f8a6.html",
+          "title": "以军称空袭黎巴嫩真主党多处基础设施",
+          "origin": "文汇网",
+          "time": 1786786349
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8104633.html",
+          "title": "以军称空袭黎巴嫩真主党多处基础设施",
+          "origin": "钛媒体",
+          "time": 1786784880
+        }
+      ],
+      "summary": "当地时间8月15日，以色列国防军发布声明称，以军在黎巴嫩南部所谓安全区内的阿里·塔希尔高地遭到黎巴嫩真主党袭击。作为回应，以军于15日凌晨对黎巴嫩南部纳巴蒂耶和安萨尔地区的真主党多处基础设施发动了空袭。目前双方冲突仍在持续，相关地区局势紧张。"
+    }
+  ]
+}

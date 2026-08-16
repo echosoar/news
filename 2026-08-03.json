@@ -1,0 +1,726 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T14:57:38Z",
+  "summary": [
+    {
+      "title": "伊朗方面称击落美军无人机并称霍尔木兹海峡关闭，美军称海上封锁仍在继续",
+      "tags": [
+        "伊朗",
+        "美军",
+        "霍尔木兹海峡",
+        "无人机",
+        "中东局势"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-03/doc-inikzeav2870927.shtml",
+          "title": "特朗普取消打击提振黄金，伊朗否认新谎言与美联储加息预期构成双重压制",
+          "origin": "新浪新闻",
+          "time": 1785726896
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikyxup4627602.shtml",
+          "title": "机构：若霍尔木兹海峡维持关闭状态，英国将面临经济衰退风险",
+          "origin": "新浪新闻",
+          "time": 1785716836
+        },
+        {
+          "link": "https://www.jiemian.com/article/14860816.html",
+          "title": "美官员称特朗普下令对伊朗发动新一轮袭击，最早本周末开始",
+          "origin": "界面新闻",
+          "time": 1785715614
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHFmlOEjcu",
+          "title": "特朗普称霍尔木兹海峡已有协议，将与伊朗举行谈判",
+          "origin": "凤凰网",
+          "time": 1785711960
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670987.shtml",
+          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "中新网",
+          "time": 1785714180
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sdk7GxGfRb",
+          "title": "伊朗：正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "环球网",
+          "time": 1785713938
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/03/AP6a6fde71e4b0c1e500234f41.html",
+          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "origin": "文汇网",
+          "time": 1785716426
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10671112.shtml",
+          "title": "伊朗：与阿曼涉霍尔木兹海峡谈判进入最后阶段",
+          "origin": "中新网",
+          "time": 1785731340
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260803/49649893.html",
+          "title": "特朗普称美伊3日将谈判 霍尔木兹海峡协议有望",
+          "origin": "中国网",
+          "time": 1785718214
+        },
+        {
+          "link": "https://database.caixin.com/2026-08-03/102470704.html",
+          "title": "特朗普取消袭击伊朗计划 称谈判将于周一开始",
+          "origin": "财新",
+          "time": 1785717650000
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/08-03/news1064172.shtml",
+          "title": "伊朗媒体称霍尔木兹海峡仍处于关闭状态",
+          "origin": "中新网",
+          "time": 1785746580
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/08-03/news1064175.shtml",
+          "title": "伊朗称霍尔木兹海峡不会回到战前状态",
+          "origin": "中新网",
+          "time": 1785746760
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/08-03/news1064170.shtml",
+          "title": "特朗普称美伊8月3日谈判 伊朗尚未回应",
+          "origin": "中新网",
+          "time": 1785746340
+        },
+        {
+          "link": "https://www.jiemian.com/article/14862363.html",
+          "title": "反转，特朗普称同意取消打击伊朗",
+          "origin": "界面新闻",
+          "time": 1785715614
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SdkdaU23vd",
+          "title": "特朗普称美伊将于8月3日举行谈判",
+          "origin": "环球网",
+          "time": 1785714814
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vGzsymHi6K",
+          "title": "伊朗外长：与阿曼谈判接近完成",
+          "origin": "凤凰网",
+          "time": 1785688500
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "title": "接连反转，特朗普透露三个信息",
+          "origin": "凤凰网",
+          "time": 1785714660
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/03/ARTI4bEuAHPPzhH3y9KSnXRd260803.shtml",
+          "title": "特朗普称美伊3日将举行谈判",
+          "origin": "CCTV",
+          "time": 1785712284
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670978.shtml",
+          "title": "特朗普称美伊3日将举行谈判",
+          "origin": "中新网",
+          "time": 1785710160
+        },
+        {
+          "link": "https://www.news.cn/world/20260803/6513c69d5eaa4c3fa8f01ac805180cbc/c.html",
+          "title": "特朗普称美伊3日举行谈判",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vI8eLW3xek",
+          "title": "伊朗称在霍尔木兹海峡上空击落一架MQ－9无人机",
+          "origin": "凤凰网",
+          "time": 1785748080
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10671290.shtml",
+          "title": "伊朗称在霍尔木兹海峡上空击落一架MQ－9无人机",
+          "origin": "中新网",
+          "time": 1785748200
+        },
+        {
+          "link": "https://www.news.cn/world/20260803/c70d5ea17c4a4268aebeea9d21211a2e/c.html",
+          "title": "俄媒：俄单日击落固定翼无人机数量创纪录",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/03/AP6a705c9de4b0c1e5002361e3.html",
+          "title": "伊朗称在霍尔木兹海峡上空击落一架MQ－9无人机",
+          "origin": "文汇网",
+          "time": 1785748772
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/08-03/news1064178.shtml",
+          "title": "美军称继续执行对伊朗的海上封锁",
+          "origin": "中新网",
+          "time": 1785747000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088686.html",
+          "title": "美军称对伊朗海上封锁仍在继续",
+          "origin": "钛媒体",
+          "time": 1785714000
+        }
+      ],
+      "summary": "伊朗方面宣称击落一架美军无人机，并宣布关闭霍尔木兹海峡。美军中央司令部随后在社交媒体上回应，称对伊朗的海上封锁仍在继续。美军方面公布的数据显示，截至8月2日，美军已迫使35艘船只改变航向，打击了2艘船只使其失去航行能力，并对2艘船只进行了登船检查。目前双方各执一词，局势仍显紧张。"
+    },
+    {
+      "title": "美国与日本联合干预日元汇率，双方称必要时将再次行动",
+      "tags": [
+        "日元汇率",
+        "外汇干预",
+        "美国财政部",
+        "日本"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4Sdm2wBuwOd",
+          "title": "美日证实双方联合干预日元汇率 特朗普再提珍珠港事件",
+          "origin": "环球网",
+          "time": 1785717180
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnt6335618.shtml",
+          "title": "特朗普证实美日联合干预日元汇率，再提珍珠港",
+          "origin": "新浪新闻",
+          "time": 1785714299
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088701.html",
+          "title": "特朗普证实美日联合干预日元汇率，再提珍珠港",
+          "origin": "钛媒体",
+          "time": 1785715500
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHT4t7AuiN",
+          "title": "特朗普再提珍珠港事件",
+          "origin": "凤凰网",
+          "time": 1785713280
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikyxuv6111690.shtml",
+          "title": "日本证实15年来首次与美国联手干预日元 交易员高度警惕更多干预风险",
+          "origin": "新浪新闻",
+          "time": 1785717395
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzqsi6189035.shtml",
+          "title": "日本表态：必要时将再度与美国协同干预日元汇率",
+          "origin": "新浪新闻",
+          "time": 1785743851
+        },
+        {
+          "link": "https://database.caixin.com/2026-08-03/102470706.html",
+          "title": "日本证实15年来首次与美国联手干预日元",
+          "origin": "财新",
+          "time": 1785718400000
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SdaPqI7tjB",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年，当时担忧日本金融危机扩散",
+          "origin": "环球网",
+          "time": 1785697649
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-03/doc-inikytnz2970652.shtml",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年，当时担忧日本金融危机扩散",
+          "origin": "新浪新闻",
+          "time": 1785712587
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHT4t7Augr",
+          "title": "日元跌跌不休，美国罕见出手，外媒：双方类似行动上一次是1998年",
+          "origin": "凤凰网",
+          "time": 1785697620
+        },
+        {
+          "link": "https://www.news.cn/world/20260803/aed90fee646d4fbea84151e4854f66a5/c.html",
+          "title": "日本称已与美国联合干预汇市 或追加行动",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SdqVS0jijX",
+          "title": "日本称已与美国联合干预汇市 或追加行动",
+          "origin": "环球网",
+          "time": 1785724669
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088685.html",
+          "title": "美国财长贝森特：将毫不犹豫地进行更多日元联合干预",
+          "origin": "钛媒体",
+          "time": 1785713940
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikytnt6320285.shtml",
+          "title": "贝森特：将毫不犹豫地进行更多日元联合干预",
+          "origin": "新浪新闻",
+          "time": 1785712284
+        }
+      ],
+      "summary": "美国财长贝森特8月2日晚在社交媒体发文证实，美日两国已协调实施外汇干预，以遏制日元汇率无序波动。他表示，相关干预行动有效，特朗普政府强烈支持日本为纠正日元大幅低估而采取的市场及货币政策举措。双方均强调，若有必要将再次采取行动。此前有报道称，特朗普在谈及此事时再次提及珍珠港事件。美日联合干预显示两国对当前日元汇率走势的密切关注，并意在稳定国际市场预期。"
+    },
+    {
+      "title": "特朗普称3日与伊朗谈判，以色列称通过社媒才得知美方叫停打击",
+      "tags": [
+        "美国",
+        "伊朗",
+        "以色列",
+        "外交"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vHU3Votkzf",
+          "title": "以媒：内塔尼亚胡通过特朗普社媒得知美取消对伊打击",
+          "origin": "凤凰网",
+          "time": 1785713760
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vH4dcp8CAM",
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "origin": "凤凰网",
+          "time": 1785697740
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikypev6377125.shtml",
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "origin": "新浪新闻",
+          "time": 1785709446
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/03/AP6a6fd40de4b0c1e500234e95.html",
+          "title": "特朗普称今日与伊朗谈判　以色列自曝被盟友抛弃",
+          "origin": "文汇网",
+          "time": 1785713755
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670989.shtml",
+          "title": "特朗普称3日与伊朗谈判 以色列自曝被盟友抛弃",
+          "origin": "中新网",
+          "time": 1785714420
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-03/doc-inikytnt6318016.shtml",
+          "title": "特朗普称3日与伊朗谈判 以色列自曝被盟友抛弃",
+          "origin": "新浪新闻",
+          "time": 1785713387
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "巴基斯坦西北部警局附近发生自杀式爆炸袭击致14人死亡",
+      "tags": [
+        "巴基斯坦",
+        "自杀式爆炸",
+        "安全事件"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/03/ARTI0mSFnKK0aC3nUJ8LhCZ0260803.shtml",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "CCTV",
+          "time": 1785709623
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-03/10670974.shtml",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "中新网",
+          "time": 1785706620
+        },
+        {
+          "link": "https://www.news.cn/world/20260803/1bbd8b52cbef45f6820538fa222f6a95/c.html",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154448&sid=21",
+          "title": "巴基斯坦西北部发生爆炸致14人死亡",
+          "origin": "上观",
+          "time": 1785717022
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vHfxzuzwly",
+          "title": "外媒：巴基斯坦一警局附近发生自杀式爆炸袭击致14人死亡，巴总统、总理发声",
+          "origin": "凤凰网",
+          "time": 1785722400
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sdp9lSMWgj",
+          "title": "外媒：巴基斯坦一警局附近发生自杀式爆炸袭击致14人死亡，巴总统、总理发声",
+          "origin": "环球网",
+          "time": 1785722402
+        }
+      ],
+      "summary": "巴基斯坦西北部开伯尔-普什图省一警察局附近发生自杀式爆炸袭击，造成至少14人死亡、26人受伤。当地警方于8月2日确认了相关情况。袭击发生后，巴基斯坦总统扎尔达里和总理夏巴兹均作出回应，对袭击表示谴责，向遇难者表示哀悼，并祝愿伤者早日康复。"
+    },
+    {
+      "title": "阿里巴巴发布Qwen3.8系列并推出Hermes Agent，下周开源27B版本",
+      "tags": [
+        "阿里巴巴",
+        "Qwen",
+        "大模型",
+        "开源",
+        "Hermes Agent"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vHhZ7YlyBr",
+          "title": "阿里Qwen3.8-Max模型发布：2.4万亿参数，瞄准复杂长程任务",
+          "origin": "凤凰科技",
+          "time": 1785726339
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571438.htm",
+          "title": "阿里Qwen3.8-Max模型发布：2.4万亿参数 瞄准复杂长程任务",
+          "origin": "cnBeta",
+          "time": 1785743220
+        },
+        {
+          "link": "https://www.oschina.net/news/486035",
+          "title": "Qwen3.8-Max 发布，下周开源 Qwen3.8-27B",
+          "origin": "oschina",
+          "time": 1785727560
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1141/1141030.htm",
+          "title": "值得买科技首批接入Qwen3.8-Max",
+          "origin": "快科技",
+          "time": 1785748560
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0803/1768672.shtml",
+          "title": "阿里超大杯Qwen3.8正式发布，自主编程16天搓出另一个Hermes Agent",
+          "origin": "站长之家",
+          "time": 1785735292
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140897.htm",
+          "title": "阿里Qwen3.8正式发布，自主编程16天搓出Hermes Agent",
+          "origin": "快科技",
+          "time": 1785727620
+        }
+      ],
+      "summary": "8月3日，阿里巴巴发布新一代基座大模型Qwen3"
+    },
+    {
+      "title": "美国科技巨头三年AI投入达1万亿美元，全球云服务商资本支出预计增长90%",
+      "tags": [
+        "AI",
+        "美国科技巨头",
+        "云服务",
+        "资本支出"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/985114.htm",
+          "title": "自 2023 年，谷歌、亚马逊、微软等美国科技巨头已在 AI 领域砸下 1 万亿美元",
+          "origin": "IT之家",
+          "time": 1785747177
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vGMMDXEStM",
+          "title": "自2023年，谷歌、亚马逊、微软等美国科技巨头已在AI领域砸下1万亿美元",
+          "origin": "凤凰科技",
+          "time": 1785747177
+        },
+        {
+          "link": "https://www.huxiu.com/article/4880174.html",
+          "title": "AI花钱大赛：亚马逊收钱，苹果在买单",
+          "origin": "虎嗅",
+          "time": 1785729262
+        },
+        {
+          "link": "https://m.ithome.com/html/985134.htm",
+          "title": "TrendForce 预测：全球九大云服务供应商今年资本支出增长 90%",
+          "origin": "IT之家",
+          "time": 1785748607
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikzqsr2836876.shtml",
+          "title": "TrendForce 预测：全球九大云服务供应商今年资本支出增长 90%",
+          "origin": "新浪新闻",
+          "time": 1785751492
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek官方AI编程工具Harness开始内测",
+      "tags": [
+        "DeepSeek",
+        "AI编程",
+        "开发者工具"
+      ],
+      "links": [
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-03/4530018.html",
+          "title": "前五全是中国产品，中国AI大模型调用量连续十四周领跑：DeepSeek-V4-Flash登顶，小米M",
+          "origin": "每经网",
+          "time": 1785726567
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-03/4529988.html",
+          "title": "前五全是中国产品，中国AI大模型调用量连续十四周领跑：DeepSeek-V4-Flash登顶，小米M",
+          "origin": "每经网",
+          "time": 1785724423
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0803/1768563.shtml",
+          "title": "V4 Pro正式版黄金搭档 DeepSeek官方AI编程工具Harness内测",
+          "origin": "站长之家",
+          "time": 1785717525
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHzeQfj1Kf",
+          "title": "DeepSeek新AI模型运行成本最低，比Anthropic便宜逾百倍",
+          "origin": "凤凰科技",
+          "time": 1785741263
+        },
+        {
+          "link": "https://www.huxiu.com/article/4879809.html",
+          "title": "DeepSeek V4正式上线，而且要在内蒙古建超算中心",
+          "origin": "虎嗅",
+          "time": 1785726300
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "月之暗面计划最早于本月内提交香港IPO申请",
+      "tags": [
+        "月之暗面",
+        "香港IPO",
+        "融资",
+        "AI"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/985169.htm",
+          "title": "月之暗面回应最早于本月内提交香港 IPO 申请传闻：消息不实",
+          "origin": "IT之家",
+          "time": 1785750452
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/it/2026-08-03/doc-inikzuyc4544984.shtml",
+          "title": "最早本月提交IPO申请？月之暗面回应：消息不实",
+          "origin": "新浪新闻",
+          "time": 1785750999
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vI4oAyetkN",
+          "title": "月之暗面计划最早于本月内提交香港IPO申请",
+          "origin": "凤凰科技",
+          "time": 1785747947
+        },
+        {
+          "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-03/doc-inikzqsr2835281.shtml",
+          "title": "月之暗面回应港股IPO传闻：消息不实",
+          "origin": "新浪新闻",
+          "time": 1785748788
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/hkstock/2026-08-03/doc-inikzqsp6066885.shtml",
+          "title": "月之暗面回应港股IPO传闻：消息不实",
+          "origin": "新浪新闻",
+          "time": 1785749367
+        }
+      ],
+      "summary": "近日有市场消息称，人工智能大模型企业月之暗面计划最早于本月内向香港联交所提交IPO上市申请，预计募资约30亿美元。对此传闻，月之暗面方面已回应记者称消息不实。该传闻最初由路透旗下IF"
+    },
+    {
+      "title": "联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+      "tags": [
+        "联发科",
+        "英特尔",
+        "封装技术",
+        "ASIC"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/984952.htm",
+          "title": "联发科：第二款 AI ASIC 加速器有望 2028 年量产，英特尔代工 EMIB 进展良好",
+          "origin": "IT之家",
+          "time": 1785728500
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHlazmGG90",
+          "title": "联发科：第二款AI ASIC加速器有望2028年量产，英特尔代工EMIB进展良好",
+          "origin": "凤凰科技",
+          "time": 1785728650
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140835.htm",
+          "title": "双轨并行，联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+          "origin": "快科技",
+          "time": 1785714540
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHU3Votl7D",
+          "title": "双轨并行，联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+          "origin": "凤凰科技",
+          "time": 1785714596
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "苹果第二季度手机营收创历史新高，iPhone 17系列立大功",
+      "tags": [
+        "苹果",
+        "iPhone 17",
+        "财报",
+        "智能手机"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/0803/1768740.shtml",
+          "title": "苹果第二季度手机营收创历史新高，iPhone 17系列立大功 竞品涨价送助攻",
+          "origin": "站长之家",
+          "time": 1785740783
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vGMMDXESsv",
+          "title": "苹果第二季度手机营收创历史新高，iPhone 17系列立大功 竞品涨价送助攻",
+          "origin": "凤凰科技",
+          "time": 1785738601
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571434.htm",
+          "title": "苹果第二季度手机营收创历史新高 iPhone 17系列立大功 竞品涨价送助攻",
+          "origin": "cnBeta",
+          "time": 1785743220
+        }
+      ],
+      "summary": "根据Counterpoint Research发布的数据，2026年第二季度全球智能手机市场营收同比增长7%，达到1090亿美元，创下历史同期新高。其中，苹果占据全球智能手机市场49%的营收份额，创下历年第二季度最高纪录。当季苹果智能手机营收同比增长22%，主要得益于出货量同比增长13%以及平均销售价格同比提升8%。研究总监Tarun Pathak指出，苹果本季度的增长主要来自iPhone 17系列持续强劲的市场需求，基础款iPhone 17和"
+    },
+    {
+      "title": "以军空袭加沙致18人死亡",
+      "tags": [
+        "以色列",
+        "加沙",
+        "空袭",
+        "巴以冲突"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260803/6d06c2a3806a4bc6b7b631542ab3e5c9/c.html",
+          "title": "以军空袭加沙致18人死亡",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154447&sid=21",
+          "title": "以军空袭加沙致18人死亡",
+          "origin": "上观",
+          "time": 1785716971
+        }
+      ],
+      "summary": "巴勒斯坦加沙地带民防部门发言人马哈茂德·巴萨勒2日发表视频声明说，以军无人机当天袭击加沙地带多地，造成至少18人死亡，其中包括2名妇女和4名儿童。袭击目标包括居民公寓、安置流离失所者帐篷、民用车辆以及居民集会场所。巴萨勒说，最近一次袭击发生在当天傍晚，一架以色列无人机向加沙城一辆民用车辆发射两枚导弹，造成4人死亡；以军还在加沙城西部空袭一处帐篷，造成两人死亡，其中包括一名13岁儿童，另有8人受伤。当天下午早些时候，以军空袭加沙地带中部城市代尔拜拉赫一辆吉普车，致两人死亡；此外，以军还对加沙地带北部杰巴利耶难民营附近人群发动空袭，造成1人死亡，多人受伤。在另一份声明中，巴萨勒表示，以军对加沙城、汗尤尼斯市和代尔巴拉赫市居民公寓发动一系列空袭，造成9人死亡，其中包括3名儿童。以军尚未对此发表任何声明。"
+    },
+    {
+      "title": "意大利军方在地中海拦截一艘俄影子舰队油轮",
+      "tags": [
+        "意大利",
+        "俄罗斯",
+        "地中海",
+        "影子舰队"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260803/c55cb7b48a864853ad3e0a55841282e3/c.html",
+          "title": "意军方称在地中海拦截一艘俄影子舰队油轮",
+          "origin": "新华网",
+          "time": 1785686400
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/03/ARTIBxVEkJQyb6RHaOdJ3kik260803.shtml",
+          "title": "意军方称在地中海拦截一艘俄影子舰队油轮",
+          "origin": "CCTV",
+          "time": 1785735937
+        }
+      ],
+      "summary": "意大利国防部8月2日发表声明说，在地中海执行欧盟长期军事行动的意大利海军当天拦截了一艘受制裁的俄罗斯影子舰队油轮。该油轮悬挂喀麦隆国旗，7月16日从贝宁科托努港出发，目的地为土耳其伊斯坦布尔。拦截发生在潘泰莱里亚岛以西海域，船长拒绝配合，意大利军方小组随即登船检查，行动得到一艘希腊海军舰艇和一架波兰海上巡逻机的支援。登船后获取的信息和文件正在审查中。西方国家指责俄罗斯利用油轮等商用船只逃避制裁，并将此类船只称为影子舰队。"
+    },
+    {
+      "title": "韩军方称险些误击美军无人机，缘于双方沟通失误",
+      "tags": [
+        "韩国",
+        "美军",
+        "无人机",
+        "军事沟通"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vIA9kGQD1k",
+          "title": "韩军方：险些误击美军无人机，缘于双方沟通失误",
+          "origin": "凤凰网",
+          "time": 1785749160
+        },
+        {
+          "link": "https://www.news.cn/world/20260803/93c4bac1c020477198659a820f7000ab/c.html",
+          "title": "韩军方称险些误击美军无人机缘于双方沟通失误",
+          "origin": "新华网",
+          "time": 1785686400
+        }
+      ],
+      "summary": "韩国联合参谋本部8月3日表示，韩军日前误将美军无人机识别为不明飞行物并险些将其击落，该事件系双方沟通失误所致。据韩联社报道，7月30日在韩朝边境地区举行韩美联合军演时，韩军误将美军无人机识别为来自朝方的空中威胁，随即启动防空作战系统，险些击落该无人机。后续调查显示，美军在演习前一天通过手机短信将无人机飞行计划告知韩国陆军第一军团一名工作人员，但此人未上报相关信息；同时，美军在通报飞行计划方面也存在问题。按照韩国现行规定，美军申请在特殊空域飞行应提前以正式公文向"
+    },
+    {
+      "title": "蚂蚁集团旗下灵波科技启动首轮融资，拟募资15亿元",
+      "tags": [
+        "蚂蚁集团",
+        "灵波科技",
+        "融资",
+        "AI"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3778572",
+          "title": "蚂蚁灵波回应融资传闻：与投资人接触中，首轮拟募资15亿元",
+          "origin": "华尔街见闻",
+          "time": 1785744543
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vHyypr7WiN",
+          "title": "蚂蚁集团旗下灵波科技启动首轮融资，拟募资15亿元",
+          "origin": "凤凰科技",
+          "time": 1785740225
+        }
+      ],
+      "summary": "蚂蚁集团旗下具身智能公司灵波科技已启动首轮融资，计划募资15亿元，目标在今年年底完成第二轮融资。灵波科技于2025年3月在上海浦东成立，致力于打造机器人的通用大脑，专注具身智能基础大模型的自主研发，建立了从空间智能、灵巧操作到环境反馈的全栈技术。今年7月初，公司发布了LingBot系列模型2.0版本，包括全球首个空间原生视觉基模LingBot-Vision、面向一脑多机的具身基座模型LingBot-VLA 2.0，以及支持无限时长实时交互的世界模型LingBot-World 2.0等成果。今年6月，蚂蚁灵波CEO朱兴表示，当前具身智能技术成熟度总体仍处于早期，目前只能在环境简单、任务单一的场景进行小规模商业试点，随着大脑更聪明，AI将反向定义硬件。"
+    },
+    {
+      "title": "韩国股市大跌触发熔断，三星电子与SK海力士跌超7%",
+      "tags": [
+        "韩国股市",
+        "三星电子",
+        "SK海力士",
+        "半导体"
+      ],
+      "links": [
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260803/49649900.html",
+          "title": "韩股开盘跌超4% SK海力士跌超5% 芯片股领跌市场",
+          "origin": "中国网",
+          "time": 1785718348
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-03/4529938.html",
+          "title": "韩股又跌熔断 ，三星电子、SK海力士跌超7%",
+          "origin": "每经网",
+          "time": 1785721472
+        }
+      ],
+      "summary": "8月3日，韩国股市遭遇大幅下跌，KOSPI指数开盘即跌超4%，随后跌幅扩大至4.32%。三星电子与SK海力士两只主力"
+    }
+  ]
+}

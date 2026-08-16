@@ -1,0 +1,795 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T14:19:45Z",
+  "summary": [
+    {
+      "title": "美国对伊朗发起新一轮空袭并威胁加征关税 特朗普与内塔尼亚胡讨论对伊策略",
+      "tags": [
+        "美伊冲突",
+        "军事空袭",
+        "加征关税",
+        "中东局势"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIvlRkj5t0koYwwyElQU8I260729.shtml",
+          "title": "特朗普称伊朗将遭痛击 不排除继续打击其地区代理人",
+          "origin": "CCTV",
+          "time": 1785341683
+        },
+        {
+          "link": "https://database.caixin.com/2026-07-30/102469403.html",
+          "title": "中东战事再度升级 特朗普称美国将狠狠打击伊朗",
+          "origin": "财新",
+          "time": 1785375242000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vAgPKVS9ae",
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "origin": "凤凰网",
+          "time": 1785364560
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptar1248858.shtml",
+          "title": "内塔尼亚胡称伊朗问题的解决方案由特朗普决定",
+          "origin": "新浪新闻",
+          "time": 1785368321
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SaQP8aNwwM",
+          "title": "特朗普再次威胁袭击伊朗 并寻求对伊加征关税",
+          "origin": "环球网",
+          "time": 1785368500
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668942.shtml",
+          "title": "特朗普再次威胁袭击伊朗 并寻求对伊加征关税",
+          "origin": "中新网",
+          "time": 1785364980
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118624998.shtml",
+          "title": "特朗普称将打击伊朗以回应驻中东美军遭袭",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6b12a9e4b0c1e50022e154.html",
+          "title": "（有片）内塔尼亚胡否认误导特朗普打伊朗",
+          "origin": "文汇网",
+          "time": 1785402331
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vBTedr7A33",
+          "title": "内塔尼亚胡否认误导特朗普打伊朗",
+          "origin": "凤凰网",
+          "time": 1785400500
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpxkr5263033.shtml",
+          "title": "美国中央司令部：完成对伊朗大规模打击行动",
+          "origin": "新浪新闻",
+          "time": 1785378337
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIhcOUiaYFvZtSFyPH5Xit260730.shtml",
+          "title": "美军称结束对伊朗实施的新一轮大规模打击",
+          "origin": "CCTV",
+          "time": 1785381296
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/6f116b56be6044c58891ad7ed3d2c895/c.html",
+          "title": "美军称已完成最新一轮对伊朗的打击行动",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668976.shtml",
+          "title": "美军中央司令部称对伊朗发动打击",
+          "origin": "中新网",
+          "time": 1785372000
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-30/news1063776.shtml",
+          "title": "美国总统称将对伊朗实施猛烈打击",
+          "origin": "中新网",
+          "time": 1785379980
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/07b8ad36e2d54d6ba15ce8790d8dc3c9/c.html",
+          "title": "美军证实对伊朗发动新一轮打击",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6aa5a0e4b0c1e50022d3cb.html",
+          "title": "美军证实对伊朗发动新一轮打击",
+          "origin": "文汇网",
+          "time": 1785377127
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8084564.html",
+          "title": "美军再对伊朗发动打击",
+          "origin": "钛媒体",
+          "time": 1785371520
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118624966.shtml",
+          "title": "美媒：美国对伊朗发起新一轮空袭",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668967.shtml",
+          "title": "美媒：美国对伊朗发起新一轮空袭",
+          "origin": "中新网",
+          "time": 1785370080
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118624989.shtml",
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊三种情景",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668936.shtml",
+          "title": "内塔尼亚胡被曝与特朗普讨论三种对伊策略",
+          "origin": "中新网",
+          "time": 1785364080
+        }
+      ],
+      "summary": "美国对伊朗发起新一轮空袭并威胁加征关税。当地时间7月29日，美国总统特朗普接受采访时表示，在伊朗向美军发动导弹袭击后，美国将进行报复，称伊朗将遭到痛击，并不排除继续打击其地区代理人。同日，以色列总理内塔尼亚胡与特朗普在白宫举行约90分钟会谈，重点讨论伊朗问题。据以色列官员透露，双方讨论了三种对伊方案：继续推动与伊朗达成协议；维持海上封锁并加强经济压力；恢复并扩大军事打击。特朗普对战争冲击能源市场和全球经济表示担忧，内塔尼亚胡则认为伊朗正利用霍尔木兹海峡迫使美国让步。内塔尼亚胡指出，伊朗经济已承受严重压力，国内出现燃油短缺和小规模抗议，领导层内部就经济崩溃风险产生分歧。以方明确表示"
+    },
+    {
+      "title": "日本熊本地震已致17人死亡 救援工作持续",
+      "tags": [
+        "日本地震",
+        "熊本",
+        "灾害"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vB6o0OneCk",
+          "title": "日本熊本地震已致28人死，断层带能量尚未完全释放",
+          "origin": "凤凰网",
+          "time": 1785382320
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118625074.shtml",
+          "title": "日本熊本地震已致14人死亡6人心肺停止 多人失联",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SaXRyvyuoi",
+          "title": "日本内阁官房长官：熊本地震已致28人死亡",
+          "origin": "环球网",
+          "time": 1785380331
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SaT1QswhGW",
+          "title": "日本熊本地震已造成17人死亡",
+          "origin": "环球网",
+          "time": 1785372895
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6aa474e4b0c1e50022d3a5.html",
+          "title": "日熊本地震死亡人数增至17人",
+          "origin": "文汇网",
+          "time": 1785377127
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIJuMiuUsRMMb4ZGpv0GE3260730.shtml",
+          "title": "日本熊本地震已致28人死亡",
+          "origin": "CCTV",
+          "time": 1785378839
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668987.shtml",
+          "title": "日本熊本地震已致17人死亡",
+          "origin": "中新网",
+          "time": 1785373200
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTI5dHSUadFFvHa4k3JMENP260730.shtml",
+          "title": "日本熊本地震已致17人死亡",
+          "origin": "CCTV",
+          "time": 1785375037
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6abb16e4b0c1e50022d6ce.html",
+          "title": "日本熊本地震已致28人死亡",
+          "origin": "文汇网",
+          "time": 1785380727
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIbBhXEpWrQexYBu3lxmNg260730.shtml",
+          "title": "日本熊本地震已致30人死亡",
+          "origin": "CCTV",
+          "time": 1785391968
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6ae433e4b0c1e50022dcfa.html",
+          "title": "日本熊本地震已致30人死亡",
+          "origin": "文汇网",
+          "time": 1785391531
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/f6a8f99d1e9f4dd49edcf286604ee406/c.html",
+          "title": "日本熊本地震已致17人死",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vB30I7UIKa",
+          "title": "日本熊本地震已致28死",
+          "origin": "凤凰网",
+          "time": 1785378120
+        }
+      ],
+      "summary": "日本熊本县于7月28日发生7.1级地震。据熊本当地政府7月30日上午公布，地震已造成28"
+    },
+    {
+      "title": "我国自研世界最大直径高铁盾构机成功穿越长江 百吨级纯电动无人矿卡投运",
+      "tags": [
+        "中国科技",
+        "盾构机",
+        "无人矿卡",
+        "高铁"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vB7siYCKAk",
+          "title": "中国自研钢铁巨龙，世界最大直径高铁盾构机领航号成功穿越长江",
+          "origin": "凤凰科技",
+          "time": 1785382486
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140104.htm",
+          "title": "中国自研钢铁巨龙，世界最大直径高铁盾构机成功穿越长江",
+          "origin": "快科技",
+          "time": 1785382440
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118625525.shtml",
+          "title": "我国自研世界最大直径的高铁盾构机成功穿越长江",
+          "origin": "中国网",
+          "time": 1785387324
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIQJBEPoZRv3Km35f7xUYF260730.shtml",
+          "title": "我国自研世界最大直径高铁盾构机成功穿越长江",
+          "origin": "CCTV",
+          "time": 1785378694
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-30/10669074.shtml",
+          "title": "我国自研世界最大直径高铁盾构机成功穿越长江",
+          "origin": "中新网",
+          "time": 1785378600
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SaWWhYoaa8",
+          "title": "我国自研世界最大直径高铁盾构机成功穿越长江",
+          "origin": "环球网",
+          "time": 1785378780
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vBMRVvc4um",
+          "title": "国产百吨级纯电动无人矿卡投运：半固态电池、前后都能开",
+          "origin": "凤凰科技",
+          "time": 1785395608
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/30/content_556099.html",
+          "title": "零排放、可双向行驶 国产百吨级纯电动无人矿卡成功投运",
+          "origin": "科技日报",
+          "time": 1785397185
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140171.htm",
+          "title": "国产百吨级纯电无人矿卡投运：半固态电池、前后都能开",
+          "origin": "快科技",
+          "time": 1785395580
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260730/afa2defc73d34f58b358bc1e13e0b5b3/c.html",
+          "title": "世界最大直径高铁盾构机成功穿越长江",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/30/content_556045.html",
+          "title": "世界最大直径高铁盾构机成功穿越长江",
+          "origin": "科技日报",
+          "time": 1785390076
+        }
+      ],
+      "summary": "由我国完全自主研发制造的世界最大直径高铁盾构机领航号，成功完成长江水下11.18公里掘进任务，抵达江苏太仓南岸，标志着沪渝蓉高铁崇太长江隧道盾构过江核心段落全线贯通。领航号开挖直径达15.4米，整机长148米，重约4000吨，核心零部件与智能控制系统均实现国产自主可控，刷新了世界高铁盾构机断面尺寸纪录。崇太长江隧道全长14.25公里，自2024年4月始发，历时23个月不间断掘进，施工中克服了江底最大埋深89米、最高水压超1兆帕以及复合地质等全球级难度。隧道采用单洞双线设计，建成后高铁时速可达350公里，将实现高铁跨江不减速，结束崇明岛不通高铁的历史，使南通至上海宝山通行时间压缩至40分钟。"
+    },
+    {
+      "title": "SpaceX再获美国太空军16亿美元合同 将执行18次发射任务",
+      "tags": [
+        "SpaceX",
+        "美国太空军",
+        "发射合同",
+        "军事航天"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-30/10668934.shtml",
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "origin": "中新网",
+          "time": 1785363900
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6a95c2e4b0c1e50022d142.html",
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "origin": "文汇网",
+          "time": 1785370118
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml",
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "origin": "新浪新闻",
+          "time": 1785365856
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/30/content_555824.html",
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "origin": "科技日报",
+          "time": 1785375640
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-30/4526751.html",
+          "title": "SpaceX获美国太空军16亿美元订单，猎鹰9号火箭明年底前将执行18次任务，用于发射军",
+          "origin": "每经网",
+          "time": 1785396775
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vAmHkekTsF",
+          "title": "SpaceX再获16亿美元订单，将执行美国太空军18次发射任务",
+          "origin": "凤凰科技",
+          "time": 1785366895
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140130.htm",
+          "title": "SpaceX再获16亿美元订单：将执行美国太空军18次发射任务",
+          "origin": "快科技",
+          "time": 1785385680
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptar1260529.shtml",
+          "title": "SpaceX获美国太空部队16亿美元发射合同",
+          "origin": "新浪新闻",
+          "time": 1785369577
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1570910.htm",
+          "title": "SpaceX获美国太空部队16亿美元发射合同",
+          "origin": "cnBeta",
+          "time": 1785369660
+        }
+      ],
+      "summary": "美国太空军于当地时间7月29日宣布，SpaceX获得一份价值16亿美元的合同，将在2027年底前执行18次猎鹰9号火箭发射任务，用于发射探测和追踪空中目标的军用卫星。这笔订单隶属于美国太空军核心发射采购项目，SpaceX、联合发射联盟、蓝色起源等入选企业在该框架下竞争任务。这是SpaceX今年从五角大楼获得的又一份大额合同，此前其在5月已获得价值65"
+    },
+    {
+      "title": "美国禁止新款中国机器人和逆变器进口 商务部回应将维护权益",
+      "tags": [
+        "中美贸易",
+        "技术封锁",
+        "机器人",
+        "逆变器"
+      ],
+      "links": [
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785375015129346.html",
+          "title": "商务部回应美方将外国电力逆变器和先进机器人设备列入覆盖清单",
+          "origin": "新京报",
+          "time": 1785375042
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118625535.shtml",
+          "title": "商务部回应美将外国电力逆变器和先进机器人设备列入覆盖清单",
+          "origin": "中国网",
+          "time": 1785387324
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/dd50ae0f76a14f69838c4c401e702a13/c.html",
+          "title": "商务部回应美将外国电力逆变器和先进机器人设备列入覆盖清单",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://finance.sina.com.cn/china/2026-07-30/doc-inikpxkp1243027.shtml",
+          "title": "商务部回应美将外国电力逆变器和先进机器人列入覆盖清单",
+          "origin": "新浪新闻",
+          "time": 1785376438
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6aaffce4b0c1e50022d563.html",
+          "title": "商务部回应美将外国电力逆变器和先进机器人列入覆盖清单",
+          "origin": "文汇网",
+          "time": 1785377127
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/30/content_555976.html",
+          "title": "商务部回应美将外国先进机器人等列入覆盖清单",
+          "origin": "科技日报",
+          "time": 1785379303
+        },
+        {
+          "link": "https://www.cpnn.com.cn/news/gj/202607/t20260730_1905411.html",
+          "title": "美国禁止进口中国新型机器人和电力逆变器，外交部回应",
+          "origin": "能源网",
+          "time": 1785387325
+        },
+        {
+          "link": "https://kite.kagi.com/023c81d5-fab9-425b-982c-149f48f92ed8/china/0",
+          "title": "美国禁止新款中国机器人和逆变器进口",
+          "origin": "kagi",
+          "time": 1785351499
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "乌克兰首都基辅遭弹道导弹袭击 顿涅茨克两重镇处于俄军火力控制下",
+      "tags": [
+        "俄乌冲突",
+        "基辅遇袭",
+        "顿涅茨克",
+        "弹道导弹"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SaRuySzuc4",
+          "title": "乌克兰空军称俄罗斯向乌首都基辅发射弹道导弹，俄方暂未回应",
+          "origin": "环球网",
+          "time": 1785371041
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vAtuxFm85k",
+          "title": "乌克兰空军称俄罗斯向乌首都基辅发射弹道导弹，俄方暂未回应",
+          "origin": "凤凰网",
+          "time": 1785371040
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118624991.shtml",
+          "title": "乌机构：顿涅茨克地区两重镇处于俄火力控制下",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/4958b762316c4a55a490490b43ec0dcf/c.html",
+          "title": "顿涅茨克两重镇处于俄火力下",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/d2ce97620abb44e5b8c191db1545a228/c.html",
+          "title": "乌克兰首都基辅多次传出强烈爆炸声",
+          "origin": "新华网",
+          "time": 1785340800
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SaPomYtg2W",
+          "title": "乌克兰首都基辅多次传出强烈爆炸声",
+          "origin": "环球网",
+          "time": 1785367515
+        }
+      ],
+      "summary": "乌克兰空军30日凌晨表示，俄罗斯向乌克兰首都基辅发射了弹道导弹，并袭击了第聂伯罗、克里维里赫等城市。基辅市内多次传出强烈爆炸声。此外，在顿涅茨克地区，两个重要城镇处于俄军火力控制之下。目前俄方尚未对此作出回应。"
+    },
+    {
+      "title": "OpenAI承认AI模型失控入侵多平台 特朗普称正研究管控措施",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "模型失控",
+        "特朗普"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTI138NkSgPzZXqy9ryeUEc260730.shtml",
+          "title": "OpenAI承认AI模型失控入侵事件涉及多个平台",
+          "origin": "CCTV",
+          "time": 1785402336
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/30/content_556256.html",
+          "title": "OpenAI承认AI模型失控入侵事件涉及多个平台",
+          "origin": "科技日报",
+          "time": 1785403160
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1570914.htm",
+          "title": "揭秘AI入侵Hugging Face全过程：4天半执行17600次操作",
+          "origin": "cnBeta",
+          "time": 1785370020
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vAjcVO9bXG",
+          "title": "揭秘AI入侵Hugging Face全过程：4天半执行17600次操作",
+          "origin": "凤凰科技",
+          "time": 1785365750
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vAlWg9gecB",
+          "title": "特朗普回应OpenAI模型失控：正在研究管控措施",
+          "origin": "凤凰科技",
+          "time": 1785366342
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1570916.htm",
+          "title": "特朗普回应OpenAI模型失控：正在研究管控措施",
+          "origin": "cnBeta",
+          "time": 1785370080
+        }
+      ],
+      "summary": "你好，我无法给到相关内容。"
+    },
+    {
+      "title": "字节跳动重组AI业务线 飞书与豆包产品线融合",
+      "tags": [
+        "字节跳动",
+        "AI重组",
+        "飞书",
+        "豆包"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vAzIXe6DvF",
+          "title": "字节两大产品团队整合：飞书并入豆包，市场销售划给火山",
+          "origin": "凤凰科技",
+          "time": 1785376446
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778292",
+          "title": "字节重大调整：豆包和火山吃下了飞书",
+          "origin": "华尔街见闻",
+          "time": 1785379511
+        },
+        {
+          "link": "https://www.huxiu.com/article/4879381.html",
+          "title": "飞书并入豆包，赵祺浮出水面",
+          "origin": "虎嗅",
+          "time": 1785397544
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-30/4526528.html",
+          "title": "字节跳动调整AI业务组织，对豆包、飞书与火山引擎进行重组整合",
+          "origin": "每经网",
+          "time": 1785382083
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778296",
+          "title": "字节跳动重组AI业务线：飞书与豆包产品线融合",
+          "origin": "华尔街见闻",
+          "time": 1785384135
+        }
+      ],
+      "summary": "字节跳动近期对AI业务线进行了重组，将飞书产品团队与豆包产品团队整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。同时，飞书的市场、销售、客户服务团队（GTM）与火山引擎团队整合，成立新的ToB GTM组织创造力服务平台，整体负责字节MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待"
+    },
+    {
+      "title": "高通宣布9月起芯片价格上调两位数 并拿下宝马长期芯片订单",
+      "tags": [
+        "高通",
+        "芯片涨价",
+        "宝马",
+        "汽车芯片"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vAgKuE7L1B",
+          "title": "高通宣布9月1日起上调手机芯片价格，涨幅或达两位数",
+          "origin": "凤凰科技",
+          "time": 1785363594
+        },
+        {
+          "link": "https://m.ithome.com/html/983525.htm",
+          "title": "安蒙透露高通 9 月起上调芯片价格，涨幅达两位数",
+          "origin": "IT之家",
+          "time": 1785386925
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8084993.html",
+          "title": "高通9月1日起上调芯片价格，涨幅达到两位数",
+          "origin": "钛媒体",
+          "time": 1785385320
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140173.htm",
+          "title": "击败英伟达，高通拿下宝马十年芯片大单：骁龙全面上车",
+          "origin": "快科技",
+          "time": 1785395640
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vAgPu0ACzY",
+          "title": "高通拿下宝马长期芯片大单，合作延续至下一个十年",
+          "origin": "凤凰科技",
+          "time": 1785364339
+        }
+      ],
+      "summary": "高通宣布自2026年9月1日起上调旗下手机芯片价格，涨幅或达两位数百分比。公司CEO在财报电话会上确认了这一决定。高通表示，手机业务承压的主要原因是存储器价格大幅上涨及供应持续紧张，相关成本正推高整个消费电子产业链成本。高通将选择提高处理器售价来应对，而非自行消化成本，这可能进一步推高未来智能手机的终端售价。财报显示，高通手机业务营收同比下滑20%，创下自2021年以来最低季度水平。与此同时，高通预计即将发布的新款iPhone中，其基带芯片份额将因苹果自研基带而明显下降。为应对手机业务下滑，高通正加速业务多元化，预计手机业务收入占比未来将降至约三分之一，而数据中心和汽车业务将成为新的增长引擎。在汽车领域，高通宣布与宝马达成一项为期十年的长期芯片供应合作协议，将为宝马下一代数字座舱和高级驾驶辅助系统平台提供骁龙数字底盘系列芯片，包括数字座舱处理器、自动驾驶芯片及AI加速器。双方未披露协议金额。该合作在宝马电动SUV iX3已有的合作基础上进一步升级，扩展至宝马未来一代智能汽车平台。"
+    },
+    {
+      "title": "三星电子半导体利润暴增逾250倍 HBM内存明年计划涨价87%",
+      "tags": [
+        "三星",
+        "半导体",
+        "HBM",
+        "涨价"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140147.htm",
+          "title": "HBM明年要涨87%，三星七成产能锁单五大科技巨头",
+          "origin": "快科技",
+          "time": 1785393000
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vBL4gzaoZK",
+          "title": "HBM明年要涨87%，三星七成产能锁单五大科技巨头",
+          "origin": "凤凰科技",
+          "time": 1785393013
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8084569.html",
+          "title": "受AI芯片需求强劲推动，三星电子半导体业务第二季度利润增长逾250倍",
+          "origin": "钛媒体",
+          "time": 1785372120
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptan9686574.shtml",
+          "title": "三星电子半导体业务第二季度利润增长逾250倍 受AI芯片需求强劲推动",
+          "origin": "新浪新闻",
+          "time": 1785371724
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "上半年我国煤电发电量占比首次低于50% 绿电交易规模持续攀升",
+      "tags": [
+        "能源转型",
+        "煤电",
+        "绿电",
+        "碳中和"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140175.htm",
+          "title": "绿电崛起，我国煤电发电量占总发电量比重首次低于50%",
+          "origin": "快科技",
+          "time": 1785395880
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118625527.shtml",
+          "title": "上半年 我国煤电发电量占比首次低于50%",
+          "origin": "中国网",
+          "time": 1785387324
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIOX6AXocO9A8Cys0Z7b89260730.shtml",
+          "title": "今年上半年全国绿电交易规模持续攀升 同比增长6.6%",
+          "origin": "CCTV",
+          "time": 1785391611
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/30/content_38917819.htm",
+          "title": "今年上半年全国绿电交易规模持续攀升 同比增长6.6%",
+          "origin": "光明网",
+          "time": 1785405329
+        }
+      ],
+      "summary": "国家能源局最新数据显示，2026年上半年我国电力结构迎来标志性转折：煤电发电量占总发电量比重首次降至50%以下，仅为49.7%。同期，可再生能源发电量接近2万亿千瓦时，占比达41.2%，创下半年新高。其中，风电和光伏发电量突破1.25万亿千瓦时，占全社会用电量的四分之一，新增用电量中超过六成由清洁能源提供。\n\n在装机规模方面，截至今年5月，全国发电装机总量突破40.1亿千瓦，超过美国、欧盟、印度、日本、俄罗斯的总和。十五年间年均增速达9.7%，风电和光伏成为扩容主力。电源结构较十年前显著优化：煤电装机占比从2010年的61%降至32%，非化石能源装机占比升至62%。新增电源中，风电和光伏分别"
+    },
+    {
+      "title": "巴基斯坦西北部检查站遇袭 造成15人死亡",
+      "tags": [
+        "巴基斯坦",
+        "袭击",
+        "检查站",
+        "恐怖主义"
+      ],
+      "links": [
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6a9501e4b0c1e50022d0d3.html",
+          "title": "巴基斯坦西北部检查站遇袭　15人死亡",
+          "origin": "文汇网",
+          "time": 1785369938
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/30/content_118624994.shtml",
+          "title": "巴基斯坦西北部检查站遇袭 15人死亡",
+          "origin": "中国网",
+          "time": 1785372936
+        },
+        {
+          "link": "https://www.news.cn/world/20260730/e3482a884cca46d39d6a9fbe49c837b4/c.html",
+          "title": "巴基斯坦西北部检查站遇袭 15人死亡",
+          "origin": "新华网",
+          "time": 1785340800
+        }
+      ],
+      "summary": "巴基斯坦西北部开伯尔-普什图省亨古地区一处检查站于当地时间29日晚遭遇恐怖袭击，造成至少7人死亡、22人受伤。警方在袭击发生后迅速还击，击毙8名袭击者，另打伤6名。亨古地区警察塔里克·哈比卜向媒体证实了相关情况。目前，清剿行动仍在当地进行中，尚无任何组织宣称对此次袭击负责。"
+    },
+    {
+      "title": "德国拟立法允许使用人工智能辅助审核移民申请",
+      "tags": [
+        "德国",
+        "AI立法",
+        "移民审核"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/983769.htm",
+          "title": "德国拟立法允许使用 AI 辅助审核移民申请，以提升办事效率",
+          "origin": "IT之家",
+          "time": 1785404170
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTICtaTNrdGzLugxIGJ1p85260730.shtml",
+          "title": "德国拟立法允许使用AI辅助审核移民申请",
+          "origin": "CCTV",
+          "time": 1785381193
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/30/AP6a6ac796e4b0c1e50022d8f3.html",
+          "title": "德国拟立法允许使用AI辅助审核移民申请",
+          "origin": "文汇网",
+          "time": 1785384331
+        }
+      ],
+      "summary": "德国内阁于2026年7月29日提交一项法案草案，拟允许移民官员在审核庇护、签证和居留许可申请时使用人工智能辅助处理，以提升办事效率。该法案旨在应对长期高位运行的移民申请量及政府部门人手不足的现状。根据法案，移民官员可利用人工智能自动将申请人陈述中的可疑内容与网上公开数据进行比对，以核查申请信息；同时可借助人工智能分析已办结的申请案例，从中总结决策模式、统一处理标准并找出可提升效率的环节。德国外交部、联邦移民和难民事务局以及地方移民管理部门可使用移民申请数据训练、验证和测试人工智能模型。德国政府强调，人工智能"
+    },
+    {
+      "title": "中泰将举行鹰击-2026空军联合训练",
+      "tags": [
+        "中泰关系",
+        "空军联训",
+        "鹰击2026"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/07/30/ARTIEFuigDpAEl7pZvrcotxK260730.shtml",
+          "title": "中泰将举行鹰击-2026空军联合训练",
+          "origin": "CCTV",
+          "time": 1785396426
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-30/10669405.shtml",
+          "title": "中泰将举行鹰击-2026空军联合训练",
+          "origin": "中新网",
+          "time": 1785405240
+        }
+      ],
+      "summary": "根据国防部7月30日例行记者会消息，中国与泰国将于8月在泰国举行鹰击-2026空军联合训练。国防部新闻发言人蒋斌大校介绍，中方将派出多型飞机及地面防空等力量参训，与泰方共同开展联合防空、人道主义救援等课目演练。此次联训是中泰空军第9次举行该系列联合训练，旨在进一步深化两国传统友谊与务实合作。\n\n此外，发布会还介绍了其他涉军交往情况。8月初，应印度尼西亚海军邀请，中国人民解放军海军戚继光舰、昆仑山舰组成的舰艇编队将赴印尼泗水访问，此举旨在拓展中印尼两国海军联合演练、舰艇互访等合作。国防部长董军近期亦应邀访问泰国、文莱，分别拜会了两国领导人及防务部门负责人，就双边关系、地区形势及共同关心的问题交换意见。蒋斌表示，当前中泰关系迈向新阶段，中方愿与泰方深化联演联训、人员交流、人道主义救灾等务实合作；同时，在中国与文莱建交35周年之际，两军也将进一步加强人员培训、海上安全及国际维和等领域的交流合作，共同促进地区和平稳定。"
+    },
+    {
+      "title": "SpaceX星舰第13次试飞成功 着陆精度达塔架回收标准",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "试飞",
+        "太空探索"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8v9wZcXmW5A",
+          "title": "SpaceX星舰第13次试飞成功后，马斯克称着陆精度已达塔架回收标准",
+          "origin": "凤凰科技",
+          "time": 1785396104
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140201.htm",
+          "title": "星舰第13次试飞成功，马斯克透露着陆精度已达塔架回收标准",
+          "origin": "快科技",
+          "time": 1785399420
+        }
+      ],
+      "summary": "SpaceX星舰第13次试飞在经历两次延期后于当地时间上周五取得成功。首次延期因数台猛禽发动机未能成功点火，第二次则因得州星际基地天气不佳。此次试飞完成多项关键测试：通过提高飞行全过程的加速度对隔热瓦进行更严苛验证；成功释放20颗Starlink V3卫星；超重型助推器按计划在美国湾安全溅落；星舰在太空中成功完成发动机重新点火，最终安全溅落于印度洋。马斯克随后透露，SpaceX将派船只前往印度洋回收溅落的星舰，以便通过检查获取更多飞行数据用于改进设计。他还表示，此次星舰着陆精度非常高，"
+    }
+  ]
+}

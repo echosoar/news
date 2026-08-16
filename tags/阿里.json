@@ -1,7 +1,17 @@
 {
   "tag": "阿里",
-  "generated_at": "2026-07-18T23:19:48Z",
+  "generated_at": "2026-08-10T13:38:58Z",
   "summary": [
+    {
+      "title": "阿里千问发布语音合成大模型Qwen-Audio-3.0-TTS 登顶Artificial Analysis榜首",
+      "tags": [
+        "阿里",
+        "语音合成",
+        "大模型"
+      ],
+      "summary": "",
+      "date": "2026-07-20"
+    },
     {
       "title": "阿里发布Qoder 1.0 AI编码智能体，实现代码全流程自动化",
       "tags": [

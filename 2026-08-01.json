@@ -1,0 +1,841 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T13:44:18Z",
+  "summary": [
+    {
+      "title": "美以计划对伊朗能源设施发动猛烈轰炸，联合国秘书长呼吁停止海湾战事",
+      "tags": [
+        "军事",
+        "中东",
+        "伊朗",
+        "美以",
+        "联合国"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIP9QpbVcYUnwlzh7WT1DM260801.shtml",
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "CCTV",
+          "time": 1785537262
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vDwIljTGY5",
+          "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "凤凰网",
+          "time": 1785533640
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2KLnRtOw",
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "环球网",
+          "time": 1785536294
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-01/10670274.shtml",
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "中新网",
+          "time": 1785537540
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/01/AP6a6d26ebe4b0c1e50023135b.html",
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "文汇网",
+          "time": 1785539129
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9144639.shtml",
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+          "origin": "新浪新闻",
+          "time": 1785536574
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vERwlZmhzI",
+          "title": "特朗普渴望一项成就，伊朗情况复杂，所以选择了加沙",
+          "origin": "凤凰网",
+          "time": 1785556320
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4166510.shtml",
+          "title": "报道：特朗普下令最早本周末对伊朗发动打击",
+          "origin": "新浪新闻",
+          "time": 1785538728
+        },
+        {
+          "link": "https://www.jiemian.com/article/14860816.html",
+          "title": "美官员称特朗普下令对伊朗发动新一轮袭击，最早本周末开始",
+          "origin": "界面新闻",
+          "time": 1785578734
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vErXsygJc0",
+          "title": "特朗普：伊朗确实挺硬气",
+          "origin": "凤凰网",
+          "time": 1785577200
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-01/10670310.shtml",
+          "title": "美以或袭击伊能源设施？ 伊朗警告：已制定全面应对计划",
+          "origin": "中新网",
+          "time": 1785546480
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc535OxfJ9",
+          "title": "美媒：美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "origin": "环球网",
+          "time": 1785540864
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIjBWMNLO843FfGVGeuVIf260801.shtml",
+          "title": "美媒：美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "origin": "CCTV",
+          "time": 1785548876
+        },
+        {
+          "link": "https://www.news.cn/world/20260801/5f85c4ed6ff44ad6891a41a1cc8a9a70/c.html",
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "origin": "新华网",
+          "time": 1785513600
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTImXNZ4udomm5ouZK2vn5T260801.shtml",
+          "title": "伊朗官员：已制定全面计划应对潜在美以袭击",
+          "origin": "CCTV",
+          "time": 1785555194
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "title": "伊朗警告打击美以能源基础设施",
+          "origin": "凤凰网",
+          "time": 1785537540
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhk9052729.shtml",
+          "title": "伊朗警告打击美以能源基础设施",
+          "origin": "新浪新闻",
+          "time": 1785540622
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2TbudtrX",
+          "title": "古特雷斯呼吁停止海湾地区战事",
+          "origin": "环球网",
+          "time": 1785536544
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-01/10670278.shtml",
+          "title": "古特雷斯呼吁停止海湾地区战事",
+          "origin": "中新网",
+          "time": 1785538020
+        }
+      ],
+      "summary": "美国官员称，总统特朗普已下令对伊朗发动新一轮军事袭击，目标包括伊朗的能源设施，旨在通过强大的军事压力迫使伊朗政权屈服。联合国秘书长古特雷斯于7月31日发出呼吁，要求立即停止已持续六个月的海湾地区战事，并强调必须全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利与自由。古特雷斯指出，冲突已从地区层面升级为全球不稳定的重要因素，导致经由霍尔木兹海峡的贸易大幅萎缩、能源市场严重扰乱，并推高了食品与关键肥料的价格，给全球供应链带来压力。他呼吁通过外交途径解决争端，并强调外交必须占据主导地位。"
+    },
+    {
+      "title": "中国发布黄岩岛管理办法并组织海空演训和执法演练，强化主权",
+      "tags": [
+        "南海",
+        "中国",
+        "黄岩岛",
+        "主权",
+        "军事"
+      ],
+      "links": [
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785556797129897.html",
+          "title": "《黄岩岛国家级自然保护区管理办法》印发",
+          "origin": "新京报",
+          "time": 1785556952
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670375.shtml",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "origin": "中新网",
+          "time": 1785556980
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIZhxOR02wNWChA301CBUt260801.shtml",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "origin": "CCTV",
+          "time": 1785562081
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557490.html",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "origin": "科技日报",
+          "time": 1785563715
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670430.shtml",
+          "title": "中国发布《黄岩岛国家级自然保护区管理办法》  禁止捕捞采矿等活动",
+          "origin": "中新网",
+          "time": 1785566100
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785564795129976.html",
+          "title": "六大焦点了解《黄岩岛国家级自然保护区管理办法》",
+          "origin": "新京报",
+          "time": 1785572095
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4ScEbc66LCj",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "origin": "环球网",
+          "time": 1785556912
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1153794&sid=21",
+          "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+          "origin": "上观",
+          "time": 1785545213
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670297.shtml",
+          "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+          "origin": "中新网",
+          "time": 1785545220
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785539886129784.html",
+          "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+          "origin": "新京报",
+          "time": 1785545215
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557373.html",
+          "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+          "origin": "科技日报",
+          "time": 1785550568
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785539856129781.html",
+          "title": "现场画面，南部战区位黄岩岛周边组织海空联合演训",
+          "origin": "新京报",
+          "time": 1785556715
+        },
+        {
+          "link": "http://www.chinanews.com//mil/shipin/2026/08-01/news1064017.shtml",
+          "title": "现场画面，南部战区位黄岩岛周边组织海空联合演训",
+          "origin": "中新网",
+          "time": 1785556500
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vESxQWkS0j",
+          "title": "自然资源部、中国海警局等联合印发《黄岩岛国家级自然保护区管理办法》",
+          "origin": "凤凰网",
+          "time": 1785556800
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIDLCLP6QCtZuHISxsMHqV260801.shtml",
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
+          "origin": "CCTV",
+          "time": 1785577166
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1153975&sid=21",
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
+          "origin": "上观",
+          "time": 1785576558
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670506.shtml",
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
+          "origin": "中新网",
+          "time": 1785576120
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785576021129083.html",
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
+          "origin": "新京报",
+          "time": 1785576036
+        }
+      ],
+      "summary": "自然资源部、国家林业和草原局、中国海警局与海南省人民政府于2026年8月1日联合印发《黄岩岛国家级自然保护区管理办法》。该办法基于国务院于2025年9月批复同意设立的自然保护区，旨在强化对黄岩岛（位于我国中沙群岛）的管理，其拥有独特的珊瑚礁生态系统和丰富的珍稀濒危物种。办法共十六条，明确了多部门的管理机制：自然资源部负责勘界、规划审查及资源管理；国家林业和草原局负责监督及审批工作；自然资源部南海局承担日常保护管理；并建立协同机制解决重大问题。保护区实行严格保护，禁止未经批准的捕捞、采矿等活动，违规将追究法律责任。同日，中国海警在黄岩岛附近海域组织维权执法管控演练，重点演练临检拿捕、拦阻冲闯、强制拖离等行动，并声明将加大该区域维权执法力度，坚决维护国家领土主权和海洋权益。"
+    },
+    {
+      "title": "阿里巴巴主席蔡崇信宣布离婚，称无出售股份计划",
+      "tags": [
+        "阿里巴巴",
+        "蔡崇信",
+        "离婚",
+        "管理层"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0584817.shtml",
+          "title": "阿里董事会主席蔡崇信宣布离婚：和平分手，不涉及任何出售阿里巴巴股份的计划",
+          "origin": "新浪新闻",
+          "time": 1785545572
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vEQWPiCytM",
+          "title": "阿里巴巴集团主席蔡崇信宣布离婚，双方未来仍将保持合作伙伴关系",
+          "origin": "凤凰网",
+          "time": 1785552240
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/t/2026-08-01/doc-inikvanf3799483.shtml",
+          "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
+          "origin": "新浪新闻",
+          "time": 1785572802
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571224.htm",
+          "title": "蔡崇信宣布离婚：和平分手 不涉及任何出售阿里巴巴股份的计划",
+          "origin": "cnBeta",
+          "time": 1785549060
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vEMQDCNZQw",
+          "title": "蔡崇信宣布离婚，不涉及出售阿里股份",
+          "origin": "凤凰网",
+          "time": 1785551460
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vEkfh193rF",
+          "title": "蔡崇信离婚，影响几何？",
+          "origin": "凤凰网",
+          "time": 1785567720
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikvani0561496.shtml",
+          "title": "蔡崇信离婚，影响几何？",
+          "origin": "新浪新闻",
+          "time": 1785572831
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vE90MV317O",
+          "title": "蔡崇信与妻子和平分手，结束近30年婚姻",
+          "origin": "凤凰网",
+          "time": 1785539760
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140661.htm",
+          "title": "阿里集团主席蔡崇信宣布结束30年婚姻",
+          "origin": "快科技",
+          "time": 1785561720
+        }
+      ],
+      "summary": "阿里巴巴主席蔡崇信宣布与妻子吴明华结束近30年婚姻，双方是基于彼此尊重共同作出的决定，离婚过程友好融洽。两人育有三名成年子女，多年来已逐渐演变为共同抚育子女、经营事业的伙伴关系，未来将继续保持牢固的伙伴关系。此次变动不涉及任何出售阿里巴巴股份的计划，蔡崇信继续担任阿里巴巴集团主席。同时，布鲁克林篮网队、纽约自由人队及其控股公司布鲁克林体育娱乐的运营不受影响，两人将继续拥有并与专业化管理团队共同守护球队。双方表示，未来将继续投入现有公益及社区工作，以家人、事业及社区最佳利益为出发点，以真挚的伙伴身份同行。"
+    },
+    {
+      "title": "中国调拨1.1万件救灾物资支持吉林黑龙江抗洪，水利部启动应急响应",
+      "tags": [
+        "中国",
+        "洪水",
+        "救灾",
+        "黑龙江"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIXdROOu5GzONoU3afbDUX260801.shtml",
+          "title": "三部门调拨1.1万件中央救灾物资支持吉林、黑龙江救灾救助工作",
+          "origin": "CCTV",
+          "time": 1785567676
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670448.shtml",
+          "title": "三部门调拨1.1万件中央救灾物资支持吉林、黑龙江救灾救助工作",
+          "origin": "中新网",
+          "time": 1785568860
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557512.html",
+          "title": "三部门向吉林黑龙江调拨1.1万件中央救灾物资",
+          "origin": "科技日报",
+          "time": 1785572102
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670438.shtml",
+          "title": "三部门调拨1.1万件中央救灾物资支持吉林、黑龙江救灾救助工作",
+          "origin": "中新网",
+          "time": 1785566760
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260801/b8bcc8e72dc843d2a5965a37be7e5abc/c.html",
+          "title": "三部门向吉林黑龙江调拨1.1万件中央救灾物资",
+          "origin": "新华网",
+          "time": 1785513600
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8088032.html",
+          "title": "三部门调拨1.1万件中央救灾物资支持吉林、黑龙江救灾救助工作",
+          "origin": "钛媒体",
+          "time": 1785568320
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTITmuAS7OSnkMOY6U7COyD260801.shtml",
+          "title": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应",
+          "origin": "CCTV",
+          "time": 1785564066
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670422.shtml",
+          "title": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应",
+          "origin": "中新网",
+          "time": 1785565140
+        }
+      ],
+      "summary": "8月1日，针对吉林、黑龙江等地近期暴雨洪涝灾害，国家防灾减灾救灾委员会办公室、应急管理部联合调拨1.1万件中央救灾物资，支持两地救灾救助工作。同时，相关部门已派出工作组赴两省实地查看灾情，协助和指导地方开展救灾。水利部同日针对黑龙江省启动洪水防御Ⅳ级应急响应。据预报，8月1日东北东部有大到暴雨，2日东南部有小到中雨，3至7日中部北部仍有中到大雨。黑龙江省松花江、嫩江支流甘河可能发生编号洪水，松花江干流佳木斯江段及支流汤旺河可能发生超警洪水，暴雨区内部分中小河流可能发生较大洪水。水利部已督促指导地方水利部门密切关注雨水情变化，加强监测预报预警、会商研判和水工程调度，重点做好水库安全度汛、中小河流洪水和山洪灾害防御，及时提请地方政府转移危险区人员，全力保障人民群众生命财产安全。目前，水利部已有3个工作组在黑龙江省洪水防御一线协助指导。"
+    },
+    {
+      "title": "胡塞武装继续封锁沙特船只，美中央司令部改变30艘商船航线",
+      "tags": [
+        "红海",
+        "胡塞武装",
+        "航运",
+        "美国",
+        "沙特"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIql40gjEwBecJ2tAgadYW260801.shtml",
+          "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+          "origin": "CCTV",
+          "time": 1785536428
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2OQ24wLj",
+          "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+          "origin": "环球网",
+          "time": 1785536404
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9128641.shtml",
+          "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+          "origin": "新浪新闻",
+          "time": 1785540619
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIT9irhwEU7n1fQQIrwglm260801.shtml",
+          "title": "美中央司令部：已改变30艘商船航行路线",
+          "origin": "CCTV",
+          "time": 1785536348
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-01/10670275.shtml",
+          "title": "美中央司令部：已改变30艘商船航行路线",
+          "origin": "中新网",
+          "time": 1785537720
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyv0934017.shtml",
+          "title": "美中央司令部：已改变30艘商船航行路线",
+          "origin": "新浪新闻",
+          "time": 1785536630
+        }
+      ],
+      "summary": "也门胡塞武装于2026年7月31日宣布，将继续对沙特船只实施海上封锁。作为该行动的一部分，已有8艘沙特油轮被迫改变原定航线，折返驶向各自的出发港口。此举是基于胡塞武装“以封锁回应封锁”的方针，旨在落实对沙特的海上禁运措施。\n\n同日，美国中央司令部表示，为应对局势，美军已改变30艘商船的航行路线。此外，美军还采取行动使2艘船只失去行动能力，并对另外2艘船只进行了登船检查，以确保其完全遵守封锁要求。与此同时，美军允许近30艘船只通过封锁线，用于运送人道主义援助物资。"
+    },
+    {
+      "title": "AI安全事件频发，OpenAI和Anthropic模型越狱，谷歌地球AI生图遭下架",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "Anthropic",
+        "谷歌",
+        "模型越狱"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/07/462447.html",
+          "title": "超越OpenAI、Anthropic，国产AI安全智能体杀进全球前四、国内第一",
+          "origin": "量子位",
+          "time": 1785546328
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778469",
+          "title": "AI安全警报，Anthropic、OpenAI接连越狱，专家警告国家安全风险",
+          "origin": "华尔街见闻",
+          "time": 1785536823
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557491.html",
+          "title": "美国人工智能模型再次被曝入侵外部网络系统",
+          "origin": "科技日报",
+          "time": 1785563706
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4ScEtvjV2lI",
+          "title": "美国人工智能模型再次被曝入侵外部网络系统",
+          "origin": "环球网",
+          "time": 1785557408
+        },
+        {
+          "link": "https://m.ithome.com/html/984415.htm",
+          "title": "能无限制生成灾难图片，谷歌地球 AI 生图功能上线不到一天就下架",
+          "origin": "IT之家",
+          "time": 1785543280
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vED3C7Wfqj",
+          "title": "能无限制生成灾难图片，谷歌地球AI生图功能上线不到一天就下架",
+          "origin": "凤凰科技",
+          "time": 1785543699
+        }
+      ],
+      "summary": "深信服公布其AI安全智能体Sangfor AI在AI安全评测CyberGym中的最新成绩。在基于国产大模型GLM-5.2的固定配置下，Sangfor AI面对涵盖ARVO与OSS-Fuzz的1507项漏洞挑战任务，成功完成1301项，整体成功率达到86.3%，最终跻身全球前四、位列国内参评团队第一，以纯国产底座实现对OpenAI、Anthropic两大海外AI巨头的成绩超越。CyberGym是目前全球含金量较高的代码安全大模型实战靶场，完全贴合工业真实场景，以海量开源软件历史高危漏洞为考题，重点考核AI智能体自主源码分析、多阶段漏洞推演、漏洞复现与PoC验证全"
+    },
+    {
+      "title": "OpenAI展示新一代AstraAI模型，前员工建议套现且公司或推迟上市",
+      "tags": [
+        "OpenAI",
+        "AI模型",
+        "上市",
+        "套现"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/984421.htm",
+          "title": "OpenAI 奥尔特曼推介 Astra 模型：协同 AI 智能体工作，主打长周期任务能力",
+          "origin": "IT之家",
+          "time": 1785545112
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3778470",
+          "title": "报道：OpenAI向美国监管机构演示新一代\"Astra\"AI模型",
+          "origin": "华尔街见闻",
+          "time": 1785537918
+        },
+        {
+          "link": "https://www.qbitai.com/2026/08/464693.html",
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO",
+          "origin": "量子位",
+          "time": 1785560609
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vEVfDqnC0w",
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO",
+          "origin": "凤凰科技",
+          "time": 1785558626
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1571222.htm",
+          "title": "知情人士：OpenAI或将推迟至明年启动上市",
+          "origin": "cnBeta",
+          "time": 1785549000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikumqh8993740.shtml",
+          "title": "知情人士：OpenAI或将推迟至明年启动上市",
+          "origin": "新浪新闻",
+          "time": 1785546767
+        }
+      ],
+      "summary": "OpenAI首席执行官萨姆·奥尔特曼本周在美国国会山展示了名为Astra的全新AI系列模型，该模型主打长周期任务处理能力，支持AI智能体协同工作，以解决复杂问题。另一方面，据知情人士透露，由于面临多重挑战，OpenAI或将推迟至明年启动上市。公司此前误判AI市场发展方向，其核心产品ChatGPT增长显著放缓，而竞争对手Anthropic凭借代码工具大获成功，营收增速和估值均超越OpenAI，并正加速推进秋季IPO。OpenAI不仅面临产品Codex遇冷、烧钱速度过快的问题，部分投资方已开始分散风险，同时公司内部高管离职、战略重心分散。尽管OpenAI近期推出了新模型并试图扭转局面，但行业竞争和舆论压力依然巨大。"
+    },
+    {
+      "title": "中国海军先进装备试验，四川舰电磁弹射实弹发射，055大驱夜间发射新型导弹",
+      "tags": [
+        "中国海军",
+        "四川舰",
+        "055大驱",
+        "军事科技"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vECuHq575q",
+          "title": "四川舰最新画面公布，不只电磁弹射试验，还有实弹发射",
+          "origin": "凤凰网",
+          "time": 1785542580
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670304.shtml",
+          "title": "四川舰最新画面公布，不只电磁弹射试验，还有实弹发射",
+          "origin": "中新网",
+          "time": 1785545940
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260801/49647604.html",
+          "title": "实弹发射，四川舰最新画面公布 电磁弹射首秀",
+          "origin": "中国网",
+          "time": 1785544535
+        },
+        {
+          "link": "http://www.chinanews.com//mil/shipin/2026/08-01/news1064003.shtml",
+          "title": "四川舰最新画面公布，不只电磁弹射试验，还有实弹发射",
+          "origin": "中新网",
+          "time": 1785545280
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vECuHq576H",
+          "title": "首次披露画面：055大驱联合对海突击，夜间发射某新型导弹",
+          "origin": "凤凰网",
+          "time": 1785543900
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1153793&sid=21",
+          "title": "首次呈现055大驱联合对海突击，夜间发射某新型导弹",
+          "origin": "上观",
+          "time": 1785545289
+        }
+      ],
+      "summary": "央视新闻日前首次公开了海军四川舰的实弹发射画面，同时披露了质量车电磁弹射试验画面。四川舰于2024年下水，首批接舰成员平均年龄25岁。该舰搭载完全国产化的全新动力系统与电磁弹射装置，瞄准远海无人作战的全新赛道。舰员大多来自传统登陆舰，在传统登陆战术中成长，现正积极转型，通过实战校验数据，将陌生操作练成本能，抢占海上无人作战先机。"
+    },
+    {
+      "title": "三大运营商8月1日起停止第三方互联网办卡，整治号卡乱象",
+      "tags": [
+        "中国",
+        "通信",
+        "运营商",
+        "电话卡",
+        "监管"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/08-01/10670379.shtml",
+          "title": "三大运营商整治号卡乱象 低价流量卡优惠套路要留心",
+          "origin": "中新网",
+          "time": 1785558960
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIQMFQuCk6UtlKzK8TTiUm260801.shtml",
+          "title": "三大运营商整治号卡乱象 低价流量卡优惠套路要留心",
+          "origin": "CCTV",
+          "time": 1785562099
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557357.html",
+          "title": "8月1日起三大运营商将停止第三方互联网渠道办卡",
+          "origin": "科技日报",
+          "time": 1785543972
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-08/01/content_38921746.htm",
+          "title": "8月1日起三大运营商将停止第三方互联网渠道办卡",
+          "origin": "光明网",
+          "time": 1785560126
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vE9ZnuRgWs",
+          "title": "今天起，低价大流量卡集体退场 三大运营商叫停：专家释疑",
+          "origin": "凤凰科技",
+          "time": 1785539602
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140621.htm",
+          "title": "今天起，低价大流量卡集体退场 三大运营商正式叫停",
+          "origin": "快科技",
+          "time": 1785539580
+        }
+      ],
+      "summary": "自2026年8月1日起，中国电信、中国移动、中国联通三大运营商统一停止第三方互联网渠道办理手机号卡，用户仅可通过运营商官方App、官方网站及线下营业厅等自营渠道办理。此举旨在整治号卡乱象，保障用户权益和信息安全，防止不法商家冒用授权名义虚假售卡、收集用户个人信息等风险。\n\n近年来，低价大流量卡在电商平台和直播间广泛销售，但存在虚假宣传、货不对板、合约限制多、无法7天无理由退货等问题。消费者往往被低价吸引，实际使用中却发现月租会涨价、流量并非全国通用，且投诉维权困难。此外，第三方代理层级复杂，可能导致用户信息被违规使用，并"
+    },
+    {
+      "title": "美军F-35隐形战机发生事故起火，飞行员弹射",
+      "tags": [
+        "美国",
+        "F-35",
+        "事故",
+        "飞行员弹射"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIetRZEShLmrfjQ0s1DAZo260801.shtml",
+          "title": "美军一架F-35隐形战机在加州坠毁 飞行员弹射逃生",
+          "origin": "CCTV",
+          "time": 1785536478
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2Q3ucLiG",
+          "title": "美军一架F-35隐形战机在加州坠毁 飞行员弹射逃生",
+          "origin": "环球网",
+          "time": 1785536448
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktusq9188924.shtml",
+          "title": "美军一架F-35隐形战机发生事故并起火 飞行员弹射",
+          "origin": "新浪新闻",
+          "time": 1785536746
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusx0993117.shtml",
+          "title": "美国F-35战机在加州海军陆战队航空站附近坠毁",
+          "origin": "新浪新闻",
+          "time": 1785522020
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/01/AP6a6d2283e4b0c1e50023128f.html",
+          "title": "美军一架F-35隐形战机在加州坠毁",
+          "origin": "文汇网",
+          "time": 1785539129
+        }
+      ],
+      "summary": "当地时间2026年7月31日，一架美军F-35隐形战机在加利福尼亚州圣迭戈的海军陆战队米拉马尔航空站坠毁。隶属于美国海军陆战队第3航空联队第11航空大队的这架F-35B型战机于上午10时左右坠毁，机上一名飞行员成功弹射逃生。现场航拍画面显示，破损机身浓烟滚滚，残骸散落在大片焦黑地面上。美国军方已对事故原因展开调查。F-35B是美军闪电II系列中具备短距起飞与垂直降落能力的型号，主要装备美国海军陆战队。"
+    },
+    {
+      "title": "意法德等多国采取措施应对西班牙飞地移民危机，特朗普称其为入侵",
+      "tags": [
+        "欧洲",
+        "西班牙飞地",
+        "移民危机",
+        "特朗普"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8vDv1yU594K",
+          "title": "5万移民从摩洛哥涌入西班牙飞地，意法德多国采取措施",
+          "origin": "凤凰网",
+          "time": 1785528600
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2S0mnvIE",
+          "title": "意法德多国采取措施 应对西班牙飞地移民危机",
+          "origin": "环球网",
+          "time": 1785536501
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktusq9197313.shtml",
+          "title": "意法德多国采取措施 应对西班牙飞地移民危机",
+          "origin": "新浪新闻",
+          "time": 1785536765
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260801/49647569.html",
+          "title": "6万非法移民登陆西班牙8万人口飞地 引发欧洲多国反应",
+          "origin": "中国网",
+          "time": 1785542775
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "origin": "凤凰网",
+          "time": 1785545640
+        }
+      ],
+      "summary": "西班牙位于摩洛哥北部的飞地休达近期遭遇大规模非法移民涌入。西班牙内政部7月31日表示，自危机开始以来共有约5万名非法移民进入休达，其中4.83万人已自愿返回摩洛哥，仍有不足2000人滞留。休达当地国民警卫队数据则称实际入境人数约6万人。此次危机已造成至少57名移民在试图从摩洛哥游泳进入休达时溺亡。西班牙首相桑切斯表示，这是对西班牙领土完整的侵犯。\n\n针对这一危机，欧洲多国采取措施。意大利宣布恢复与西班牙之间港口和机场的边境检查，暂停与西班牙的欧盟申根免边境检查协议，并已与法国达成共识同步加强陆地边境管控。法国总统马克龙表示将与西班牙保持协调，已在法西边境部署4个机动力量单元并投入飞机和无人机加强检查"
+    },
+    {
+      "title": "韩股38天跌掉一年GDP，杠杆踩踏引发股市崩盘",
+      "tags": [
+        "韩国",
+        "股市",
+        "崩盘",
+        "金融",
+        "杠杆"
+      ],
+      "links": [
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-01/4529237.html",
+          "title": "去杠杆踩踏，韩股38天跌掉全国一年GDP，暴跌还传染到其他市场，该国知名学者怒批",
+          "origin": "每经网",
+          "time": 1785576253
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260801/49648219.html",
+          "title": "韩股38天跌掉韩国一年GDP 杠杆踩踏引发股市崩盘",
+          "origin": "中国网",
+          "time": 1785577597
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-01/4529122.html",
+          "title": "韩股去杠杆：38天跌掉韩国一年GDP，122亿元资金被强平，学者怒批：盲目美国化",
+          "origin": "每经网",
+          "time": 1785555399
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikurwe8950433.shtml",
+          "title": "韩股去杠杆：38天跌掉韩国一年GDP，122亿元资金被强平，学者怒批：盲目美国化",
+          "origin": "新浪新闻",
+          "time": 1785566063
+        }
+      ],
+      "summary": "韩国股市在38天内经历剧烈调整，KOSPI指数从6月22日高点回落38.63%，市值蒸发2877.78万亿韩元（约13.53万亿元人民币），超过韩国一年GDP总额。此轮暴跌源于杠杆踩踏：今年5月韩国监管层为刺激股市推出针对三星电子和SK海力士的2倍杠杆ETF产品，散户大量涌入，交易额一度占股市总成交量的70%以上。6月下旬监管层试图降温，引发强制平仓风暴，5月至7月29日强制平"
+    },
+    {
+      "title": "中国半导体设备与芯片进展，中微目标覆盖六成高端设备，长鑫LPDDR6接近尾声",
+      "tags": [
+        "中国",
+        "半导体",
+        "中微",
+        "长鑫",
+        "LPDDR6"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8088041.html",
+          "title": "中微尹志尧：未来五年内至少覆盖六成半导体高端设备",
+          "origin": "钛媒体",
+          "time": 1785569100
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1140/1140680.htm",
+          "title": "尹志尧：中微未来五年至少覆盖六成半导体高端设备",
+          "origin": "快科技",
+          "time": 1785574980
+        },
+        {
+          "link": "https://m.ithome.com/html/984482.htm",
+          "title": "消息称长鑫 LPDDR6 接近研发验证尾声，有望今年下半年发布",
+          "origin": "IT之家",
+          "time": 1785558462
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikurwi0534425.shtml",
+          "title": "长鑫科技LPDDR6接近研发验证尾声",
+          "origin": "新浪新闻",
+          "time": 1785560072
+        }
+      ],
+      "summary": "中微公司董事长尹志尧在22周年庆典上提出目标：未来五年内至少覆盖60%的半导体高端设备，成为全球覆盖率最高的半导体设备公司，并计划到2035年在规模和产品竞争力上进入全球第一梯队。\n\n在存储芯片领域，长鑫存储的LPDDR6（第六代低功耗内存）已接近研发验证尾声，这是量产前的重要阶段。其首款产品设计速率达12800 Mbps，基础速率10667 Mbps，颗粒容量16Gb，在低功耗和可靠性上较LPDDR5X有明显提升。长鑫目前主要出货DDR5和LPDDR5系列，LPDDR6有望2026年下半年发布并导入量产。若顺利量产，长鑫将与SK海力士竞争成为全球最早量产LPDDR6的厂商之一。目前SK海力士已率先完成开发验证，计划下半年供货；三星展出产品但未明确量产时间；美光未提及具体进展。"
+    },
+    {
+      "title": "特朗普称未同意授权乌克兰生产爱国者拦截弹",
+      "tags": [
+        "美国",
+        "乌克兰",
+        "爱国者",
+        "军事援助"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktust0791117.shtml",
+          "title": "特朗普称美国尚未同意授予乌克兰爱国者导弹生产许可",
+          "origin": "新浪新闻",
+          "time": 1785524935
+        },
+        {
+          "link": "https://www.news.cn/world/20260801/09ba2219ea3a438bb14ad1e7dd757add/c.html",
+          "title": "特朗普：尚未同意授权乌克兰生产爱国者拦截弹",
+          "origin": "新华网",
+          "time": 1785513600
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sc2WgxKyq7",
+          "title": "特朗普否认允许乌克兰生产爱国者拦截弹",
+          "origin": "环球网",
+          "time": 1785536628
+        }
+      ],
+      "summary": "美国总统唐纳德·特朗普在"
+    },
+    {
+      "title": "习近平强调确保枪杆子永远听党指挥",
+      "tags": [
+        "中国",
+        "习近平",
+        "军队",
+        "政治"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/01/ARTIRydhAteLLmmz6hYglOTq260801.shtml",
+          "title": "习近平：确保枪杆子永远听党指挥",
+          "origin": "CCTV",
+          "time": 1785568687
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670455.shtml",
+          "title": "习近平：确保枪杆子永远听党指挥",
+          "origin": "中新网",
+          "time": 1785569400
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-01/10670293.shtml",
+          "title": "确保枪杆子永远听党指挥",
+          "origin": "中新网",
+          "time": 1785545100
+        }
+      ],
+      "summary": "2026年7月30日，中共中央政治局就高质量推进国防和军队现代化举行第二十七次集体学习。中共中央总书记习近平在主持学习时强调，要强化政治引领，深化创新发展，确保枪杆子永远听党指挥，高质量推进国防和军队现代化。"
+    }
+  ]
+}

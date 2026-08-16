@@ -1,0 +1,922 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T14:51:18Z",
+  "summary": [
+    {
+      "title": "长鑫科技A股上市首日暴涨超500%，市值登顶并造就237位千万富豪",
+      "tags": [
+        "金融",
+        "科技",
+        "长鑫科技",
+        "A股",
+        "IPO"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/roll/2026-07-27/doc-inikfhfp0778530.shtml",
+          "title": "长鑫上市，合肥赚1万亿：中国城市的发展逻辑变了",
+          "origin": "新浪新闻",
+          "time": 1785126044
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v6ACrSO84L",
+          "title": "长鑫科技登顶A股背后：国资与科技巨头集体押注",
+          "origin": "凤凰科技",
+          "time": 1785125355
+        },
+        {
+          "link": "https://www.stcn.com/article/detail/4041982.html",
+          "title": "长鑫科技，今天上市，本周4只新股申购",
+          "origin": "证券时报",
+          "time": 1785110520
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/s/2026-07-27/doc-inikfxaz3052319.shtml",
+          "title": "万亿回报，起底长鑫上市的最大赢家",
+          "origin": "新浪新闻",
+          "time": 1785146545
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxh8361089.shtml",
+          "title": "长鑫科技上市 别只盯着打新",
+          "origin": "新浪新闻",
+          "time": 1785112038
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfxcf0673883.shtml",
+          "title": "3万亿长鑫爆炒盛宴的冰与火",
+          "origin": "新浪新闻",
+          "time": 1785144191
+        },
+        {
+          "link": "https://jingji.cctv.com/2026/07/27/ARTIzxPkUI1GrRT1s0AE5uZF260727.shtml",
+          "title": "长鑫科技，刷新A股纪录",
+          "origin": "CCTV",
+          "time": 1785134482
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SY62dxH4SZ",
+          "title": "长鑫科技，刷新A股纪录",
+          "origin": "环球网",
+          "time": 1785126080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v6Z2Kejv4O",
+          "title": "长鑫科技，可不止3万亿",
+          "origin": "凤凰科技",
+          "time": 1785146111
+        },
+        {
+          "link": "https://www.huxiu.com/article/4878353.html",
+          "title": "长鑫科技，可不止3万亿",
+          "origin": "虎嗅",
+          "time": 1785125747
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139365.htm",
+          "title": "长鑫科技 可不止3万亿",
+          "origin": "快科技",
+          "time": 1785143520
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139352.htm",
+          "title": "长鑫科技 可不止3万亿",
+          "origin": "快科技",
+          "time": 1785142380
+        },
+        {
+          "link": "https://www.stcn.com/article/detail/4042295.html",
+          "title": "长鑫科技，大幅高开",
+          "origin": "证券时报",
+          "time": 1785118080
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/s/2026-07-27/doc-inikfsvi0792320.shtml",
+          "title": "长鑫科技7人晋升10亿身家，董事长朱一明资本版图冰火两重天：长鑫暴涨，兆易创新大跌",
+          "origin": "新浪新闻",
+          "time": 1785143060
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v6CgjsiFLK",
+          "title": "长鑫科技创始人、董事长朱一明左手长鑫涨疯，右手兆易创新跌停",
+          "origin": "凤凰网",
+          "time": 1785125820
+        },
+        {
+          "link": "https://www.stcn.com/article/detail/4042794.html",
+          "title": "左手长鑫涨疯右手兆易跌停，朱一明资本版图上演冰火两重天",
+          "origin": "证券时报",
+          "time": 1785139260
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v6DQA3fHOx",
+          "title": "朱一明左手长鑫涨疯，右手兆易创新跌停",
+          "origin": "凤凰科技",
+          "time": 1785127975
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfp0776325.shtml",
+          "title": "朱一明左手长鑫涨疯 右手兆易创新跌停",
+          "origin": "新浪新闻",
+          "time": 1785128616
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8080519.html",
+          "title": "长鑫科技上市半日，7名高管晋升10亿身家",
+          "origin": "钛媒体",
+          "time": 1785124560
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-07-27/doc-inikfhfp0756671.shtml",
+          "title": "长鑫科技上市半日，7名高管晋升10亿身家",
+          "origin": "新浪新闻",
+          "time": 1785124545
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/roll/2026-07-27/doc-inikfnpa8395362.shtml",
+          "title": "仅半日，7名高管晋升10亿身家",
+          "origin": "新浪新闻",
+          "time": 1785128176
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139164.htm",
+          "title": "长鑫科技周边酒店一房难求：上下游客户众多 差旅往来频繁",
+          "origin": "快科技",
+          "time": 1785111960
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v5uvchIlXh",
+          "title": "长鑫科技周边酒店一房难求：上下游客户众多 差旅往来频繁",
+          "origin": "凤凰科技",
+          "time": 1785113687
+        },
+        {
+          "link": "https://www.huxiu.com/article/4878352.html",
+          "title": "长鑫周围，一房难求",
+          "origin": "虎嗅",
+          "time": 1785123480
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v66kN3TPWz",
+          "title": "长鑫上市，至少诞生237位千万富豪",
+          "origin": "凤凰科技",
+          "time": 1785122695
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139291.htm",
+          "title": "长鑫上市：至少造就237位千万富豪",
+          "origin": "快科技",
+          "time": 1785135720
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v69KvEhzjy",
+          "title": "阿里投资长鑫浮盈1600亿元",
+          "origin": "凤凰科技",
+          "time": 1785124066
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfp0743201.shtml",
+          "title": "阿里投资长鑫浮盈1600亿元",
+          "origin": "新浪新闻",
+          "time": 1785127875
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-07-27/4514535.html",
+          "title": "长鑫科技上市首日半日涨幅超500%，交易系统一度出现卡顿",
+          "origin": "每经网",
+          "time": 1785123798
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikfhfi3214062.shtml",
+          "title": "长鑫科技上市首日半日涨幅超500%，交易系统一度出现卡顿",
+          "origin": "新浪新闻",
+          "time": 1785127398
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/07-27/10667162.shtml",
+          "title": "长鑫科技，盘中暴涨530%",
+          "origin": "中新网",
+          "time": 1785125100
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8080434.html",
+          "title": "长鑫科技盘中涨超530%",
+          "origin": "钛媒体",
+          "time": 1785122580
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139194.htm",
+          "title": "长鑫科技首日开盘大涨超471% 成A股一哥",
+          "origin": "快科技",
+          "time": 1785117960
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1570436.htm",
+          "title": "长鑫科技开盘大涨超471%，成A股一哥",
+          "origin": "cnBeta",
+          "time": 1785117600
+        }
+      ],
+      "summary": "长鑫科技于7月27日在上海证券交易所科创板上市，首日股价开盘上涨超471%，总市值突破3.31万亿元，超越工商银行成为A股市值最高的公司。该公司此次IPO募集资金约579亿元，用于存储器晶圆制造及技术研发。长鑫科技作为国产DRAM存储芯片企业，已实现多代工艺平台量产，2025年第四季度全球DRAM市场份额达7.67%，排名全球第四、中国第一。公司2026年第一季度营收508亿元，净利润247.62亿元，预计上半年营收将达1100亿至1200亿元。\n\n此次上市使合肥国资成为最大赢家，其持股约36.79%，对应市值约1.1万亿元，账面浮盈超1万亿元，并造就237位千万富豪。长鑫科技的发展带动了合肥集成电路产业链集聚了500多家重点企业，产业产值从2016年的不到180亿元增至2025年的1514亿元。这一案例被誉为合肥从土地财政转向股权财政的典型，通过长期产业投资培育龙头企业，推动城市发展模式转型。"
+    },
+    {
+      "title": "中国海警在南海救援越南遇险船员，累计救起47人",
+      "tags": [
+        "国际",
+        "中国",
+        "海警",
+        "越南",
+        "救援"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-27/news1063369.shtml",
+          "title": "一艘越南籍船舶遇险沉没 62人遇险 中国海警阼晚再救起2名越南遇险船员",
+          "origin": "中新网",
+          "time": 1785121680
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/26/AP6a662df7e4b0c1e500225e91.html",
+          "title": "（有片）越南籍船舶南海遇险沉没　中方已向越方转交41名获救人员",
+          "origin": "文汇网",
+          "time": 1785081938
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/26/AP6a662673e4b0c1e500225e1d.html",
+          "title": "（有片）南部战区海军组织力量紧急救援越南籍遇险船舶",
+          "origin": "文汇网",
+          "time": 1785081938
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-27/10667154.shtml",
+          "title": "一艘越南籍船舶遇险沉没 中方救起47人并全部移交越方",
+          "origin": "中新网",
+          "time": 1785124740
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118619472.shtml",
+          "title": "又救2人 中国海警共成功救援47名越南籍遇险人员",
+          "origin": "中国网",
+          "time": 1785128129
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/80da310ccb1847bdb891d92b9e55f823/c.html",
+          "title": "又救2名 中方共成功救援47名越南籍遇险人员",
+          "origin": "新华网",
+          "time": 1785081600
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SXuEWK7S95",
+          "title": "中国海警紧急救援越南籍遇险船舶",
+          "origin": "环球网",
+          "time": 1785106251
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v4f9G4FNox",
+          "title": "中国海警紧急救援越南籍遇险船舶",
+          "origin": "凤凰网",
+          "time": 1785092940
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10667052.shtml",
+          "title": "中国海警紧急救援越南籍遇险船舶",
+          "origin": "中新网",
+          "time": 1785120000
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66d387e4b0c1e500226bc2.html",
+          "title": "（有片）一艘越南籍船舶遇险沉没　中方已救起47人",
+          "origin": "文汇网",
+          "time": 1785125130
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/27/content_554063.html",
+          "title": "一艘越南籍船舶遇险沉没  中方已救起47人",
+          "origin": "科技日报",
+          "time": 1785122999
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/ec1bcf2ba5a04005b73ec7808ace6c66/c.html",
+          "title": "越方对中方第一时间救援越遇险船只表示感谢",
+          "origin": "新华网",
+          "time": 1785081600
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTImH8LIxCUk5hGnCQfcHJi260727.shtml",
+          "title": "外交部：中方已成功救起47名越南船员 并有序移交越方",
+          "origin": "CCTV",
+          "time": 1785138598
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785137121129308.html",
+          "title": "外交部：中方已成功救起47名越南船员 并有序移交越方",
+          "origin": "新京报",
+          "time": 1785137204
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/07-27/10666982.shtml",
+          "title": "南海搜救持续进行 中国海警夜间再救起2名越南遇险船员",
+          "origin": "中新网",
+          "time": 1785108600
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785105993129942.html",
+          "title": "南海搜救持续进行 中国海警夜间再救起2名越南遇险船员",
+          "origin": "新京报",
+          "time": 1785108091
+        }
+      ],
+      "summary": "一艘越南籍船舶在南海海域遇险沉没，船上共有62人遇险。中国海警迅速展开救援行动，于7月26日晚再次成功救起2名越南籍遇险船员。截至目前，中国海警累计已救起47名越南遇险船员。此次救援行动展现了中国海警在海上应急救助方面的积极作为和人道主义精神。"
+    },
+    {
+      "title": "重庆彭水山体崩塌发现失联中巴车残骸和人体残骸，正进行DNA检测",
+      "tags": [
+        "灾害",
+        "中国",
+        "山体崩塌",
+        "救援"
+      ],
+      "links": [
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785109462129971.html",
+          "title": "重庆彭水山体崩塌灾害救援现场找到的客运中巴残骸发现人体残骸",
+          "origin": "新京报",
+          "time": 1785111210
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/27/content_38908513.htm",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正在进行DNA检测",
+          "origin": "光明网",
+          "time": 1785113738
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SXyYulrev4",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正检测DNA",
+          "origin": "环球网",
+          "time": 1785113520
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10666992.shtml",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正检测DNA",
+          "origin": "中新网",
+          "time": 1785110400
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v5rGcFdcpN",
+          "title": "重庆山体崩塌现场发现人体残骸",
+          "origin": "凤凰网",
+          "time": 1785111360
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118619644.shtml",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正检测DNA",
+          "origin": "中国网",
+          "time": 1785128129
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIwjCRTYuR9xGepOiR48dO260727.shtml",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正检测DNA",
+          "origin": "CCTV",
+          "time": 1785118750
+        },
+        {
+          "link": "https://mini.caixin.com/2026-07-27/102468320.html",
+          "title": "重庆彭水山体崩塌现场发现人体残骸 正检测DNA",
+          "origin": "财新",
+          "time": 1785117058000
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118618749.shtml",
+          "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
+          "origin": "中国网",
+          "time": 1785113737
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SXv9bh0F72",
+          "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
+          "origin": "环球网",
+          "time": 1785107797
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v5lwWsmr0J",
+          "title": "重庆彭水山体崩塌现场发现失联中巴车残骸",
+          "origin": "凤凰网",
+          "time": 1785107160
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10666978.shtml",
+          "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
+          "origin": "中新网",
+          "time": 1785107520
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785107221129943.html",
+          "title": "重庆彭水：山体崩塌救援现场发现失联客运中巴车残骸",
+          "origin": "新京报",
+          "time": 1785107550
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118619471.shtml",
+          "title": "重庆彭水山体崩塌现场发现失联中巴车残骸",
+          "origin": "中国网",
+          "time": 1785128129
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/27/content_553974.html",
+          "title": "重庆彭水山体崩塌现场发现失联中巴车残骸",
+          "origin": "科技日报",
+          "time": 1785115241
+        }
+      ],
+      "summary": "重庆彭水山体崩塌灾害救援取得新进展。据彭水发布消息，救援人员在现场找到的失联客运中巴车残骸内部及周边，经过进一步搜寻和技术比对，发现了人体残骸。目前，相关部门正对发现的残骸进行DNA检测，以确认身份信息。此前，根据现场救援指挥部消息，26日23时52分许，救援人员在C区作业面发现了失联客运中巴车的残骸。目前，现场搜寻工作仍在紧张有序进行中。"
+    },
+    {
+      "title": "甘肃渭源山洪致10死23伤，景区发布预警后仍有人员遇难",
+      "tags": [
+        "灾害",
+        "中国",
+        "山洪",
+        "伤亡"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10666984.shtml",
+          "title": "直击甘肃渭源景区山洪现场：救援在泥泞中星夜兼程",
+          "origin": "中新网",
+          "time": 1785109680
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118619056.shtml",
+          "title": "现场直击：甘肃渭源山洪现场搜救工作持续进行",
+          "origin": "中国网",
+          "time": 1785113737
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-07/27/content_38908485.htm",
+          "title": "甘肃渭源山洪灾害现场已完成四轮搜救",
+          "origin": "光明网",
+          "time": 1785113738
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10666970.shtml",
+          "title": "甘肃渭源山洪灾害现场已完成四轮搜救",
+          "origin": "中新网",
+          "time": 1785102780
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1785109147129959.html",
+          "title": "甘肃渭源山洪灾害现场已完成四轮搜救",
+          "origin": "新京报",
+          "time": 1785109272
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIkQwHeJ5eHyeayuS5HEi0260727.shtml",
+          "title": "甘肃渭源山洪灾害现场已完成四轮搜救",
+          "origin": "CCTV",
+          "time": 1785102528
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10667167.shtml",
+          "title": "甘肃定西山洪灾害核心区域出现降雨 记者直击搜救现场",
+          "origin": "中新网",
+          "time": 1785127920
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/07-27/news1063371.shtml",
+          "title": "直击救援现场，消防车辆排起长队 甘肃渭源山洪正在进行第四轮搜救",
+          "origin": "中新网",
+          "time": 1785122640
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/07-27/1199374.shtml",
+          "title": "甘肃定西渭源突发山洪 救援人员彻夜搜救",
+          "origin": "中新网",
+          "time": 1785122520
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/27/content_554183.html",
+          "title": "甘肃定西山洪灾害核心区域出现降雨 记者直击搜救现场",
+          "origin": "科技日报",
+          "time": 1785136687
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/07-27/10667143.shtml",
+          "title": "甘肃渭源一景区山洪已致10人遇难 23人受伤 成功救援174人",
+          "origin": "中新网",
+          "time": 1785127320
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTI7PE8oeahDch5NkOqJwYI260727.shtml",
+          "title": "甘肃渭源一景区山洪已致10人遇难 23人受伤 成功救援174人",
+          "origin": "CCTV",
+          "time": 1785134736
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v68MnzcaFm",
+          "title": "发布山洪预警后，网红景区仍有10人遇难",
+          "origin": "凤凰网",
+          "time": 1785122220
+        },
+        {
+          "link": "http://news.china.com.cn/2026-07/27/content_118619819.shtml",
+          "title": "发布山洪预警后，网红景区仍有10人遇难",
+          "origin": "中国网",
+          "time": 1785146127
+        }
+      ],
+      "summary": "7月26日13时40分，甘肃省定西市渭源县双石门景区因短时强降雨引发山洪。截至当日21时15分，已解救被困人员240人，其中10人遇难，23人受伤。事发前，定西市气象台于当日10时30分发布暴雨黄色预警，应急、水务、气象部门联合发布山洪灾害气象风险蓝色预警。景区管委会称已收到预警并转发通知，但多名游客反映进山时未收到景区"
+    },
+    {
+      "title": "美军在伊朗战事累计伤亡642人，7月以来新增超200人受伤",
+      "tags": [
+        "军事",
+        "美国",
+        "伊朗",
+        "伤亡"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SXvUM9MWFh",
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "origin": "环球网",
+          "time": 1785108359
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIaLGoObQiMLuF2T4skoxJ260727.shtml",
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "origin": "CCTV",
+          "time": 1785118871
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/f2c48436ca1145b69f7544a7caa7bef6/c.html",
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "origin": "新华网",
+          "time": 1785081600
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66dc34e4b0c1e500226d46.html",
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "origin": "文汇网",
+          "time": 1785126030
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTImqCQRRl92rdpm9PtGosR260727.shtml",
+          "title": "美军7月重启伊朗战事以来逾200人受伤",
+          "origin": "CCTV",
+          "time": 1785117416
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SY20o9gdxZ",
+          "title": "美军7月重启伊朗战事以来逾200人受伤",
+          "origin": "环球网",
+          "time": 1785119314
+        }
+      ],
+      "summary": "美国国防部下属国防伤亡分析系统网站更新的统计数据显示，自2月28日美以联合对伊朗发动大规模军事行动以来，美军累计伤亡人数已达642人，其中包括18人死亡。7月美军重启在伊朗的战事后，伤亡数字显著增加，新增4人死亡、207人受伤。整体来看，美军在伊朗战事中的伤亡情况呈现持续上升态势。"
+    },
+    {
+      "title": "也门胡塞武装击落沙特无人机并袭击红海巡逻艇致3人失踪",
+      "tags": [
+        "军事",
+        "也门",
+        "胡塞武装",
+        "沙特",
+        "红海"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8v664lY0SKx",
+          "title": "也门胡塞武装称击落一架沙特无人机",
+          "origin": "凤凰网",
+          "time": 1785122640
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/07-27/news1063358.shtml",
+          "title": "也门胡塞武装称击落沙特无人机",
+          "origin": "中新网",
+          "time": 1785119760
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8080076.html",
+          "title": "胡塞武装称击落沙特无人机",
+          "origin": "钛媒体",
+          "time": 1785110220
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SY4ZyFmQqj",
+          "title": "也门军方人士说巡逻艇在红海遭胡塞武装袭击3人失踪",
+          "origin": "环球网",
+          "time": 1785123624
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/8d96d30aba254b2ebae4c88f538c1ec4/c.html",
+          "title": "也门军方说巡逻艇在红海遭胡塞武装袭击3人失踪",
+          "origin": "新华网",
+          "time": 1785081600
+        }
+      ],
+      "summary": "也门胡塞武装于7月26日宣称在过去48小时内袭击了三艘沙特油轮，并击落了一架沙特无人机，同时表示将继续对与沙特有关联的船只实施海上禁运措施。同日，一名也门政府海军官员透露，一艘政府军巡逻艇在红海海域完成军事任务返程途中，于祖盖尔岛附近遭到数艘小型船只上的武装人员袭击，导致巡逻艇被摧毁，艇上3名船员失踪。该官员指认胡塞武装为袭击者，但未提供证据。目前胡塞武装尚未就此袭击事件作出回应。此前，也门政府军曾表示挫败了胡塞武装多艘武装船只接近祖盖尔岛的企图。祖盖尔岛位于红海，距离也门重要港口城市荷台达约96公里，战略位置十分关键。"
+    },
+    {
+      "title": "德国柏林汽车撞人事件嫌疑人被击毙，内政部长称疑似恐袭",
+      "tags": [
+        "欧洲",
+        "德国",
+        "恐袭",
+        "安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8v4f9G4FNow",
+          "title": "德国柏林车辆冲撞人群事件嫌疑人被警方击毙",
+          "origin": "凤凰网",
+          "time": 1785091380
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-27/10666971.shtml",
+          "title": "德国柏林汽车撞人事件嫌疑人被警方击毙",
+          "origin": "中新网",
+          "time": 1785102900
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTI0G4ghluP1dSyTvcAI9ON260727.shtml",
+          "title": "柏林汽车撞人事件犯罪嫌疑人被警方击毙",
+          "origin": "CCTV",
+          "time": 1785102715
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-27/10666972.shtml",
+          "title": "德国内政部长称柏林汽车撞人事件疑似恐怖袭击",
+          "origin": "中新网",
+          "time": 1785102900
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIoMNT9RreCLqcXVxHiEmd260726.shtml",
+          "title": "德国内政部长：柏林汽车撞人事件疑似恐怖袭击",
+          "origin": "CCTV",
+          "time": 1785085991
+        }
+      ],
+      "summary": "当地时间7月25日晚，德国柏林市中心蒂尔加滕公园附近发生一起汽车冲撞人群事件，造成1人死亡、29人受伤，其中部分伤者伤势严重。7月26日晚，柏林警方在施潘道区一处园区内发现嫌疑人，嫌疑人手持锐器冲向执勤警员，警方随即开枪将其击毙。尽管消防救援人员立即实施抢救，嫌疑人仍在现场死亡。德国内政部长多布林特当天早些时候表示，该事件疑似恐怖袭击。德国司法部长胡比希随后表示，负责调查涉恐怖主义和危害国家安全案件的德国联邦总检察长办公室已接手调查。"
+    },
+    {
+      "title": "英伟达与OpenAI洽谈为数据中心项目提供2500亿美元融资担保",
+      "tags": [
+        "科技",
+        "AI",
+        "英伟达",
+        "OpenAI",
+        "融资"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/981835.htm",
+          "title": "消息称英伟达与 OpenAI 洽谈，拟为其全球最大数据中心项目提供 2500 亿美元担保",
+          "origin": "IT之家",
+          "time": 1785114253
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3777978",
+          "title": "英伟达拟为OpenAI数据中心提供2500亿美元担保，AI基建绑定进入新阶段",
+          "origin": "华尔街见闻",
+          "time": 1785114714
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8080067.html",
+          "title": "英伟达正与OpenAI洽谈，拟为数据中心项目提供2500亿美元融资担保",
+          "origin": "钛媒体",
+          "time": 1785109020
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1570408.htm",
+          "title": "英伟达拟为OpenAI提供2500亿美元担保 助其打造全球最大数据中心",
+          "origin": "cnBeta",
+          "time": 1785110280
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8v5tVRf2N3V",
+          "title": "英伟达拟为OpenAI数据中心提供2500亿美元融资担保",
+          "origin": "凤凰科技",
+          "time": 1785112024
+        }
+      ],
+      "summary": "据《华尔街日报》报道，英伟达正与人工智能企业OpenAI进行洽谈，计划为其提供约2500亿美元（约合1.69万亿元人民币）的融资担保。这笔担保资金将帮助OpenAI租赁软银旗下能源公司在美国俄亥俄州南部开发的一个10吉瓦级数据中心项目。加上芯片等成本，该数据中心的总投资额预计超过5000亿美元（约合3.39万亿元人民币），有望成为全球规模最大的数据中心。报道称，该项目所需的电力由美国政府控制，日本方面提供资金支持。OpenAI已就该项目进行数周的深入谈判，并表现出强烈兴趣。此外，Anthropic、微软和谷歌等美国企业近期也与美国商务部长卢特尼克进行沟通，希望获得该项目。截至发稿，英伟达和OpenAI未回应置评请求。"
+    },
+    {
+      "title": "伊朗提出对等停火条件，但对美方诚意持怀疑态度",
+      "tags": [
+        "国际",
+        "伊朗",
+        "美国",
+        "停火"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-27/10666977.shtml",
+          "title": "伊朗高官：只要美国暂停轰炸，伊朗就会停止袭击",
+          "origin": "中新网",
+          "time": 1785106680
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66af99e4b0c1e500226695.html",
+          "title": "伊朗高官：只要美国暂停轰炸　伊朗就会停止袭击",
+          "origin": "文汇网",
+          "time": 1785117930
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/26/AP6a662e79e4b0c1e500225e93.html",
+          "title": "消息人士：伊方可对等停火　但对美方持怀疑态度",
+          "origin": "文汇网",
+          "time": 1785081938
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIMozQmaWHFkIlkJO3Na2o260726.shtml",
+          "title": "消息人士：伊方可对等停火 但对美方持怀疑态度",
+          "origin": "CCTV",
+          "time": 1785091149
+        }
+      ],
+      "summary": "伊朗一名高级官员当地时间26日表示，只要美国停止军事袭击，伊朗也将停止军事行动。此前，美军对伊朗连续进行了13个夜晚的大规模空袭，五角大楼于24日晚间暂停了空袭行动，25日和26日均未报告美军发动袭击。作为回应，伊朗此前每晚都对驻有美军基地的邻国进行空袭，但目前也已停止攻击两天。该伊朗官员表示，德黑兰的立场是以牙还牙，这一对等停火的信息已传达给美国。然而，伊朗方面的消息人士透露，德黑兰并不认为特朗普暂停空袭的决定代表着美国谈判立场的重大转变，普遍认为这种暂停只是策略性的，而非真正的停火。伊朗方面对此持怀疑态度，认为这是美国的欺骗行为，因为伊朗已积累太多惨痛教训。"
+    },
+    {
+      "title": "美国西雅图发生枪击事件致2人死亡多人受伤",
+      "tags": [
+        "美国",
+        "枪击",
+        "伤亡"
+      ],
+      "links": [
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66d729e4b0c1e500226cb5.html",
+          "title": "（有片）美国西雅图枪击事件已致2人死亡",
+          "origin": "文汇网",
+          "time": 1785125130
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTI9Dubo42BaDs1l343bUR1260727.shtml",
+          "title": "美国西雅图枪击事件已致2人死亡",
+          "origin": "CCTV",
+          "time": 1785124903
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66c674e4b0c1e500226a46.html",
+          "title": "美国西雅图突发枪击事件　致多人受伤",
+          "origin": "文汇网",
+          "time": 1785121530
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/b37e1911d643493e82c1e2bcfba3baea/c.html",
+          "title": "美国西雅图发生枪击事件 多人受伤",
+          "origin": "新华网",
+          "time": 1785081600
+        }
+      ],
+      "summary": "美国华盛顿州西雅图市中心于2026年7月26日发生枪击事件，目前已造成2人死亡，多人受伤。当地警方当晚证实，枪击发生时，西雅图市中心正举办美食节。该活动于7月24日开幕，原定于26日晚8时结束。西雅图警察局在社交媒体上表示，警方已展开调查，并要求公众远离相关区域。截至发稿时，警方尚未公布确切受伤人数、伤者情况，以及嫌疑人身份、作案动机或是否有人被捕等信息。"
+    },
+    {
+      "title": "以色列总理称伊朗政权倒台战争才会结束",
+      "tags": [
+        "国际",
+        "以色列",
+        "伊朗",
+        "冲突"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SXyLznV8Rm",
+          "title": "以总理放言：伊朗政权倒台战争才会结束",
+          "origin": "环球网",
+          "time": 1785113171
+        },
+        {
+          "link": "https://news.ifeng.com/c/8v5uWq9CVhP",
+          "title": "以总理放言：伊朗政权倒台战争才会结束",
+          "origin": "凤凰网",
+          "time": 1785111000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8080083.html",
+          "title": "以总理放言：伊朗政权倒台战争才会结束",
+          "origin": "钛媒体",
+          "time": 1785111180
+        }
+      ],
+      "summary": "以色列总理内塔尼亚胡于7月26日在接受媒体采访时表示，战争只有在伊朗现政权倒台或被彻底削弱至被迫放弃其核计划时才会结束。他同时发出警告，如果伊朗或其支持的武装组织袭击以色列，以方将做出非常强硬的回应。内塔尼亚胡即将再次访问美国，他计划与美国总统特朗普会晤。内塔尼亚胡表示，此次会晤的重点并非如美媒所报道的递交有关伊朗核计划的新情报，因为美以两国军事和情报部门一直在密切合作。他称此行目的是与特朗普商讨并了解其想法，并指局势的发展在很大程度上取决于特朗普的最终决定。"
+    },
+    {
+      "title": "菲律宾司法部附近发生爆炸，参议院遭炸弹威胁",
+      "tags": [
+        "国际",
+        "菲律宾",
+        "爆炸",
+        "安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8v674EjXBdI",
+          "title": "菲律宾司法部附近发生爆炸，参议院遭炸弹威胁",
+          "origin": "凤凰网",
+          "time": 1785121080
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66d184e4b0c1e500226b65.html",
+          "title": "菲律宾司法部附近发生爆炸　参议院遭炸弹威胁",
+          "origin": "文汇网",
+          "time": 1785125130
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIqzuJg8biIFaiGgdJvHlp260727.shtml",
+          "title": "菲律宾司法部附近发生爆炸 参议院遭炸弹威胁",
+          "origin": "CCTV",
+          "time": 1785124204
+        }
+      ],
+      "summary": "菲律宾司法部附近于2026年7月27日凌晨00时17分左右发生一起爆炸事件，据称由简易爆炸装置引起，未造成人员伤亡。同日上午，菲律宾警方在参议院附近成功拆除了一枚简易爆炸装置，相关部门已对这两起事件展开调查，目前尚无人员被捕或组织宣称负责。"
+    },
+    {
+      "title": "全球最大2.8万亿参数国产AI模型正式开源，性能排名前三",
+      "tags": [
+        "科技",
+        "AI",
+        "开源",
+        "中国"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/0727/1767393.shtml",
+          "title": "全球最大2.8万亿参数大模型 Kimi K3今晚正式开源：性能坐稳前三",
+          "origin": "站长之家",
+          "time": 1785143084
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1139/1139348.htm",
+          "title": "全球最大2.8万亿参数 国产AI今晚正式开源：性能坐稳前三",
+          "origin": "快科技",
+          "time": 1785142140
+        },
+        {
+          "link": "https://www.oschina.net/news/480560",
+          "title": "Kimi-K3 即将开源，第一个 3 万亿参数的开放权重模型",
+          "origin": "oschina",
+          "time": 1785139980
+        }
+      ],
+      "summary": "国产大模型公司月之暗面于7月16日发布新一代旗舰模型Kimi K3，并于7月27日晚23点正式开源。该模型总参数达2.8万亿，上下文窗口为100万token，采用混合专家（MoE）架构，是全球首个面向开源社区开放的3万亿参数级别超级大模型。在官方测试中，Kimi K3综合智能水平排名全球第三，仅次于Claude Fable 5和GPT-5.6 Sol。在编程、Agent和视觉理解等多个核心细分赛道，Kimi K3已与这两款顶级闭源模型互有胜负，并在部分前沿基准中实现反超。目前可通过官方网页和API使用该模型，但月之暗面面临算力不足问题，开源后"
+    },
+    {
+      "title": "韩国总统尹锡悦涉嫌选举期间公布虚假事实一审被判有罪",
+      "tags": [
+        "国际",
+        "韩国",
+        "尹锡悦",
+        "政治",
+        "判决"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/07-27/10667352.shtml",
+          "title": "韩国前总统尹锡悦涉嫌违反《公职选举法》案一审宣判",
+          "origin": "中新网",
+          "time": 1785145020
+        },
+        {
+          "link": "https://news.cctv.com/2026/07/27/ARTIDfn4i39g2RR1DfwkoRkW260727.shtml",
+          "title": "尹锡悦涉嫌选举期间公布虚假事实案一审被判有罪",
+          "origin": "CCTV",
+          "time": 1785134184
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202607/27/AP6a66f3e6e4b0c1e500227080.html",
+          "title": "尹锡悦涉嫌选举期间公布虚假事实案一审被判有罪",
+          "origin": "文汇网",
+          "time": 1785132328
+        }
+      ],
+      "summary": "韩国前总统尹锡悦涉嫌违反《公职选举法》案于2026年7月27日作出一审判决。首尔中央地方法院认定尹锡悦在总统选举期间发布虚假事实，判处其有期徒刑一年六个月，缓刑三年。法院查明，尹锡悦于2021年12月以候选人身份出席座谈会时，声称自己没有向前龙山税务署署长尹宇镇引见某律师；2022年1月接受采访时又表示，自己仅通过党内人士得知某巫俗人士，并未与夫人金建希一同会见对方。法庭认定上述言论均不属实，构成违反《公职选举法》的行为。根据韩国法律，若终审维持有罪判决并判处100万韩元以上罚金或徒刑，其当选将无效，所属政党国民力量党"
+    },
+    {
+      "title": "伊朗外长谴责乌克兰袭击伊朗商船",
+      "tags": [
+        "国际",
+        "伊朗",
+        "乌克兰",
+        "商船袭击"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4SXxSjA6LwE",
+          "title": "伊朗外长谴责乌克兰袭击伊商船 强调将作出回应",
+          "origin": "环球网",
+          "time": 1785111674
+        },
+        {
+          "link": "https://www.news.cn/world/20260727/5694ca2283dd4aa4bae76779b51f4470/c.html",
+          "title": "伊朗外长谴责乌克兰袭击伊商船",
+          "origin": "新华网",
+          "time": 1785081600
+        }
+      ],
+      "summary": "伊朗外交部长阿拉格齐于7月26日通过社交媒体发文，强烈谴责乌克兰方面日前在里海袭击一艘伊朗商船，该袭击造成一名船员死亡，他指此举公然违反了《联合国宪章》。阿拉格齐表示，此次袭击是在以色列授意下进行的，其目的是将欧洲拖入战争。他已就此分别与欧盟外交与安全政策高级代表卡拉斯和俄罗斯外长拉夫罗夫通电话，并强调伊朗绝不会对乌克兰的所作所为坐视不理，必将作出回应。据伊朗伊斯兰共和国广播电视台报道，伊朗外交部发言人巴加埃也表示，尽管美国正在向伊朗传递信息，但伊朗的首要任务是捍卫国家主权和领土完整，并保护人民免受美国战争罪行的侵害。乌克兰军方于7月25日发动了此次袭击，伊朗方面已就此事件召见乌克兰驻伊朗临时代办，表达强烈抗议。"
+    }
+  ]
+}

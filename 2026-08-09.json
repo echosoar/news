@@ -1,0 +1,693 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T13:02:53Z",
+  "summary": [
+    {
+      "title": "美伊对抗持续升级，伊朗称霍尔木兹海峡未重开且无谈判，美军已迫使53艘商船改道",
+      "tags": [
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "伊朗",
+        "美军",
+        "国际航运"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3778994",
+          "title": "万斯称美伊冲突仍处于博弈中段，美军寻找出口，伊朗开出重开海峡6大条件",
+          "origin": "华尔街见闻",
+          "time": 1786240900
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SigEmHWeSb",
+          "title": "万斯称美伊冲突仍处于博弈中段",
+          "origin": "环球网",
+          "time": 1786227988
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vR8VxdYUuR",
+          "title": "万斯称美伊冲突仍处于博弈中段",
+          "origin": "凤凰网",
+          "time": 1786218480
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a77e8ade4b0c1e500241ced.html",
+          "title": "万斯称美伊冲突仍处于博弈中段",
+          "origin": "文汇网",
+          "time": 1786244736
+        },
+        {
+          "link": "https://finance.sina.com.cn/world/2026-08-09/doc-inimssst3552632.shtml",
+          "title": "万斯称美伊冲突仍处于博弈中段，美军寻找出口，伊朗开出重开海峡6大条件",
+          "origin": "新浪新闻",
+          "time": 1786242083
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-09/10674484.shtml",
+          "title": "土耳其外长：《麦加共同防务协议》不针对伊朗",
+          "origin": "中新网",
+          "time": 1786245900
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a77ffc7e4b0c1e500241f99.html",
+          "title": "土耳其外长：《麦加共同防务协议》不针对伊朗",
+          "origin": "文汇网",
+          "time": 1786249296
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vRzzbSQMzf",
+          "title": "伊外长：目前伊朗与美国之间没有进行任何谈判",
+          "origin": "凤凰网",
+          "time": 1786264080
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1157502&sid=21",
+          "title": "伊朗外长：目前伊美没有进行任何谈判",
+          "origin": "上观",
+          "time": 1786269807
+        },
+        {
+          "link": "https://www.news.cn/world/20260809/4a26ba21bc04428dac23cd7fc2736b19/c.html",
+          "title": "伊外长称目前伊美没有进行任何谈判",
+          "origin": "新华网",
+          "time": 1786204800
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/09/ARTIJ4YDMjQtwEazErFj1asJ260809.shtml",
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "origin": "CCTV",
+          "time": 1786247273
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a78015de4b0c1e500241fcd.html",
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "origin": "文汇网",
+          "time": 1786249656
+        },
+        {
+          "link": "https://www.news.cn/world/20260809/43508b1247fe4d648c4ea64d60b6455c/c.html",
+          "title": "伊：重开霍尔木兹海峡前提是美满足5个条件",
+          "origin": "新华网",
+          "time": 1786204800
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sir5iMcW9a",
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "origin": "环球网",
+          "time": 1786246214
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vS47zZ7Xz8",
+          "title": "伊朗外长强调霍尔木兹海峡未重新开放",
+          "origin": "凤凰网",
+          "time": 1786263960
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a7841a6e4b0c1e500242822.html",
+          "title": "伊朗外长强调霍尔木兹海峡未重新开放",
+          "origin": "文汇网",
+          "time": 1786266326
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096708.html",
+          "title": "伊朗外长强调霍尔木兹海峡未重新开放",
+          "origin": "钛媒体",
+          "time": 1786264560
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vR8VxdYV4V",
+          "title": "美军称已迫使53艘商船改变航线",
+          "origin": "凤凰网",
+          "time": 1786217340
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimrzuz9235647.shtml",
+          "title": "美军称已迫使53艘商船改变航线",
+          "origin": "新浪新闻",
+          "time": 1786227114
+        }
+      ],
+      "summary": "美伊对抗持续升级。伊朗方面表示，霍尔木兹海峡并未重新开放，且不存在与美方谈判的可能。与此同时，美国中央司令部于当地时间8月8日通报，美军在林肯号航母上维护F/A-18超级大黄蜂战机，以保持航母打击群战备状态，并继续对伊朗实施海上封锁。截至当天，美军已迫使53艘商船改道，使2艘船只丧失航行能力，并登临检查了2艘船只。此外，美军允许30多艘运载人道主义援助物资的船只通过封锁区。"
+    },
+    {
+      "title": "台风白海豚强势来袭，暴雨极端性突出，一名男童在海边被巨浪卷走",
+      "tags": [
+        "台风白海豚",
+        "极端天气",
+        "人员伤亡"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/08-09/1200597.shtml",
+          "title": "台风白海豚来袭 上海暴雨导致苏州河水位上涨明显",
+          "origin": "中新网",
+          "time": 1786263120
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561459.html",
+          "title": "专家：台风白海豚路径渐清晰  高度警惕做好防范",
+          "origin": "科技日报",
+          "time": 1786263689
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4SiqDa3ZLkQ",
+          "title": "台风白海豚逼近，黄山、九华山紧急临时关闭",
+          "origin": "环球网",
+          "time": 1786244748
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/08-09/news1064770.shtml",
+          "title": "台风白海豚来袭 直升机驰援海岛急救5岁患儿",
+          "origin": "中新网",
+          "time": 1786248600
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/09/ARTIajQPfQSKnrKei92jgb3J260809.shtml",
+          "title": "台风白海豚逼近 多地积极做好防御应对",
+          "origin": "CCTV",
+          "time": 1786217483
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561394.html",
+          "title": "台风白海豚强势来袭  降水极端性突出",
+          "origin": "科技日报",
+          "time": 1786235458
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1786231464129639.html",
+          "title": "防御台风白海豚 福建撤离转移9.89万人",
+          "origin": "新京报",
+          "time": 1786231710
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026080818/台风白海豚逼近浙闽-多部门升级响应",
+          "title": "台风白海豚逼近浙闽 多部门升级响应",
+          "origin": "kagi",
+          "time": 1786228380
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/08-09/news1064782.shtml",
+          "title": "白海豚逼近 直击浙江台州防台风一线",
+          "origin": "中新网",
+          "time": 1786249920
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-09/10674567.shtml",
+          "title": "台风白海豚环流直径超1300公里",
+          "origin": "中新网",
+          "time": 1786246740
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1157239&sid=21",
+          "title": "白海豚登陆前，一家四口跑过海边堤坝，9岁男孩被巨浪卷走，当地村民：是游客，找小路爬了进去",
+          "origin": "上观",
+          "time": 1786233928
+        },
+        {
+          "link": "https://www.163.com/dy/article/L3SIC44N055040N3.html?f=post1603_tab_news",
+          "title": "白海豚登陆前，一家四口跑过海边堤坝，9岁男孩被巨浪卷走，当地村民：是游客，找小路爬了进去",
+          "origin": "网易号",
+          "time": 1786234527
+        }
+      ],
+      "summary": "台风白海豚强势来袭，带来极端暴雨天气。受持续强降雨影响，上海苏州河水位明显上涨，乍浦路桥沿岸河段水位抬升显著。与此同时，台风登陆前，浙江台州温岭市石塘镇发生一起悲剧：一名9岁男孩在海边被巨浪卷走。据救援人员及当地村民证实，遇险的一家四口系外地游客，事发前当地已对前往海边的道路实施管控，但该游客一家找小路爬入禁入区域。网传视频显示，四人快速跑过连接近岸海岛与陆地的栈道时，数米高的海浪突然袭来，将四人冲倒，男孩被卷入海中，其余三人被目击者呼喊至安全地带，但男孩未能找到。中央气象台8月8日18时发布台风橙色预警、暴雨橙色预警、强对流天气蓝色预警、地质灾害气象风险橙色预警及红色山洪灾害气象预警。台风白海豚预计于9日夜间至10日凌晨在浙江中"
+    },
+    {
+      "title": "苹果中国官网删除接入阿里千问支持文档，上线不足24小时即被移除",
+      "tags": [
+        "苹果",
+        "阿里巴巴",
+        "大模型",
+        "产品运营"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimtchr5630368.shtml",
+          "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出Apple智能使用千问功能",
+          "origin": "新浪新闻",
+          "time": 1786263149
+        },
+        {
+          "link": "https://m.ithome.com/html/987579.htm",
+          "title": "苹果客服回应删除接入千问手册：目前并没有收到新项目发布通知",
+          "origin": "IT之家",
+          "time": 1786267015
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1142/1142440.htm",
+          "title": "上线不到一天，苹果客服回应官网删除千问使用手册",
+          "origin": "快科技",
+          "time": 1786259580
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1142/1142406.htm",
+          "title": "刚上线就删了，苹果官网删除Apple智能接入千问手册",
+          "origin": "快科技",
+          "time": 1786231140
+        },
+        {
+          "link": "https://m.ithome.com/html/987467.htm",
+          "title": "苹果中国官网删除 Apple 智能接入阿里千问使用手册",
+          "origin": "IT之家",
+          "time": 1786231984
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-08-09/4536329.html",
+          "title": "苹果中国官网，已删除Apple智能接入阿里千问手册",
+          "origin": "每经网",
+          "time": 1786247680
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572346.htm",
+          "title": "苹果中国官网删除Apple智能接入阿里千问使用手册",
+          "origin": "cnBeta",
+          "time": 1786239120
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096569.html",
+          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
+          "origin": "钛媒体",
+          "time": 1786246020
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/2026-08-09/doc-inimswyr3498858.shtml",
+          "title": "上线不到24小时，苹果删除Apple智能接入千问支持文档",
+          "origin": "新浪新闻",
+          "time": 1786251114
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572374.htm",
+          "title": "上线不到24小时 苹果删除Apple智能接入千问支持文档",
+          "origin": "cnBeta",
+          "time": 1786256520
+        }
+      ],
+      "summary": "苹果中国官网日前上架一份名为《在 Mac 上配合 Apple 智能使用千问》的支持文档，首次以官方文档形式确认国行版Apple智能将调用阿里巴巴千问大模型，文档显示该扩展适用于macOS 26.6或更高版本，要求设备为中国大陆版本且Apple账户地区设为大陆，并深度整合写作工具与Siri。然而该文档上线不足24小时即被苹果从官网删除，苹果方面未公开说明删除原因。苹果客服回应新浪科技称，公司发布新功能或项目前都会提前收到通知，目前并未收到相关通知，中国大陆尚未推出Apple智能使用千问相关功能。此前，阿里巴巴方面于7月15"
+    },
+    {
+      "title": "美军中央司令部司令访问以色列讨论多战线局势，以军在巴勒斯坦行动被记者现场目击",
+      "tags": [
+        "美军",
+        "以色列",
+        "巴勒斯坦",
+        "中东局势"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20260809/1ff7ceb2922641b496b13e04a3058768/c.html",
+          "title": "以媒：美军中央司令部司令访以讨论多战线局势",
+          "origin": "新华网",
+          "time": 1786204800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a77de1ae4b0c1e500241b8b.html",
+          "title": "以媒：美军中央司令部司令访以讨论多战线局势",
+          "origin": "文汇网",
+          "time": 1786241136
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096521.html",
+          "title": "美军中央司令部司令访以，讨论多战线局势",
+          "origin": "钛媒体",
+          "time": 1786237920
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimshax3709136.shtml",
+          "title": "美军中央司令部司令访以 讨论多战线局势",
+          "origin": "新浪新闻",
+          "time": 1786227041
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260809/49662803.html",
+          "title": "以军士兵把枪口对准中国记者 军事行动现场直击",
+          "origin": "中国网",
+          "time": 1786235087
+        },
+        {
+          "link": "https://www.news.cn/world/20260809/2ff3e70fd84d447095dc07742a3802fc/c.html",
+          "title": "枪口对准了我，记者直击以军巴勒斯坦军事行动",
+          "origin": "新华网",
+          "time": 1786204800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/09/AP6a77d826e4b0c1e500241a46.html",
+          "title": "枪口对准了我 记者直击以军巴勒斯坦军事行动",
+          "origin": "文汇网",
+          "time": 1786241136
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "美国能源公司起诉数据中心开发商，称其将电费成本转嫁给民众",
+      "tags": [
+        "数据中心",
+        "电力成本",
+        "能源公司",
+        "官司诉讼"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/987463.htm",
+          "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "IT之家",
+          "time": 1786231145
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/09/ARTIjzX6xVRN5ufwDz2aXsd7260809.shtml",
+          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "CCTV",
+          "time": 1786237125
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Siggaaliv0",
+          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "环球网",
+          "time": 1786228741
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vRPAPwwHHJ",
+          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "凤凰科技",
+          "time": 1786231449
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimrzvc6030846.shtml",
+          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "新浪新闻",
+          "time": 1786227047
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572344.htm",
+          "title": "美国能源公司起诉数据中心开发商将电费成本转嫁民众",
+          "origin": "cnBeta",
+          "time": 1786239060
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096519.html",
+          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
+          "origin": "钛媒体",
+          "time": 1786237860
+        }
+      ],
+      "summary": "美国内华达州最大能源供应商内华达能源公司已正式起诉一家在该州建造数据中心的开发商，指控其试图将电费成本转嫁给消费者。内华达能源公司为内华达州约90%的用户供电，而在建的两家数据中心建成后耗电量将接近该公司总发电量的三分之一。该公司要求开发商启动价值10亿美元（约合67.6亿元人民币）的电网升级工程，并警告称，如果开发商不承担更多基建开支，公司可能上调电价，成本将转嫁给普通家庭和企业。数据中心开发商则回应称，内华达能源公司拒绝兑现此前承诺的供电服务，却仍要求其投入10亿美元进行电网升级。此次诉讼反映出美国人工智能数据中心快速扩张引发的电力供需矛盾。行业数据显示，美国现有数据中心超过4000座，用电量约占全美电力需求的5%至6%，预计到2035年将升至约20%。在数据中心密集的弗吉尼亚州，当地居民电价已出现明显上涨。"
+    },
+    {
+      "title": "美媒指美军爱国者导弹库存不足1700枚，五角大楼要求军工企业限期提交增产计划",
+      "tags": [
+        "美军",
+        "爱国者导弹",
+        "军工增产",
+        "导弹库存"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/09/ARTIEWNRFhRDJjBWj47uhl1X260809.shtml",
+          "title": "消息人士：美爱国者导弹库存不足1700枚",
+          "origin": "CCTV",
+          "time": 1786229955
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1157238&sid=21",
+          "title": "美媒：美爱国者导弹库存不足1700枚",
+          "origin": "上观",
+          "time": 1786231743
+        },
+        {
+          "link": "https://www.news.cn/world/20260809/a750fc8d57b040a384d20e9aa3f2a43a/c.html",
+          "title": "美媒：美爱国者导弹库存不足1700枚",
+          "origin": "新华网",
+          "time": 1786204800
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vRHg8IEQNI",
+          "title": "美爱国者导弹库存被曝不足1700枚",
+          "origin": "凤凰网",
+          "time": 1786225620
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimssst8976900.shtml",
+          "title": "美媒爆美副防长致信国防业界领袖，勒令其21天内提交增产计划，五角大楼回应",
+          "origin": "新浪新闻",
+          "time": 1786243326
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Sip9pBF1II",
+          "title": "美媒爆美副防长致信国防业界领袖，勒令其21天内提交增产计划，五角大楼回应",
+          "origin": "环球网",
+          "time": 1786242967
+        }
+      ],
+      "summary": "据美国方面8日消息，消息人士称，美国在同伊朗的战事中消耗了大量爱国者防空系统拦截弹，目前该类型导弹库存已不足1700枚。面对武器短缺问题，美国五角大楼已采取行动，据美媒报道，美国副防长范伯格致信国防业界领袖，勒令相关军工企业在21天内提交增产计划。这一指令发出之际，武器短缺问题已成为美国总统特朗普与国防部之间紧张关系的根源之一。有业内专家称，相关指令是五角大楼和白宫为解决这一问题而采取的最新一项措施。目前五角大楼已对相关报道作出回应，但具体增产计划及库存补充进度尚未公布。"
+    },
+    {
+      "title": "摩尔线程披露上半年净亏损大幅收窄，同时筹划发行H股在港交所上市",
+      "tags": [
+        "摩尔线程",
+        "AI芯片",
+        "IPO",
+        "港股"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3779010",
+          "title": "摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市",
+          "origin": "华尔街见闻",
+          "time": 1786261161
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vS0swOYjwk",
+          "title": "摩尔线程：上半年净亏损1156万元，收窄比例达95.73%",
+          "origin": "凤凰科技",
+          "time": 1786264030
+        },
+        {
+          "link": "https://m.ithome.com/html/987564.htm",
+          "title": "摩尔线程：筹划发行 H 股股票并在港交所主板上市",
+          "origin": "IT之家",
+          "time": 1786262945
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096657.html",
+          "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
+          "origin": "钛媒体",
+          "time": 1786262580
+        }
+      ],
+      "summary": "摩尔线程近日披露其上半年业绩，净亏损较去年同期大幅收窄，显示公司财务状况有所改善。同时，公司已召开董事会，审议通过发行H股股票并在香港联交所主板上市的议案，计划发行境外上市外资股（H股）并在港交所主板挂牌。此次发行尚需股东大会审议，并需取得相关政府及监管机构的备案、批准或核准，目前具体细节尚未确定，能否实施存在重大不确定性。公司表示将在股东会决议有效期内或股东同意延长的期限内选择合适的时机和发行窗口完成上市。"
+    },
+    {
+      "title": "外媒爆料称哈萨比斯有意离开谷歌，谷歌担忧AI人才进一步流失",
+      "tags": [
+        "谷歌",
+        "哈萨比斯",
+        "AI人才",
+        "高管动向"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vRQat48bPK",
+          "title": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了",
+          "origin": "凤凰科技",
+          "time": 1786231641
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572350.htm",
+          "title": "最新爆料称哈萨比斯竟也想走 但Google怕了",
+          "origin": "cnBeta",
+          "time": 1786239240
+        },
+        {
+          "link": "https://www.qbitai.com/2026/08/468715.html",
+          "title": "爆料：哈萨比斯原本要和Jeff Dean一起走",
+          "origin": "量子位",
+          "time": 1786248337
+        }
+      ],
+      "summary": "据外媒爆料，谷歌首席科学家杰夫·迪恩宣布离职后，DeepMind创始人哈萨比斯原本也计划同期离开谷歌，但因谷歌管理层担心股价暴跌而苦苦挽留，最终他卸任Google DeepMind首席执行官，转任DeepMind董事长兼母公司Alphabet首席科学家。分析认为，这一职位调整可能只是缓兵之计，哈萨比斯先交出日常管理权，待团队和市场完成过渡后或彻底离开，有预测称他将在一年内离"
+    },
+    {
+      "title": "日产借鉴中国车企做法，将新车型研发周期缩短一半",
+      "tags": [
+        "日产汽车",
+        "中国车企",
+        "研发效率"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1142/1142409.htm",
+          "title": "日产新车研发周期缩短一半，高管：这速度是跟中国车企学的",
+          "origin": "快科技",
+          "time": 1786233000
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vRQat48bOi",
+          "title": "日产新车研发周期缩短一半，高管：借鉴了中国车企的做法",
+          "origin": "凤凰科技",
+          "time": 1786233039
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1572366.htm",
+          "title": "日产新车研发周期缩短一半 高管：借鉴了中国车企的做法",
+          "origin": "cnBeta",
+          "time": 1786245180
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "美欧对华光刻机出口禁令或反噬，分析称美欧将成最大输家",
+      "tags": [
+        "光刻机",
+        "出口管制",
+        "半导体",
+        "美欧关系"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8vRfQjNWOX4",
+          "title": "法学者：禁止对华出口光刻机，美、欧反将成最大输家",
+          "origin": "凤凰科技",
+          "time": 1786243458
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vReIAxZdCZ",
+          "title": "禁止对华出口光刻机，美欧将成最大输家",
+          "origin": "凤凰网",
+          "time": 1786243260
+        },
+        {
+          "link": "https://www.guancha.cn/economy/2026_08_09_826688.shtml",
+          "title": "禁止对华出口光刻机，美欧将成最大输家",
+          "origin": "观察者",
+          "time": 1786243306
+        }
+      ],
+      "summary": "法国巴黎第一大学教授埃马纽埃尔·孔博在法国《回声报》发文指出，美欧对华光刻机出口限制可能产生与初衷相反的效果，最终令美欧成为最大输"
+    },
+    {
+      "title": "首个全国产10万卡AI超集群正式投用，一秒算力相当全人类两百年",
+      "tags": [
+        "AI算力",
+        "国产化",
+        "超大规模集群",
+        "基础设施"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/987535.htm",
+          "title": "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年",
+          "origin": "IT之家",
+          "time": 1786249414
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1142/1142423.htm",
+          "title": "首个全国产10万卡AI超集群投用，1秒算力抵全人类200年",
+          "origin": "快科技",
+          "time": 1786249020
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8096576.html",
+          "title": "首个全国产10万卡AI超集群投用",
+          "origin": "钛媒体",
+          "time": 1786247400
+        }
+      ],
+      "summary": "首个全国产10万卡人工智能超集群日前正式投用，标志着我国算力基础设施建设迈入10万卡级部署新阶段。该集群位于国家超算互联网郑州核心节点，由中科曙光研发，名为曙光8000（登峰），已接入国家超算互联网。其每秒钟峰值计算能力相当于全人类持续计算200年，目前正支持新材料、创新药、人工智能等26个领域共300多种计算任务。集群采用"
+    },
+    {
+      "title": "GPT-5.6与Fable系统携手破解悬置25年数学难题，AI科学能力再突破",
+      "tags": [
+        "OpenAI",
+        "AI算法",
+        "数学难题",
+        "Fable"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/08/468913.html",
+          "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+          "origin": "量子位",
+          "time": 1786267047
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/science/1572380.htm",
+          "title": "GPT-5.6和Fable联手解决了一道悬了25年的数学难题",
+          "origin": "cnBeta",
+          "time": 1786256640
+        }
+      ],
+      "summary": "GPT-5.6与Fable 5联手，成功解决了一道悬置25年的数学难题。微软研究院首席研究员Dimitris Papailiopoulos证明了一个多项式时间算法，能让MIMO检测精确命中最大似然阈值，整个过程耗时七天。\n\nMIMO检测是无线通信中的经典问题，要求接收端从被噪声干扰的信号中完整还原发送端信息。理论上最大似然检测可保证正确，但需穷举2的N次方种组合，计算量呈指数级增长。1989年该问题被证明在最坏情况下是NP-hard的，但现实信道随机产生，学界自"
+    },
+    {
+      "title": "67岁农民误信AI推荐除草剂，造成150亩芝麻苗枯萎受损",
+      "tags": [
+        "AI应用",
+        "信息误导",
+        "农业生产"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/987474.htm",
+          "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
+          "origin": "IT之家",
+          "time": 1786232914
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8vRS1Q0dbIR",
+          "title": "67岁农民大伯误信AI推荐除草剂，150亩芝麻苗一夜枯萎",
+          "origin": "凤凰科技",
+          "time": 1786239863
+        }
+      ],
+      "summary": "安徽滁州一位67岁的农户吴大伯因轻信AI软件推荐的除草方案，导致其种植的150亩芝麻苗全部枯萎，预计损失约15万元。据荔枝新闻报道，吴大伯一年多前开始接触AI软件，并逐渐对其产生完全依赖，事事都向AI询问。2026年7月10日，他向AI咨询芝麻田除草除虫方案，AI生成了一套包含两种除草剂和两种除虫剂的飞防全套方案，其中推荐了高效氟吡甲禾灵和氟磺胺草醚两种除草剂。吴大伯按照方案用无人机对全田进行喷洒，次日发现150亩芝麻苗全部枯萎，杂草与芝麻苗一同死亡。农技人员证实，AI推荐的氟磺胺草醚是专用于大豆田的阔叶除草剂，严禁用于芝麻田，更不能全田喷洒，该药剂只能在大豆田定向打草，芝麻田全田喷洒必然导致作物死亡。涉事AI软件客服回应称，AI软件本身没有独立知识库，其答复是根据网络公开信息整合生成，将核查具体信息来源，并表示已登记吴大伯的损失情况并反馈。专家指出，此类事件并非个例，随着AI普及，不少老年人将AI视为万事通，在寻医问药、法律咨询、农业生产等场景"
+    },
+    {
+      "title": "多家上市公司收到美国关税退税，贸易政策调整引发关注",
+      "tags": [
+        "关税退税",
+        "中美贸易",
+        "上市公司"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/roll/2026-08-09/doc-inimssst3596615.shtml",
+          "title": "钱到账了，多家A股上市公司收到美方退税",
+          "origin": "新浪新闻",
+          "time": 1786247214
+        },
+        {
+          "link": "https://mini.caixin.com/2026-08-09/102472638.html",
+          "title": "多家上市公司宣布：收到美国关税退税",
+          "origin": "财新",
+          "time": 1786239459000
+        }
+      ],
+      "summary": "多家上市公司于2026年8月陆续发布公告，确认已收到"
+    },
+    {
+      "title": "SK海力士拟推710亿美元股东回报方案，40%资金用于回购股票",
+      "tags": [
+        "SK海力士",
+        "股东回报",
+        "半导体",
+        "股票回购"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3778998",
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "origin": "华尔街见闻",
+          "time": 1786243944
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimsssr1989236.shtml",
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "origin": "新浪新闻",
+          "time": 1786246879
+        }
+      ],
+      "summary": "SK海力士正规划一项史上最大规模的股东回报方案，总额约100万亿韩元（约710亿美元），其中约40万亿韩元用于回购股票，回购规模占总股本略超2%，与该公司为发行美国存托凭证而增发新股的规模基本相当，市场视其为对冲股权稀释的实质性举措。若方案落地，将远超公司去年现金股息与自股注销合计约14.3万亿韩元的规模，扩张幅度显著。在常规分红方面，公司已公告本季度每股现金股息375韩元，股息总额2733亿韩元，基准日为本月31日，一个月内完成派发。同时，公司明确表示正在研究提升股东价值的追加方案，具体内容将于第三季度确定并公布，较原定年内公布时间有所提前"
+    }
+  ]
+}
