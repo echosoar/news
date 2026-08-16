@@ -9,17 +9,16 @@
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Noto+Serif+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      /* Light, warm, paper-like palette */
-      --bg: #f4eee3;            /* warm cream page */
-      --surface: #fbf7ef;       /* paper surface */
-      --surface-2: #efe6d6;     /* subtle warm fill */
-      --line: #d8ccb8;          /* hairline */
-      --line-soft: #e5dccb;     /* softer hairline */
-      --text: #2f2a23;          /* warm near-black */
-      --muted: #8f8472;         /* warm taupe */
-      --accent: #bd5d36;        /* terracotta */
-      --accent-soft: #f1e2d2;   /* soft amber fill */
-      --tag-text: #786a55;
+      /* Monochrome palette: pure black at different opacities on white */
+      --bg: #ffffff;                  /* white page */
+      --surface: #ffffff;             /* white surface */
+      --surface-2: rgba(0, 0, 0, 0.035); /* subtle black fill */
+      --line: rgba(0, 0, 0, 0.14);    /* hairline */
+      --line-soft: rgba(0, 0, 0, 0.07); /* softer hairline */
+      --text: rgba(0, 0, 0, 0.88);
+      --strong: #000000;              /* pure black */
+      --muted: rgba(0, 0, 0, 0.5);
+      --faint: rgba(0, 0, 0, 0.36);
       --hair: 1px;
     }
 
@@ -29,15 +28,15 @@
       font-family: "Noto Serif SC", serif;
       color: var(--text);
       background: var(--bg);
-      line-height: 1.75;
-      padding-bottom: 7.5rem;
+      line-height: 1.8;
+      padding-bottom: 8rem;
       text-autospace: normal;
       -webkit-font-smoothing: antialiased;
     }
 
     .container {
       width: min(1040px, calc(100% - 2.4rem));
-      margin: 2.5rem auto 4rem;
+      margin: 3rem auto 5rem;
     }
 
     .hero {
@@ -45,12 +44,8 @@
       flex-wrap: wrap;
       justify-content: space-between;
       align-items: baseline;
-      border: 0;
       border-bottom: var(--hair) solid var(--line);
-      border-radius: 0;
-      padding: 0 0 1.1rem;
-      background: transparent;
-      box-shadow: none;
+      padding: 0 0 1.4rem;
     }
 
     .hero h2 {
@@ -59,16 +54,13 @@
       font-size: clamp(1.6rem, 3.4vw, 2.1rem);
       letter-spacing: 0.01em;
       font-weight: 500;
+      color: var(--strong);
       flex: 1 1 auto;
     }
 
     .site-title-link {
       color: inherit;
       text-decoration: none;
-    }
-
-    .site-title-link:hover {
-      color: var(--accent);
     }
 
     .hero-links {
@@ -98,25 +90,16 @@
       justify-content: center;
       height: 1.85rem;
       padding: 0 .7rem;
-      border-radius: 0;
       border: var(--hair) solid var(--line);
       background: transparent;
       color: var(--text);
       text-decoration: none;
       font-size: .85rem;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .top-btn:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .top-btn.active {
-      border-color: var(--accent);
-      background: var(--accent-soft);
-      color: var(--accent);
+      border-color: var(--strong);
+      color: var(--strong);
     }
 
     .hero-link {
@@ -125,23 +108,14 @@
       font-size: .88rem;
     }
 
-    .hero-link:hover {
-      color: var(--accent);
-    }
-
     .query {
-      margin-top: 0.9rem;
+      margin-top: 1rem;
       color: var(--muted);
       font-size: 0.95rem;
     }
 
     .day {
-      margin-top: 2rem;
-      padding: 1.5rem 1.4rem 0.8rem;
-      border-radius: 0;
-      border: var(--hair) solid var(--line);
-      background: var(--surface);
-      box-shadow: none;
+      margin-top: 3.2rem;
     }
 
     .day-title {
@@ -152,7 +126,7 @@
       font-size: clamp(1.35rem, 2.6vw, 1.7rem);
       letter-spacing: 0.01em;
       font-weight: 500;
-      color: var(--accent);
+      color: var(--strong);
     }
 
     .day-title-row {
@@ -177,26 +151,17 @@
       justify-content: center;
       height: 1.85rem;
       padding: 0 .7rem;
-      border-radius: 0;
       border: var(--hair) solid var(--line);
       background: transparent;
       color: var(--text);
       font-family: inherit;
       font-size: .82rem;
       cursor: pointer;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .title-action-btn:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .title-action-btn.active {
-      border-color: var(--accent);
-      background: var(--accent-soft);
-      color: var(--accent);
+      border-color: var(--strong);
+      color: var(--strong);
     }
 
     .day-markdown-btn {
@@ -206,7 +171,6 @@
       width: 1.85rem;
       height: 1.85rem;
       padding: 0;
-      border-radius: 0;
       border: var(--hair) solid var(--line);
       background: transparent;
       color: var(--text);
@@ -214,17 +178,10 @@
       font-size: 1rem;
       line-height: 1;
       cursor: pointer;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .day-markdown-btn:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .day-markdown-btn:focus-visible {
-      outline: 2px solid var(--accent);
+      outline: 2px solid var(--strong);
       outline-offset: 2px;
     }
 
@@ -236,7 +193,7 @@
       align-items: center;
       justify-content: center;
       padding: 1.2rem;
-      background: rgba(47, 42, 35, 0.45);
+      background: rgba(0, 0, 0, 0.42);
     }
 
     .day-markdown-modal.open {
@@ -250,7 +207,6 @@
       flex-direction: column;
       background: var(--surface);
       border: var(--hair) solid var(--line);
-      box-shadow: 0 18px 40px rgba(47, 42, 35, 0.18);
     }
 
     .day-markdown-header {
@@ -267,7 +223,7 @@
       font-family: "Fraunces", "Noto Serif SC", serif;
       font-size: 1.05rem;
       font-weight: 500;
-      color: var(--accent);
+      color: var(--strong);
     }
 
     .day-markdown-close {
@@ -283,13 +239,6 @@
       font-size: 1rem;
       line-height: 1;
       cursor: pointer;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .day-markdown-close:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .day-markdown-tools {
@@ -310,13 +259,6 @@
       font-family: inherit;
       font-size: .82rem;
       cursor: pointer;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .day-markdown-tool-btn:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .day-markdown-body {
@@ -343,7 +285,7 @@
     }
 
     .day-markdown-raw:focus {
-      outline: 2px solid var(--accent);
+      outline: 2px solid var(--strong);
       outline-offset: 2px;
     }
 
@@ -357,29 +299,15 @@
       text-decoration: none;
     }
 
-    .day-title-link:hover {
-      text-decoration: underline;
-      text-underline-offset: 0.2em;
-    }
-
     .card {
-      margin: 0 0 1rem;
-      padding: 1.1rem 1.1rem 1.05rem;
-      border-radius: 0;
-      border: var(--hair) solid var(--line-soft);
+      margin: 0;
+      padding: 1.3rem 0 1.2rem;
+      border-bottom: var(--hair) solid var(--line-soft);
       background: transparent;
-      transition: border-color .2s ease, background .2s ease;
-    }
-
-    .card:hover {
-      border-color: var(--accent);
-      background: var(--surface-2);
     }
 
     .card.playing {
-      border-color: var(--accent);
-      border-left: 2px solid var(--accent);
-      background: var(--accent-soft);
+      background: var(--surface-2);
     }
 
     .title {
@@ -387,18 +315,18 @@
       font-size: 1.06rem;
       font-weight: 600;
       line-height: 1.5;
-      color: var(--text);
+      color: var(--strong);
     }
 
     .summary {
       margin: .7rem 0 0;
-      color: #4a4339;
+      color: rgba(0, 0, 0, 0.68);
       font-size: .97rem;
     }
 
     .item-date {
       margin: .55rem 0 0;
-      color: var(--muted);
+      color: var(--faint);
       font-size: .84rem;
     }
 
@@ -411,12 +339,10 @@
     .tag {
       display: inline-flex;
       align-items: center;
-      padding: .14rem .5rem;
-      border-radius: 0;
-      background: transparent;
-      color: var(--tag-text);
+      padding: .14rem .55rem;
+      background: var(--surface-2);
+      color: var(--muted);
       font-size: .78rem;
-      border: var(--hair) solid var(--line);
       white-space: nowrap;
     }
 
@@ -425,8 +351,6 @@
       gap: 0;
       grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
       margin-bottom: 1rem;
-      border-top: var(--hair) solid var(--line-soft);
-      border-left: var(--hair) solid var(--line-soft);
     }
 
     .tag-directory-item {
@@ -435,18 +359,9 @@
       justify-content: space-between;
       gap: .6rem;
       text-decoration: none;
-      border-radius: 0;
-      border-right: var(--hair) solid var(--line-soft);
-      border-bottom: var(--hair) solid var(--line-soft);
       background: transparent;
       color: var(--text);
-      padding: .7rem .8rem;
-      transition: color .18s ease, background .18s ease;
-    }
-
-    .tag-directory-item:hover {
-      background: var(--surface-2);
-      color: var(--accent);
+      padding: .7rem .2rem;
     }
 
     .tag-directory-item.dimmed {
@@ -454,17 +369,14 @@
     }
 
     .tag-directory-count {
-      color: var(--muted);
+      color: var(--faint);
       font-size: .84rem;
     }
 
     .empty {
       margin: 0 0 1rem;
-      padding: 1rem;
-      border-radius: 0;
-      border: var(--hair) dashed var(--accent);
-      color: var(--accent);
-      background: var(--accent-soft);
+      padding: 1.2rem 0;
+      color: var(--muted);
     }
 
     .status {
@@ -483,13 +395,10 @@
       transform: translateX(-50%);
       width: 100%;
       max-width: 100%;
-      border-radius: 0;
-      border: 0;
       border-top: var(--hair) solid var(--line);
       background: var(--surface);
-      box-shadow: none;
       z-index: 20;
-      padding: .8rem max(1.2rem, calc((100% - 1040px) / 2));
+      padding: .9rem max(1.2rem, calc((100% - 1040px) / 2));
       display: grid;
       grid-template-columns: 1fr auto auto;
       gap: .6rem;
@@ -520,7 +429,7 @@
     .voice-provider:focus,
     .voice-range:focus,
     .voice-token:focus {
-      border-color: var(--accent);
+      border-color: var(--strong);
     }
 
     .voice-token-wrap {
@@ -549,25 +458,12 @@
       font-family: inherit;
       font-size: .88rem;
       cursor: pointer;
-      transition: color .18s ease, border-color .18s ease, background .18s ease;
-    }
-
-    .voice-btn:hover {
-      background: var(--surface-2);
-      border-color: var(--accent);
-      color: var(--accent);
     }
 
     .voice-btn.primary {
-      border-color: var(--accent);
-      background: var(--accent);
-      color: #fbf7ef;
-    }
-
-    .voice-btn.primary:hover {
-      background: #a64e2c;
-      border-color: #a64e2c;
-      color: #fbf7ef;
+      border-color: var(--strong);
+      background: var(--strong);
+      color: #ffffff;
     }
 
     .voice-state {
@@ -580,7 +476,7 @@
     @media (max-width: 820px) {
       .voice-toolbar {
         grid-template-columns: 1fr;
-        padding: .8rem 1.2rem;
+        padding: .9rem 1.2rem;
       }
 
       .voice-token {
