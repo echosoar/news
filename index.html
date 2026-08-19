@@ -144,6 +144,8 @@
       border: 0;
       border-bottom: var(--hair) solid var(--line);
       border-radius: 0;
+      -webkit-appearance: none;
+      appearance: none;
       background: transparent;
       color: var(--strong);
       font-family: inherit;
@@ -153,13 +155,6 @@
 
     .search-input::placeholder {
       color: var(--faint);
-    }
-
-    .search-input::-webkit-search-cancel-button,
-    .search-input::-webkit-clear-button {
-      -webkit-appearance: none;
-      appearance: none;
-      display: none;
     }
 
     .search-input:focus {
