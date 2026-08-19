@@ -114,6 +114,107 @@
       font-size: 0.95rem;
     }
 
+    .search-panel {
+      display: none;
+      padding: 1.7rem 0 0;
+    }
+
+    .search-panel.show {
+      display: block;
+    }
+
+    .search-label {
+      display: block;
+      margin-bottom: .55rem;
+      color: var(--muted);
+      font-size: .88rem;
+    }
+
+    .search-controls {
+      display: flex;
+      align-items: center;
+      gap: .8rem;
+    }
+
+    .search-input {
+      min-width: 0;
+      flex: 1 1 auto;
+      height: 2.5rem;
+      padding: 0;
+      border: 0;
+      border-bottom: var(--hair) solid var(--line);
+      border-radius: 0;
+      background: transparent;
+      color: var(--strong);
+      font-family: inherit;
+      font-size: 1rem;
+      outline: none;
+    }
+
+    .search-input::placeholder {
+      color: var(--faint);
+    }
+
+    .search-input::-webkit-search-cancel-button,
+    .search-input::-webkit-clear-button {
+      -webkit-appearance: none;
+      appearance: none;
+      display: none;
+    }
+
+    .search-input:focus {
+      border-bottom-color: var(--strong);
+    }
+
+    .search-clear,
+    .search-submit {
+      display: none;
+      align-items: center;
+      justify-content: center;
+      height: 2.5rem;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      color: var(--muted);
+      font-family: inherit;
+      font-size: .9rem;
+      cursor: pointer;
+    }
+
+    .search-clear {
+      width: 2rem;
+      font-size: 1.35rem;
+      line-height: 1;
+    }
+
+    .search-submit {
+      padding: 0 .1rem;
+      border-bottom: var(--hair) solid var(--strong);
+      color: var(--strong);
+    }
+
+    .search-clear.show,
+    .search-submit.show {
+      display: inline-flex;
+    }
+
+    .search-clear:focus-visible,
+    .search-submit:focus-visible {
+      outline: 2px solid var(--strong);
+      outline-offset: 2px;
+    }
+
+    @media (max-width: 520px) {
+      .search-controls {
+        gap: .55rem;
+      }
+
+      .search-submit {
+        font-size: .85rem;
+      }
+    }
+
     .day {
       margin-top: 3.2rem;
     }
@@ -517,6 +618,14 @@
         <a class="hero-link" href="https://x.com/codersoar">x@codersoar</a>
       </div>
     </section>
+    <section class="search-panel" id="search-panel" role="search" aria-label="热点搜索">
+      <label class="search-label" for="search-input">搜索标题或描述</label>
+      <div class="search-controls">
+        <input id="search-input" class="search-input" type="text" placeholder="输入关键词，使用空格分隔" autocomplete="off">
+        <button id="search-clear" class="search-clear" type="button" aria-label="清空搜索内容">×</button>
+        <button id="search-submit" class="search-submit" type="button">搜索</button>
+      </div>
+    </section>
     <section id="content"></section>
     <div class="status" id="status"></div>
     <div id="sentinel" aria-hidden="true"></div>
@@ -560,6 +669,10 @@
     const voiceStateEl = document.getElementById("voice-state");
     const groupLinksEl = document.getElementById("group-links");
     const tagsButtonEl = document.getElementById("tags-button");
+    const searchPanelEl = document.getElementById("search-panel");
+    const searchInputEl = document.getElementById("search-input");
+    const searchClearEl = document.getElementById("search-clear");
+    const searchSubmitEl = document.getElementById("search-submit");
     const VOICE_PROVIDER_STORAGE_KEY = "news.voice.provider";
     const VOICE_TOKEN_STORAGE_KEY = "news.voice.token";
     const VOICE_RANGE_STORAGE_KEY = "news.voice.range";
@@ -585,6 +698,142 @@
     const CURRENT_GROUP = (queryParams.get("group") || "").trim();
     const CURRENT_TAG = (queryParams.get("tag") || "").trim();
     let hideGroupedTagsEnabled = false;
+    let searchActive = false;
+    let searchToken = 0;
+    let homeContentFragment = null;
+    let homeStatusText = "";
+
+    function updateSearchControls() {
+      const hasQuery = !!searchInputEl?.value.trim();
+      searchClearEl?.classList.toggle("show", hasQuery);
+      searchSubmitEl?.classList.toggle("show", hasQuery);
+    }
+
+    function getSearchTerms(value) {
+      const terms = new Set();
+      String(value || "")
+        .trim()
+        .split(/\s+/)
+        .forEach(term => {
+          const normalized = term.toLowerCase();
+          if (normalized) terms.add(normalized);
+        });
+      return Array.from(terms);
+    }
+
+    function getSearchWeight(item, terms) {
+      const searchableText = `${item?.title || ""}\n${item?.summary || ""}`.toLowerCase();
+      return terms.reduce((weight, term) => weight + (searchableText.includes(term) ? 1 : 0), 0);
+    }
+
+    function getSearchTimestamp(item, dateString) {
+      const times = (Array.isArray(item?.links) ? item.links : [])
+        .map(link => Number(link?.time))
+        .filter(time => Number.isFinite(time));
+      if (times.length) return Math.max(...times);
+      const date = parseDate(dateString);
+      return date ? Math.floor(date.getTime() / 1000) : 0;
+    }
+
+    function preserveHomepageContent(statusText = statusEl.textContent) {
+      if (homeContentFragment) return;
+      homeStatusText = statusText;
+      homeContentFragment = document.createDocumentFragment();
+      while (contentEl.firstChild) {
+        homeContentFragment.appendChild(contentEl.firstChild);
+      }
+    }
+
+    function restoreHomepageContent() {
+      searchToken += 1;
+      if (!searchActive) return;
+      searchActive = false;
+      if (homeContentFragment) {
+        contentEl.replaceChildren();
+        contentEl.appendChild(homeContentFragment);
+        homeContentFragment = null;
+      }
+      statusEl.textContent = homeStatusText;
+      homeStatusText = "";
+      sentinel.hidden = false;
+      if (!loadStoppedByEmptyDays) {
+        observer.observe(sentinel);
+      }
+    }
+
+    function renderSearchResults(results) {
+      contentEl.replaceChildren();
+      if (!results.length) {
+        const empty = document.createElement("div");
+        empty.className = "empty";
+        empty.textContent = "无搜索结果";
+        contentEl.appendChild(empty);
+        return;
+      }
+
+      const dayEl = renderDayTitle("搜索结果");
+      results.forEach(result => renderCard(result.item, dayEl, { showDate: true }));
+    }
+
+    async function startSearch() {
+      if (PAGE_MODE !== "home") return;
+      const terms = getSearchTerms(searchInputEl.value);
+      if (!terms.length) return;
+
+      searchActive = true;
+      searchToken += 1;
+      const token = searchToken;
+      const originalStatusText = statusEl.textContent;
+      sentinel.hidden = true;
+      observer.unobserve(sentinel);
+      statusEl.textContent = "搜索中...";
+
+      while (loading) {
+        await new Promise(resolve => setTimeout(resolve, 50));
+        if (token !== searchToken) return;
+      }
+
+      preserveHomepageContent(originalStatusText);
+      contentEl.replaceChildren();
+
+      const results = [];
+      let date = getCurrentDate();
+      let consecutiveFailures = 0;
+      while (results.length < 20 && consecutiveFailures < MAX_CONSECUTIVE_EMPTY_DAYS) {
+        const currentDate = date;
+        const data = await fetchDateData(currentDate);
+        if (token !== searchToken) return;
+        date = previousDate(currentDate);
+
+        if (!data) {
+          consecutiveFailures += 1;
+          continue;
+        }
+        consecutiveFailures = 0;
+        const itemDate = isValidDateString(data.date || "") ? data.date : currentDate;
+        const summaries = Array.isArray(data.summary) ? data.summary : [];
+        summaries.forEach(item => {
+          if (results.length >= 20) return;
+          const weight = getSearchWeight(item, terms);
+          if (!weight) return;
+          results.push({
+            item: { ...item, date: itemDate },
+            weight,
+            timestamp: getSearchTimestamp(item, itemDate)
+          });
+        });
+      }
+
+      results.sort((a, b) => b.weight - a.weight || b.timestamp - a.timestamp);
+      renderSearchResults(results);
+      statusEl.textContent = "";
+    }
+
+    function clearSearch() {
+      searchInputEl.value = "";
+      updateSearchControls();
+      restoreHomepageContent();
+    }
 
 
     function pad(v) {
@@ -620,12 +869,16 @@
       return formatDate(date);
     }
 
+    function getCurrentDate() {
+      return new Date().toISOString().slice(0, 10);
+    }
+
     function getInitialDate() {
       const input = queryParams.get("date");
       if (input && isValidDateString(input)) {
         return input;
       }
-      return new Date().toISOString().slice(0, 10);
+      return getCurrentDate();
     }
 
     function renderDayTitle(date) {
@@ -666,7 +919,7 @@
       return day;
     }
 
-    function renderCard(item, dayEl) {
+    function renderCard(item, dayEl, options = {}) {
       const card = document.createElement("article");
       card.className = "card";
       const fallbackDate = dayEl?.dataset?.date || "";
@@ -699,7 +952,7 @@
         card.appendChild(summary);
       }
 
-      if ((PAGE_MODE === "group" || PAGE_MODE === "tag") && item.date) {
+      if ((PAGE_MODE === "group" || PAGE_MODE === "tag" || options.showDate) && item.date) {
         const date = document.createElement("p");
         date.className = "item-date";
         date.textContent = item.date;
@@ -1265,7 +1518,7 @@
     }
 
     async function loadDate(dateString) {
-      if (loadedDays.has(dateString)) return false;
+      if (searchActive || loadedDays.has(dateString)) return false;
       loadedDays.add(dateString);
 
       try {
@@ -1278,6 +1531,7 @@
         if (!summaries.length) {
           return false;
         }
+        dateDataCache.set(dateString, data);
         dateDataCache.set(data.date || dateString, data);
         const dayEl = renderDayTitle(data.date || dateString);
         summaries.forEach(item => renderCard(item, dayEl));
@@ -1296,6 +1550,7 @@
         if (!res.ok) return null;
         const data = await res.json();
         if (Array.isArray(data.summary) && data.summary.length) {
+          dateDataCache.set(dateString, data);
           dateDataCache.set(data.date || dateString, data);
           return data;
         }
@@ -1711,7 +1966,7 @@
         silentStatus = false
       } = options;
 
-      if (loading || (loadStoppedByEmptyDays && !allowBypassStop)) return false;
+      if (searchActive || loading || (loadStoppedByEmptyDays && !allowBypassStop)) return false;
       loading = true;
       if (!silentStatus) {
         statusEl.textContent = "加载中...";
@@ -1721,6 +1976,7 @@
       try {
         let consecutiveEmptyDays = 0;
         while (consecutiveEmptyDays < maxConsecutiveEmptyDays) {
+          if (searchActive) return false;
           const current = nextDate;
           nextDate = previousDate(nextDate);
           const hasData = await loadDate(current);
@@ -1752,6 +2008,10 @@
         loadNext();
       }
     }, { rootMargin: "220px 0px" });
+
+    searchInputEl.addEventListener("input", updateSearchControls);
+    searchSubmitEl.addEventListener("click", startSearch);
+    searchClearEl.addEventListener("click", clearSearch);
 
     providerEl.addEventListener("change", () => {
       saveVoiceProvider();
@@ -1792,6 +2052,8 @@
     restoreVoiceSettings();
     loadGroupNav();
     tagsButtonEl.classList.toggle("active", PAGE_MODE === "tags");
+    searchPanelEl.classList.toggle("show", PAGE_MODE === "home");
+    updateSearchControls();
     if (PAGE_MODE === "home") {
       observer.observe(sentinel);
       loadNext();
