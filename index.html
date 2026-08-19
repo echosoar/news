@@ -151,6 +151,12 @@
       outline: none;
     }
 
+    .search-input:empty::before {
+      content: attr(data-placeholder);
+      color: var(--faint);
+      pointer-events: none;
+    }
+
     .search-input:focus {
       border-bottom-color: var(--strong);
     }
@@ -610,7 +616,7 @@
     <section class="search-panel" id="search-panel" role="search" aria-label="热点搜索">
       <label class="search-label" id="search-label">搜索标题或描述（多个词使用空格分隔）</label>
       <div class="search-controls">
-        <div id="search-input" class="search-input" contenteditable="true" role="textbox" aria-multiline="false" aria-labelledby="search-label"></div>
+        <div id="search-input" class="search-input" contenteditable="true" role="textbox" aria-multiline="false" aria-labelledby="search-label" data-placeholder="输入关键词，使用空格分隔"></div>
         <button id="search-clear" class="search-clear" type="button" aria-label="清空搜索内容">×</button>
         <button id="search-submit" class="search-submit" type="button">搜索</button>
       </div>
@@ -792,7 +798,7 @@
       const results = [];
       let date = getCurrentDate();
       let consecutiveFailures = 0;
-      while (results.length < 20 && consecutiveFailures < MAX_CONSECUTIVE_EMPTY_DAYS) {
+      while (consecutiveFailures < MAX_CONSECUTIVE_EMPTY_DAYS) {
         const currentDate = date;
         const data = await fetchDateData(currentDate);
         if (token !== searchToken) return;
@@ -806,18 +812,16 @@
         const itemDate = isValidDateString(data.date || "") ? data.date : currentDate;
         const summaries = Array.isArray(data.summary) ? data.summary : [];
         summaries.forEach(item => {
-          if (results.length >= 20) return;
           const weight = getSearchWeight(item, terms);
-          if (!weight) return;
+          if (weight !== terms.length) return;
           results.push({
             item: { ...item, date: itemDate },
-            weight,
             timestamp: getSearchTimestamp(item, itemDate)
           });
         });
       }
 
-      results.sort((a, b) => b.weight - a.weight || b.timestamp - a.timestamp);
+      results.sort((a, b) => b.timestamp - a.timestamp);
       renderSearchResults(results);
       statusEl.textContent = "";
     }
