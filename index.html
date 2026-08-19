@@ -144,27 +144,11 @@
       border: 0;
       border-bottom: var(--hair) solid var(--line);
       border-radius: 0;
-      -webkit-appearance: none;
-      appearance: none;
       background: transparent;
       color: var(--strong);
       font-family: inherit;
       font-size: 1rem;
       outline: none;
-    }
-
-    .search-input::placeholder {
-      color: var(--faint);
-    }
-
-    .search-input::-webkit-search-cancel-button,
-    .search-input::-webkit-clear-button,
-    .search-input::-ms-clear {
-      -webkit-appearance: none !important;
-      appearance: none !important;
-      display: none !important;
-      width: 0 !important;
-      height: 0 !important;
     }
 
     .search-input:focus {
@@ -624,9 +608,9 @@
       </div>
     </section>
     <section class="search-panel" id="search-panel" role="search" aria-label="热点搜索">
-      <label class="search-label" for="search-input">搜索标题或描述</label>
+      <label class="search-label" id="search-label">搜索标题或描述（多个词使用空格分隔）</label>
       <div class="search-controls">
-        <input id="search-input" class="search-input" type="text" placeholder="输入关键词，使用空格分隔" autocomplete="off">
+        <div id="search-input" class="search-input" contenteditable="true" role="textbox" aria-multiline="false" aria-labelledby="search-label"></div>
         <button id="search-clear" class="search-clear" type="button" aria-label="清空搜索内容">×</button>
         <button id="search-submit" class="search-submit" type="button">搜索</button>
       </div>
@@ -708,8 +692,12 @@
     let homeContentFragment = null;
     let homeStatusText = "";
 
+    function getSearchInputValue() {
+      return searchInputEl?.textContent || "";
+    }
+
     function updateSearchControls() {
-      const hasQuery = !!searchInputEl?.value.trim();
+      const hasQuery = !!getSearchInputValue().trim();
       searchClearEl?.classList.toggle("show", hasQuery);
       searchSubmitEl?.classList.toggle("show", hasQuery);
     }
@@ -782,7 +770,7 @@
 
     async function startSearch() {
       if (PAGE_MODE !== "home") return;
-      const terms = getSearchTerms(searchInputEl.value);
+      const terms = getSearchTerms(getSearchInputValue());
       if (!terms.length) return;
 
       searchActive = true;
@@ -835,7 +823,7 @@
     }
 
     function clearSearch() {
-      searchInputEl.value = "";
+      searchInputEl.textContent = "";
       updateSearchControls();
       restoreHomepageContent();
     }
@@ -2015,6 +2003,11 @@
     }, { rootMargin: "220px 0px" });
 
     searchInputEl.addEventListener("input", updateSearchControls);
+    searchInputEl.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+      }
+    });
     searchSubmitEl.addEventListener("click", startSearch);
     searchClearEl.addEventListener("click", clearSearch);
 
