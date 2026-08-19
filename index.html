@@ -157,6 +157,16 @@
       color: var(--faint);
     }
 
+    .search-input::-webkit-search-cancel-button,
+    .search-input::-webkit-clear-button,
+    .search-input::-ms-clear {
+      -webkit-appearance: none !important;
+      appearance: none !important;
+      display: none !important;
+      width: 0 !important;
+      height: 0 !important;
+    }
+
     .search-input:focus {
       border-bottom-color: var(--strong);
     }
