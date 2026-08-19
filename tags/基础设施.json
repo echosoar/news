@@ -1,7 +1,18 @@
 {
   "tag": "基础设施",
-  "generated_at": "2026-08-16T01:56:51Z",
+  "generated_at": "2026-08-19T06:23:26Z",
   "summary": [
+    {
+      "title": "GitHub宕机超7小时，AI编码需求压垮基础设施",
+      "tags": [
+        "GitHub宕机",
+        "AI编码",
+        "基础设施",
+        "开发者服务"
+      ],
+      "summary": "全球代码托管平台GitHub于美东时间8月17日上午发生大规模宕机，持续约七小时，核心服务中断约三小时。期间API请求、Actions、Webhooks、Issues、Pull Requests及登录认证等多项服务报错，Copilot功能也无法使用。据GitHub状态页数据，Web与API流量错误率一度接近20%，归档和原始仓库下载错误率逼近50%，全球开发者无法拉取代码、运行CI流水线。同日，微软股价收跌3.04%，市值蒸发约1120亿美元，但该跌幅与美股科技板块整体回调相关，并非单一事件驱动。\n\n几乎在同一时间，AI编程工具Cursor正式宣布其代码托管平台Origin向付费用户开放测试版。Origin定位为面向Agent时代设计的平台，支持创建仓库、Git操作、PR管理、权限控制及GitHub仓库整体镜像，并设有一键Detach from GitHub按钮，可将权威数据源从GitHub切换至Origin。据多家媒体报道，Origin发布属既定计划，与GitHub故障重合或为巧合。\n\n文章分析指出，GitHub故障暴露",
+      "date": "2026-08-18"
+    },
     {
       "title": "摩根士丹利启动美国创新基础设施计划，目标撬动1.5万亿美元资本",
       "tags": [
