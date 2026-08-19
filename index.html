@@ -672,6 +672,7 @@
     const VOICE_TOKEN_STORAGE_KEY = "news.voice.token";
     const VOICE_RANGE_STORAGE_KEY = "news.voice.range";
     const MAX_CONSECUTIVE_EMPTY_DAYS = 3;
+    const MAX_SEARCH_RESULTS = 40;
     const PLAYBACK_EMPTY_DAY_SEARCH_LIMIT = 90;
     const PLAYBACK_PREFETCH_REMAINING_THRESHOLD = 3;
     const loadedDays = new Set();
@@ -798,7 +799,7 @@
       const results = [];
       let date = getCurrentDate();
       let consecutiveFailures = 0;
-      while (consecutiveFailures < MAX_CONSECUTIVE_EMPTY_DAYS) {
+      while (results.length < MAX_SEARCH_RESULTS && consecutiveFailures < MAX_CONSECUTIVE_EMPTY_DAYS) {
         const currentDate = date;
         const data = await fetchDateData(currentDate);
         if (token !== searchToken) return;
@@ -811,18 +812,25 @@
         consecutiveFailures = 0;
         const itemDate = isValidDateString(data.date || "") ? data.date : currentDate;
         const summaries = Array.isArray(data.summary) ? data.summary : [];
-        summaries.forEach(item => {
+        for (const item of summaries) {
+          if (results.length >= MAX_SEARCH_RESULTS) break;
           const weight = getSearchWeight(item, terms);
-          if (weight !== terms.length) return;
+          if (weight !== terms.length) continue;
+
           results.push({
             item: { ...item, date: itemDate },
             timestamp: getSearchTimestamp(item, itemDate)
           });
-        });
+          results.sort((a, b) => b.timestamp - a.timestamp);
+          renderSearchResults(results);
+          await new Promise(resolve => requestAnimationFrame(resolve));
+          if (token !== searchToken) return;
+        }
       }
 
-      results.sort((a, b) => b.timestamp - a.timestamp);
-      renderSearchResults(results);
+      if (!results.length) {
+        renderSearchResults(results);
+      }
       statusEl.textContent = "";
     }
 
