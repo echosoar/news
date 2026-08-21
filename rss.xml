@@ -1,111 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-08-20</title>
+    <title>News 2026-08-21</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-08-20</description>
-    <lastBuildDate>Thu, 20 Aug 2026 09:55:30 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-08-21</description>
+    <lastBuildDate>Fri, 21 Aug 2026 01:05:33 +0000</lastBuildDate>
     <item>
-      <title>特朗普宣布对伊朗采取史上最严厉经济行动，美军伤亡数据为18死757伤</title>
+      <title>特朗普宣布对伊朗实施毁灭性经济行动，伊朗谴责并警告误判将付出代价</title>
       <link>https://www.jiemian.com/article/14950763.html</link>
-      <pubDate>Thu, 20 Aug 2026 09:55:30 +0000</pubDate>
-      <description>特朗普于美东时间8月19日宣布对伊朗采取针对任何国家实施过的最严厉经济行动，称这将是一场规模空前的经济战和经济孤立。特朗普表示，任何允许其金融机构、企业、机场或政府实体向伊朗提供支持的国家都将面临巨大经济后果，并要求立即停止石油走私、货币互换、现金转移等活动，呼吁盟友联手孤立伊朗。美方相关方案可能包括重启并强化二级石油制裁，对所有购买伊朗原油的第三方实体实施无差别制裁并冻结其资产。美军已于同日开展秘密行动，在霍尔木兹海峡打通运油航道以保障制裁落地。伊朗方面依托多年应对制裁经验已建立本土替代工业体系，但此次极限行动将进一步加剧其经济困境，同时伊朗政坛强硬派话语权上升并主导对美谈判进程。美国国内油价上涨推高生活成本，路透社和益普索民调显示特朗普支持率降至35%，且民主党在经济治理上以37%对36%实现近十年来首次反超。据央视新闻消息，美国国防部截至8月19日更新的统计显示，自2月28日对伊军事行动以来，美军已有18人死亡、757人受伤，战事耗费达375亿美元。此外，美军高层官员对弹药储备降至危险低位表示担忧，并有意劝说总统暂缓升级军事行动。</description>
+      <pubDate>Fri, 21 Aug 2026 01:05:33 +0000</pubDate>
+      <description>特朗普于8月19日宣布对伊朗实施史上最严厉的经济行动，称伊朗未能抓住达成协议的机会，这将是一场规模空前的经济战和经济孤立。他警告，任何允许金融机构、企业、机场或政府实体向伊朗提供支持的国家都将面临巨大经济后果，并要求立即停止石油走私、货币互换、现金转移、船舶注册和利用空壳公司等活动，同时呼吁盟友联手孤立伊朗。预计美方方案可能包括重启并强化</description>
     </item>
     <item>
-      <title>许家印被判处无期徒刑，恒大相关案件一审宣判</title>
-      <link>https://www.tmtpost.com/nictation/8110137.html</link>
-      <pubDate>Thu, 20 Aug 2026 06:58:22 +0000</pubDate>
-      <description>2026年8月20日上午，广东省深圳市中级人民法院对恒大集团有限公司、恒大地产集团有限公司及被告人许家印案进行一审公开宣判。法院判处恒大集团罚金人民币88.2亿元，恒大地产罚金人民币70亿元；许家印数罪并罚，被判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对违法所得继续追缴，不足部分责令退赔。
+      <title>乌克兰首都基辅遭空袭死亡人数升至15人，俄乌冲突持续升级</title>
+      <link>https://www.wenweipo.com/a/202608/21/AP6a879fd8e4b0c1e50025a449.html</link>
+      <pubDate>Fri, 21 Aug 2026 01:02:31 +0000</pubDate>
+      <description />
+    </item>
+    <item>
+      <title>美国纽约州一女子涉嫌策划袭击州议会大厦被捕，当地警方介入调查</title>
+      <link>https://news.cctv.com/2026/08/21/ARTI12uMmgpsnSquj9rtUFgJ260821.shtml</link>
+      <pubDate>Fri, 21 Aug 2026 00:38:57 +0000</pubDate>
+      <description>美国司法部20日发表声明称，纽约州一名女子因涉嫌策划袭击纽约州议会大厦被逮捕，并已被提起指控。当地警方已介入调查。目前案件仍在进一步处理中。</description>
+    </item>
+    <item>
+      <title>博通寻求在AI债务融资中筹集逾600亿美元，创科技融资新纪录</title>
+      <link>https://wallstreetcn.com/articles/3779945</link>
+      <pubDate>Fri, 21 Aug 2026 00:22:00 +0000</pubDate>
+      <description>博通正与黑石和阿波罗全球管理洽谈，计划为一项AI芯片融资交易筹集逾600亿美元债务，受益方包括Anthropic及其他公司。根据目前讨论的方案，融资结构或将包含约600亿至700亿美元的优先担保档和约300亿美元的次级债务档，两部分合并计算，总规模或高达1000亿美元。该融资方案仍在磋商之中，细节或有变动。</description>
+    </item>
+    <item>
+      <title>Apple Music收紧AI政策，要求机器生成内容必须添加披露标签</title>
+      <link>https://m.ithome.com/html/992428.htm</link>
+      <pubDate>Fri, 21 Aug 2026 00:01:40 +0000</pubDate>
+      <description />
+    </item>
+    <item>
+      <title>中国科学家实现真空涨落增强超导，突破量子物理研究瓶颈</title>
+      <link>https://news.mydrivers.com/1/1145/1145278.htm</link>
+      <pubDate>Fri, 21 Aug 2026 00:24:53 +0000</pubDate>
+      <description>中国科学技术大学团队在量子物态调控领域取得重要突破，首次利用暗腔装置实现真空涨落增强超导效应，相关成果已发表于《自然》期刊。在量子力学中，真空并非空无一物，而是存在虚粒子不断产生与湮灭的涨落现象，但常规环境下这种涨落强度极低，难以显著改变材料物理特性。研究团队基于此前将卡西米尔力从吸引变为排斥的实验经验，尝试利用真空涨落调控超导材料。他们构建了一套由太赫兹分裂环谐振器组成的暗腔装置，无需外接驱动信号，仅通过改变局部电磁环境即可放大真空涨落效果。将超导材料二硒化铌置于暗腔中测试，六层样品的超导临界温度最高提升5.4%，临近转变点的临界电流和临界磁场也同步增强。为排除材料形变</description>
+    </item>
+    <item>
+      <title>ChatGPT现支持在Mac端读取与发送iMessage消息，AI与苹果生态深度融合</title>
+      <link>https://tech.ifeng.com/c/8vlHc1Sn52v</link>
+      <pubDate>Thu, 20 Aug 2026 23:44:00 +0000</pubDate>
+      <description>OpenAI于本周四宣布为Mac版ChatGPT推出全新的Apple Messages插件。通过该插件，Mac用户可直接利用ChatGPT搜索信息、起草文本、分析对话内容，甚至向联系人发送回复。用户可在ChatGPT插件界面的公开列表中找到并安装此插件，安装后ChatGPT不仅能够访问iMessage，还兼容SMS短信和RCS消息。OpenAI列举了演示用例，如让AI查看日历并回复对方空闲时间、根据聊天记录提供跟进建议、查找消息中的生日并添加到日历、识别潜在垃圾信息等。
 
-法院审理查明，许家印作为恒大集团实际控制人，全面负责运营，并管理恒大地产、恒大财富等多家企业。2016年至2021年间，恒大集团、恒大地产及许家印通过持续性大规模财务造假，虚增资产、隐瞒负债，实施非法吸收公众存款、集资诈骗、欺诈发行证券、违规披露重要信息等犯罪行为；恒大集团及许家印还通过行贿</description>
-    </item>
-    <item>
-      <title>小米新一代人形机器人亮相，1.7米66公斤由大模型驱动行动流畅</title>
-      <link>https://www.chinaz.com/2026/0820/1772094.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 07:33:02 +0000</pubDate>
-      <description>小米新一代人形机器人“铁大”在2026世界机器人大会上首次公开亮相。该机器人身高约1.70米，体重66公斤，全身拥有66个自由度。在工业应用方面，铁大自今年初起便在小米汽车工厂的自攻螺母上件工站进行“实习”，经过一个季度的调试，其双侧作业成功率已提升至98%，与人工作业合格率仅差1%，并正式“转正”。此外，它还在总装车间物流区探索了中控台侧盖板排序和料箱折叠回收等新岗位，成功率均</description>
-    </item>
-    <item>
-      <title>首款AI定制mRNA癌症疫苗三期成功，Moderna寄望颠覆人类抗癌</title>
-      <link>https://tech.ifeng.com/c/8vibPjkGve7</link>
-      <pubDate>Thu, 20 Aug 2026 07:14:00 +0000</pubDate>
-      <description>Moderna与默沙东联合宣布，其研发的个性化mRNA癌症疫苗intismeran（V940/mRNA-4157）在治疗黑色素瘤的三期临床试验中取得阳性结果。这是全球首个在三期临床中证明有效的个性化新抗原疗法，也是mRNA癌症治疗药物的里程碑式突破。
+在权限与隐私方面，通过ChatGPT发送消息默认需经用户批准，OpenAI警告用户尽量避免授予永久性自动发送权限。为确保功能正常，ChatGPT必须在Mac系统设置中获得完全磁盘访问权限，同时还需获取联系人姓名及自动化工具使用权。技术实现上，该插件依赖Mac的AppleScript和辅助功能设置运行。目前尚不清楚苹果是否参与开发，考虑到苹果此前因涉嫌窃取商业机密将OpenAI告上法庭，双方正处于诉讼阶段。
 
-该疗法针对IIB至IV期高风险黑色素瘤术后患者，采用与默沙东抗癌药物K药联用的方案。</description>
+该信息集成功能目前仅在桌面端ChatGPT的ChatGPT Work和Codex模式下可用，不支持常规对话界面，且仅</description>
     </item>
     <item>
-      <title>以军首度承认向加沙平民车辆开火致5岁女孩身亡，澳外长召见以色列大使</title>
-      <link>https://www.huanqiu.com/article/4Ss0P6YaO5v</link>
-      <pubDate>Thu, 20 Aug 2026 04:07:48 +0000</pubDate>
-      <description>以色列军方当地时间8月19日首次承认，其部队于2024年在加沙地带曾向一辆载有5岁女童欣德·拉贾布及其6名家人的汽车开火，并已下令对此事件展开刑事调查。此前，以方曾否认其士兵出现在女童遇害地点。与此同时，澳大利亚外交部长黄英贤于当日发表声明，对以色列决定不就2024年4月袭击世界中央厨房车队一事展开刑事调查表示强烈愤慨，并宣布召见以色列驻澳大使。这两起事件均涉及以军在加沙行动中对平民的伤害，引发国际社会关注。以方最新表态承认了针对女童车辆的开火行为，但未公布调查细节；澳方则针对援助车队遇袭事件明确表达了不满。</description>
+      <title>花旗转空美元，财政部扩大回购、加息预期退潮等三重因素压制美元走势</title>
+      <link>https://wallstreetcn.com/articles/3779951</link>
+      <pubDate>Fri, 21 Aug 2026 00:04:06 +0000</pubDate>
+      <description />
     </item>
     <item>
-      <title>京东亮相2026世界机器人大会，发布机器人战略并创造超十万新岗位</title>
-      <link>https://finance.sina.com.cn/hy/hyjz/2026-08-20/doc-ininyfvm6700558.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 09:44:23 +0000</pubDate>
-      <description>京东在2026世界机器人大会论坛上发布机器人战略。京东智能机器人业务部负责人徐磊表示，去年京东四足机器人销量</description>
-    </item>
-    <item>
-      <title>日本成田机场客机冒黑烟关闭跑道，运行中断</title>
-      <link>https://news.ifeng.com/c/8vjxDFH2cqC</link>
-      <pubDate>Thu, 20 Aug 2026 04:31:03 +0000</pubDate>
-      <description>日本成田机场20日上午发生一起客机冒黑烟事件，涉事跑道被关闭。据日本广播协会引述警方消息，当地时间10时40分左右，一架马来西亚航空公司客机在准备起飞时发动机附近冒出黑烟。目前尚不清楚是否有人员受伤。现场画面显示，上午11时左右，涉事飞机停在现场，周围停有多辆消防车和救护车，工作人员正在进行相应处理。成田机场方面表示，受此事影响，机场A跑道已关闭，目前正在进行检查。</description>
-    </item>
-    <item>
-      <title>台积电专为AI高算力设计1.6nm级A16工艺，目标Q4量产</title>
-      <link>https://news.mydrivers.com/1/1145/1145096.htm</link>
-      <pubDate>Thu, 20 Aug 2026 08:18:36 +0000</pubDate>
-      <description>台积电近日宣布已成功完成A16先进制程背面供电技术的研发与验证。A16是台积电首个导入背面电轨的先进制</description>
-    </item>
-    <item>
-      <title>Cerebras发布CS-4加速器，拥有四万亿晶体管与900万核心</title>
-      <link>https://tech.ifeng.com/c/8vjuaSbpN84</link>
-      <pubDate>Thu, 20 Aug 2026 04:39:00 +0000</pubDate>
-      <description>Cerebras Systems于2026年8月18日正式发布新一代AI加速器CS-4，并宣称其为业界最快的AI推理方案，速度最高可达GPU方案的30倍。该产品为机架级系统，由三颗WSE-3 Turbo晶圆级处理器驱动，每颗集成4万亿晶体管和90万个AI核心，覆盖46225平方毫米硅面积。
+      <title>中国商务部称7月新能源乘用车零售渗透率65.1%创历史新高</title>
+      <link>https://m.ithome.com/html/992424.htm</link>
+      <pubDate>Thu, 20 Aug 2026 23:36:48 +0000</pubDate>
+      <description>根据商务部消费促进司发布的数据，2026年7月我国消费市场呈现以下特点：
 
-CS-4采用台积电5纳米制程及系统级晶圆（SoW）封装，最大特点是无需高带宽存储器，以SRAM取代。单个机柜可容纳三颗晶圆，系统支持超过50万亿参数的模型，功耗约125至135千瓦。性能方面，CS-4提供750 PFLOPs的AI算力、每秒129.6 PB的内存带宽及每秒7.2 Tbps的I/O吞吐量，较前代速度提升两倍，每瓦性能提升一倍。在GPT-OSS 120B模型测试中，每用户每秒可生成超过4400个Token</description>
+总体来看，1至7月社会消费品零售总额</description>
     </item>
     <item>
-      <title>龙芯自研显卡9A1000已交付流片，芯片性能追平X86七纳米级</title>
-      <link>https://tech.ifeng.com/c/8vjp3Vz8bVc</link>
-      <pubDate>Thu, 20 Aug 2026 02:11:00 +0000</pubDate>
-      <description>龙芯中科董事长胡伟武公开确认，龙芯首款通用GPU芯片9A1000已完成全部研发流程，正式交付流片。该产品定位消费级入门级独立显卡，图形渲染性能对标AMD RX 550，可满足日常办公、轻量级网络游戏及基础图形设计需求，AI算力达数十TOPS。根据龙芯产品路线图，下一代GPU 9A2000计划于2026至2027年推出，图形性能达9A1000的四倍，AI推理性能为初代八倍，目标对标同期海外中端</description>
-    </item>
-    <item>
-      <title>OpenAI首席财务官向员工透露最迟将于2027年上市</title>
-      <link>https://m.ithome.com/html/991886.htm</link>
-      <pubDate>Thu, 20 Aug 2026 00:17:26 +0000</pubDate>
-      <description>据外媒报道，OpenAI首席财务官萨拉·弗里亚尔在周三的全员大会上向员工表示，公司计划最迟于2027年完成上市，若业务持续向好，时间可能提前。弗里亚尔强调，IPO并非终点，而是里程碑式的另一次融资，并提及公司已在3月完成1220亿美元融资，具备充足操作空间。
-
-OpenAI已于今年6月向美国证券交易委员会秘密提交IPO招股书，但未公开具体时间表。其主要竞争对手Anthropic同样已秘密提交申请，并可能于9月正式上市。弗里亚尔表示，即使对手先行上市，OpenAI也将</description>
-    </item>
-    <item>
-      <title>美国扩大长期国债回购规模，金价大幅上涨</title>
-      <link>https://news.cctv.com/2026/08/20/ARTIgc3oqaySqIppZgxRg8oD260820.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 02:53:24 +0000</pubDate>
-      <description>美国财政部8月19日宣布，将大幅扩大长期国债回购规模，计划将10年至30年期国债回购规模扩大至少一倍，旨在为长期国债市场提供更多流动性支持。消息公布后，美国长期国债价格上涨，收益率明显回落，此前一度升至约5.34%的30年期美国国债收益率显著下降，美元指数同步走低，国际金价大幅上涨。当天，纽约商品交易所黄金期货价格突破每盎司4500美元。美国贵金属分析师表示，此举完全出乎市场预料，长期美债收益率下降以及美元可能进一步走弱，对黄金构成明显利好。不过，市场人士指出，扩大长期国债回购有助于缓和长期债券市场压力，但无法解决美国联邦政府债务</description>
-    </item>
-    <item>
-      <title>特朗普要求缩减美韩联合军演规模，李在明作出回应</title>
-      <link>http://www.chinanews.com//gj/2026/08-20/10680894.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 07:55:00 +0000</pubDate>
-      <description>韩国联合参谋本部宣布，原定于8月17日至27日举行的韩美乙支自由之盾联合军演，缩短为17日至21日，缩减了原定日程中的大部分时间，并取消了部分野外机动训练，具体调整仍在协商。这是韩美年度例行联合军演首次因美方要求提前结束并缩减规模。
-
-美国总统特朗普此前在社交媒体发文，表示已要求美国国防部大幅缩减美韩联合军演，理由是军演耗资巨大且大部分由美国承担，同时释放出对朝鲜不恰当且敌对的信号。韩媒报道称，驻韩国美军司令与韩国国防部长官会谈后，外界认为缩减演习的决定在此次会谈中敲定。
-
-韩国外交部长官赵显及国防部长官安圭伯</description>
-    </item>
-    <item>
-      <title>联合国警告以色列定居点计划，威胁两国方案实现</title>
-      <link>https://news.cctv.com/2026/08/20/ARTI6jYhRDkInFs7zgIYN89V260820.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 08:09:00 +0000</pubDate>
-      <description>联合国秘书长古特雷斯通过发言人迪雅里克于当地时间19日发表声明，对以色列在约旦河西岸地区新建非法定居点前哨等行为表示深感震惊。古特雷斯指出，以色列的这些进展将实际切断约旦河西岸北部与南部之间的联系，严重损害被占领巴勒斯坦领土的领土完整，并对两国方案构成生存性威胁。他呼吁以色列不要在这一问题上采取任何进一步行动。相关消息由央视新闻于2026年8月20日报道。</description>
-    </item>
-    <item>
-      <title>美国宾夕法尼亚州小型飞机与州警直升机空中相撞</title>
-      <link>https://news.cctv.com/2026/08/20/ARTIJBQyUveQ22yNku5teRcm260820.shtml</link>
-      <pubDate>Thu, 20 Aug 2026 01:54:54 +0000</pubDate>
-      <description>美国宾夕法尼亚州中部当地时间8月19日晚发生一起空中相撞事故，一架小型飞机与一架州警直升机在空中相撞。据央视记者获悉，事发时直升机上共有2人，小型飞机上的人员数量尚不清楚，目前也没有关于人员伤亡的确切消息。事故发生后，应急人员已赶赴现场展开处置。目前相关部门正在进一步调查事故原因及人员伤亡情况。</description>
+      <title>宇树科技上市引发全网关注，创始人王兴兴表情成焦点</title>
+      <link>http://news.china.com.cn/2026-08/21/content_118657739.shtml</link>
+      <pubDate>Fri, 21 Aug 2026 00:55:33 +0000</pubDate>
+      <description />
     </item>
   </channel>
 </rss>
