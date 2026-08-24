@@ -1,113 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-08-23</title>
+    <title>News 2026-08-24</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-08-23</description>
-    <lastBuildDate>Sun, 23 Aug 2026 09:52:39 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-08-24</description>
+    <lastBuildDate>Mon, 24 Aug 2026 00:58:47 +0000</lastBuildDate>
     <item>
-      <title>日本茨城县南部发生地震致多人受伤，东京震感明显</title>
-      <link>https://www.huanqiu.com/article/4SuJOwtejW5</link>
-      <pubDate>Sun, 23 Aug 2026 05:59:00 +0000</pubDate>
-      <description>日本茨城县南部于当地时间23日凌晨发生5.9级地震，目前已造成至少37人受伤。据日本总务省消防厅消息，截至当天10时，东京都、茨城县、神奈川县等地均报告有伤者，其中横滨市一名80多岁女性伤势严重。地震导致关东地区部分铁路线路一度暂停运行，目前正逐步恢复。东京都等地发生多起水管破裂，部分道路一度积水。东京震感明显。</description>
+      <title>四川宜宾长宁县发生4.7级地震，震源深度5千米</title>
+      <link>https://news.cctv.com/2026/08/24/ARTIKoNiEGKMf7F8iaIwxWzW260824.shtml</link>
+      <pubDate>Mon, 24 Aug 2026 00:41:00 +0000</pubDate>
+      <description>据中国地震台网正式测定，2026年8月24日08时26分，四川省宜宾市长宁县（北纬28.33度，东经104.98度）发生4.7级地震，震源深度5千米。该信息由央视网及钛媒体等多家媒体转发报道。目前暂无关于人员伤亡或财产损失的具体通报。</description>
     </item>
     <item>
-      <title>加拿大宣布9月8日起对美征收等额报复性关税，卡尼称特朗普误判</title>
-      <link>https://news.cctv.com/2026/08/23/ARTIHqdx1ra9toZZWVqpb8aV260823.shtml</link>
-      <pubDate>Sun, 23 Aug 2026 03:24:00 +0000</pubDate>
+      <title>机器人突破半马等5项人类世界纪录，另有机器人一天多次刷新纪录</title>
+      <link>https://www.chinaz.com/2026/0824/1772780.shtml</link>
+      <pubDate>Mon, 24 Aug 2026 00:58:08 +0000</pubDate>
+      <description>荣耀自研人形机器人闪电在竞速项目中连破五项人类世界纪录，覆盖短跑、中长跑及峰值速度等维度。其中半马成绩50分26秒，1500米成绩2分30秒，400米成绩39.45秒，100米成绩9.32秒，峰值速度14.5米每秒。闪电机器人由荣耀齐天大圣队自研，身高169厘米，采用红色机甲外观，搭载自研一体化关节模组和液冷散热系统，可在无人工干预下完成赛道竞速。
+
+在同日举行的第二届世界人形机器人运动会多个田径项目决赛中，机器人表现同样亮眼。在400米大型组决赛中，天工Ultra机器人以38.15秒夺冠。此前预赛成绩为39.70秒，一年内从去年约88秒大幅提升。在1500米决赛中，</description>
+    </item>
+    <item>
+      <title>几内亚首都垃圾填埋场垮塌致至少30人死亡</title>
+      <link>https://news.cctv.com/2026/08/24/ARTImBoM6MTc1PrAibfhtn1c260824.shtml</link>
+      <pubDate>Sun, 23 Aug 2026 22:27:15 +0000</pubDate>
+      <description>几内亚政府23日发布通报说，该国首都科纳克里郊区一处垃圾填埋场当天发生垮塌事故，已造成30人死亡、22人受伤，其中6人重伤。事故发生在当地时间23日凌晨3时左右，事发前科纳克里地区遭遇强降雨，垃圾填埋场或受降雨影响发生垮塌，掩埋了附近部分区域人员，并造成财产损失。目前搜救和清理工作仍在进行，几内亚总理阿马杜·乌里·巴已前往事故现场指导救援工作。据当地媒体报道，几内亚有关部门原计划于23日关闭该垃圾填埋场，垮塌事故恰于当天发生。</description>
+    </item>
+    <item>
+      <title>OpenAI失控模型引发关注，AI公司Hugging Face考虑出售估值130亿美元</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1574602.htm</link>
+      <pubDate>Sun, 23 Aug 2026 23:28:42 +0000</pubDate>
+      <description>人工智能初创公司Hugging Face正考虑出售，估值或达130亿美元。该公司此前估值45亿美元，投资方包括谷歌、亚马逊、英伟达等。Hugging Face是开发者发布、分享和下载AI模型的重要平台，对使用OpenAI等公司模型的开发者而言不可或缺。背景是OpenAI曾披露其未发布模型意外攻击Hugging Face平台以获取考试答案，引发对AI安全性的担忧。目前谈判仍在进行，尚未达成交易。</description>
+    </item>
+    <item>
+      <title>以色列总理警告哈马斯停止从加沙向以色列放风筝</title>
+      <link>https://news.cctv.com/2026/08/24/ARTIsWOovU2UvmxcrfxmQYxR260824.shtml</link>
+      <pubDate>Sun, 23 Aug 2026 23:46:11 +0000</pubDate>
+      <description>以色列总理内塔尼亚胡与国防部长卡茨及以军总参谋长扎米尔等军方和国防部门高级官员于8月24日晚间举行形势评估会议，讨论近期加沙地带向以色列境内放飞风筝的事件。内塔尼亚胡在会上警告哈马斯停止此类行为，并称将采取必要措施应对。报道未透露具体应对方案，但强调以方对来自加沙的空中渗透保持警惕。</description>
+    </item>
+    <item>
+      <title>美国内华达州里诺市野火致4万多居民紧急撤离</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1574600.htm</link>
+      <pubDate>Sun, 23 Aug 2026 22:43:00 +0000</pubDate>
+      <description>一场大型野火于23日快速逼近美国内华达州与加利福尼亚州邻近的里诺市。当地消防部门证实，凶猛火势已造成6人受伤，其中包含3名消防应急人员，约4.2万名居民被迫紧急撤离，另有4.5万人处于撤离警告区。消防官员表示，这场由人为因素引发的野火在约24小时内过火面积扩大至约53平方公里，火势目前处于失控状态，约有800名消防人员正在火场周边奋战。内华达州州长乔·隆巴尔多宣布里诺市所在的沃肖县进入紧急状态，并下令动员国民警卫队。目前当地约1万用户断电，多条主要公路被迫关闭。里诺-斯特德机场已关闭，暂停一般航空交通，但里诺-塔霍国际机场仍</description>
+    </item>
+    <item>
+      <title>我国电子商务1-7月稳定创新发展</title>
+      <link>https://politics.gmw.cn/2026-08/24/content_38959077.htm</link>
+      <pubDate>Mon, 24 Aug 2026 00:55:30 +0000</pubDate>
+      <description>据商务部数据，今年1至7月我国电子商务实现稳定创新发展。线上线下融合有效激发消费潜能，前七个月全国网上商品和服务零售额同比增长4.8%，对社会商品和服务零售额增长贡献率超过五成。线上渠道拓展了商品消费范围，提升了服务消费便利性，商务部重点监测的电商平台中，在线旅游和在线生活服务销售额分别增长24.9%和16.3%。电子商务同时推动产业转型升级，商务大数据监测显示，1至7月农产品和农村商品网上零售额分别增长12.8%和5%。各地积极培育电商与产业带融合模式，组织电商平台对接特色产业集聚区，工业品和化工产品产业电商交易额分别增长1.4%和1.2%。网络购物、数字内容等新业态也带动了相关服务业快速增长。整体来看，电子商务在稳增长、促消费、助转型方面发挥出重要作用。</description>
+    </item>
+    <item>
+      <title>人形机器人从花式炫技到能干活能交付加速进化</title>
+      <link>https://news.cctv.com/2026/08/24/ARTI5gs5k5dOw8cjOOaLt4Ka260824.shtml</link>
+      <pubDate>Mon, 24 Aug 2026 00:31:00 +0000</pubDate>
+      <description>第二届世界人形机器人运动会于2026年8月在北京国家速滑馆冰丝带举行，这场赛事成为观察全球人形机器人产业发展的重要窗口。运动会期间打破了多项纪录，展示了人形机器人在运动能力和技术集成方面的显著进步。赛事亮点包括足球5V5大型机器人组的比赛，其中上演了中外对决，来自中国的农大青禾队以8比3击败墨西哥的KURA PUMAS</description>
+    </item>
+    <item>
+      <title>中国队获U18男篮亚洲杯亚军</title>
+      <link>http://www.chinanews.com//ty/2026/08-24/10682870.shtml</link>
+      <pubDate>Mon, 24 Aug 2026 00:48:33 +0000</pubDate>
+      <description>中国队获U18男篮亚洲杯亚军。北京时间8月23日晚，2026年国际篮联U18男篮亚洲杯决赛在印度艾哈迈达巴德举行，中国队以79比89不敌澳大利亚队，获得亚军。这是中国队自2014年夺冠后再次闯入该项赛事决赛，也是近四届赛事的最佳成绩。澳大利亚队则实现两连冠。本届赛事中，中国队以小组头名晋级，先后击败斯里兰卡等对手</description>
+    </item>
+    <item>
+      <title>苹果iPhone Ultra外部上手体验反馈铰链大屏获好评</title>
+      <link>https://www.chinaz.com/2026/0824/1772770.shtml</link>
+      <pubDate>Mon, 24 Aug 2026 00:58:47 +0000</pubDate>
       <description />
     </item>
     <item>
-      <title>英伟达AI芯片价格将上涨超15%，数据中心成本随之激增</title>
-      <link>https://news.mydrivers.com/1/1145/1145725.htm</link>
-      <pubDate>Sun, 23 Aug 2026 09:52:39 +0000</pubDate>
-      <description>据媒体报道，受存储芯片成本飙升影响，英伟达已通知部分大客户，其搭载AI芯片的服务器价格将普遍上涨超过15%。此次调价将覆盖2027年初交付的系统，涉及旗舰级的V</description>
+      <title>SK海力士披露下一代HBM内存先进技术引入英特尔EMIB</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1574596.htm</link>
+      <pubDate>Mon, 24 Aug 2026 00:54:20 +0000</pubDate>
+      <description />
     </item>
     <item>
-      <title>阿里拟配售新股，全部投入AI建设</title>
-      <link>https://wallstreetcn.com/articles/3780075</link>
-      <pubDate>Sun, 23 Aug 2026 05:55:00 +0000</pubDate>
-      <description>阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元，这是其2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI</description>
+      <title>三星电子因股东回报计划不及预期周一开盘下挫</title>
+      <link>https://www.tmtpost.com/nictation/8113680.html</link>
+      <pubDate>Mon, 24 Aug 2026 00:46:00 +0000</pubDate>
+      <description>三星电子股价周一大幅下挫，最大跌幅达6.4%，原因是其新版股东回报方案侧重分红，令投资者失望。三星于周五公布，计划今年向投资者回报至多110万亿韩元（约合800亿美元），其中30万亿韩元拟在第三季度以现金分红形式发放，其余股东回报安排将在明年1月董事会会议上敲定。摩根大通分析师Jay Kwon指出，该计划未能带来积极惊喜，令市场失望的具体内容包括第三季度承诺的分红金额、未宣布股票回购计划，以及股东回报占累计自由现金流50%的比例维持不变。Kwon表示，目前</description>
     </item>
     <item>
-      <title>以色列否认美特使所称诱土耳其开战，绝不接受土耳其驻军叙利亚</title>
-      <link>https://news.ifeng.com/c/8voG5fv8Xa3</link>
-      <pubDate>Sun, 23 Aug 2026 06:05:37 +0000</pubDate>
-      <description>根据报道，以色列外交部长萨尔于当地时间22日表示，尽管因叙利亚问题与土耳其关系高度紧张，但以色列无意与土耳其升级冲突，并强调以方始终优先考虑外交解决方案，致力于维持现状。萨尔同时明确表示，以色列绝不接受土耳其在叙利亚建立军事基地。此前，以色列媒体称美国驻土耳其大使兼叙利亚问题</description>
+      <title>奇瑞7月出口19.9万辆居首，超丰田本田日产</title>
+      <link>https://tech.ifeng.com/c/8vqEVRQntVn</link>
+      <pubDate>Mon, 24 Aug 2026 00:02:50 +0000</pubDate>
+      <description />
     </item>
     <item>
-      <title>天工Ultra刷新机器人运动会400米纪录，机器人跳高突破人类纪录</title>
-      <link>https://tech.ifeng.com/c/8vpIE6JSxti</link>
-      <pubDate>Sun, 23 Aug 2026 08:58:00 +0000</pubDate>
-      <description>第二届世界人形机器人运动会于2026年8月22日晚在北京国家速滑馆冰丝带开幕。在田径400米大型组决赛中，天工队凭借天工Ultra机器人以38.15秒的成绩夺得本届运动会首金。此前预赛中，天工Ultra曾以39.70秒打破人类400米纪录。在昨日进行的100米大型组预赛中，天工Ultra跑出9.39秒，打破了博尔特保持的9.58秒人类百米世界纪录。去年首届运动会上，百米最好成绩仅为21.50秒，本届进步显著。
+      <title>中国今年7种高端钢材自主突破，覆盖新能源车和人形机器人等赛道</title>
+      <link>https://m.ithome.com/html/993332.htm</link>
+      <pubDate>Sun, 23 Aug 2026 23:52:39 +0000</pubDate>
+      <description>央视消息称，我国钢铁产量连续多年位居世界首位，今年已有7种高端钢材实现全新突破，面向新能源汽车、人形机器人、储能装备等新兴赛道，多款专用电工钢、高强结构钢实现批量下线。从材料配方、轧制工艺到批量生产，我国已搭建起覆盖深海装备、舰船制造、航空航天等多场景的高端钢材自主研发量产体系，实现全链条自主可控。
 
-开幕式上，天工Ultra还展示了原地跳高，跳出2.8843米的成绩，突破人类纪录，同时较去年冠军成绩95.641厘米大幅提升。天工Ultra身高180厘米，体重52公斤，能够在斜坡、楼梯、草地、碎石、沙地等多种地形稳定移动，具备视觉感知的</description>
-    </item>
-    <item>
-      <title>特斯拉获内华达州批准部署5000辆Robotaxi，并押注Cybercab</title>
-      <link>https://m.ithome.com/html/993128.htm</link>
-      <pubDate>Sat, 22 Aug 2026 23:58:18 +0000</pubDate>
-      <description>特斯拉近期在Robotaxi业务上取得两项重要进展。内华达州运输管理局批准了特斯拉的完整自动驾驶汽车网络公司运营许可证，允许该公司未来12个月内在克拉克县部署最多5000辆无人驾驶汽车，取代此前仅限拉斯维加斯大道小段区域、最多10辆的临时许可。新许可将运营范围扩大至整个克拉克县，未来还可申请覆盖内华达州更广泛地区。特斯拉表示不会立即将5000辆车全部投入运营，商业化载客服务预计未来30天内启动，但需完成车辆检查、保险备案及票价审批等标准程序。作为对比，亚马逊旗下Zoox在该州获准运营上限为100辆，特斯拉获批规模远超对手。实际部署数量将取决于FSD V15的推进速度。
-
-与此同时，特斯拉正有意放缓将Model Y改装加入Robotaxi车队的速度。摩根大通分析师参观弗里蒙特工厂后披露，特斯拉管理层对专为无人驾驶设计的Cybercab在短期内快速规模化部署充满信心，认为Cybercab采用双座、无方向盘踏板布局，更适应高频率运营，单均经济效益更好，同时可将更多Model Y留给普通消费者市场。这一调整并非战略受挫。特斯拉将FSD V15描述为性能重大飞跃，可与V13升级至V14时相提并论，引入七项核心技术，其中约40%已在Robotaxi车队测试，早期反馈令人鼓舞。现有AI计算平台和Hardware 4硬件已能运行FSD V15并支持无人监督自动驾驶。Cybercab是这一平台首款车型，未来还将扩展更多形态。摩根大通维持特斯拉475美元目标股价。</description>
-    </item>
-    <item>
-      <title>泰南三府发生爆炸纵火事件，那拉提瓦府实施宵禁</title>
-      <link>https://news.cctv.com/2026/08/23/ARTIbuesq2IP2PeaPVj59L6n260823.shtml</link>
-      <pubDate>Sun, 23 Aug 2026 02:05:37 +0000</pubDate>
-      <description>泰国南部那拉提瓦、也拉和北大年三府于8月22日晚相继发生多起爆炸、纵火等恶性事件，造成至少两人受伤。袭击手段包括纵火焚烧汽车轮胎和乡镇行政办公室、炸毁电线杆和便利店等。其中那拉提瓦府发生至少11起事件，一起汽车爆炸导致两人受伤。泰国第四军区当晚在社交媒体发布警告，称当局正在调查，提醒民众保持警惕。隶属军方的特遣部队宣布，那拉提瓦全府自22日22时15分起实施宵禁，至23日6时结束。居民如确有紧急事由需出行，须事先获得当地军警或行政人员许可。目前事件具体原因仍在调查中。</description>
-    </item>
-    <item>
-      <title>境外间谍入侵未报废旧服务器窃密，国安机关披露</title>
-      <link>https://news.ifeng.com/c/8vojYZOgHo6</link>
-      <pubDate>Sun, 23 Aug 2026 00:36:19 +0000</pubDate>
-      <description>国家安全机关近日披露多起废旧设备处理环节失泄密案件，揭示境外间谍情报机关利用涉密设备报废管理漏洞实施窃密的活动。报道指出，个别涉密岗位工作人员存在认知误区，认为设备履行常规报废程序后即可一了百了，但涉密数据未必彻底清除，若操作不当或随意变卖极易导致失泄密。
-
-案件显示三种典型风险：某单位将硬盘简单清空后变卖，翻新流入市场后被查出残留多家党政机关和高校内部文件；某单位将存有涉密</description>
-    </item>
-    <item>
-      <title>蔚来李斌称中国汽车进入最残酷决赛阶段，三五年见分晓</title>
-      <link>https://tech.ifeng.com/c/8vozrIQR9Pk</link>
-      <pubDate>Sun, 23 Aug 2026 06:04:00 +0000</pubDate>
-      <description>蔚来创始人李斌在2026年中国首席经济学家复旦管院科创论坛上表示，中国汽车行业已进入竞争最激烈的阶段，未来三五年内行业格局将基本确定。他认为今年对新能源汽车至关重要，并提出中国汽车行业正经历四个新阶段。
-
-第一，行业进入最残酷的决赛阶段。未来三五年内，最后的市场参与者将基本确定，车企能否跟上节奏、是否会掉队，近两年是关键时期。
-
-第二，纯电渗透率加速上升。今年中国车市中，只有纯电车型销量保持增长，插混、增程和纯燃油车型均出现下跌。李斌认为，这印证了他去年提出的纯电拐点论，根本原因在于纯电技术成熟度以及充换电基础设施数量已达到拐点。
-
-第三，品牌影响力开始凸显。过去消费者</description>
-    </item>
-    <item>
-      <title>英伟达60亿美元投资Poolside，对标中国开源AI</title>
-      <link>https://m.ithome.com/html/993226.htm</link>
-      <pubDate>Sun, 23 Aug 2026 08:14:13 +0000</pubDate>
-      <description>据《华尔街日报》报道，英伟达已同意向人工智能初创企业Poolside支付60亿美元（约合人民币404.58亿元），以获得其AI模型软件的非独家授权，并向该公司109名员工提供工作机会，目标是开发一款能够与DeepSeek和Kimi K3竞争的人工智能模型。此外，匿名知情人士透露，英伟达还将向Poolside追加投资10亿美元（约合人民币67.43亿元），对应Poolside的估值为120亿美元（约合人民币809.17亿元）。此次授权为非独家授权，Poolside将保持独立运营，三位创始人会继续留任。英伟达作为全球最大的AI芯片制造商，正在持续投资人工智能产业，并加速AI技术在各个行业的渗透。英伟达近期越来越重视开源AI模型，其自身开发的Nemotron系列模型性能并不突出，未能达到中国开源大模型DS V4、Kimi K3的顶尖水平。对英</description>
-    </item>
-    <item>
-      <title>伊朗首次公开地下军工生产线</title>
-      <link>https://3g.china.com/act/news/10000169/20260823/49692956.html</link>
-      <pubDate>Sun, 23 Aug 2026 04:42:28 +0000</pubDate>
-      <description>在8月22日伊朗国防工业日当天，伊朗武装部队总参谋长阿卜杜拉希和国防部代理部长等官员突击视察了地下军工生产设施。这是伊朗媒体首次公开地下军工生产线的画面。这些地下设施是伊朗数十条地下国防工业生产线的一部分，负责导弹、无人机以及其他军事装备的部分生产工作。伊军表示，过去一年里，国防工业在生产速度、数量和装备性能方面都有显著提升，特别是攻击型无人机的产量，较40天战争初期增加了3倍。目前，伊朗国防工业能够生产超过1000种军事系统、武器和弹药。此外，伊朗已成为全球十大导弹力量保有国之一，并成为世界主要无人机力量之一。</description>
-    </item>
-    <item>
-      <title>Anthropic巴拿马计划曝光，数百万旧书被切脊用于AI训练</title>
-      <link>https://tech.ifeng.com/c/8von7q0Ahmr</link>
-      <pubDate>Sun, 23 Aug 2026 06:02:00 +0000</pubDate>
-      <description>Anthropic公司代号为“巴拿马计划”的项目近日被曝光，该项目旨在通过大规模采购并销毁纸质书籍，将其内容用于训练下一代AI模型。2024年4月，Anthropic内部文件提及该代号，2026年1月，法院解封了超过四千页的诉讼文件，使计划细节得以公开。
-
-报道显示，Anthropic早期曾通过下载盗版电子书库获取了超过七百万份资料，此后转为大规模购买实体旧书。2024年2</description>
-    </item>
-    <item>
-      <title>部分美国人工智能公司下调大模型使用价格</title>
-      <link>https://news.ifeng.com/c/8voJI9HX727</link>
-      <pubDate>Sat, 22 Aug 2026 21:45:59 +0000</pubDate>
-      <description>近日，多家美国人工智能公司下调大模型使用价格，全球AI大模型领域价格竞争持续升温。美国开放人工智能研究中心OpenAI于21日宣布，即日起将面向开发者</description>
-    </item>
-    <item>
-      <title>DeepSeek再次调整大模型API价格</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1164578&amp;sid=21</link>
-      <pubDate>Sun, 23 Aug 2026 04:54:00 +0000</pubDate>
-      <description>DeepSeek API开放平台宣布自8月23日00：00起优化峰谷计费规则，调整后北京时间周六及周日全天不再区分峰谷时段，统一按低谷时段价格计费，新规则生效前产生的费用仍按原标准结算。此前，DeepSeek V4全系列模型正式版上线后，该平台自8月17日00：00起全面上调API价格并执行峰谷定价，闲时价格为高峰时段的一半，高峰时段百万Tokens输出最高价格达27元。高峰时段为北京时间工作日9：00至12：00、14：00至18：00，其余时间均为空闲时段。此次调整是继全面涨价后对计费规则的进一步优化，旨在简化周末计费方式。</description>
+具体突破包括：蝉翼钢厚度仅0.07毫米，具备高强度和高延展性，达到全球精制钢顶级水平，已应用于集成电路基板、5G基站信号接收器、手机精密弹片、新能源电池连接片等</description>
     </item>
   </channel>
 </rss>
