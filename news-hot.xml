@@ -5,19 +5,34 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>中国救援队111名消防救援指战员赴西藏吉隆灾害现场增援</title>
-      <link>http://www.chinanews.com//sh/2026/08-27/10684896.shtml</link>
-      <pubDate>Wed, 26 Aug 2026 22:01:00 +0000</pubDate>
+      <title>西藏吉隆县遭受泥石流灾害 造成重大人员伤亡失联</title>
+      <link>https://photos.caixin.com/2026-08-26/102478231.html</link>
+      <pubDate>Wed, 26 Aug 2026 10:51:23 +0000</pubDate>
     </item>
     <item>
-      <title>西藏吉隆泥石流灾害已造成3人遇难，265人失联</title>
-      <link>https://www.bjnews.com.cn/detail-1787786751129530.html</link>
-      <pubDate>Wed, 26 Aug 2026 23:54:10 +0000</pubDate>
+      <title>西藏日喀则市吉隆县遭受泥石流灾害 金融监管总局启动保险业二级救灾应急响应</title>
+      <link>https://news.cctv.com/2026/08/27/ARTIl1MNUppLmBJZ0GYuFcS9260827.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 01:46:59 +0000</pubDate>
     </item>
     <item>
-      <title>星宇股份就批量劝退应届生致歉：将向 107 位同学发放求职生活补贴，被曝安排硕士打螺丝</title>
-      <link>https://m.ithome.com/html/994810.htm</link>
-      <pubDate>Thu, 27 Aug 2026 00:36:47 +0000</pubDate>
+      <title>江西省长叶建春被查</title>
+      <link>https://news.ifeng.com/c/8vvtAMIGgV8</link>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>尼泊尔警方说山洪死亡人数上升至359人</title>
+      <link>https://www.news.cn/world/20260827/08ea3afe25d44f2bbac2b48dc71a7243/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达洽谈超130亿美元收购 Hugging Face</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipthnz5522381.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 00:43:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>机器人运动会奖牌榜出炉， 捂脸跑的天工机器人第一</title>
+      <link>https://news.mydrivers.com/1/1146/1146674.htm</link>
+      <pubDate>Wed, 26 Aug 2026 23:48:00 +0000</pubDate>
     </item>
     <item>
       <title>前7个月全国规模以上工业企业利润增长17.6%</title>
@@ -25,9 +40,19 @@
       <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>尼泊尔北部山洪暴发已致多人死亡与失踪</title>
-      <link>http://www.chinanews.com//gj/2026/08-27/10684902.shtml</link>
-      <pubDate>Wed, 26 Aug 2026 23:01:00 +0000</pubDate>
+      <title>星宇股份就批量劝退应届生致歉：将向 107 位同学发放求职生活补贴，被曝安排硕士打螺丝</title>
+      <link>https://m.ithome.com/html/994810.htm</link>
+      <pubDate>Thu, 27 Aug 2026 00:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>尼泊尔与中国边境山洪暴发，逾千人失踪</title>
+      <link>https://cn.nytimes.com/asia-pacific/20260827/nepal-floods-tibet-missing/zh-hant/?utm_source=RSS</link>
+      <pubDate>Wed, 26 Aug 2026 17:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>中芯国际：2026年上半年净利润44.67亿元，同比增长94.2%</title>
+      <link>https://www.tmtpost.com/nictation/8119264.html</link>
+      <pubDate>Thu, 27 Aug 2026 10:04:00 +0000</pubDate>
     </item>
     <item>
       <title>充电桩也有身份证了 电车充电桩强制3C认证落地</title>
@@ -35,14 +60,14 @@
       <pubDate>Wed, 26 Aug 2026 22:00:44 +0000</pubDate>
     </item>
     <item>
+      <title>OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告</title>
+      <link>https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml</link>
+      <pubDate>Wed, 26 Aug 2026 22:03:43 +0000</pubDate>
+    </item>
+    <item>
       <title>特朗普：对于伊朗何时重返谈判没有时间表</title>
       <link>https://www.news.cn/world/20260827/734981a2cd1e4933b374653110cfd796/c.html</link>
       <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>西藏吉隆县遭受泥石流灾害 造成重大人员伤亡失联</title>
-      <link>https://photos.caixin.com/2026-08-26/102478231.html</link>
-      <pubDate>Wed, 26 Aug 2026 10:51:23 +0000</pubDate>
     </item>
     <item>
       <title>冲刺IPO之际 Anthropic据悉豪掷450亿美元锁定AI算力</title>
@@ -50,14 +75,64 @@
       <pubDate>Wed, 26 Aug 2026 22:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>泥石流灾害造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联 各方加紧抢险救援</title>
-      <link>http://www.chinanews.com//gn/2026/08-27/10685009.shtml</link>
-      <pubDate>Thu, 27 Aug 2026 02:09:00 +0000</pubDate>
+      <title>尼泊尔北部山洪遇难人数升至289人</title>
+      <link>https://www.huanqiu.com/article/4Sy2Cp3V7v2</link>
+      <pubDate>Thu, 27 Aug 2026 10:29:29 +0000</pubDate>
     </item>
     <item>
-      <title>西藏日喀则市吉隆县遭受泥石流灾害 金融监管总局启动保险业二级救灾应急响应</title>
-      <link>https://news.cctv.com/2026/08/27/ARTIl1MNUppLmBJZ0GYuFcS9260827.shtml</link>
-      <pubDate>Thu, 27 Aug 2026 01:46:59 +0000</pubDate>
+      <title>湖南涟源杨梅山煤矿事故搜救结束 6名责任人被采取刑事强制措施</title>
+      <link>http://www.chinanews.com//sh/2026/08-27/10685365.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国政府调查Apex Logistics涉嫌向中国转运英伟达AI芯片</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1575204.htm</link>
+      <pubDate>Thu, 27 Aug 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>沙德尔逼近浙江沿海 直击温州防台风一线</title>
+      <link>http://www.chinanews.com//sh/2026/08-27/10685411.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 11:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国国防部：靖国神社是名副其实的战犯神社</title>
+      <link>http://www.chinanews.com//gn/2026/08-27/10685463.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 12:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>平陆运河完成枢纽工程有水联调 通航参数全面达标</title>
+      <link>https://news.cctv.com/2026/08/27/ARTIp9h5buUX2ofg3DZsGCS9260827.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 01:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>水利部针对西藏启动洪水防御Ⅳ级应急响应</title>
+      <link>https://www.bjnews.com.cn/detail-1787827466129079.html</link>
+      <pubDate>Thu, 27 Aug 2026 12:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>美媒：美中情局长突访意在警告俄勿攻击北约</title>
+      <link>https://www.news.cn/world/20260827/021a7d419a97436495726da5f50a105c/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>工业和信息化部紧急组织西藏吉隆抢险救灾应急通信保障</title>
+      <link>https://www.bjnews.com.cn/detail-1787798164129631.html</link>
+      <pubDate>Thu, 27 Aug 2026 02:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>小米公益基金会投入 1000 万元备灾资金，用于支持西藏吉隆等灾区的紧急援助</title>
+      <link>https://m.ithome.com/html/994801.htm</link>
+      <pubDate>Wed, 26 Aug 2026 23:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>神秘牛来模型果然是智谱，GLM首个原生多模态，还用的国产卡</title>
+      <link>https://www.qbitai.com/2026/08/479919.html</link>
+      <pubDate>Wed, 26 Aug 2026 17:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>扶老人反被讹事件老人家属退还1.9万元索赔款，罗永浩：结果很好</title>
+      <link>https://tech.ifeng.com/c/8vvZmOmkGX1</link>
+      <pubDate>Thu, 27 Aug 2026 03:34:59 +0000</pubDate>
     </item>
     <item>
       <title>中国红十字会总会紧急向西藏日喀则调拨救灾物资</title>
@@ -85,19 +160,74 @@
       <pubDate>Wed, 26 Aug 2026 22:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>小米投入1000万元资金：支持西藏吉隆等灾区紧急援助</title>
+      <link>https://news.mydrivers.com/1/1146/1146671.htm</link>
+      <pubDate>Wed, 26 Aug 2026 23:38:00 +0000</pubDate>
+    </item>
+    <item>
       <title>全球首个量子电池原型问世，体积越大充电速度反而越快</title>
       <link>https://m.ithome.com/html/994815.htm</link>
       <pubDate>Thu, 27 Aug 2026 00:53:01 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告</title>
-      <link>https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml</link>
-      <pubDate>Wed, 26 Aug 2026 22:03:43 +0000</pubDate>
+      <title>世卫专家：刚果（金）埃博拉疫情尚未现拐点</title>
+      <link>https://www.news.cn/world/20260827/613b84912e3e4570a4dfb21595e41a4b/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达洽谈超130亿美元收购 Hugging Face</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipthnz5522381.shtml</link>
-      <pubDate>Thu, 27 Aug 2026 00:43:47 +0000</pubDate>
+      <title>希腊一周内发生9起西尼罗病毒致死病例</title>
+      <link>https://news.cctv.com/2026/08/27/ARTIRfNSJXCiM8LM2Zs69u08260827.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 09:45:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本艺术家草间弥生去世</title>
+      <link>https://news.ifeng.com/c/8vvUABNmQum</link>
+      <pubDate>Thu, 27 Aug 2026 02:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国防部：菲方应尽快拖走非法坐滩的57号舰</title>
+      <link>https://news.ifeng.com/c/8vvwK6WI7qx</link>
+      <pubDate>Thu, 27 Aug 2026 07:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>翼龙无人机驰援吉隆口岸，将执行灾情勘察和通信保障</title>
+      <link>https://tech.ifeng.com/c/8vvEItca3tu</link>
+      <pubDate>Wed, 26 Aug 2026 22:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>平陆运河货轮实船适航试验顺利完成</title>
+      <link>http://news.china.com.cn/2026-08/27/content_118666084.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 00:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>元宇宙愿支付最高170亿美元和解社交媒体成瘾诉讼</title>
+      <link>https://www.news.cn/world/20260827/faac3a74cd79414f918771fde237fc64/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外交部：尼泊尔一侧受灾地区失联中国公民近百人</title>
+      <link>https://news.cctv.com/2026/08/27/ARTI6iYrzIOMNKLRKGihsS2q260827.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 07:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国司法部拟重启捕获法庭以便扣押伊朗油轮</title>
+      <link>https://www.news.cn/world/20260827/d493e097599d479abdc62365a8a1c6f4/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>商务部：中瑞自贸协定升级后 双方零关税进口占比均将超过99%</title>
+      <link>https://www.huanqiu.com/article/4SxxAmUt9ST</link>
+      <pubDate>Thu, 27 Aug 2026 08:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>数智时代，快递业质效再跃升</title>
+      <link>http://www.chinanews.com//cj/2026/08-27/10685033.shtml</link>
+      <pubDate>Thu, 27 Aug 2026 02:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9·11恐怖袭击主谋庭审时间推迟至2028年</title>
+      <link>https://www.news.cn/world/20260827/a191b8b7070e40928007655c84db02dc/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>伊朗外交部：美国对伊政策是闹剧</title>
@@ -120,9 +250,9 @@
       <pubDate>Thu, 27 Aug 2026 02:47:54 +0000</pubDate>
     </item>
     <item>
-      <title>神秘牛来模型果然是智谱，GLM首个原生多模态，还用的国产卡</title>
-      <link>https://www.qbitai.com/2026/08/479919.html</link>
-      <pubDate>Wed, 26 Aug 2026 17:05:33 +0000</pubDate>
+      <title>两千多的Mac mini没买 现在新款涨到7000了</title>
+      <link>https://news.mydrivers.com/1/1146/1146655.htm</link>
+      <pubDate>Wed, 26 Aug 2026 16:20:00 +0000</pubDate>
     </item>
     <item>
       <title>英伟达推出 NVHBM 定制高带宽内存：相比 HBM4e 带宽提升 30%、功耗降低 15%</title>
@@ -130,14 +260,14 @@
       <pubDate>Thu, 27 Aug 2026 00:07:15 +0000</pubDate>
     </item>
     <item>
-      <title>小米投入1000万元资金：支持西藏吉隆等灾区紧急援助</title>
-      <link>https://news.mydrivers.com/1/1146/1146671.htm</link>
-      <pubDate>Wed, 26 Aug 2026 23:38:00 +0000</pubDate>
+      <title>伊消息人士：仍在与阿曼磋商霍尔木兹海峡协议细节</title>
+      <link>https://www.news.cn/world/20260827/79c032efb2744788a859eb26a48303ab/c.html</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米公益基金会投入 1000 万元备灾资金，用于支持西藏吉隆等灾区的紧急援助</title>
-      <link>https://m.ithome.com/html/994801.htm</link>
-      <pubDate>Wed, 26 Aug 2026 23:45:19 +0000</pubDate>
+      <title>米哈游旗下恋爱手游《未定事件簿》宣布停止与德芙联名合作</title>
+      <link>https://m.ithome.com/html/994963.htm</link>
+      <pubDate>Thu, 27 Aug 2026 05:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
