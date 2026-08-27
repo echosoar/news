@@ -1,7 +1,19 @@
 {
   "tag": "Vera Rubin",
-  "generated_at": "2026-08-25T05:53:34Z",
+  "generated_at": "2026-08-27T13:03:28Z",
   "summary": [
+    {
+      "title": "Anthropic豪掷450亿美元租用Nscale算力 2027年底启用英伟达Vera Rubin芯片",
+      "tags": [
+        "Anthropic",
+        "AI算力",
+        "Nscale",
+        "英伟达",
+        "Vera Rubin"
+      ],
+      "summary": "Anthropic与英国AI基础设施公司Nscale达成协议，租用价值约450亿美元（约合3031.66亿元人民币）的AI算力，预计从2027年底开始投入使用。这批算力将采用英伟达最新的Vera Rubin芯片系统，由Nscale位于美国西弗吉尼亚州的数据中心提供，合作期限长达6年。这是Anthropic近期为追赶OpenAI而大规模扩充算力的最新举措，此前其已与Volta、AMD、SpaceX、亚马逊等达成多项算力合作。",
+      "date": "2026-08-27"
+    },
     {
       "title": "英伟达宣布Groq 3 LPX投产，Vera Rubin推理效率提升数倍",
       "tags": [
