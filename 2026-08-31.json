@@ -1,0 +1,873 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-30T16:25:40Z",
+  "summary": [
+    {
+      "title": "西藏吉隆泥石流灾害原因查明：系尼泊尔冰川断裂引发冰岩崩",
+      "tags": [
+        "西藏泥石流",
+        "冰川消融",
+        "吉隆灾害",
+        "全球变暖",
+        "冰岩崩"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4T09kvwD6F5",
+          "title": "全球变暖加剧冰川消融 专家解析西藏吉隆泥石流灾害主因",
+          "origin": "环球网",
+          "time": 1788047472
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0AoZt2bzm",
+          "title": "西藏吉隆泥石流灾害排查出261名失联外籍人员",
+          "origin": "环球网",
+          "time": 1788049250
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0C0JQQ7hP",
+          "title": "西藏吉隆泥石流搜救尚未再发现幸存者",
+          "origin": "环球网",
+          "time": 1788051247
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1168341&sid=21",
+          "title": "吉隆泥石流搜救尚未再发现幸存者",
+          "origin": "上观",
+          "time": 1788051049
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572061.html",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "科技日报",
+          "time": 1788049895
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0B7EOyIhs",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "环球网",
+          "time": 1788049756
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686621.shtml",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "中新网",
+          "time": 1788049680
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0LZLlTJbw",
+          "title": "吉隆泥石流搜救尚未再发现幸存者",
+          "origin": "凤凰网",
+          "time": 1788050820
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788050682129590.html",
+          "title": "西藏吉隆泥石流灾害搜救尚未再发现幸存者",
+          "origin": "新京报",
+          "time": 1788050727
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788049605129587.html",
+          "title": "西藏吉隆泥石流灾害原因现已查明",
+          "origin": "新京报",
+          "time": 1788049625
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788049138129583.html",
+          "title": "西藏吉隆泥石流灾害已投入救援力量2141人",
+          "origin": "新京报",
+          "time": 1788049171
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTI9H93IlrqIq3O2lsb49tD260830.shtml",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "CCTV",
+          "time": 1788056932
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0LKYvOmGz",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "凤凰网",
+          "time": 1788050280
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/08-30/1202611.shtml",
+          "title": "西藏吉隆8·26泥石流灾害原因现已查明",
+          "origin": "中新网",
+          "time": 1788059400
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686679.shtml",
+          "title": "全球变暖加剧冰川消融 专家解析西藏吉隆泥石流灾害主因",
+          "origin": "中新网",
+          "time": 1788056820
+        },
+        {
+          "link": "http://www.chinanews.com//gn/shipin/2026/08-30/news1067037.shtml",
+          "title": "令人痛心，西藏吉隆泥石流搜救尚未再发现幸存者，目前救援仍在进行中，愿平安",
+          "origin": "中新网",
+          "time": 1788055380
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686695.shtml",
+          "title": "专家：西藏吉隆泥石流灾害是气候变暖长期作用下冰川失稳所致",
+          "origin": "中新网",
+          "time": 1788059700
+        },
+        {
+          "link": "http://news.china.com.cn/2026-08/30/content_118670668.shtml",
+          "title": "西藏泥石流灾害原因现已查明",
+          "origin": "中国网",
+          "time": 1788083730
+        },
+        {
+          "link": "https://3g.china.com/act/news/1007/20260830/49708015.html",
+          "title": "专家：西藏吉隆泥石流灾害主因 全球变暖冰川消融",
+          "origin": "中国网",
+          "time": 1788076969
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0HbYCVBOT",
+          "title": "西藏吉隆泥石流灾害系气候变暖长期作用致冰川失稳",
+          "origin": "环球网",
+          "time": 1788060652
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-08/30/content_38974026.htm",
+          "title": "西藏吉隆泥石流灾害系气候变暖长期作用致冰川失稳",
+          "origin": "光明网",
+          "time": 1788083731
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-08/30/content_38973820.htm",
+          "title": "吉隆泥石流灾害原因查明",
+          "origin": "光明网",
+          "time": 1788083731
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686825.shtml",
+          "title": "西藏吉隆泥石流灾害系气候变暖长期作用致冰川失稳",
+          "origin": "中新网",
+          "time": 1788078300
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686757.shtml",
+          "title": "西藏吉隆泥石流灾害 投入各方救援力量2141人",
+          "origin": "中新网",
+          "time": 1788069240
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1147/1147382.htm",
+          "title": "多车企捐赠驰援西藏吉隆灾区，小米、比亚迪捐款1000万元",
+          "origin": "快科技",
+          "time": 1788069720
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260830/49707863.html",
+          "title": "吉隆泥石流俯冲速度堪比高铁 专家解析成因与风险",
+          "origin": "中国网",
+          "time": 1788062243
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1168557&sid=1",
+          "title": "上海市慈善基金会启动\"驰援西藏吉隆泥石流救灾\"专项行动",
+          "origin": "上观",
+          "time": 1788092599
+        },
+        {
+          "link": "https://www.jiemian.com/article/15013833.html",
+          "title": "西藏吉隆泥石流由尼泊尔境内冰川崩塌引发，破坏力强大有三方面原因",
+          "origin": "界面新闻",
+          "time": 1788094247
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788087802129818.html",
+          "title": "吉隆泥石流灾害区域风险隐患排查启动 已判定8处地质灾害高风险点",
+          "origin": "新京报",
+          "time": 1788087897
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w13xnfqOkt",
+          "title": "吉隆泥石流痕迹有20层楼高",
+          "origin": "凤凰网",
+          "time": 1788086520
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/08/30/d60703074d6541a8b8714e2058ca31b6.html",
+          "title": "自然资源部：全面启动吉隆泥石流灾害区域风险隐患排查",
+          "origin": "花城",
+          "time": 1788088260
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260830/49708254.html",
+          "title": "西藏吉隆泥石流痕迹近20层楼高 救援持续进行中",
+          "origin": "中国网",
+          "time": 1788100588
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788095452129864.html",
+          "title": "西藏网警公布涉吉隆泥石流灾害网络谣言典型案例 多人被处罚",
+          "origin": "新京报",
+          "time": 1788096843
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0YernT42x",
+          "title": "自然资源部：全面启动吉隆泥石流灾害区域风险隐患排查",
+          "origin": "环球网",
+          "time": 1788089289
+        }
+      ],
+      "summary": "西藏日喀则吉隆口岸泥石流灾害原因现已查明。据专家分析，此次灾害系尼泊尔境内一条冰川断裂发生冰岩崩所致，全球变暖加剧冰川消融是主要诱因。中国科学院专家指出，喜马拉雅山地区灾害具有跨国界性，尼泊尔境内事件影响我国，需要两国共享信息、共同监测应对。目前，搜救工作仍在进行，已排查出261名失联外籍人员，尚未再发现幸存者。此外，西藏网警已公布多起涉灾谣言典型案例，对编造死亡人数等虚假信息的网民依法处罚。"
+    },
+    {
+      "title": "尼泊尔泥石流灾害已致781人死亡 2502人失联",
+      "tags": [
+        "尼泊尔",
+        "泥石流",
+        "灾害",
+        "死亡",
+        "失联"
+      ],
+      "links": [
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1168399&sid=21",
+          "title": "尼泊尔泥石流灾害已致734人死亡，2498人失联",
+          "origin": "上观",
+          "time": 1788063455
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0Z2LRoGZP",
+          "title": "尼泊尔泥石流灾害已致734人死亡、2498人失联",
+          "origin": "凤凰网",
+          "time": 1788063120
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/30/AP6a93b1e6e4b0c1e50026cb23.html",
+          "title": "尼泊尔泥石流灾害已致734人死亡　2498人失联",
+          "origin": "文汇网",
+          "time": 1788064290
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-30/10686726.shtml",
+          "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
+          "origin": "中新网",
+          "time": 1788063720
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-30/10686725.shtml",
+          "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
+          "origin": "中新网",
+          "time": 1788063060
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqakfv5053857.shtml",
+          "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
+          "origin": "新浪新闻",
+          "time": 1788063085
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0J1odWfjZ",
+          "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
+          "origin": "环球网",
+          "time": 1788063043
+        },
+        {
+          "link": "https://www.news.cn/world/20260830/b471124d6bed43b4bcb3cb1c7b9bac9f/c.html",
+          "title": "尼泊尔泥石流已致734人死亡 2498人失联",
+          "origin": "新华网",
+          "time": 1788019200
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-30/10686852.shtml",
+          "title": "尼泊尔泥石流灾害已致752人死亡2502人失联",
+          "origin": "中新网",
+          "time": 1788085500
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/08/30/718db48307ef4fd081dfe6264f91d3b3.html",
+          "title": "尼泊尔泥石流已致752人遇难，2502人失联",
+          "origin": "花城",
+          "time": 1788080160
+        },
+        {
+          "link": "https://www.news.cn/world/20260830/3f1e1f20dfbc488cb360db52539a8d05/c.html",
+          "title": "尼泊尔泥石流已致781人死亡  2502人失联",
+          "origin": "新华网",
+          "time": 1788019200
+        }
+      ],
+      "summary": "尼泊尔国家减少灾害风险管理局30日在社交媒体上发文说，截至当地时间当天18时，该国泥石流受灾地区已发现781具遇难者遗体，另有2502人失联。"
+    },
+    {
+      "title": "西藏吉隆口岸通信信号抢通",
+      "tags": [
+        "通信抢通",
+        "吉隆口岸",
+        "泥石流灾害",
+        "救援保障",
+        "电力保障"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686719.shtml",
+          "title": "电力部门全力保障西藏吉隆损毁路段抢通作业夜间照明",
+          "origin": "中新网",
+          "time": 1788065940
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788046600129571.html",
+          "title": "西藏日报：吉隆口岸小邬警官，确认平安",
+          "origin": "新京报",
+          "time": 1788046850
+        },
+        {
+          "link": "https://news.ifeng.com/c/8vzy0JL4oMv",
+          "title": "西藏吉隆口岸大楼只剩钢筋骨架",
+          "origin": "凤凰网",
+          "time": 1788027480
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T09Xa3nlqD",
+          "title": "吉隆口岸小邬警官，确认平安",
+          "origin": "环球网",
+          "time": 1788047111
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTIzGaQSJOerA0tcFKGG9Vm260830.shtml",
+          "title": "多路救援力量挺进吉隆口岸",
+          "origin": "CCTV",
+          "time": 1788056056
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686907.shtml",
+          "title": "西藏吉隆口岸通信信号抢通",
+          "origin": "中新网",
+          "time": 1788089940
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788089902129841.html",
+          "title": "西藏吉隆口岸通信信号抢通",
+          "origin": "新京报",
+          "time": 1788089949
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/08/30/eec824a04bb94ac19305e3dc9b73f794.html",
+          "title": "西藏吉隆口岸通信信号抢通",
+          "origin": "花城",
+          "time": 1788089880
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqazcm2647646.shtml",
+          "title": "西藏吉隆口岸通信信号抢通",
+          "origin": "新浪新闻",
+          "time": 1788090869
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686956.shtml",
+          "title": "西藏吉隆口岸通信信号抢通 信号可送达核心救援现场",
+          "origin": "中新网",
+          "time": 1788100200
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0fVPcnIEx",
+          "title": "西藏吉隆口岸通信信号抢通 信号可送达核心救援现场",
+          "origin": "环球网",
+          "time": 1788100788
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0Z5mcEO98",
+          "title": "西藏吉隆口岸通信信号抢通",
+          "origin": "环球网",
+          "time": 1788090018
+        }
+      ],
+      "summary": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。8月29日，按照前方指挥部统一部署，国网西藏电力迅速响应，组织力量安装应急变压器，将稳定市电延伸至消防应急前方指挥部和通信基站，并调配照明装备全力保障道路抢通作业夜间照明。8月30日18时，西藏自治区通信管理局局长尼玛多吉表示，通过道路抢修最前端新建的基站，已与在口岸的救援队员完成通话，信号已经能够送达核心救援现场，吉隆口岸通信信号成功抢通。"
+    },
+    {
+      "title": "苹果首款AI眼镜预计2027年发布，无显示屏主打语音交互",
+      "tags": [
+        "苹果",
+        "AI眼镜",
+        "智能眼镜",
+        "Siri",
+        "WWDC27"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/996053.htm",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "origin": "IT之家",
+          "time": 1788043477
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1147/1147401.htm",
+          "title": "苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri",
+          "origin": "快科技",
+          "time": 1788082680
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1147/1147356.htm",
+          "title": "苹果首款AI眼镜细节曝光，无屏设计 2027年发布",
+          "origin": "快科技",
+          "time": 1788045000
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8w0AVdjofMn",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏",
+          "origin": "凤凰科技",
+          "time": 1788043562
+        }
+      ],
+      "summary": "据科技媒体9to5Mac报道，苹果计划最早于2027年推出其首款AI智能眼镜，可能在该年6月的WWDC27上向开发者公布，并于同年晚些时候发售。该产品并非增强现实（AR）眼镜，不带显示系统，而是配备摄像头，用于获取环境信息，用户可通过Siri提问、获取情境信息、翻译现实中的标识文字，并支持记录物体与音频播放。外观方面，苹果正在开发4种镜框方案，包括大矩形、纤细矩形、大椭圆/圆形和小椭圆/圆形，材料或采用醋酸纤维，提供黑色、海洋蓝和浅棕色三种颜色。"
+    },
+    {
+      "title": "西藏吉隆泥石流灾害已致16人遇难546人失联",
+      "tags": [
+        "西藏吉隆",
+        "泥石流灾害",
+        "遇难失联",
+        "救援",
+        "堰塞湖"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572060.html",
+          "title": "西藏吉隆泥石流灾害已致16人遇难  546人失联",
+          "origin": "科技日报",
+          "time": 1788049614
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTI2BZR40izBv0O79qYyvsE260830.shtml",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "origin": "CCTV",
+          "time": 1788049611
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0AZJDYrRy",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "origin": "环球网",
+          "time": 1788048837
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686625.shtml",
+          "title": "西藏吉隆泥石流灾害造成16人遇难 546人失联",
+          "origin": "中新网",
+          "time": 1788051600
+        },
+        {
+          "link": "http://www.chinanews.com//gn/shipin/2026/08-30/news1067028.shtml",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "origin": "中新网",
+          "time": 1788050700
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-30/10686615.shtml",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "origin": "中新网",
+          "time": 1788048900
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0Is1nCxhb",
+          "title": "西藏吉隆泥石流灾害已致16人遇难，546人失联",
+          "origin": "凤凰网",
+          "time": 1788048840
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686741.shtml",
+          "title": "西藏吉隆泥石流灾害造成16人遇难 546人失联",
+          "origin": "中新网",
+          "time": 1788065820
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8121878.html",
+          "title": "西藏吉隆泥石流灾害已致16人遇难546人失联",
+          "origin": "钛媒体",
+          "time": 1788052200
+        },
+        {
+          "link": "http://news.china.com.cn/2026-08/30/content_118670669.shtml",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "origin": "中国网",
+          "time": 1788083730
+        },
+        {
+          "link": "https://kite.kagi.com/china/20260830110/西藏吉隆泥石流造成16人死亡546人失联",
+          "title": "西藏吉隆泥石流造成16人死亡、546人失联",
+          "origin": "kagi",
+          "time": 1788020457
+        }
+      ],
+      "summary": "8月30日，西藏吉隆举行“8·26”泥石流灾害新闻发布会。截至8月29日18时，灾害已造成16人遇难、546人失联，失联人员中有261名外籍人员来自23个国家。经科学研判，灾害源于尼泊尔境内冰川断裂引发冰岩崩，形成巨型泥石流下泄约22公里冲击吉隆口岸，从冰岩崩到冲击口岸仅6至7分钟。西藏已动员2141名救援人员、269辆救援车辆和3922套装备投入搜救，并因新堰塞湖风险转移了部分救援人员。"
+    },
+    {
+      "title": "厦门通报消杀公司违规使用敌敌畏：6人被刑拘",
+      "tags": [
+        "厦门",
+        "敌敌畏",
+        "消杀违规",
+        "刑事拘留",
+        "食品安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTITYn15eRzKIv8fwJoU6zW260830.shtml",
+          "title": "厦门通报消杀公司违规使用敌敌畏为餐饮门店消杀事件：6人被刑拘",
+          "origin": "CCTV",
+          "time": 1788083078
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686844.shtml",
+          "title": "厦门市联合调查组通报使用敌敌畏为餐饮门店消杀：6人被刑拘",
+          "origin": "中新网",
+          "time": 1788081180
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788080567129769.html",
+          "title": "厦门市联合调查组通报使用敌敌畏为餐饮门店消杀：6人被刑拘",
+          "origin": "新京报",
+          "time": 1788080626
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1168496&sid=21",
+          "title": "厦门通报使用敌敌畏为餐饮门店消杀问题：6人被刑拘",
+          "origin": "上观",
+          "time": 1788081254
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686868.shtml",
+          "title": "厦门通报使用敌敌畏为餐饮门店消杀问题：刑拘6人",
+          "origin": "中新网",
+          "time": 1788086640
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/08/30/9c536a75db8941e4b05d37ac5622ec3d.html",
+          "title": "厦门通报用敌敌畏为餐饮门店消杀：6人被刑拘",
+          "origin": "花城",
+          "time": 1788081060
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260830/49708099.html",
+          "title": "敌敌畏消杀事件6人被刑拘 性质恶劣引发严查",
+          "origin": "中国网",
+          "time": 1788081643
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0vKpk67m1",
+          "title": "厦门通报敌敌畏消杀事件：6人被刑拘",
+          "origin": "凤凰网",
+          "time": 1788080700
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqauvr5023552.shtml",
+          "title": "厦门通报敌敌畏消杀事件：6人被刑拘",
+          "origin": "新浪新闻",
+          "time": 1788082417
+        }
+      ],
+      "summary": "近日，针对媒体报道的厦门绿林森环境科技有限公司使用敌敌畏为餐饮门店消杀问题，厦门市成立联合调查组展开调查。经查，该公司相关行为涉嫌违法违规，性质十分恶劣。公安机关已对法定代表人庄某臣、股东曾某鸣、业务培训主管李某等6名犯罪嫌疑人依法刑事拘留，案件正在进一步侦办中。经全面排查该公司提供消杀服务的经营主体，并委托具有检验检测资质的机构对场所环境、餐厨用具等进行检测，结果显示相关指标符合安全标准。厦门市表示将深刻汲取教训，举一反三、完善制度，严防类似事件再次发生，并感谢社会各界的关心和监督。"
+    },
+    {
+      "title": "把“投资于人”落到实处",
+      "tags": [
+        "投资于人",
+        "人才工作",
+        "人力资本",
+        "评价机制",
+        "终身学习"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//ll/2026/08-30/10686687.shtml",
+          "title": "把投资于人落到实处",
+          "origin": "中新网",
+          "time": 1788058380
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0HRONaLAQ",
+          "title": "把投资于人落到实处",
+          "origin": "环球网",
+          "time": 1788060377
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTIpTstirHLwOlAbAX5WzCe260830.shtml",
+          "title": "把投资于人落到实处",
+          "origin": "CCTV",
+          "time": 1788093736
+        }
+      ],
+      "summary": "“十五五”规划纲要提出坚持惠民生和促消费、投资于物和投资于人紧密结合。文章指出，“投资于人”就是把更多资金资源投向人的全面发展，形成可持续增值的人力资本。当前一些地方人才工作仍沿用“投资于物”的老思路，存在投入分散、考核短视、服务窄化等问题。为此，需从三方面落实：凝聚多元主体合力，构建政府引领、企业投入的格局，建立跨部门协调机制，引导企业以“耐心资本”长期投入；优化评价机制，对高风险科研项目容错备案，对青年人才实行长周期评价，建立人才投资绩效追踪机制；夯实支撑保障体系，推动人才服务从“保少数”转向“惠多数”，建立全国统一个人技能账户与学习积分制度，保障人才职业连续性与终身学习。文章强调，只有完善人才投入、评价、保障机制，才能将人才优势转化为创新优势，为中国式现代化提供人才支撑。"
+    },
+    {
+      "title": "我国成功实现地月双向高速激光通信重大突破",
+      "tags": [
+        "激光通信",
+        "地月通信",
+        "深空探测",
+        "科技突破",
+        "8K传输"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-30/10686784.shtml",
+          "title": "12秒传完8K月照，我国地月双向高速激光通信实现重大突破",
+          "origin": "中新网",
+          "time": 1788070920
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqaqpt5016267.shtml",
+          "title": "12秒传完8K月照，我国地月双向高速激光通信实现重大突破",
+          "origin": "新浪新闻",
+          "time": 1788073190
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0Rd1PPpOV",
+          "title": "12秒传完8K月照，我国地月双向高速激光通信实现重大突破",
+          "origin": "环球网",
+          "time": 1788077484
+        }
+      ],
+      "summary": "近日，我国成功完成超40万公里、地月双向高速激光通信试验，相当于在地球和月球之间搭建起稳定、高速的太空信息通道。以往从月球轨道卫星传回一张8K超高清月球全景照片需耗时四五分钟，如今仅需12秒，速度提升数十倍。试验依托环月轨道卫星搭载的通信载荷与地面收发站开展双向激光通信，测得链路上行速率约每秒1.25兆比特，下行速率约每秒100兆比特。激光通信具备速度快、方向准、保密性好及设备轻巧等优点。科研团队经过五年攻关，解决了对准难、信号弱、速率低三大难题，创新提出适用于超远距离、极微弱信号条件的双向捕获跟踪方案，突破高速超导单光子探测技术和复杂信号处理算法。该技术将为我国月球探测及未来深空探测研究提供重要技术支撑，对构建国际月球科研站和探索火星等更远深空具有重要意义。"
+    },
+    {
+      "title": "普热普强藏布堰塞湖下游山体滑坡形成新堰塞体",
+      "tags": [
+        "滑坡",
+        "堰塞湖",
+        "应急管理",
+        "西藏",
+        "抢险救援"
+      ],
+      "links": [
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1168412&sid=21",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡，形成新的堰塞体",
+          "origin": "上观",
+          "time": 1788064796
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8122016.html",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡，形成新的堰塞体",
+          "origin": "钛媒体",
+          "time": 1788065700
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/08-30/10686729.shtml",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡 形成新的堰塞体",
+          "origin": "中新网",
+          "time": 1788064620
+        },
+        {
+          "link": "http://news.china.com.cn/2026-08/30/content_118671075.shtml",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡 形成新的堰塞体",
+          "origin": "中国网",
+          "time": 1788083730
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0Jw7n50go",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡 形成新的堰塞体",
+          "origin": "环球网",
+          "time": 1788064568
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/08-30/news1067063.shtml",
+          "title": "前方监测无人机发现 普热普强藏布堰塞湖下游山体滑坡",
+          "origin": "中新网",
+          "time": 1788076620
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-30/10686775.shtml",
+          "title": "普热普强藏布堰塞湖下游山体发生滑坡 正形成新堰塞湖",
+          "origin": "中新网",
+          "time": 1788068280
+        }
+      ],
+      "summary": "8月29日晚，前方监测无人机发现普热普强藏布堰塞湖下游2.8公里处山体发生滑坡，形成新的堰塞体，正在形成新堰塞湖。应急管理部迅速召集专家研判，已将吉隆口岸附近抢险救援人员转移至安全位置，并调派无人机持续监测，协助地方开展抢险救援工作。"
+    },
+    {
+      "title": "中国海警在黄岩岛领海及周边区域开展执法巡查",
+      "tags": [
+        "中国海警",
+        "黄岩岛",
+        "执法巡查"
+      ],
+      "links": [
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260830/49707861.html",
+          "title": "中国海警位中国黄岩岛领海执法巡查 坚决反制挑衅行为",
+          "origin": "中国网",
+          "time": 1788062174
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20260830/49707886.html",
+          "title": "中国海警位黄岩岛领海及周边执法巡查 强化海域管控",
+          "origin": "中国网",
+          "time": 1788063936
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTIArA3gtEUjwI57oWtoeYH260830.shtml",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "CCTV",
+          "time": 1788059431
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572092.html",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "科技日报",
+          "time": 1788063879
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788059125129622.html",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "新京报",
+          "time": 1788059155
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-30/10686731.shtml",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "中新网",
+          "time": 1788066120
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/08-30/10686692.shtml",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "origin": "中新网",
+          "time": 1788059160
+        }
+      ],
+      "summary": "8月30日，中国海警在黄岩岛领海及周边区域开展执法巡查。自8月以来，海警持续加强该区域管控，依法处置非法侵权船只，坚决维护国家领土主权和海洋权益。"
+    },
+    {
+      "title": "中国驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+      "tags": [
+        "尼泊尔",
+        "泥石流",
+        "洪灾",
+        "中国驻尼泊尔大使馆",
+        "搜救"
+      ],
+      "links": [
+        {
+          "link": "https://www.bjnews.com.cn/detail-1788056892129608.html",
+          "title": "中国驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "新京报",
+          "time": 1788056979
+        },
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTIkZURsj5vl7rIxMCQrcsl260830.shtml",
+          "title": "我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "CCTV",
+          "time": 1788062514
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/30/AP6a93926fe4b0c1e50026c85e.html",
+          "title": "我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "文汇网",
+          "time": 1788059130
+        },
+        {
+          "link": "https://news.ifeng.com/c/8w0UH0m0hQJ",
+          "title": "中使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "凤凰网",
+          "time": 1788054060
+        },
+        {
+          "link": "http://www.chinanews.com//hr/2026/08-30/10686675.shtml",
+          "title": "我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "中新网",
+          "time": 1788056220
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8121952.html",
+          "title": "我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "钛媒体",
+          "time": 1788057720
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0H7Wpco9z",
+          "title": "我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人",
+          "origin": "环球网",
+          "time": 1788059839
+        }
+      ],
+      "summary": "中国驻尼泊尔大使馆30日发布消息，尼泊尔发生严重泥石流和洪灾后，使馆立即启动突发安全事件应急机制，全力开展应急处置工作。使馆第一时间联系相关区域中资企业及其他人员，核实人员安全状况，指导企业做好安置和安抚工作，并派工作组赴灾区协调开展救援。使馆积极协调尼方动用直升机，加紧救援和转运中方被困人员，目前已成功协调尼方搜救转运中方各类人员94人。使馆各层级与尼泊尔有关部门保持热线联系，推动尼方争分夺秒搜救受灾中国公民并及时通报进展，同时向尼方表达慰问和支持，表示愿积极配合尼方开展搜救工作。"
+    },
+    {
+      "title": "冰岛公投初步计票结果显示多数选民反对重启加入欧盟谈判",
+      "tags": [
+        "冰岛",
+        "公投",
+        "欧盟",
+        "加入欧盟谈判"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/08/30/ARTIkTX1NvIDYztPBAmswcFG260830.shtml",
+          "title": "初步计票结果显示冰岛公投反对重启加入欧盟谈判",
+          "origin": "CCTV",
+          "time": 1788079259
+        },
+        {
+          "link": "https://www.news.cn/world/20260830/4bd2bf6932f643aba56ad920c63c216f/c.html",
+          "title": "冰岛公投反对重启加入欧盟谈判",
+          "origin": "新华网",
+          "time": 1788019200
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202608/30/AP6a93f048e4b0c1e50026d0c8.html",
+          "title": "冰岛公投反对重启加入欧盟谈判",
+          "origin": "文汇网",
+          "time": 1788080732
+        },
+        {
+          "link": "https://www.news.cn/world/20260830/61d9b04605224d6bb9e3f9c77db5189f/c.html",
+          "title": "冰岛公投反对重启加入欧盟谈判",
+          "origin": "新华网",
+          "time": 1788019200
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0U9MudpD4",
+          "title": "外媒：冰岛公投反对重启加入欧盟谈判",
+          "origin": "环球网",
+          "time": 1788081719
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0SR2XnjQC",
+          "title": "初步计票结果显示冰岛公投反对重启加入欧盟谈判",
+          "origin": "环球网",
+          "time": 1788078839
+        }
+      ],
+      "summary": "总台记者当地时间30日获悉，29日进行的冰岛全民公投初步计票结果显示，多数选民反对重启冰岛加入欧盟的谈判。"
+    },
+    {
+      "title": "塞浦路斯北部海域客轮倾覆已致6人死亡",
+      "tags": [
+        "塞浦路斯",
+        "客轮倾覆",
+        "事故",
+        "救援"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4T0ctEzzcxQ",
+          "title": "塞浦路斯附近海域客轮倾覆事故已致6人死亡",
+          "origin": "环球网",
+          "time": 1788096395
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4T0ex5mqSuV",
+          "title": "塞浦路斯北部海域客轮倾覆已致6人死亡",
+          "origin": "环球网",
+          "time": 1788099858
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/08-30/10686951.shtml",
+          "title": "塞浦路斯发生客轮倾覆事故致6人死亡",
+          "origin": "中新网",
+          "time": 1788099780
+        }
+      ],
+      "summary": "当地时间8月30日，一艘载有267人的客轮在塞浦路斯北部港口城市杰尔内附近海域沉没，已造成6人死亡。事故发生后，当地政府派出海岸警卫队船只和救援直升机展开救援，救援力量已找到并救起172人，救援行动仍在进行中。"
+    }
+  ]
+}
