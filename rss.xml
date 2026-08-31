@@ -4,7 +4,7 @@
     <title>News 2026-08-31</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-08-31</description>
-    <lastBuildDate>Sun, 30 Aug 2026 14:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:22:39 +0000</lastBuildDate>
     <item>
       <title>西藏吉隆泥石流灾害原因查明：系尼泊尔冰川断裂引发冰岩崩</title>
       <link>https://www.huanqiu.com/article/4T09kvwD6F5</link>
@@ -60,10 +60,34 @@
       <description>总台记者当地时间30日获悉，29日进行的冰岛全民公投初步计票结果显示，多数选民反对重启冰岛加入欧盟的谈判。</description>
     </item>
     <item>
+      <title>市场监管总局发布车辆外廓尺寸新国标 智能车辆放宽局部凸出尺寸限制</title>
+      <link>https://m.ithome.com/html/996371.htm</link>
+      <pubDate>Mon, 31 Aug 2026 03:16:54 +0000</pubDate>
+      <description>市场监管总局（国家标准委）近日批准发布《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》（GB 1589—2026）强制性国家标准，将于2027年7月1日起实施。新规多项调整：新增雷达、摄像头、V2X天线等智能网联感知通信部件外廓尺寸豁免，放宽局部凸出限制；将新能源商用车单轴每侧单轮胎最大允许轴荷限值由7000千克提升至8000千克；新增流线形半挂牵引车、流线形铰接列车术语定义，明确流线形铰接列车长度限值为18.1米；将运载45英尺集装箱的铰接列车长度限值由17.1米提高至17.3米，规范半挂车牵引销中心轴线到最后端最大距离为12.2米。标准分步实施：新申请型式批准车型自2027年7月1日起执行，已获型式批准车型自2028年1月1日起执行。</description>
+    </item>
+    <item>
       <title>苹果首款AI眼镜预计2027年发布，无显示屏主打语音交互</title>
       <link>https://m.ithome.com/html/996053.htm</link>
       <pubDate>Sun, 30 Aug 2026 09:38:00 +0000</pubDate>
       <description>据科技媒体9to5Mac报道，苹果计划最早于2027年推出其首款AI智能眼镜，可能在该年6月的WWDC27上向开发者公布，并于同年晚些时候发售。该产品并非增强现实（AR）眼镜，不带显示系统，而是配备摄像头，用于获取环境信息，用户可通过Siri提问、获取情境信息、翻译现实中的标识文字，并支持记录物体与音频播放。外观方面，苹果正在开发4种镜框方案，包括大矩形、纤细矩形、大椭圆/圆形和小椭圆/圆形，材料或采用醋酸纤维，提供黑色、海洋蓝和浅棕色三种颜色。</description>
+    </item>
+    <item>
+      <title>腾讯混元Hy4 preview上线即爆火，WorkBuddy紧急扩容应对调用激增</title>
+      <link>https://www.chinaz.com/2026/0831/1774240.shtml</link>
+      <pubDate>Mon, 31 Aug 2026 04:22:39 +0000</pubDate>
+      <description>8月28日，腾讯混元新一代旗舰模型Hy4 preview在WorkBuddy平台首发接入，凭借Agent能力的显著提升，上线首日便出现任务队列排队情况。为保障用户体验，腾讯混元官方已对Hy4 preview推理集群进行紧急扩容，并持续动态调配资源，但受限于高端算力总量与高峰并发，个别时段仍可能排队，建议用户切换至Hy3模型（限免延长至2026年9月30日）或错峰晚间使用。Hy4 preview总参数规模达770B，激活参数49B，上下文长度1M，已正式开源并上线腾讯云TokenHub和OpenRouter，可在WorkBuddy、CodeBuddy、元宝、ima等产品体验。API价格按每百万Tokens计费，输入缓存命中0.3元、普通输入6元、输出18元。该模型在软件工程、办公、游戏、金融等领域能力提升，稳居开源模型第一梯队。</description>
+    </item>
+    <item>
+      <title>谷歌地图将安大略湖更名为美国湖</title>
+      <link>https://www.huanqiu.com/article/4T107iCUl89</link>
+      <pubDate>Mon, 31 Aug 2026 03:12:00 +0000</pubDate>
+      <description>美国总统特朗普近日在社交媒体发布地图，显示地处美国与加拿大边境的安大略湖被标注为“美国湖”。谷歌地图已将该湖泊标记为“美国湖”，引发美加两国围绕安大略湖更名的交锋。</description>
+    </item>
+    <item>
+      <title>网易CC直播今日正式停运 服务器及官网同步关闭</title>
+      <link>https://m.ithome.com/html/996268.htm</link>
+      <pubDate>Mon, 31 Aug 2026 02:20:08 +0000</pubDate>
+      <description>据网易此前公告，因产品开发运营策略调整，CC直播于2026年8月31日15:00正式终止运营。目前全平台下载入口和充值渠道已关闭，产品服务器、官网同步关闭。用户账号内未使用的充值C券和金锭可按比例兑换为网易通用点数，并可在网易旗下其他相关游戏中使用。CC直播前身为网易CC，2009年12月以游戏语音软件形态上线，2016年5月更名为CC直播。</description>
     </item>
     <item>
       <title>把“投资于人”落到实处</title>
@@ -82,6 +106,42 @@
       <link>https://www.huanqiu.com/article/4T0ctEzzcxQ</link>
       <pubDate>Sun, 30 Aug 2026 14:24:18 +0000</pubDate>
       <description>当地时间8月30日，一艘载有267人的客轮在塞浦路斯北部港口城市杰尔内附近海域沉没，已造成6人死亡。事故发生后，当地政府派出海岸警卫队船只和救援直升机展开救援，救援力量已找到并救起172人，救援行动仍在进行中。</description>
+    </item>
+    <item>
+      <title>苹果新CEO特努斯9月1日上任，AI成首要任务</title>
+      <link>https://m.ithome.com/html/996284.htm</link>
+      <pubDate>Mon, 31 Aug 2026 02:18:48 +0000</pubDate>
+      <description>据彭博社记者马克·古尔曼报道，苹果硬件工程高级副总裁约翰·特努斯将于9月1日正式接任首席执行官，人工智能将成为其任期内的首要任务。现任CEO蒂姆·库克已于8月23日在Apple Park举行卸任聚会，约200人出席，库克将转任董事会执行主席，继续负责与全球政策制定者沟通等事务。特努斯于2001年加入苹果，2013年晋升为硬件工程副总裁，2021年进入高管团队，负责多个突破性产品的硬件工程。此外，苹果将于9月9日举行秋季新品发布会，预计推出iPhone 18 Pro/Max及Ultra系列折叠屏新机，这将是特努斯上任后的首场发布会。</description>
+    </item>
+    <item>
+      <title>美军空袭伊朗拉腊克岛火箭发射装置</title>
+      <link>http://www.chinanews.com//gj/2026/08-31/10687110.shtml</link>
+      <pubDate>Mon, 31 Aug 2026 03:41:00 +0000</pubDate>
+      <description>美军于8月30日对位于霍尔木兹海峡附近的伊朗拉腊克岛上两个火箭发射装置发动打击，美方称此举系因伊朗伊斯兰革命卫队人员正准备利用这些装置布雷。这是美军一个月来首次对伊朗目标实施军事打击。伊朗方面称袭击造成数名武装人员和平民死伤，并誓言作出回应。</description>
+    </item>
+    <item>
+      <title>微软收紧AI成本管控：有员工28天用掉2.8万美元Token</title>
+      <link>https://tech.ifeng.com/c/8w1sGcD68LN</link>
+      <pubDate>Mon, 31 Aug 2026 02:20:22 +0000</pubDate>
+      <description>据凤凰网科技8月31日消息，一份泄露的微软内部表格显示，部分员工通过大量使用AI来提升数据排名，其中一名员工在28天内产生了约2.8万美元（约合18.9万元人民币）的Token使用成本，引发高层担忧。为控制成本，微软已开始收紧Token使用管理，设置用量监控，并将内部默认工作负载逐步切换至GPT-5.6 Sol，同时不再鼓励员工在编程任务中使用Anthropic Claude等第三方AI工具。数据显示，微软全球员工超22.3万人，约350名美国员工自愿提交了月度AI使用数据，整体月度使用成本中位数约为300美元（约合2024元人民币），但部门差异明显：CoreAI部门中位数最高，约975美元（约合6577元人民币），个人最高达1.6万美元（约合10.8万元人民币）；Microsoft AI部门平均约490美元；Experiences and Devices部门约250美元；Azure约241美元。产生2.8万美元最高纪录的员工来自Customer and Partner Solutions部门。</description>
+    </item>
+    <item>
+      <title>NASA与SpaceX因龙飞船氧化剂泄漏推迟国际空间站任务发射</title>
+      <link>https://news.mydrivers.com/1/1147/1147442.htm</link>
+      <pubDate>Mon, 31 Aug 2026 01:29:28 +0000</pubDate>
+      <description>8月30日，NASA与SpaceX宣布，因在发射前常规航天器处理流程中检测到龙飞船推进系统氧化剂泄漏，决定调整Crew-13载人航天任务前往国际空间站的发射时间。联合团队正进行额外测试与数据评审，并完成必要修复，新发射日期将另行公布。Crew-13任务沿用四名乘员配置，指令长杰西卡·沃特金斯，驾驶员卢克·德莱尼，任务专家约书亚·库特里克和谢尔盖·捷捷里亚特尼科夫。任务成员将在飞行前于休斯敦约翰逊航天中心隔离。发射将使用猎鹰9号火箭，从卡纳维拉尔角太空军基地SLC-40发射台升空。</description>
+    </item>
+    <item>
+      <title>国产公版微镜大阵列芯片发布，打破海外垄断</title>
+      <link>https://news.mydrivers.com/1/1147/1147439.htm</link>
+      <pubDate>Sun, 30 Aug 2026 23:14:22 +0000</pubDate>
+      <description>苏州知芯传感技术有限公司正式推出公版MEMS微镜大阵列芯片，标志着我国在光交换核心器件领域实现关键性突破。该芯片采用静电驱动双轴微机电结构，单片集成416个可独立转动的微镜单元，封装尺寸仅33.6mm×20.85mm×0.66mm，偏转角度X轴±6.5°、Y轴±5.5°，红外反射率≥96%，响应时间≤10ms，循环寿命超10亿次，量产良率稳定在90%以上，已具备400×400端口规模产品的量产能力。公司已完成设计、工艺、测试、封装四大环节自主闭环，拥有知识产权50余项，依托6/8英寸MEMS晶圆产线月产能可达万片级别，产品已进入多家头部客户供应链，并规划向1024×1024端口规格迈进。</description>
+    </item>
+    <item>
+      <title>市场臆测沃什9月升息 债券投资者仍心存疑虑</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqehwz7580405.shtml</link>
+      <pubDate>Mon, 31 Aug 2026 02:10:52 +0000</pubDate>
+      <description>市场猜测美联储主席沃什可能在9月加息，但债券投资者仍持怀疑态度。沃什近期发表鹰派演讲重申抑制通胀决心，掉期交易员认为9月加息概率超过五成。尽管最终决定取决于就业和通胀数据，对政策敏感的2年期美债收益率已创两个月最大涨幅；部分投资者担忧沃什可能像6月、7月一样维持利率不变，长期美债收益率升至约20年高位。道明证券预计美联储将按兵不动，ABN AMRO等机构投资者也因担心通胀压力未受控而避开长债。</description>
     </item>
   </channel>
 </rss>
