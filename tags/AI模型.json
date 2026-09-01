@@ -1,7 +1,31 @@
 {
   "tag": "AI模型",
-  "generated_at": "2026-08-27T13:03:28Z",
+  "generated_at": "2026-09-01T05:54:16Z",
   "summary": [
+    {
+      "title": "腾讯混元Hy4 preview上线即爆火，WorkBuddy紧急扩容应对调用激增",
+      "tags": [
+        "腾讯混元",
+        "Hy4",
+        "AI模型",
+        "WorkBuddy",
+        "扩容"
+      ],
+      "summary": "8月28日，腾讯混元新一代旗舰模型Hy4 preview在WorkBuddy平台首发接入，凭借Agent能力的显著提升，上线首日便出现任务队列排队情况。为保障用户体验，腾讯混元官方已对Hy4 preview推理集群进行紧急扩容，并持续动态调配资源，但受限于高端算力总量与高峰并发，个别时段仍可能排队，建议用户切换至Hy3模型（限免延长至2026年9月30日）或错峰晚间使用。Hy4 preview总参数规模达770B，激活参数49B，上下文长度1M，已正式开源并上线腾讯云TokenHub和OpenRouter，可在WorkBuddy、CodeBuddy、元宝、ima等产品体验。API价格按每百万Tokens计费，输入缓存命中0.3元、普通输入6元、输出18元。该模型在软件工程、办公、游戏、金融等领域能力提升，稳居开源模型第一梯队。",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "OpenAI宣布因Cursor被SpaceX收购将终止合作并停止提供AI模型",
+      "tags": [
+        "OpenAI",
+        "Cursor",
+        "SpaceX",
+        "终止合作",
+        "AI模型"
+      ],
+      "summary": "OpenAI于当地时间8月28日发布公告，已正式通知SpaceX，计划终止向Cursor提供OpenAI模型的合作合同，拟定的服务停止接入日期为2026年11月12日。OpenAI表示，此决定基于马斯克旗下公司过往多次违反合同条款的经历，无法确信SpaceX会合规使用其技术。OpenAI强调，与Cursor签署的定制协议中明确规定，公司控制权变更后其有权在限定期限内终止协议。",
+      "date": "2026-08-29"
+    },
     {
       "title": "Anthropic表示Model 2比Mythos 5更强",
       "tags": [

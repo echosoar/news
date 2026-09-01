@@ -1,7 +1,31 @@
 {
   "tag": "Anthropic",
-  "generated_at": "2026-08-27T13:03:28Z",
+  "generated_at": "2026-09-01T05:54:16Z",
   "summary": [
+    {
+      "title": "Anthropic豪掷450亿美元租赁AI算力，2027年底启用英伟达Vera Rubin芯片",
+      "tags": [
+        "Anthropic",
+        "AI算力",
+        "Nscale",
+        "英伟达",
+        "租赁"
+      ],
+      "summary": "据IT之家8月27日消息，Anthropic已与英国AI基础设施公司Nscale达成协议，租用价值约450亿美元（约合3031.66亿元人民币）的AI算力。这批算力预计将从2027年底开始投入使用，采用英伟达最新的Vera Rubin芯片系统。这是Anthropic近期为追赶OpenAI而大规模扩充算力的最新动作，此前该公司已与Volta、AMD、SpaceX和亚马逊等企业达成多项算力合作。Nscale成立仅两年，已与微软等科技巨头合作，其数据中心位于美国西弗吉尼亚州。",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Anthropic发布MHS标准，首次进军物理AI领域",
+      "tags": [
+        "Anthropic",
+        "MHS",
+        "物理AI",
+        "具身智能",
+        "AI硬件"
+      ],
+      "summary": "Anthropic于8月27日发布模型硬件标准（MHS）研究预览，旨在让AI智能体通过统一标准控制显微镜、机械臂等可编程设备。该标准被视为Anthropic首次公开进军具身智能与物理AI领域。早期测试中，MHS在生物医药、量子计算等领域显著提速，例如制药公司基因泰克的全自动实验效率提升至原来的三倍。Anthropic计划未来开源该标准，并已与多家实验室及硬件制造商合作。",
+      "date": "2026-08-28"
+    },
     {
       "title": "Anthropic豪掷450亿美元租用Nscale算力 2027年底启用英伟达Vera Rubin芯片",
       "tags": [

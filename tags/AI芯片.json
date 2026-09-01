@@ -1,7 +1,19 @@
 {
   "tag": "AI芯片",
-  "generated_at": "2026-08-27T13:03:28Z",
+  "generated_at": "2026-09-01T05:54:16Z",
   "summary": [
+    {
+      "title": "英伟达推出定制HBM方案NVHBM：带宽提升30%、功耗降低15%",
+      "tags": [
+        "英伟达",
+        "NVHBM",
+        "HBM4E",
+        "AI芯片",
+        "定制内存"
+      ],
+      "summary": "英伟达近日宣布为NVLink Fusion定制芯片生态推出新组件NVHBM，这是一种面向定制AI加速器的定制HBM解决方案。与标准HBM4E相比，NVHBM单栈带宽最高提升30%，功耗降低15%，并可将主芯片计算可用面积最多增加30%。其核心设计是将内存控制器从主芯片转移至HBM堆栈基片，从而释放主芯片空间。NVHBM并非通用HBM的替代品，而是面向未来定制芯片设计的组件。英伟达已与领先内存厂商完成设计与验证，亚马逊旗下Annapurna Labs成为首家合作伙伴，其下一代Trainium4芯片已支持NVLink Fusion接口。此外，英伟达还向合作伙伴提供小型定制PHY物理层IP。",
+      "date": "2026-08-28"
+    },
     {
       "title": "英伟达宣布Groq 3 LPX投产，Vera Rubin推理效率提升数倍",
       "tags": [
