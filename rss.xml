@@ -4,7 +4,7 @@
     <title>News 2026-09-04</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-04</description>
-    <lastBuildDate>Thu, 03 Sep 2026 11:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:34:00 +0000</lastBuildDate>
     <item>
       <title>美法官叫停特朗普政府限制出生公民权的最新行政令</title>
       <link>https://www.huanqiu.com/article/4T3UFoeTlUZ</link>
@@ -18,6 +18,12 @@
       <description>据外媒报道，字节跳动已获得一笔296亿美元的银团贷款，这是今年亚洲规模第二大的美元贷款，仅次于软银集团今年3月签署的400亿美元过桥贷款。该笔贷款最初计划融资200亿美元，因银行超额认购意向上调规模，最终吸引近50%的超额认购。花旗集团与摩根大通担任协调机构，贷款期限为三年，可选择延长至五年，初始利率为SOFR+68个基点，低于字节跳动此前离岸贷款的SOFR+85个基点，利息成本下降17个基点。贷款资金名义上主要用于一般公司用途，但知情人士透露，字节跳动正考虑将今年的资本支出提升至最高700亿美元，主要用于AI基础设施、数据中心、服务器与算力集群。目前该笔交易尚未正式签署，字节跳动方面未予置评。</description>
     </item>
     <item>
+      <title>迅策科技发布TokenCloud一站式AI训推算力平台</title>
+      <link>https://www.yicai.com/news/103348319.html</link>
+      <pubDate>Fri, 04 Sep 2026 03:05:33 +0000</pubDate>
+      <description>迅策科技（03317.HK）正式推出TokenCloud，定位为一站式AI训推算力平台，旨在解决企业AI落地中的算力短板。平台整合异构算力调度、数据Token化、模型推理优化及企业小模型精炼，构建从算力到应用的闭环。当前AI竞争从“堆GPU”转向“榨Token”，TokenCloud强调国产算力适配与全链路服务，已服务金融、电信、能源等十一大行业，并在生物医药、能源调度等场景落地。市场数据显示，我国日均Token调用量两年增长超1000倍，高端智算算力缺口超35%，政策推动算力基础设施高质量发展，机构看好算力租赁行业前景。</description>
+    </item>
+    <item>
       <title>全国520多万适龄女孩完成HPV疫苗首剂接种</title>
       <link>https://www.jiemian.com/article/15052083.html</link>
       <pubDate>Thu, 03 Sep 2026 11:38:12 +0000</pubDate>
@@ -28,6 +34,60 @@
       <link>https://www.yicai.com/news/103345238.html</link>
       <pubDate>Thu, 03 Sep 2026 04:11:00 +0000</pubDate>
       <description>OpenAI即将发布的Astra模型因其采用的“循环深度”（Recurrent Depth）推理技术引发AI安全界强烈争议。该技术使同一组Transformer层被反复计算，部分推理过程在模型内部完成，无需以完整思维链呈现，被质疑可能导致人类无法监控模型的思考过程，使安全审计和思维链监控失效。OpenAI首席科学家雅库布·帕乔基9月2日回应称，希望避免因信息失实引发“不可监控”军备竞赛，强调Astra的计算图深度与GPT-4相差不超过两倍，并未出现跳跃式复杂度增长，并承认思维链监控确实脆弱且趋于困难，但并非由架构变更导致。Redwood Research等机构专家对此表示“极度担忧”，认为这是AI安全最严重的倒退之一。OpenAI表示将为Astra部署额外思维链监控，且该技术使用有限度，思维链仍有望保持可读性。</description>
+    </item>
+    <item>
+      <title>人工智能中小企业创业支持计划启动</title>
+      <link>https://news.cctv.com/2026/09/04/ARTIO8JO3dGdKdX94HNbJXk9260904.shtml</link>
+      <pubDate>Fri, 04 Sep 2026 02:37:09 +0000</pubDate>
+      <description>工业和信息化部于9月3日宣布启动人工智能中小企业创业支持计划。该计划拟用三年时间，在行业应用、数据服务、智能算力等重点领域培育一大批人工智能创业企业，新培育科技和创新型中小企业1万家以上。计划还提出高标准建设10个科技型企业孵化器、10个国家中小企业公共服务示范平台（基地），新培育10个国家级中小企业特色产业集群，初步形成人工智能赋能中小企业高质量发展格局。在广东，已有中小企业主动调整业务结构，利用AI工具推动数字化转型，相关企业业务增长明显；智算中心客户增长迅速，算力行业迎来机遇。</description>
+    </item>
+    <item>
+      <title>卢伟冰：米家品牌正式规模化进入欧洲，明年小米汽车落地</title>
+      <link>https://www.chinaz.com/2026/0904/1775163.shtml</link>
+      <pubDate>Fri, 04 Sep 2026 02:36:57 +0000</pubDate>
+      <description>在IFA 2026开幕前夕的小米全球发布会上，小米集团总裁卢伟冰宣布，米家品牌正式规模化进入欧洲市场，并透露2027年小米汽车将登陆欧洲。目前米家已覆盖超130个品类、2000多个SKU，服务全球1.1亿用户。小米SU7 Max、SU7 Ultra与Vision GT三款车型也在IFA现场亮相。</description>
+    </item>
+    <item>
+      <title>Anthropic将完成150亿美元IPO前信贷融资</title>
+      <link>https://news.futunn.com/flash/20713416/report-anthropic-nears-15-billion-pre-ipo-credit-facility</link>
+      <pubDate>Thu, 03 Sep 2026 23:42:08 +0000</pubDate>
+      <description>据彭博社报道，知情人士透露，人工智能公司Anthropic PBC即将完成将其循环信贷额度扩大至150亿美元的计划，扫清了其提交IPO公开申请前的一个障碍。本轮融资由摩根士丹利主导，高盛集团、摩根大通以及花旗集团也在融资中扮演重要角色，这四家贷款机构还将牵头此次IPO。此外，巴克莱和富国银行也将发挥关键作用。</description>
+    </item>
+    <item>
+      <title>乐道L90获新能源大型SUV保值率第一 车电分离重塑保值逻辑</title>
+      <link>https://news.mydrivers.com/1/1148/1148698.htm</link>
+      <pubDate>Fri, 04 Sep 2026 04:34:00 +0000</pubDate>
+      <description>2026年9月3日，中国汽车流通协会与精真估联合发布《2026年8月中国汽车保值率研究报告》。报告显示，乐道L90一年保值率达78%，位列新能源大型SUV保值率第一。上市一年来，乐道L90累计交付超60,000台，稳居30万级大型SUV销冠，实现“销量+保值率”双重领先。乐道L90通过换电模式创新、整车技术升级和标杆服务体验，获得家庭用户信赖，其支持换电的纯电车型正在重塑行业保值评估逻辑。未来，乐道将持续进化产品与服务，为更多家庭创造高品质出行体验。</description>
+    </item>
+    <item>
+      <title>尼日利亚发生非法装卸石油制品事件至少43人死亡</title>
+      <link>https://www.news.cn/world/20260904/19dbe23f849345209c7412cebfe2b320/c.html</link>
+      <pubDate>Fri, 04 Sep 2026 00:26:00 +0000</pubDate>
+      <description>尼日利亚河流州警方通报，当地时间9月3日，该州发生一起非法装卸石油制品事件，导致至少43人因吸入有毒气体死亡。据当地媒体报道，当天清晨约200人乘船前往一处原油加工厂附近码头，从停泊船只上非法装卸石油制品，过程中多人吸入有毒气体窒息。目前已有37名遇难者被确认为当地居民，另有6人身份不明，仍有数人下落不明。警方表示已与相关部门联合展开调查，部分受害者被送医治疗。</description>
+    </item>
+    <item>
+      <title>美军近日袭击已致伊朗18死142伤</title>
+      <link>http://www.chinanews.com//gj/2026/09-04/10689981.shtml</link>
+      <pubDate>Thu, 03 Sep 2026 22:45:00 +0000</pubDate>
+      <description>伊朗卫生部发言人当地时间9月3日宣布，自8月30日20时30分至9月2日20时30分，伊朗共有142人在敌人袭击中受伤、18人死亡。此前，美军于8月30日晚袭击伊朗南部拉腊克岛，9月1日晚又袭击伊朗多地。</description>
+    </item>
+    <item>
+      <title>微信界面现液态玻璃效果引热议 官方回应系iOS 27系统控件自动应用</title>
+      <link>https://www.chinaz.com/2026/0904/1775138.shtml</link>
+      <pubDate>Fri, 04 Sep 2026 01:25:26 +0000</pubDate>
+      <description>近日，“微信液态玻璃”话题登上微博热搜，起因是有网友发现微信部分界面（如输入框菜单、长按搜索选项及部分弹窗）出现了苹果Liquid Glass（液态玻璃）设计效果，呈现半透明、磨砂玻璃般的视觉质感。对此，微信员工客村小蒋回应称，这是iOS 27系统对App使用系统控件的部分自动应用了液态玻璃效果。苹果开发者文档显示，SwiftUI、UIKit中的标准控件和导航元素在采用iOS 27 SDK构建后会自动采用Liquid Glass外观，开发者无需逐一重新设计。此前苹果提供的UIDesignRequiresCompatibility兼容选项，在应用面向iOS 27及之后版本构建时将被系统忽略，开发者无法再通过该开关整体退回旧版界面。但自定义界面仍可通过API自行调整视觉效果。Liquid Glass设计语言最早在iOS 26中引入，能实时反射、折射背景内容并动态改变形态，iOS 27进一步优化了显示效果和可读性，并新增效果调节滑块供用户调整。</description>
+    </item>
+    <item>
+      <title>卢伟冰：小米与长鑫合作已久，LPDDR6已联合调试一年</title>
+      <link>https://www.chinaz.com/2026/0904/1775158.shtml</link>
+      <pubDate>Fri, 04 Sep 2026 00:44:57 +0000</pubDate>
+      <description>国产存储龙头长鑫宣布实现LPDDR6量产，成为全球首家。小米与长鑫共同宣布，小米18 Fold将首发搭载长鑫LPDDR6，并配合自研玄戒O3芯片，实现SoC和内存的国产协同突破。小米合伙人卢伟冰表示，小米与长鑫早在2022年就成立联合实验室，双方共同组建了超过50人的核心团队，经过长时间技术磨合，并为LPDDR6进行了长达一年的联合调试，于今年正式落地。小米18 Fold被视为联合首发的重要成果验证，希望通过旗舰产品推动产业链进步。央视财经也发文指出，小米将自研移动处理器与国产LPDDR6内存导入旗舰量产机型，以量产产品完成严格验证，牵引国产核心器件加速规模应用。长鑫LPDDR6峰值速率达12800Mbps，与玄戒O3协同工作基础速率10667Mbps，单颗最高容量16GB，采用POP堆叠封装，在功耗和信号可靠性方面相较LPDDR5X全面优化。</description>
+    </item>
+    <item>
+      <title>特斯拉为Model Y引入Super Manifold V2热管理技术</title>
+      <link>https://m.ithome.com/html/998243.htm</link>
+      <pubDate>Fri, 04 Sep 2026 00:36:15 +0000</pubDate>
+      <description>据外媒报道，特斯拉已为Model Y车型引入Cybertruck同款的Super Manifold V2热管理技术。该技术通过高度集成化设计，将15至20个冷媒与冷却液相关零件整合在双层PCB周围，可提升热管理效率，改善高温下座舱制冷能力，同时简化装配流程、降低制造成本。车主可通过检查前备箱左侧热泵组件上的“SUPER MANIFOLD V2”字样，或通过车辆VIN查询零件号（新版为1735000-00-A）来确认是否搭载该技术。</description>
     </item>
   </channel>
 </rss>
