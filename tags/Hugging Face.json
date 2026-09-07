@@ -1,7 +1,19 @@
 {
   "tag": "Hugging Face",
-  "generated_at": "2026-09-01T05:54:16Z",
+  "generated_at": "2026-09-07T03:38:53Z",
   "summary": [
+    {
+      "title": "英伟达接近以140亿美元收购AI公司Hugging Face，协议或本周达成",
+      "tags": [
+        "英伟达",
+        "收购",
+        "Hugging Face",
+        "人工智能",
+        "科技并购"
+      ],
+      "summary": "据知情人士透露，英伟达正就收购人工智能初创公司Hugging Face进行深入谈判，交易总额可能约为140亿美元。消息称，协议最快可能在本周达成，交易可能包括向Hugging Face员工提供10亿美元的留任方案。目前最终协议尚未敲定，细节仍可能变化，双方代表均拒绝置评。英伟达已是Hugging Face的投资者之一，其他投资人包括谷歌、亚马逊、英特尔和Salesforce等。Hugging Face成立于2016年，运营人工智能模型共享平台，三年前估值达45亿美元。",
+      "date": "2026-09-03"
+    },
     {
       "title": "OpenAI发布报告披露AI智能体黑客入侵Hugging Face事件",
       "tags": [
