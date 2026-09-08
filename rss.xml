@@ -1,99 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-09-08</title>
+    <title>News 2026-09-09</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-09-08</description>
-    <lastBuildDate>Tue, 08 Sep 2026 05:01:47 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-09-09</description>
+    <lastBuildDate>Tue, 08 Sep 2026 11:54:47 +0000</lastBuildDate>
     <item>
-      <title>受贿9340万元 证监会原副主席王建军一审被判无期徒刑</title>
-      <link>https://wallstreetcn.com/articles/3781228</link>
-      <pubDate>Mon, 07 Sep 2026 12:53:00 +0000</pubDate>
-      <description>2026年9月7日，山东省潍坊市中级人民法院一审公开宣判中国证券监督管理委员会原党委委员、副主席王建军受贿案。法院以受贿罪判处王建军无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对其受贿所得及孳息依法上缴国库，不足部分继续追缴。王建军当庭表示认罪悔罪。经审理查明，2005年上半年至2019年9月，王建军利用担任云南证监局党委委员、副局长，证监会办公厅副主任、市场部主任等职务上的便利，为有关单位和个人在公司上市、企业融资、业务承揽等方面谋取利益，直接或通过他人非法收受财物共计人民币9340万余元。</description>
+      <title>受贿1.48亿余元 金湘军一审被判死缓</title>
+      <link>https://china.caixin.com/2026-09-08/102482845.html</link>
+      <pubDate>Tue, 08 Sep 2026 09:50:29 +0000</pubDate>
+      <description>2026年9月8日，河南省信阳市中级人民法院一审公开宣判山西省委原副书记、省政府原省长金湘军受贿一案。法院以受贿罪判处金湘军死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；对其受贿所得财物及孳息依法追缴上缴国库，不足部分继续追缴。经审理查明，金湘军利用职务便利为他人谋利，非法收受财物共计折合人民币1.48亿余元，受贿行为横跨三个省份。该案于2026年6月11日开庭审理，金湘军当庭表示认罪悔罪。至此，2026年已有38名落马中管干部领刑。</description>
     </item>
     <item>
-      <title>微信被曝内测小微AI社交功能 官方暂无回应</title>
-      <link>https://news.mydrivers.com/1/1149/1149231.htm</link>
-      <pubDate>Mon, 07 Sep 2026 12:01:52 +0000</pubDate>
-      <description>据快科技报道，微信内置于AI助手“小微”正在测试一项对话功能，支持用户直接与好友的小微进行交互。小微依托WeLM大模型运行，每位用户可拥有专属的“小微分身”。使用时，用户向小微说出需求，如约朋友聚餐、协调时间、代为传话等，小微会先弹出确认界面，经用户许可后向好友的小微发起沟通请求。消息不会出现在普通聊天对话框，而是通过小微页面红点提示，待对方授权后两个AI助手展开独立会话，结束后将结果反馈给双方用户。该模式实现AI分身间的独立沟通，人类只负责授权与最终决策，为不善社交的用户提供新选择，减少沟通心理压力。目前该功能仍处于测试阶段，并非所有用户可用，且AI仅作为沟通中介，不会擅自替用户做决定。</description>
+      <title>华为发布搭载麒麟9050 Pro的Mate XT 2</title>
+      <link>https://news.mydrivers.com/1/1149/1149354.htm</link>
+      <pubDate>Tue, 08 Sep 2026 11:54:47 +0000</pubDate>
+      <description>华为正式发布三折叠旗舰Mate XT 2非凡大师，首发搭载麒麟9050 Pro芯片。该芯片采用“韬定律”逻辑折叠技术，将逻辑单元纵向分层布局并通过垂直互联传输数据，以提升密度、缩短信号距离。核心架构包括灵犀CPU（9核）、马良GPU和达芬奇架构NPU，支持端侧MoE全模态大模型（300亿参数），集成巴龙基带。这是华为时隔六年再次在旗舰发布会上介绍全新麒麟芯片。</description>
+    </item>
+    <item>
+      <title>阿里发布QoderWake 1.0，已有近10万个数字员工上岗</title>
+      <link>https://www.chinaz.com/2026/0908/1775879.shtml</link>
+      <pubDate>Tue, 08 Sep 2026 07:53:55 +0000</pubDate>
+      <description>9月8日，阿里宣布推出数字员工产品QoderWake 1.0。用户可用一句话描述岗位需求，QoderWake即可生成角色文档，经修改确认后生成理解工作职责、协作关系和工作权限的数字员工。该产品已内置前端、后端、产品经理、内容运营、数据分析师、项目管理员、UI设计师等10个岗位，每个岗位经过专岗调试，无需专门训练即可承接真实任务。用户还可自定义数字员工的核心职责、工作风格、工作流和红线。QoderWake已接入钉钉、飞书和企业微信三大主流IM软件，可了解组织内文档、表格、待办、日历、组织架构等，并能持续更新知识。数字员工设有清晰边界，可拦截高危操作并申请授权，与人类员工协作完成任务。过去三个月，QoderWake上已有近10万个数字员工在真实工作场景上岗，执行约200万次有效任务。</description>
     </item>
     <item>
       <title>内蒙古阿拉善左旗两车相撞 造成5人死亡</title>
       <link>https://news.cctv.com/2026/09/08/ARTIT8kmReNFGnYEVOIzSWEN260908.shtml</link>
       <pubDate>Tue, 08 Sep 2026 04:55:32 +0000</pubDate>
-      <description>内蒙古阿拉善左旗发生两车相撞事故，造成5人死亡。目前，当地已启动善后处置工作，事故详细原因正在调查中。</description>
+      <description>9月7日19时左右，内蒙古阿拉善左旗一场区内，一辆上坡测试卡车因制动失控溜车，与跟车收集数据的商务车相撞。截至7日23时左右，事故造成商务车内5人死亡。目前，当地已启动善后处置工作，事故详细原因正在调查中。</description>
     </item>
     <item>
-      <title>京津冀三地消协通报：10家航空公司及5家线上售票平台完成机票超售整改</title>
-      <link>https://news.cctv.com/2026/09/08/ARTIwUB47AmN3QQ0hwNF4bpp260908.shtml</link>
-      <pubDate>Tue, 08 Sep 2026 01:54:43 +0000</pubDate>
-      <description>京津冀三地消协组织近日通报，截至8月31日，此前被约谈的10家航空公司和5家线上售票平台已全部按期完成机票超售整改。此前调查发现，机票超售领域存在风险提示文字过小、位置隐蔽、补偿标准不明晰等问题。7月24日，三地消协联合约谈中国国际航空、中国南方航空、中国东方航空、海南航空、厦门航空、天津航空、四川航空、吉祥航空、春秋航空、河北航空等10家航空公司，以及同程、携程、飞猪、去哪儿、美团等5家线上售票平台，要求限期整改。整改落实了四项要求：购票环节超售规则告知由“被动查询”变为“必读确认”，各航司和平台在购票页面强化规则公示，部分平台设置必读弹窗；处置环节现场流程由“规范缺失”变为“全程留痕”，明确遵循自愿者征集和优先登机规则，并提升特殊旅客保障；赔付环节补偿标准由“模糊协商”变为“标准明确”，各航司提供多种补偿方案，平台展示赔付标准及申诉入口；投诉环节反馈机制由“流程不清”变为“台账可溯”，建立投诉专项台账，实现平台与航司投诉信息互通。三地消协表示，下一步将开展“回头看”检查，并向行业主管部门建议出台统一的超售信息披露标准和处置规则，同时开展消费教育，帮助消费者了解规则、掌握维权途径。</description>
+      <title>小米秋季发布会：手机冲高万元，汽车降价入局增程</title>
+      <link>https://wallstreetcn.com/articles/3781254</link>
+      <pubDate>Tue, 08 Sep 2026 00:58:15 +0000</pubDate>
+      <description>9月7日，小米举行秋季旗舰新品发布会，推出首款万元折叠屏手机小米18 Fold（起售价10999元）及四款澎程增程SUV（售价20.99万至29.99万元）。当前小米面临多重压力：存储涨价导致手机物料成本飙升，二季度手机出货量同比下降26.5%，毛利率降至8.5%；新能源购置税补贴退坡及增程赛道萎缩，汽车月交付量停在3万辆左右；IoT业务连续两季度下滑。上半年经调整净利润同比下降42.8%。发布会上，雷军介绍自研玄戒芯片及研发投入，试图以技术能力建立高端定价权。18 Fold定价与华为持平，是小米首次在万元价位放弃价格差竞争；澎程系列则较预售价直降2至3万元，继续沿用价格换规模策略。小米汽车累计交付超80万辆，但增程市场整体萎缩，纯电已在大空间SUV细分市场反超。小米能否在高价位建立品牌信用，尚待四季度销量验证。</description>
     </item>
     <item>
-      <title>郑钦文确认参加2026中国网球公开赛正赛</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1172987&amp;sid=51</link>
-      <pubDate>Tue, 08 Sep 2026 05:01:47 +0000</pubDate>
-      <description>据上观新闻消息，中国网球选手郑钦文已确认参加2026年中国网球公开赛的正赛。这一消息表明郑钦文将亮相该赛事，具体参赛细节尚未公布。</description>
+      <title>Firmus与OpenAI达成多年期合作，将在马来西亚部署AI算力</title>
+      <link>https://news.futunn.com/post/78931829/major-deal-resurfaces-in-ai-computing-sector-firmus-and-openai</link>
+      <pubDate>Tue, 08 Sep 2026 10:39:16 +0000</pubDate>
+      <description>澳大利亚AI基础设施企业Firmus宣布与OpenAI达成多年期战略合作，OpenAI将向Firmus在马来西亚的两座AI工厂采购专用AI算力，并成为其锚定客户。此次合作使Firmus已签约的总算力容量超过900兆瓦。Firmus目前在澳大利亚、新加坡、印度尼西亚和马来西亚拥有7座AI工厂，其中2座已投入运营，5座正在建设，计划未来24个月内陆续投入服务。相关AI工厂将部署英伟达Vera Rubin NVL72系统，并采用英伟达DSX AI Factory平台及Firmus自研HyperCube液冷基础设施。OpenAI表示，马来西亚的新数据中心将帮助其满足亚太地区及全球不断增长的产品需求。</description>
     </item>
     <item>
-      <title>江西遂川高坪镇泥石流现场又找到1名失联人员 已无生命体征</title>
-      <link>http://news.china.com.cn/2026-09/08/content_118685424.shtml</link>
-      <pubDate>Tue, 08 Sep 2026 04:55:32 +0000</pubDate>
-      <description>9月5日凌晨，江西遂川县高坪镇明坑村石下组发生泥石流灾害。截至8日上午11时，现场又找到1名失联人员，已无生命体征。目前救援力量正紧急搜救剩余7名失联人员，救援指挥部已整合12支专业队伍，对泥石流核心区域开展攻坚救援。</description>
-    </item>
-    <item>
-      <title>郑钦文击败斯瓦泰克晋级美网八强 即时排名逼近前50</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1172855&amp;sid=48</link>
-      <pubDate>Tue, 08 Sep 2026 04:13:44 +0000</pubDate>
-      <description>2026年美国网球公开赛，中国选手郑钦文从资格赛一路突围，在正赛中接连击败柳托娃、普丁塞娃、22号种子凯斯和8号种子斯瓦泰克，成功晋级八强。其中，第四轮对阵前世界第一斯瓦泰克，郑钦文以7-5、6-3直落两盘获胜，首盘在0-5落后时连赢7局完成逆转，连续两轮上演0-5落后连赢7局的神迹，成为女子大满贯149年历史上首位做到这一点的球员。凭借出色表现，郑钦文的即时排名从赛前的第121位升至第52位，上升69位，逼近前50名。本届美网她累计收获470个积分，并已获得78万美元奖金，为术后复出提供了坚实的经济支撑。她将在八强战中继续冲击更好成绩。</description>
-    </item>
-    <item>
-      <title>三星进入人形机器人赛道，计划2027年1月首秀自研原型机</title>
-      <link>https://tech.ifeng.com/c/8wEQKBTmL8d</link>
-      <pubDate>Mon, 07 Sep 2026 14:34:00 +0000</pubDate>
-      <description>据媒体报道，三星电子正加快人形机器人原型机开发，目标是在2027年1月于美国拉斯维加斯举行的CES 2027上首次公开自研产品。该项目由机器人（RX）业务组牵头，硬件与AI软件团队由同一高管统管，以加速研发。此外，三星还与子公司Rainbow Robotics形成双轨推进格局，后者聚焦工业机器人。业内认为，随着人工智能技术发展，人形机器人商业化时点可能提前。</description>
-    </item>
-    <item>
-      <title>5999元起华为Pura X View阔直板手机上市：搭载麒麟9030S处理器</title>
-      <link>https://finance.sina.com.cn/tech/digi/2026-09-07/doc-iniqyvrw6405357.shtml</link>
-      <pubDate>Mon, 07 Sep 2026 12:58:17 +0000</pubDate>
-      <description>9月7日，在HarmonyOS 7及全场景新品发布会上，华为宣布Pura X View阔直板手机正式上市，起售价5999元。该机搭载麒麟9030S处理器，采用16:9.5比例面板。通过软硬芯云垂直整合，整机性能提升28%，桌面操作流畅度提升41%，任务切换速度提升15%。新机支持超空间内存技术，使12GB物理内存可实现16GB级后台保活能力，提升多任务切换稳定性。</description>
-    </item>
-    <item>
-      <title>黄仁勋回应OpenAI发布Astra：称AGI已到来，40万块GPU算力将上线</title>
-      <link>https://original.ifeng.com/c/8wDbZXcbdXQ</link>
-      <pubDate>Mon, 07 Sep 2026 04:39:00 +0000</pubDate>
-      <description>英伟达CEO黄仁勋在X上祝贺OpenAI发布最新模型Astra，并宣布“AGI已经到来”。他表示，从ChatGPT到o1再到Astra，OpenAI仅用4年时间，并指出Astra模型使用英伟达芯片训练。OpenAI将Astra定义为重大研究突破，称其为全球“最智能、与人类价值观最一致的模型”，将于本周向客户开放。OpenAI总裁布罗克曼称“欢迎来到AGI时代”，认为Astra可能实现了AGI突破；CEO奥特曼则称AGI是定义模糊的术语。黄仁勋还透露，接下来将有40万块GPU算力上线。目前OpenAI等前沿AI公司日益依赖英伟达芯片。</description>
-    </item>
-    <item>
-      <title>联合国人权高专警告人工智能或构成生存性风险</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniraith9747384.shtml</link>
-      <pubDate>Tue, 08 Sep 2026 04:36:00 +0000</pubDate>
-      <description>联合国人权事务高级专员沃尔克·蒂尔克在开启第二个任期前夕发表讲话，警告先进人工智能可能对人类构成生存性威胁。他呼吁各方在“为时已晚之前”为人工智能安全确立“铁一般的保障措施”和硬性保障机制。蒂尔克未详细说明具体风险，但其办公室发言人表示，高性能人工智能系统一旦故障可能破坏关键基础设施。发言人还提及7月发生的“Hugging Face事件”，称大量OpenAI智能体攻击开源平台，显示前沿AI发展速度已超过安全防护能力。蒂尔克警告少数人掌握“几乎不受约束的人工智能控制权”，并呼吁人工智能研发所在国及供应链相关国家共同商定不可逾越的红线。</description>
-    </item>
-    <item>
-      <title>美光股价收复1000美元，市场关注9月底财报</title>
-      <link>https://news.futunn.com/post/78926325/micron-s-stock-price-recovers-above-1000-as-market-focuses</link>
-      <pubDate>Tue, 08 Sep 2026 04:20:32 +0000</pubDate>
-      <description>美光科技股价时隔三周重返千元关口，过去12个月累计涨幅近700%。受韩国同业SK海力士、三星电子大涨带动，存储芯片板块情绪回暖。市场聚焦9月30日财报，预计第四财季调整后每股收益达30.89美元，营收达504.1亿美元，同比大幅增长。</description>
-    </item>
-    <item>
-      <title>江波龙正式登陆港交所，成首家A+H上市独立存储器企业</title>
-      <link>https://news.mydrivers.com/1/1149/1149441.htm</link>
-      <pubDate>Tue, 08 Sep 2026 04:20:23 +0000</pubDate>
-      <description>9月8日，国产存储龙头江波龙在港交所主板挂牌上市，股票代码09976.HK，发售价每股236港元，形成“A+H”两地上市架构，成为首家A+H上市的独立存储器企业。公司业务覆盖主控芯片及存储芯片设计、固件开发、系统级封装及测试等全链条，产品线包括嵌入式存储、固态硬盘、移动存储及内存条。本次全球发售2607.78万股H股，募资净额约60.20亿港元，引入14家基石投资者，包括传音控股、联想集团、蓝思科技等产业链上下游合作伙伴。</description>
-    </item>
-    <item>
-      <title>最高人民法院发布涉人工智能纠纷案件司法裁判规则</title>
-      <link>https://news.cctv.com/2026/09/08/ARTIbKlDl0NsXnZYtnpSMEbU260908.shtml</link>
-      <pubDate>Mon, 07 Sep 2026 23:57:20 +0000</pubDate>
-      <description>2026年9月7日，最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，这是首部由国家最高审判机构发布的涉人工智能司法裁判规则文件。清华大学智能法治研究院院长申卫星表示，人工智能应用领域宽广，实践中存在利用他人姓名、肖像、声音等生成数字人的情况，这些数字人可能侵害被生成人的基本权利。此次司法意见明确规定，相关生成行为可以使用，但必须获得授权。意见为人工智能纠纷案件提供了裁判标尺。</description>
-    </item>
-    <item>
-      <title>俄乌和谈重启面临变数 美方特使访乌未获突破进展</title>
-      <link>https://www.huanqiu.com/article/4T7P9M1JOJi</link>
-      <pubDate>Mon, 07 Sep 2026 23:52:43 +0000</pubDate>
-      <description>据乌克兰通讯社等媒体报道，乌克兰总统泽连斯基与美国总统特朗普的特使威特科夫及特朗普女婿库什纳举行会晤。会晤后乌方表示对话“非常具有实质性”，但英国媒体指出，此次访问未能在俄乌和谈问题上取得突破性进展。近期俄乌和谈重启进程持续面临变数，各方斡旋努力尚未促成实质性成果。</description>
+      <title>DeepSeek V4.1 Flash开始内测：新结构原生多模态，能力速度成本全面优化</title>
+      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1173227&amp;sid=21</link>
+      <pubDate>Tue, 08 Sep 2026 10:19:00 +0000</pubDate>
+      <description>DeepSeek于9月8日在官方交流群发布通知，启动V4.1 Flash中间版本的内测。该模型采用全新结构，原生支持多模态，能力更强、速度更快且成本更低。其base_url保持不变，用户将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与DeepSeek V4 Flash相同，每账号限流20并发。此前，DeepSeek V4 Flash正式版API已于7月底上线公测，Agent能力大幅增强，并推出V4 Flash Vision Exp多模态视觉理解模型，支持图片输入及多种图片格式。</description>
     </item>
   </channel>
 </rss>
