@@ -1,75 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-09-09</title>
+    <title>News 2026-09-10</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-09-09</description>
-    <lastBuildDate>Wed, 09 Sep 2026 04:32:00 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-09-10</description>
+    <lastBuildDate>Wed, 09 Sep 2026 14:45:00 +0000</lastBuildDate>
     <item>
-      <title>受贿1.48亿余元 金湘军一审被判死缓</title>
-      <link>https://china.caixin.com/2026-09-08/102482845.html</link>
-      <pubDate>Tue, 08 Sep 2026 09:50:29 +0000</pubDate>
-      <description>2026年9月8日，河南省信阳市中级人民法院一审公开宣判山西省委原副书记、省政府原省长金湘军受贿一案。法院以受贿罪判处金湘军死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；对其受贿所得财物及孳息依法追缴上缴国库，不足部分继续追缴。经审理查明，金湘军利用职务便利为他人谋利，非法收受财物共计折合人民币1.48亿余元，受贿行为横跨三个省份。该案于2026年6月11日开庭审理，金湘军当庭表示认罪悔罪。至此，2026年已有38名落马中管干部领刑。</description>
+      <title>DeepSeek拟科创板IPO 已聘请中信证券筹备</title>
+      <link>https://finance.sina.com.cn/tech/digi/2026-09-09/doc-inirfivw8575652.shtml</link>
+      <pubDate>Wed, 09 Sep 2026 13:42:49 +0000</pubDate>
+      <description>据路透社报道，人工智能公司DeepSeek（深度求索）已聘请中信证券筹备科创板上市事宜，计划于今年年内启动IPO进程，目标今年递交申请、明年正式挂牌上市。目前具体募资规模与目标估值尚未确定，但传闻称其最新估值或达5000亿元。DeepSeek拟通过IPO募集资金，用于扩大算力基础设施建设、加大模型研发与芯片自研投入，并强化核心人才激励。此前有报道称，DeepSeek今年前7个月营收约4.75亿元人民币，约为2025年全年营收的10倍。该公司股东包括创始人梁文锋、腾讯、宁德时代等，新一轮融资设有五年锁定期且外部投资者无投票权。</description>
     </item>
     <item>
-      <title>董建华先生逝世</title>
-      <link>https://news.cctv.com/2026/09/09/ARTIk17IUFFCi0g5ZqZSE2Y0260909.shtml</link>
-      <pubDate>Wed, 09 Sep 2026 03:40:28 +0000</pubDate>
-      <description>新华社北京9月9日电 “一国两制”杰出贡献者，著名的爱国人士，杰出的社会活动家，中国共产党的亲密朋友，中国人民政治协商会议第十届、十一届、十二届、十三届全国委员会副主席，香港特别行政区第一任、第二任行政长官董建华先生，因病于2026年9月8日21时57分在香港逝世，享年89岁。</description>
+      <title>OpenAI宣布未公开大模型攻克千禧年难题：仅用88小时</title>
+      <link>https://www.ifanr.com/1679218</link>
+      <pubDate>Wed, 09 Sep 2026 07:47:48 +0000</pubDate>
+      <description>OpenAI于近日宣布，其内部AI系统成功完成了对纳维-斯托克斯方程存在性与光滑性问题的解答，并公开了相关论文及Lean形式化证明。该问题是克雷数学研究所于2000年提出的七个千禧年大奖难题之一。OpenAI表示，这一成果由一个内部多智能体系统完成，背后模型能力显著超过GPT-6 Astra。约1万个AI Agent于9月1日起分工探索，最终在9月5日获得结果，耗时约88小时，随后又用17小时完成形式化验证，期间共发送约490万条消息。OpenAI研究员陈立杰表示，现实发展速度超过预期，称这是一座不可思议的时代。与此同时，该成果引发研究优先权争议。纽约大学流体力学专家Tristan Buckmaster表示，自己此前已与Anthropic研究员合作，在相关方程上取得多项突破，并已准备发布论文。他质疑OpenAI研究描述不完整，但未直接指控抄袭。OpenAI否认使用用户数据来解决该问题。</description>
     </item>
     <item>
-      <title>华为发布搭载麒麟9050 Pro的Mate XT 2</title>
-      <link>https://news.mydrivers.com/1/1149/1149354.htm</link>
-      <pubDate>Tue, 08 Sep 2026 11:54:47 +0000</pubDate>
-      <description>华为正式发布三折叠旗舰Mate XT 2非凡大师，首发搭载麒麟9050 Pro芯片。该芯片采用“韬定律”逻辑折叠技术，将逻辑单元纵向分层布局并通过垂直互联传输数据，以提升密度、缩短信号距离。核心架构包括灵犀CPU（9核）、马良GPU和达芬奇架构NPU，支持端侧MoE全模态大模型（300亿参数），集成巴龙基带。这是华为时隔六年再次在旗舰发布会上介绍全新麒麟芯片。</description>
-    </item>
-    <item>
-      <title>阿里发布QoderWake 1.0，已有近10万个数字员工上岗</title>
-      <link>https://www.chinaz.com/2026/0908/1775879.shtml</link>
-      <pubDate>Tue, 08 Sep 2026 07:53:55 +0000</pubDate>
-      <description>9月8日，阿里宣布推出数字员工产品QoderWake 1.0。用户可用一句话描述岗位需求，QoderWake即可生成角色文档，经修改确认后生成理解工作职责、协作关系和工作权限的数字员工。该产品已内置前端、后端、产品经理、内容运营、数据分析师、项目管理员、UI设计师等10个岗位，每个岗位经过专岗调试，无需专门训练即可承接真实任务。用户还可自定义数字员工的核心职责、工作风格、工作流和红线。QoderWake已接入钉钉、飞书和企业微信三大主流IM软件，可了解组织内文档、表格、待办、日历、组织架构等，并能持续更新知识。数字员工设有清晰边界，可拦截高危操作并申请授权，与人类员工协作完成任务。过去三个月，QoderWake上已有近10万个数字员工在真实工作场景上岗，执行约200万次有效任务。</description>
-    </item>
-    <item>
-      <title>内蒙古阿拉善左旗两车相撞 造成5人死亡</title>
-      <link>https://news.cctv.com/2026/09/08/ARTIT8kmReNFGnYEVOIzSWEN260908.shtml</link>
-      <pubDate>Tue, 08 Sep 2026 04:55:32 +0000</pubDate>
-      <description>9月7日19时左右，内蒙古阿拉善左旗一场区内，一辆上坡测试卡车因制动失控溜车，与跟车收集数据的商务车相撞。截至7日23时左右，事故造成商务车内5人死亡。目前，当地已启动善后处置工作，事故详细原因正在调查中。</description>
-    </item>
-    <item>
-      <title>小米秋季发布会：手机冲高万元，汽车降价入局增程</title>
-      <link>https://wallstreetcn.com/articles/3781254</link>
-      <pubDate>Tue, 08 Sep 2026 00:58:15 +0000</pubDate>
-      <description>9月7日，小米举行秋季旗舰新品发布会，推出首款万元折叠屏手机小米18 Fold（起售价10999元）及四款澎程增程SUV（售价20.99万至29.99万元）。当前小米面临多重压力：存储涨价导致手机物料成本飙升，二季度手机出货量同比下降26.5%，毛利率降至8.5%；新能源购置税补贴退坡及增程赛道萎缩，汽车月交付量停在3万辆左右；IoT业务连续两季度下滑。上半年经调整净利润同比下降42.8%。发布会上，雷军介绍自研玄戒芯片及研发投入，试图以技术能力建立高端定价权。18 Fold定价与华为持平，是小米首次在万元价位放弃价格差竞争；澎程系列则较预售价直降2至3万元，继续沿用价格换规模策略。小米汽车累计交付超80万辆，但增程市场整体萎缩，纯电已在大空间SUV细分市场反超。小米能否在高价位建立品牌信用，尚待四季度销量验证。</description>
-    </item>
-    <item>
-      <title>Meta发布个人AI智能体Muse 月费最高100美元</title>
+      <title>Meta推出个人AI智能体Muse 可代用户处理日常事务</title>
       <link>https://news.futunn.com/post/78974280/meta-launches-ai-personal-agent-muse-monthly-fee-up-to</link>
-      <pubDate>Wed, 09 Sep 2026 03:25:00 +0000</pubDate>
-      <description>Meta正式推出个人AI智能体应用Muse，主打替用户实际完成数字化任务，如预约服务、填写表格、管理购物等。产品初期免费，后续将推出每月20美元和100美元两档付费订阅。Muse运行在独立安全虚拟机中，用户需连接邮箱、日历等第三方服务。Meta希望通过该产品开辟广告之外的收入来源，并面临用户信任与隐私安全的考验。</description>
+      <pubDate>Wed, 09 Sep 2026 09:06:14 +0000</pubDate>
+      <description>Meta正式推出AI个人智能体应用Muse，基于Muse Spark系列基础模型，主打替用户执行预约服务、填写电子表格、监控安防摄像头等实际任务，而非仅提供信息。Muse提供免费版及每月20美元和100美元两档付费方案，并计划从AI促成的购物交易中抽取佣金。产品将在美国率先上线，支持iOS、Android和网页端，未来将接入Ray-Ban智能眼镜。Meta强调Muse运行在独立安全虚拟机中，不会看到用户密码或支付信息，但用户数据默认用于模型训练，需主动退出。此举是Meta将AI从聊天工具推向个人智能体、探索AI商业化的重要尝试，也面临隐私信任和行业竞争等挑战。</description>
     </item>
     <item>
-      <title>小米回应澎程试驾冲上绿化带：误踩油门所致，无人受伤</title>
-      <link>https://finance.sina.com.cn/tech/2026-09-09/doc-iniresye4017072.shtml</link>
-      <pubDate>Wed, 09 Sep 2026 04:32:00 +0000</pubDate>
-      <description>9月8日晚，一辆小米澎程汽车在试驾过程中冲出车道，停在绿化带草坪上，引发网络热议。小米官方通过@小米辟谣发布声明称，事故系客户试驾时在路口转弯为前车让道，因紧张误将油门当刹车踩下所致，过程中无人受伤。此前，小米于9月7日秋季旗舰新品发布会上发布了澎程N70 Pro、N70 Max、N90 Max及N90 Max探索版四款新车。目前小米汽车已在全国开设超过200家销售门店并提供试驾服务。</description>
+      <title>ChatGPT Images 2.5详解：与2.0对比及Flare、Sunburst区别</title>
+      <link>https://www.oschina.net/news/502393/openai-chatgpt-images-2-5</link>
+      <pubDate>Wed, 09 Sep 2026 09:25:00 +0000</pubDate>
+      <description>OpenAI发布ChatGPT Images 2.5，重点提升图像细节、参考主体保留、连续改图能力和生成速度，相较2.0延迟最高降低50%。该版本提供GPT-Image-2.5 Flare和GPT-Image-2.5 Sunburst两个API模型，前者侧重日常高质量生成与速度，后者编辑精度更高但耗时更长。PixPix已在国内率先接入ChatGPT Images 2.5，用户可通过网页平台直接调用，无需部署模型或配置API。平台还提供其他图像和视频生成模型，以及商品精修、局部编辑、去背景等工具。</description>
     </item>
     <item>
-      <title>Firmus与OpenAI达成多年期合作，将在马来西亚部署AI算力</title>
-      <link>https://news.futunn.com/post/78931829/major-deal-resurfaces-in-ai-computing-sector-firmus-and-openai</link>
-      <pubDate>Tue, 08 Sep 2026 10:39:16 +0000</pubDate>
-      <description>澳大利亚AI基础设施企业Firmus宣布与OpenAI达成多年期战略合作，OpenAI将向Firmus在马来西亚的两座AI工厂采购专用AI算力，并成为其锚定客户。此次合作使Firmus已签约的总算力容量超过900兆瓦。Firmus目前在澳大利亚、新加坡、印度尼西亚和马来西亚拥有7座AI工厂，其中2座已投入运营，5座正在建设，计划未来24个月内陆续投入服务。相关AI工厂将部署英伟达Vera Rubin NVL72系统，并采用英伟达DSX AI Factory平台及Firmus自研HyperCube液冷基础设施。OpenAI表示，马来西亚的新数据中心将帮助其满足亚太地区及全球不断增长的产品需求。</description>
+      <title>英国航班管理系统故障致超1900次航班取消</title>
+      <link>https://www.news.cn/world/20260909/870aa880383b4c92a745aed8157a8291/c.html</link>
+      <pubDate>Wed, 09 Sep 2026 14:45:00 +0000</pubDate>
+      <description>英国全国空中交通管理局航班处理系统8日下午发生严重故障，导致全英多个机场大量航班被取消或延误，包括伦敦希思罗机场、爱丁堡机场和曼彻斯特机场等主要机场受到影响。据航班追踪网站数据，截至当日傍晚全英一度有12个主要机场运营受影响，超1900次航班被取消。当晚，管理局表示已实施修复措施并解决系统问题，正全力应对航班积压。</description>
     </item>
     <item>
-      <title>DeepSeek V4.1 Flash开始内测：新结构原生多模态，能力速度成本全面优化</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1173227&amp;sid=21</link>
-      <pubDate>Tue, 08 Sep 2026 10:19:00 +0000</pubDate>
-      <description>DeepSeek于9月8日在官方交流群发布通知，启动V4.1 Flash中间版本的内测。该模型采用全新结构，原生支持多模态，能力更强、速度更快且成本更低。其base_url保持不变，用户将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与DeepSeek V4 Flash相同，每账号限流20并发。此前，DeepSeek V4 Flash正式版API已于7月底上线公测，Agent能力大幅增强，并推出V4 Flash Vision Exp多模态视觉理解模型，支持图片输入及多种图片格式。</description>
+      <title>OpenAI高管：Astra需求空前，必要时将暂停Pro新订阅</title>
+      <link>https://tech.ifeng.com/c/8wHWlZz5Jet</link>
+      <pubDate>Wed, 09 Sep 2026 09:21:29 +0000</pubDate>
+      <description>OpenAI Codex负责人蒂博·索蒂奥近日表示，用户对GPT-6 Astra模型的需求“前所未有”，公司正调动全部资源保障供应。他透露，若需求持续高涨，可能会临时暂停新的Pro订阅，以优先保障现有用户体验。此前Astra上线时曾遭遇算力瓶颈，部分付费用户无法访问，OpenAI随后对额度消耗机制进行了优化。索蒂奥强调，此举属于配额限制，并非模型能力降级，现有用户的订阅服务不会终止。</description>
     </item>
     <item>
-      <title>“国家反诈AI”App正式上线 提供智能问答反诈服务</title>
-      <link>https://m.ithome.com/html/999988.htm</link>
-      <pubDate>Wed, 09 Sep 2026 01:00:59 +0000</pubDate>
-      <description>由公安部刑事侦查局指导、上海市公安局自主研发的“国家反诈AI”App已于近日正式上线。该应用依托AI大模型智能问答系统，用户可输入具体场景，系统将从诈骗风险分析、类型识别及防范建议等维度回复，并关联相关视频案例。民警提醒，提问时应尽量描述完整场景。该功能已在实战中发挥作用，近日上海奉贤民警利用该App识别出市民李女士手机中的涉诈软件，成功劝阻其邮寄黄金。除智能问答外，App还设有反诈资讯板块和反诈辞典板块，提供图文短视频预警及电子版宣传手册。目前该App已在各大应用商店上线，微信、支付宝小程序同步开放，并提供普通版、长者版和国际版三个版本，其中长者版优化了字体和界面，国际版面向外国用户。</description>
+      <title>DeepSeek宣布下调Flash系列API价格 最高降幅60%</title>
+      <link>https://www.iheima.com/article-401725.html</link>
+      <pubDate>Wed, 09 Sep 2026 04:39:00 +0000</pubDate>
+      <description>据DeepSeek开放平台公告，自北京时间9月10日12时起，DeepSeek下调Flash系列模型调用价格。其中，缓存命中、缓存未命中及输出价格最高降幅分别为60%、33.33%和11.11%。调整后，空闲时段输入缓存命中价格由每百万Token 0.05元降至0.02元，输入缓存未命中价格由1.5元降至1元，输出价格由4.5元降至4元；高峰时段价格仍为空闲时段的两倍，对应价格分别由0.1元降至0.04元、由3元降至2元、由9元降至8元。DeepSeek Flash系列目前包括deepseek-v4-flash和deepseek-v4-flash-vision-exp两款模型，此次执行相同的价格调整标准。</description>
+    </item>
+    <item>
+      <title>我国锂矿石伴生铷铯资源高效绿色分离技术取得新突破</title>
+      <link>http://www.chinanews.com//gn/2026/09-09/10693152.shtml</link>
+      <pubDate>Wed, 09 Sep 2026 07:04:49 +0000</pubDate>
+      <description>近日，由中国科学院过程工程研究所、赣锋锂业等合作建成的全球首套年产500吨连续塔式萃取分离特色锂矿石伴生低品位铷铯示范线，实现全流程稳定达产运行，产品碳酸铯、碳酸铷纯度均达到99.9%以上，并已上市销售。该示范线的达产运行标志着我国低品位伴生铷铯资源高效绿色分离技术取得重要突破，为我国铷铯资源的高效、绿色利用提供了坚实保障。</description>
     </item>
   </channel>
 </rss>
