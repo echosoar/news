@@ -4,12 +4,18 @@
     <title>News 2026-09-09</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-09</description>
-    <lastBuildDate>Tue, 08 Sep 2026 11:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:32:00 +0000</lastBuildDate>
     <item>
       <title>受贿1.48亿余元 金湘军一审被判死缓</title>
       <link>https://china.caixin.com/2026-09-08/102482845.html</link>
       <pubDate>Tue, 08 Sep 2026 09:50:29 +0000</pubDate>
       <description>2026年9月8日，河南省信阳市中级人民法院一审公开宣判山西省委原副书记、省政府原省长金湘军受贿一案。法院以受贿罪判处金湘军死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；对其受贿所得财物及孳息依法追缴上缴国库，不足部分继续追缴。经审理查明，金湘军利用职务便利为他人谋利，非法收受财物共计折合人民币1.48亿余元，受贿行为横跨三个省份。该案于2026年6月11日开庭审理，金湘军当庭表示认罪悔罪。至此，2026年已有38名落马中管干部领刑。</description>
+    </item>
+    <item>
+      <title>董建华先生逝世</title>
+      <link>https://news.cctv.com/2026/09/09/ARTIk17IUFFCi0g5ZqZSE2Y0260909.shtml</link>
+      <pubDate>Wed, 09 Sep 2026 03:40:28 +0000</pubDate>
+      <description>新华社北京9月9日电 “一国两制”杰出贡献者，著名的爱国人士，杰出的社会活动家，中国共产党的亲密朋友，中国人民政治协商会议第十届、十一届、十二届、十三届全国委员会副主席，香港特别行政区第一任、第二任行政长官董建华先生，因病于2026年9月8日21时57分在香港逝世，享年89岁。</description>
     </item>
     <item>
       <title>华为发布搭载麒麟9050 Pro的Mate XT 2</title>
@@ -36,6 +42,18 @@
       <description>9月7日，小米举行秋季旗舰新品发布会，推出首款万元折叠屏手机小米18 Fold（起售价10999元）及四款澎程增程SUV（售价20.99万至29.99万元）。当前小米面临多重压力：存储涨价导致手机物料成本飙升，二季度手机出货量同比下降26.5%，毛利率降至8.5%；新能源购置税补贴退坡及增程赛道萎缩，汽车月交付量停在3万辆左右；IoT业务连续两季度下滑。上半年经调整净利润同比下降42.8%。发布会上，雷军介绍自研玄戒芯片及研发投入，试图以技术能力建立高端定价权。18 Fold定价与华为持平，是小米首次在万元价位放弃价格差竞争；澎程系列则较预售价直降2至3万元，继续沿用价格换规模策略。小米汽车累计交付超80万辆，但增程市场整体萎缩，纯电已在大空间SUV细分市场反超。小米能否在高价位建立品牌信用，尚待四季度销量验证。</description>
     </item>
     <item>
+      <title>Meta发布个人AI智能体Muse 月费最高100美元</title>
+      <link>https://news.futunn.com/post/78974280/meta-launches-ai-personal-agent-muse-monthly-fee-up-to</link>
+      <pubDate>Wed, 09 Sep 2026 03:25:00 +0000</pubDate>
+      <description>Meta正式推出个人AI智能体应用Muse，主打替用户实际完成数字化任务，如预约服务、填写表格、管理购物等。产品初期免费，后续将推出每月20美元和100美元两档付费订阅。Muse运行在独立安全虚拟机中，用户需连接邮箱、日历等第三方服务。Meta希望通过该产品开辟广告之外的收入来源，并面临用户信任与隐私安全的考验。</description>
+    </item>
+    <item>
+      <title>小米回应澎程试驾冲上绿化带：误踩油门所致，无人受伤</title>
+      <link>https://finance.sina.com.cn/tech/2026-09-09/doc-iniresye4017072.shtml</link>
+      <pubDate>Wed, 09 Sep 2026 04:32:00 +0000</pubDate>
+      <description>9月8日晚，一辆小米澎程汽车在试驾过程中冲出车道，停在绿化带草坪上，引发网络热议。小米官方通过@小米辟谣发布声明称，事故系客户试驾时在路口转弯为前车让道，因紧张误将油门当刹车踩下所致，过程中无人受伤。此前，小米于9月7日秋季旗舰新品发布会上发布了澎程N70 Pro、N70 Max、N90 Max及N90 Max探索版四款新车。目前小米汽车已在全国开设超过200家销售门店并提供试驾服务。</description>
+    </item>
+    <item>
       <title>Firmus与OpenAI达成多年期合作，将在马来西亚部署AI算力</title>
       <link>https://news.futunn.com/post/78931829/major-deal-resurfaces-in-ai-computing-sector-firmus-and-openai</link>
       <pubDate>Tue, 08 Sep 2026 10:39:16 +0000</pubDate>
@@ -46,6 +64,12 @@
       <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1173227&amp;sid=21</link>
       <pubDate>Tue, 08 Sep 2026 10:19:00 +0000</pubDate>
       <description>DeepSeek于9月8日在官方交流群发布通知，启动V4.1 Flash中间版本的内测。该模型采用全新结构，原生支持多模态，能力更强、速度更快且成本更低。其base_url保持不变，用户将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与DeepSeek V4 Flash相同，每账号限流20并发。此前，DeepSeek V4 Flash正式版API已于7月底上线公测，Agent能力大幅增强，并推出V4 Flash Vision Exp多模态视觉理解模型，支持图片输入及多种图片格式。</description>
+    </item>
+    <item>
+      <title>“国家反诈AI”App正式上线 提供智能问答反诈服务</title>
+      <link>https://m.ithome.com/html/999988.htm</link>
+      <pubDate>Wed, 09 Sep 2026 01:00:59 +0000</pubDate>
+      <description>由公安部刑事侦查局指导、上海市公安局自主研发的“国家反诈AI”App已于近日正式上线。该应用依托AI大模型智能问答系统，用户可输入具体场景，系统将从诈骗风险分析、类型识别及防范建议等维度回复，并关联相关视频案例。民警提醒，提问时应尽量描述完整场景。该功能已在实战中发挥作用，近日上海奉贤民警利用该App识别出市民李女士手机中的涉诈软件，成功劝阻其邮寄黄金。除智能问答外，App还设有反诈资讯板块和反诈辞典板块，提供图文短视频预警及电子版宣传手册。目前该App已在各大应用商店上线，微信、支付宝小程序同步开放，并提供普通版、长者版和国际版三个版本，其中长者版优化了字体和界面，国际版面向外国用户。</description>
     </item>
   </channel>
 </rss>
