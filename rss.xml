@@ -4,7 +4,7 @@
     <title>News 2026-09-10</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-10</description>
-    <lastBuildDate>Wed, 09 Sep 2026 14:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:08:45 +0000</lastBuildDate>
     <item>
       <title>DeepSeek拟科创板IPO 已聘请中信证券筹备</title>
       <link>https://finance.sina.com.cn/tech/digi/2026-09-09/doc-inirfivw8575652.shtml</link>
@@ -16,6 +16,12 @@
       <link>https://www.ifanr.com/1679218</link>
       <pubDate>Wed, 09 Sep 2026 07:47:48 +0000</pubDate>
       <description>OpenAI于近日宣布，其内部AI系统成功完成了对纳维-斯托克斯方程存在性与光滑性问题的解答，并公开了相关论文及Lean形式化证明。该问题是克雷数学研究所于2000年提出的七个千禧年大奖难题之一。OpenAI表示，这一成果由一个内部多智能体系统完成，背后模型能力显著超过GPT-6 Astra。约1万个AI Agent于9月1日起分工探索，最终在9月5日获得结果，耗时约88小时，随后又用17小时完成形式化验证，期间共发送约490万条消息。OpenAI研究员陈立杰表示，现实发展速度超过预期，称这是一座不可思议的时代。与此同时，该成果引发研究优先权争议。纽约大学流体力学专家Tristan Buckmaster表示，自己此前已与Anthropic研究员合作，在相关方程上取得多项突破，并已准备发布论文。他质疑OpenAI研究描述不完整，但未直接指控抄袭。OpenAI否认使用用户数据来解决该问题。</description>
+    </item>
+    <item>
+      <title>国际打击电信网络诈骗联盟正式成立</title>
+      <link>https://news.cctv.com/2026/09/10/ARTInTFkoc52qMFRkO2LW4Se260910.shtml</link>
+      <pubDate>Thu, 10 Sep 2026 03:00:28 +0000</pubDate>
+      <description>9月10日，国际打击电信网络诈骗联盟成立大会在中国江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表参加大会。各方共同发布了《关于成立国际打击电信网络诈骗联盟的联合声明》。声明指出，电信网络诈骗正在成为世界公害，建立一个以国际公约为基础，更聚焦、更专业、更高效、更具行动性的政府间国际组织，对于共同应对和打击电信网络诈骗及关联犯罪，保护各国公民、法人及其他组织的安全与合法权益具有现实意义和积极作用。基于共同愿景与共识，各方同意共同发起建立国际打击电信网络诈骗联盟。据悉，该联盟是为深入践行全球安全倡议、全球治理倡议，由中国政府发起，旨在建立各国执法部门广泛参与，以有效应对跨国电信网络诈骗犯罪及关联犯罪为核心职能，具有一定行动和协调能力、专业性的政府间国际组织。</description>
     </item>
     <item>
       <title>Meta推出个人AI智能体Muse 可代用户处理日常事务</title>
@@ -52,6 +58,24 @@
       <link>http://www.chinanews.com//gn/2026/09-09/10693152.shtml</link>
       <pubDate>Wed, 09 Sep 2026 07:04:49 +0000</pubDate>
       <description>近日，由中国科学院过程工程研究所、赣锋锂业等合作建成的全球首套年产500吨连续塔式萃取分离特色锂矿石伴生低品位铷铯示范线，实现全流程稳定达产运行，产品碳酸铯、碳酸铷纯度均达到99.9%以上，并已上市销售。该示范线的达产运行标志着我国低品位伴生铷铯资源高效绿色分离技术取得重要突破，为我国铷铯资源的高效、绿色利用提供了坚实保障。</description>
+    </item>
+    <item>
+      <title>星宇股份年报现重大数据错误：劳务外包费用2.44万亿元 达年营收184倍</title>
+      <link>https://finance.sina.com.cn/stock/relnews/2026-09-10/doc-iniriaey5317313.shtml</link>
+      <pubDate>Thu, 10 Sep 2026 04:08:45 +0000</pubDate>
+      <description>星宇股份2024年年报披露的劳务外包费用高达2.44万亿元，是其年营收132.5亿元的184倍，明显违背商业常识。同期披露的外包工时为863.82万小时，与费用数据严重不匹配。此前，该公司年报还曾出现董事年龄数据错误。截至目前，星宇股份尚未发布更正公告。该事件引发市场对公司信息披露质量和内控能力的质疑。</description>
+    </item>
+    <item>
+      <title>苹果推出iPhone Handoff功能：允许两个iPhone共用同一手机号码</title>
+      <link>https://www.chinaz.com/2026/0910/1776226.shtml</link>
+      <pubDate>Thu, 10 Sep 2026 00:19:36 +0000</pubDate>
+      <description>苹果在今日发布会上正式推出iPhone Handoff功能，支持两部iPhone共用同一个电话号码实现接力使用。该功能并非简单的iPad或Mac接打电话中继方案，而是真正的蜂窝号码级共享：两台iPhone均升级至iOS 27后，用户将其中一台设为主设备、另一台作为备用机，主iPhone保留原有eSIM，系统会生成附属eSIM下发至备用机，两部设备即可共用同一手机号。不过，该功能不支持两台手机同时待机，同一时刻仅一台设备处于蜂窝激活状态，用户可一键切换号码所在设备，来电与流量跟随当前激活的机器。所有蜂窝套餐及话费设置均在主iPhone端统一管理，备用机无权修改套餐。典型使用场景包括携带轻薄旧iPhone作为备用机、主力机维修或充电时无缝切换号码、以及未来折叠iPhone在多设备间快速切换。设置路径为“设置-蜂窝网络-iPhone Handoff”，需配对两台登录同一Apple ID的iPhone，确认主副设备后完成附属eSIM下发。但目前该功能高度依赖运营商支持，首批测试仅面向美国T-Mobile与德国电信，国内三大运营商尚未官宣适配，能否在国内落地仍不确定，且要求两台支持eSIM的iPhone均升级至iOS 26正式版。</description>
+    </item>
+    <item>
+      <title>AI瓶颈大辩论：2027顶峰瓶颈 vs 2028产能释放与定价崩塌</title>
+      <link>https://wallstreetcn.com/articles/3781456</link>
+      <pubDate>Thu, 10 Sep 2026 02:35:00 +0000</pubDate>
+      <description>华尔街见闻刊文讨论关于AI行业未来瓶颈的两大对立观点。一方认为，AI发展可能在2027年遭遇顶峰瓶颈，算力、数据或模型能力增长将面临硬性约束；另一方则预期，到2028年将出现产能大规模释放，并可能引发定价崩塌，即算力或相关服务供给激增导致价格显著下降。文章呈现了这场辩论的核心分歧，但未给出明确结论或具体数据支撑。</description>
     </item>
   </channel>
 </rss>
