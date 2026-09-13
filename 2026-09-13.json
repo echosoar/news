@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T05:49:51Z",
+  "generated_at": "2026-09-13T15:57:12Z",
   "summary": [
     {
       "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
@@ -320,6 +320,130 @@
         }
       ],
       "summary": "百度于9月13日宣布，旗下百家号App将于9月22日正式更名为“百度直播伴侣”，未来将聚焦为用户提供直播相关功能。百度表示，此次更名不会影响用户原有权益，账号信息、历史创作数据及已获得的收益均保持不变。调整后，非直播创作者可前往百度App的“我的-创作中心”继续发布和管理文章；直播创作者则可继续通过更名后的“百度直播伴侣”App开展直播相关操作。"
+    },
+    {
+      "title": "Dario提出全球AI限速三步计划 奥特曼马斯克发声支持",
+      "tags": [
+        "AI安全",
+        "前沿AI限速",
+        "Dario Amodei",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/09/488380.html",
+          "title": "OpenAI年内不上市了，奥特曼支持对手Dario呼吁：AI该踩刹车了",
+          "origin": "量子位",
+          "time": 1789272336
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3781639",
+          "title": "死敌罕见联手，马斯克、Aaltman支持Dario Amodei全球放缓AI呼吁",
+          "origin": "华尔街见闻",
+          "time": 1789265157
+        },
+        {
+          "link": "https://news.futunn.com/post/79184629/unlikely-alliance-between-rivals-musk-and-altman-back-dario-amodei",
+          "title": "死敌罕见联手，马斯克、Aaltman支持Dario Amodei全球放缓AI呼吁",
+          "origin": "富途牛牛",
+          "time": 1789265100
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wNWnFp2B3I",
+          "title": "Dario提全球AI限速三步计划，奥特曼马斯克第一时间支持",
+          "origin": "凤凰科技",
+          "time": 1789256406
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wNzqMMPp6G",
+          "title": "奥特曼称OpenAI今年不上市，任何AI灭绝风险都不可接受",
+          "origin": "凤凰科技",
+          "time": 1789280986
+        },
+        {
+          "link": "https://www.huxiu.com/article/4890820.html",
+          "title": "阿尔特曼、马斯克，同时给AI踩刹车",
+          "origin": "虎嗅",
+          "time": 1789306790
+        }
+      ],
+      "summary": "Anthropic CEO Dario Amodei发文呼吁全球头部AI公司主动放慢前沿模型研发速度，并给出三步方案：Anthropic先行引入第三方驻场评估；头部公司协调统一安全标准；最终建立跨国安全体系。他警告称，AI正逼近递归自我改进（RSI）临界点，留给人类介入的时间可能仅有6到12个月，并提及OpenAI Agent攻击Hugging Face等真实安全事故。OpenAI CEO奥特曼第一时间表示支持，并透露OpenAI今年不会IPO，理由是安全优先；马斯克也表示认同。此外，哈萨比斯、卡帕西等AI界人士亦纷纷响应。"
+    },
+    {
+      "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "AI安全",
+        "IPO",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpai0779205.shtml",
+          "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+          "origin": "新浪新闻",
+          "time": 1789260233
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1577652.htm",
+          "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+          "origin": "cnBeta",
+          "time": 1789248420
+        }
+      ],
+      "summary": "OpenAI首席执行官Sam Altman在接受采访时表示，公司专注于解决AI技术的安全担忧，今年不会上市。他认为今年进行首次公开募股“时机不合适”，公司要到明年才会上市。Altman强调，哪怕冒着10%在本十年结束前杀死所有人的风险都是不可接受的，人类不能采取任何可能导致AI夺走未来控制权的行动。在他发表上述言论之际，Anthropic首席执行官Dario Amodei和马斯克也公开表示有必要放慢AI发展步伐，这是该领域三家主要竞争对手领导人罕见达成一致。OpenAI已于6月以保密形式提交IPO文件，但上市时间仍未确定；Anthropic也在为上市做准备。"
+    },
+    {
+      "title": "一列开往波兰华沙的列车在乌克兰遭无人机撞击",
+      "tags": [
+        "乌克兰",
+        "无人机",
+        "列车遭袭",
+        "波兰",
+        "华沙"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/09/13/ARTIn9tnug3Xq3Ypl6urT5b0260913.shtml",
+          "title": "一列开往波兰华沙的列车在乌克兰遭无人机撞击",
+          "origin": "CCTV",
+          "time": 1789305977
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202609/13/AP6aa6938ee4b01d54a28300f1.html",
+          "title": "一列开往波兰华沙的列车在乌克兰遭无人机撞击",
+          "origin": "文汇网",
+          "time": 1789304731
+        }
+      ],
+      "summary": "波兰国家铁路公司13日发布消息称，一列开往波兰华沙的列车在乌克兰境内遭无人机撞击，目前伤亡情况不详。"
+    },
+    {
+      "title": "四家前沿AI实验室负责人联合呼吁放缓AI开发速度",
+      "tags": [
+        "AI安全",
+        "前沿AI",
+        "减速共识",
+        "Agent风险",
+        "OpenAI"
+      ],
+      "links": [
+        {
+          "link": "https://www.huxiu.com/article/4890787.html",
+          "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
+          "origin": "虎嗅",
+          "time": 1789289324
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wOASwActxc",
+          "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
+          "origin": "凤凰科技",
+          "time": 1789290422
+        }
+      ],
+      "summary": "2026年9月12日，Anthropic CEO达里奥·阿莫迪发文呼吁前沿AI减速，并提出三步方案：引入第三方评测人员进入实验室、行业建立共同能力安全标准、扩展至全球协调。随后，OpenAI CEO奥特曼、xAI CEO马斯克、Google DeepMind主席哈萨比斯公开表示赞同。奥特曼透露出于安全对齐考虑，OpenAI不会在2026年上市。阿莫迪提及Hugging Face事故，认为半年到一年后类似Agent群可能组建僵尸网络造成数千亿美元损失。OpenAI已暂停部分前沿模型训练。Anthropic在呼吁减速同时被曝筹备最高1000亿美元上市。Meta CEO扎克伯格未响应减速呼吁，认为放慢美国模型发布将让领先优势让给海外竞争者。"
     }
   ]
 }

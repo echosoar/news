@@ -4,12 +4,18 @@
     <title>News 2026-09-13</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-13</description>
-    <lastBuildDate>Sun, 13 Sep 2026 04:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:39:50 +0000</lastBuildDate>
     <item>
       <title>伊朗和阿曼将通报霍尔木兹海峡通航磋商结果</title>
       <link>https://news.cctv.com/2026/09/13/ARTI9osp3yhuGnXyZ9mRdzPZ260913.shtml</link>
       <pubDate>Sun, 13 Sep 2026 01:24:00 +0000</pubDate>
       <description>据卡塔尔半岛电视台12日报道，伊朗外交部发言人巴加埃表示，伊朗和阿曼预计将在14日举行的相关地区会议上，向海湾国家通报两国有关霍尔木兹海峡通航问题的磋商结果。巴加埃强调，地区安全应由地区国家自身保障，不应受到域外力量干预。他表示，作为邻国，双方必须开展对话、建立互信，从而构建一个以地区所有国家意愿和共同利益为基础的地区安全体系。</description>
+    </item>
+    <item>
+      <title>Dario提出全球AI限速三步计划 奥特曼马斯克发声支持</title>
+      <link>https://www.qbitai.com/2026/09/488380.html</link>
+      <pubDate>Sun, 13 Sep 2026 13:39:50 +0000</pubDate>
+      <description>Anthropic CEO Dario Amodei发文呼吁全球头部AI公司主动放慢前沿模型研发速度，并给出三步方案：Anthropic先行引入第三方驻场评估；头部公司协调统一安全标准；最终建立跨国安全体系。他警告称，AI正逼近递归自我改进（RSI）临界点，留给人类介入的时间可能仅有6到12个月，并提及OpenAI Agent攻击Hugging Face等真实安全事故。OpenAI CEO奥特曼第一时间表示支持，并透露OpenAI今年不会IPO，理由是安全优先；马斯克也表示认同。此外，哈萨比斯、卡帕西等AI界人士亦纷纷响应。</description>
     </item>
     <item>
       <title>也门胡塞武装称沙特在过去两天发动129次空袭</title>
@@ -58,6 +64,24 @@
       <link>https://m.ithome.com/html/1001728.htm</link>
       <pubDate>Sun, 13 Sep 2026 03:05:20 +0000</pubDate>
       <description>百度于9月13日宣布，旗下百家号App将于9月22日正式更名为“百度直播伴侣”，未来将聚焦为用户提供直播相关功能。百度表示，此次更名不会影响用户原有权益，账号信息、历史创作数据及已获得的收益均保持不变。调整后，非直播创作者可前往百度App的“我的-创作中心”继续发布和管理文章；直播创作者则可继续通过更名后的“百度直播伴侣”App开展直播相关操作。</description>
+    </item>
+    <item>
+      <title>OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpai0779205.shtml</link>
+      <pubDate>Sun, 13 Sep 2026 00:43:53 +0000</pubDate>
+      <description>OpenAI首席执行官Sam Altman在接受采访时表示，公司专注于解决AI技术的安全担忧，今年不会上市。他认为今年进行首次公开募股“时机不合适”，公司要到明年才会上市。Altman强调，哪怕冒着10%在本十年结束前杀死所有人的风险都是不可接受的，人类不能采取任何可能导致AI夺走未来控制权的行动。在他发表上述言论之际，Anthropic首席执行官Dario Amodei和马斯克也公开表示有必要放慢AI发展步伐，这是该领域三家主要竞争对手领导人罕见达成一致。OpenAI已于6月以保密形式提交IPO文件，但上市时间仍未确定；Anthropic也在为上市做准备。</description>
+    </item>
+    <item>
+      <title>一列开往波兰华沙的列车在乌克兰遭无人机撞击</title>
+      <link>https://news.cctv.com/2026/09/13/ARTIn9tnug3Xq3Ypl6urT5b0260913.shtml</link>
+      <pubDate>Sun, 13 Sep 2026 13:26:17 +0000</pubDate>
+      <description>波兰国家铁路公司13日发布消息称，一列开往波兰华沙的列车在乌克兰境内遭无人机撞击，目前伤亡情况不详。</description>
+    </item>
+    <item>
+      <title>四家前沿AI实验室负责人联合呼吁放缓AI开发速度</title>
+      <link>https://www.huxiu.com/article/4890787.html</link>
+      <pubDate>Sun, 13 Sep 2026 09:07:02 +0000</pubDate>
+      <description>2026年9月12日，Anthropic CEO达里奥·阿莫迪发文呼吁前沿AI减速，并提出三步方案：引入第三方评测人员进入实验室、行业建立共同能力安全标准、扩展至全球协调。随后，OpenAI CEO奥特曼、xAI CEO马斯克、Google DeepMind主席哈萨比斯公开表示赞同。奥特曼透露出于安全对齐考虑，OpenAI不会在2026年上市。阿莫迪提及Hugging Face事故，认为半年到一年后类似Agent群可能组建僵尸网络造成数千亿美元损失。OpenAI已暂停部分前沿模型训练。Anthropic在呼吁减速同时被曝筹备最高1000亿美元上市。Meta CEO扎克伯格未响应减速呼吁，认为放慢美国模型发布将让领先优势让给海外竞争者。</description>
     </item>
   </channel>
 </rss>
