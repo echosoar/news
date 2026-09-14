@@ -1,12 +1,12 @@
 {
   "tag": "Vera Rubin",
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "summary": [
     {
       "title": "Anthropic豪掷450亿美元租用Nscale算力 2027年底启用英伟达Vera Rubin芯片",
       "tags": [
         "Anthropic",
-        "AI算力",
+        "AI",
         "Nscale",
         "英伟达",
         "Vera Rubin"
@@ -19,7 +19,7 @@
       "tags": [
         "英伟达",
         "Groq 3",
-        "AI芯片",
+        "AI",
         "推理效率",
         "Vera Rubin"
       ],

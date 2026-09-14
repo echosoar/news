@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "tags": [
+    {
+      "tag": "AI",
+      "count": 362,
+      "file": "tags/AI.json"
+    },
     {
       "tag": "美国",
       "count": 133,
@@ -20,11 +25,6 @@
       "tag": "国际",
       "count": 104,
       "file": "tags/国际.json"
-    },
-    {
-      "tag": "AI",
-      "count": 103,
-      "file": "tags/AI.json"
     },
     {
       "tag": "中国",
@@ -192,16 +192,6 @@
       "file": "tags/黎巴嫩.json"
     },
     {
-      "tag": "AI安全",
-      "count": 23,
-      "file": "tags/AI安全.json"
-    },
-    {
-      "tag": "AI芯片",
-      "count": 22,
-      "file": "tags/AI芯片.json"
-    },
-    {
       "tag": "网络安全",
       "count": 22,
       "file": "tags/网络安全.json"
@@ -232,11 +222,6 @@
       "file": "tags/联合国.json"
     },
     {
-      "tag": "AI模型",
-      "count": 19,
-      "file": "tags/AI模型.json"
-    },
-    {
       "tag": "DeepSeek",
       "count": 19,
       "file": "tags/DeepSeek.json"
@@ -250,11 +235,6 @@
       "tag": "特斯拉",
       "count": 19,
       "file": "tags/特斯拉.json"
-    },
-    {
-      "tag": "AI大模型",
-      "count": 18,
-      "file": "tags/AI大模型.json"
     },
     {
       "tag": "三星",
@@ -327,11 +307,6 @@
       "file": "tags/菲律宾.json"
     },
     {
-      "tag": "AI算力",
-      "count": 15,
-      "file": "tags/AI算力.json"
-    },
-    {
       "tag": "华为",
       "count": 15,
       "file": "tags/华为.json"
@@ -402,6 +377,11 @@
       "file": "tags/美伊冲突.json"
     },
     {
+      "tag": "GPT",
+      "count": 13,
+      "file": "tags/GPT.json"
+    },
+    {
       "tag": "交通事故",
       "count": 13,
       "file": "tags/交通事故.json"
@@ -427,11 +407,6 @@
       "file": "tags/政治.json"
     },
     {
-      "tag": "英国",
-      "count": 13,
-      "file": "tags/英国.json"
-    },
-    {
       "tag": "谷歌",
       "count": 13,
       "file": "tags/谷歌.json"
@@ -452,14 +427,14 @@
       "file": "tags/沙特.json"
     },
     {
+      "tag": "英国",
+      "count": 12,
+      "file": "tags/英国.json"
+    },
+    {
       "tag": "西藏吉隆",
       "count": 12,
       "file": "tags/西藏吉隆.json"
-    },
-    {
-      "tag": "AI监管",
-      "count": 11,
-      "file": "tags/AI监管.json"
     },
     {
       "tag": "中美关系",
@@ -505,11 +480,6 @@
       "tag": "财报",
       "count": 11,
       "file": "tags/财报.json"
-    },
-    {
-      "tag": "AI投资",
-      "count": 10,
-      "file": "tags/AI投资.json"
     },
     {
       "tag": "具身智能",
@@ -722,14 +692,14 @@
       "file": "tags/黄仁勋.json"
     },
     {
-      "tag": "AI应用",
-      "count": 7,
-      "file": "tags/AI应用.json"
-    },
-    {
       "tag": "Siri",
       "count": 7,
       "file": "tags/Siri.json"
+    },
+    {
+      "tag": "iOS",
+      "count": 7,
+      "file": "tags/iOS.json"
     },
     {
       "tag": "iPhone",
@@ -835,11 +805,6 @@
       "tag": "黄岩岛",
       "count": 7,
       "file": "tags/黄岩岛.json"
-    },
-    {
-      "tag": "AI编程",
-      "count": 6,
-      "file": "tags/AI编程.json"
     },
     {
       "tag": "Claude",
@@ -1012,19 +977,9 @@
       "file": "tags/长鑫存储.json"
     },
     {
-      "tag": "AI智能体",
-      "count": 5,
-      "file": "tags/AI智能体.json"
-    },
-    {
       "tag": "AMD",
       "count": 5,
       "file": "tags/AMD.json"
-    },
-    {
-      "tag": "GPT-5.6",
-      "count": 5,
-      "file": "tags/GPT-5.6.json"
     },
     {
       "tag": "上海",
@@ -1252,19 +1207,14 @@
       "file": "tags/防汛.json"
     },
     {
-      "tag": "AI助手",
-      "count": 4,
-      "file": "tags/AI助手.json"
-    },
-    {
       "tag": "Grok",
       "count": 4,
       "file": "tags/Grok.json"
     },
     {
-      "tag": "LPDDR6",
+      "tag": "LPDDR",
       "count": 4,
-      "file": "tags/LPDDR6.json"
+      "file": "tags/LPDDR.json"
     },
     {
       "tag": "NASA",
@@ -1607,61 +1557,6 @@
       "file": "tags/AGI.json"
     },
     {
-      "tag": "AI办公",
-      "count": 3,
-      "file": "tags/AI办公.json"
-    },
-    {
-      "tag": "AI基建",
-      "count": 3,
-      "file": "tags/AI基建.json"
-    },
-    {
-      "tag": "AI基础设施",
-      "count": 3,
-      "file": "tags/AI基础设施.json"
-    },
-    {
-      "tag": "AI技术",
-      "count": 3,
-      "file": "tags/AI技术.json"
-    },
-    {
-      "tag": "AI推理",
-      "count": 3,
-      "file": "tags/AI推理.json"
-    },
-    {
-      "tag": "AI数据中心",
-      "count": 3,
-      "file": "tags/AI数据中心.json"
-    },
-    {
-      "tag": "AI治理",
-      "count": 3,
-      "file": "tags/AI治理.json"
-    },
-    {
-      "tag": "AI眼镜",
-      "count": 3,
-      "file": "tags/AI眼镜.json"
-    },
-    {
-      "tag": "AI硬件",
-      "count": 3,
-      "file": "tags/AI硬件.json"
-    },
-    {
-      "tag": "AI融资",
-      "count": 3,
-      "file": "tags/AI融资.json"
-    },
-    {
-      "tag": "AI行业",
-      "count": 3,
-      "file": "tags/AI行业.json"
-    },
-    {
       "tag": "Astra",
       "count": 3,
       "file": "tags/Astra.json"
@@ -1685,11 +1580,6 @@
       "tag": "FSD",
       "count": 3,
       "file": "tags/FSD.json"
-    },
-    {
-      "tag": "GPT-6",
-      "count": 3,
-      "file": "tags/GPT-6.json"
     },
     {
       "tag": "HBM",
@@ -1720,16 +1610,6 @@
       "tag": "Vera Rubin",
       "count": 3,
       "file": "tags/Vera Rubin.json"
-    },
-    {
-      "tag": "iOS",
-      "count": 3,
-      "file": "tags/iOS.json"
-    },
-    {
-      "tag": "iOS 27",
-      "count": 3,
-      "file": "tags/iOS 27.json"
     },
     {
       "tag": "世卫组织",

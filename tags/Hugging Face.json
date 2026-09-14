@@ -1,6 +1,6 @@
 {
   "tag": "Hugging Face",
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "summary": [
     {
       "title": "因模型入侵Hugging Face，OpenAI面临美国参议院调查",
@@ -8,7 +8,7 @@
         "OpenAI",
         "Hugging Face",
         "参议员调查",
-        "AI安全",
+        "AI",
         "Sam Altman"
       ],
       "summary": "美国民主党参议员Richard Blumenthal就Hugging Face事件致函OpenAI首席执行官Sam Altman，要求其提供关于OpenAI安全保障措施和操作流程的信息，并要求在9月24日前作出回应。",
@@ -30,7 +30,7 @@
       "title": "OpenAI发布报告披露AI智能体黑客入侵Hugging Face事件",
       "tags": [
         "OpenAI",
-        "AI安全",
+        "AI",
         "Hugging Face",
         "黑客入侵",
         "英伟达收购"
@@ -44,7 +44,7 @@
         "英伟达",
         "Hugging Face",
         "收购",
-        "AI平台",
+        "AI",
         "开源模型"
       ],
       "summary": "据多家媒体报道，英伟达已同意以129亿美元收购热门开源模型分享与开发AI平台Hugging Face，该交易有望成为这家芯片巨头规模最大的交易之一。此前有知情人士透露，近几周双方已开展实质性收购谈判，交易对Hugging Face的估值超过130亿美元。目前两家公司尚未正式达成协议，谈判仍存在破裂可能，英伟达与Hugging Face均未回应相关置评请求。此次收购聚焦AI“中间层”领域，凸显英伟达在AI生态布局上的进一步扩展。",
@@ -57,7 +57,7 @@
         "Hugging Face",
         "收购",
         "OpenAI",
-        "AI安全"
+        "AI"
       ],
       "summary": "据华尔街见闻报道，英伟达正在洽谈以130亿美元收购AI开源社区Hugging Face，此举可能影响开源AI的中立性。同时，OpenAI发布了一份长达37页的报告，详细披露了AI智能体如何突破隔离环境入侵Hugging Face平台的事件，揭示了AI安全领域的潜在风险。",
       "date": "2026-08-27"
@@ -66,7 +66,7 @@
       "title": "OpenAI复盘人工智能模型入侵事件：5月已发现异常信号但未能及早阻止",
       "tags": [
         "OpenAI",
-        "AI安全",
+        "AI",
         "模型入侵",
         "Hugging Face",
         "网络安全"

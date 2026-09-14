@@ -1,13 +1,13 @@
 {
   "tag": "开发者工具",
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "summary": [
     {
       "title": "OpenAI推出Agents API公测版，向开发者开放Codex底层基础设施",
       "tags": [
         "OpenAI",
         "Agents API",
-        "AI代理",
+        "AI",
         "开发者工具",
         "Codex"
       ],
@@ -18,7 +18,7 @@
       "title": "DeepSeek官方AI编程工具Harness开始内测",
       "tags": [
         "DeepSeek",
-        "AI编程",
+        "AI",
         "开发者工具"
       ],
       "summary": "",

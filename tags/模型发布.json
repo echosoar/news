@@ -1,12 +1,12 @@
 {
   "tag": "模型发布",
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "summary": [
     {
       "title": "OpenAI向付费用户推出GPT-6 Astra模型",
       "tags": [
         "OpenAI",
-        "GPT-6 Astra",
+        "GPT",
         "人工智能",
         "模型发布",
         "网络安全"
@@ -17,7 +17,7 @@
     {
       "title": "OpenAI因网络安全风险延缓Astra模型发布，奥特曼称该模型表现超出预期",
       "tags": [
-        "AI大模型",
+        "AI",
         "OpenAI",
         "网络安全",
         "模型发布"
@@ -28,7 +28,7 @@
     {
       "title": "Anthropic发布最强AI大模型Fable 5和Mythos 5 公开版分层发售",
       "tags": [
-        "AI大模型",
+        "AI",
         "Anthropic",
         "Claude",
         "模型发布",

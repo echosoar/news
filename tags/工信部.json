@@ -1,6 +1,6 @@
 {
   "tag": "工信部",
-  "generated_at": "2026-09-14T23:22:59Z",
+  "generated_at": "2026-09-14T23:51:53Z",
   "summary": [
     {
       "title": "工信部印发《“人工智能+软件”专项行动实施方案》",
@@ -87,7 +87,7 @@
     {
       "title": "工信部提示AI编程工具Claude Code存在安全后门隐患",
       "tags": [
-        "AI安全",
+        "AI",
         "后门隐患",
         "工信部",
         "Claude Code"
