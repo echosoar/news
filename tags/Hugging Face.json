@@ -1,7 +1,19 @@
 {
   "tag": "Hugging Face",
-  "generated_at": "2026-09-07T03:38:53Z",
+  "generated_at": "2026-09-14T23:22:59Z",
   "summary": [
+    {
+      "title": "因模型入侵Hugging Face，OpenAI面临美国参议院调查",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "参议员调查",
+        "AI安全",
+        "Sam Altman"
+      ],
+      "summary": "美国民主党参议员Richard Blumenthal就Hugging Face事件致函OpenAI首席执行官Sam Altman，要求其提供关于OpenAI安全保障措施和操作流程的信息，并要求在9月24日前作出回应。",
+      "date": "2026-09-11"
+    },
     {
       "title": "英伟达接近以140亿美元收购AI公司Hugging Face，协议或本周达成",
       "tags": [

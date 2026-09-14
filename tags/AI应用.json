@@ -1,7 +1,19 @@
 {
   "tag": "AI应用",
-  "generated_at": "2026-09-07T03:38:53Z",
+  "generated_at": "2026-09-14T23:22:59Z",
   "summary": [
+    {
+      "title": "Arm推出Arm AI Portal，加速Arm平台AI应用优化与开发",
+      "tags": [
+        "Arm",
+        "AI Portal",
+        "AI应用",
+        "开发者",
+        "模型优化"
+      ],
+      "summary": "Arm推出了Arm AI Portal，将超过2200万开发者及其智能体连接至Arm计算平台上的优化AI软件，覆盖云、边缘和物理AI领域。该平台支持语言、语音、视觉及神经图形等多类AI工作负载，首批预优化模型包括阿里巴巴通义千问、Google Gemma及Ultralytics YOLO，支持的runtimes涵盖ExecuTorch、LiteRT及ONNX-RT。生态合作伙伴包括阿里巴巴、树莓派及Ultralytics。Arm表示，数十年来其持续构建软件生态系统，AI Portal将这一投入延伸至AI时代，帮助开发者发现并使用针对目标硬件优化的软件。",
+      "date": "2026-09-11"
+    },
     {
       "title": "字节跳动将TRAE和扣子团队并入豆包，将推统一办公品牌豆包工作",
       "tags": [

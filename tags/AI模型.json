@@ -1,7 +1,54 @@
 {
   "tag": "AI模型",
-  "generated_at": "2026-09-07T03:38:53Z",
+  "generated_at": "2026-09-14T23:22:59Z",
   "summary": [
+    {
+      "title": "英伟达、Palantir、博思艾伦将限制使用Anthropic模型",
+      "tags": [
+        "AI模型",
+        "数据隐私",
+        "Anthropic",
+        "英伟达",
+        "Palantir"
+      ],
+      "summary": "据媒体报道，英伟达、Palantir和博思艾伦·汉密尔顿（Booz Allen Hamilton）正要求AI供应商提供新的数据保证，并减少或停止使用OpenAI或Anthropic最先进的模型。知情人士称，Palantir已说服Anthropic同意保证旗下所有模型实行“不可撤销”的零数据保留（Zero Data Retention）政策。此外，对于较为敏感的业务任务，这些公司正更多使用内部开发的AI模型。",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
+      "tags": [
+        "OpenAI",
+        "美国政府",
+        "AI模型",
+        "五折优惠",
+        "GSA"
+      ],
+      "summary": "美国总务管理局（GSA）发布声明称，OpenAI将终止一项政府机构试点项目。该项目此前允许政府机构每年仅支付1美元使用其模型。新方案改为按用量计费，联邦工作人员使用OpenAI模型可享受标准售价五折优惠。该折扣不再局限于联邦政府，还将覆盖州政府、地方政府及部落政府。试点期间共有350家机构参与，包含OpenAI新款模型GPT-6 Astra。OpenAI于2025年与GSA签订协议后，竞争对手Anthropic也获得同等条件的每年1美元政府合同。Anthropic随后起诉美国政府，相关诉讼仍在审理中。加州法院法官上月裁定，特朗普政府必须解除联邦机构对Anthropic的使用禁令，但国防部可在自身业务范围内禁用该AI。另一桩相关诉讼仍在华盛顿法院推进，合议庭尚未就另一项法律争议作出裁决。",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "OpenAI高管：Astra需求空前，必要时将暂停Pro新订阅",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "订阅暂停",
+        "算力需求",
+        "AI模型"
+      ],
+      "summary": "OpenAI Codex负责人蒂博·索蒂奥近日表示，用户对GPT-6 Astra模型的需求“前所未有”，公司正调动全部资源保障供应。他透露，若需求持续高涨，可能会临时暂停新的Pro订阅，以优先保障现有用户体验。此前Astra上线时曾遭遇算力瓶颈，部分付费用户无法访问，OpenAI随后对额度消耗机制进行了优化。索蒂奥强调，此举属于配额限制，并非模型能力降级，现有用户的订阅服务不会终止。",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash开始内测：新结构原生多模态，能力速度成本全面优化",
+      "tags": [
+        "DeepSeek",
+        "AI模型",
+        "多模态",
+        "内测"
+      ],
+      "summary": "DeepSeek于9月8日在官方交流群发布通知，启动V4.1 Flash中间版本的内测。该模型采用全新结构，原生支持多模态，能力更强、速度更快且成本更低。其base_url保持不变，用户将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与DeepSeek V4 Flash相同，每账号限流20并发。此前，DeepSeek V4 Flash正式版API已于7月底上线公测，Agent能力大幅增强，并推出V4 Flash Vision Exp多模态视觉理解模型，支持图片输入及多种图片格式。",
+      "date": "2026-09-09"
+    },
     {
       "title": "Anthropic发布Fable 5.1模型，性能成本安全三线升级剑指IPO",
       "tags": [
