@@ -43,10 +43,30 @@ jobs:
           GROUPS_DIR.mkdir(exist_ok=True)
 
           group_definitions = []
+          alias_definitions = []
           group_config = ROOT / "group.json"
           if group_config.exists():
               try:
                   group_payload = json.loads(group_config.read_text(encoding="utf-8"))
+                  raw_aliases = group_payload.get("alias")
+                  if isinstance(raw_aliases, dict):
+                      for raw_pattern, raw_targets in raw_aliases.items():
+                          pattern = str(raw_pattern).strip()
+                          if not pattern:
+                              continue
+                          targets = raw_targets if isinstance(raw_targets, list) else [raw_targets]
+                          normalized_targets = []
+                          for raw_target in targets:
+                              target = str(raw_target).strip()
+                              if target and target not in normalized_targets:
+                                  normalized_targets.append(target)
+                          alias_definitions.append(
+                              (
+                                  re.compile("^" + re.escape(pattern).replace(r"\*", ".*") + "$"),
+                                  normalized_targets,
+                              )
+                          )
+
                   raw_groups = group_payload.get("groups")
                   if isinstance(raw_groups, list):
                       for raw_group in raw_groups:
@@ -65,6 +85,25 @@ jobs:
                           group_definitions.append({"group": group_name, "tags": tags})
               except Exception:
                   pass
+
+          def resolve_aliases(tag):
+              aliases = []
+              matched = False
+              for pattern, targets in alias_definitions:
+                  if pattern.fullmatch(tag):
+                      matched = True
+                      for target in targets:
+                          if target not in aliases:
+                              aliases.append(target)
+              return aliases if matched else [tag]
+
+          for group_item in group_definitions:
+              resolved_tags = []
+              for tag in group_item["tags"]:
+                  for resolved_tag in resolve_aliases(tag):
+                      if resolved_tag not in resolved_tags:
+                          resolved_tags.append(resolved_tag)
+              group_item["tags"] = resolved_tags
 
           existing_tag_manifest = ROOT / "tags.json"
           stale_files = set()
@@ -105,9 +144,12 @@ jobs:
                   if isinstance(tags, list):
                       for raw_tag in tags:
                           normalized_tag = str(raw_tag).strip()
-                          if normalized_tag:
-                              tag_list.append(normalized_tag)
-                  if not tag_list:
+                          if not normalized_tag:
+                              continue
+                          for resolved_tag in resolve_aliases(normalized_tag):
+                              if resolved_tag not in tag_list:
+                                  tag_list.append(resolved_tag)
+                  if not isinstance(tags, list) or not tags:
                       tag_list = ["未分类"]
 
                   sort_date = file_path.stem
@@ -115,6 +157,7 @@ jobs:
                       sort_date = date_value
 
                   normalized = copy.deepcopy(item)
+                  normalized["tags"] = tag_list
                   normalized["date"] = date_value
                   normalized["_sort_date"] = sort_date
 
@@ -124,7 +167,7 @@ jobs:
                           "title": normalized.get("title"),
                           "summary": normalized.get("summary"),
                           "links": item.get("links"),
-                          "tags": normalized.get("tags"),
+                          "tags": tag_list,
                       },
                       ensure_ascii=False,
                       sort_keys=True,
