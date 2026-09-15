@@ -1,75 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-09-15</title>
+    <title>News 2026-09-16</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-09-15</description>
-    <lastBuildDate>Tue, 15 Sep 2026 04:51:18 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-09-16</description>
+    <lastBuildDate>Tue, 15 Sep 2026 14:51:33 +0000</lastBuildDate>
     <item>
-      <title>特朗普连线黄仁勋驳斥AI威胁论 称数据中心为“未来石油”</title>
-      <link>https://news.futunn.com/post/79253319/trump-speaks-with-jensen-huang-dismisses-ai-threats-as-a</link>
-      <pubDate>Tue, 15 Sep 2026 04:51:18 +0000</pubDate>
-      <description>英伟达CEO黄仁勋在洛杉矶“All-In峰会”上接听美国总统特朗普的现场来电，特朗普在通话中批评放缓AI研发的呼声，称其“要么出于政治动机，要么是其他国家的阴谋”，并将AI危险论斥为“骗局”。黄仁勋表示赞同，称特朗普看穿了问题的复杂性。近期，Anthropic研究员雅各布·考克森辞职并警告AI公司“拿我们的生命赌博”，随后Anthropic CEO达里奥·阿莫代发文提议放缓AI发展，获OpenAI CEO萨姆·奥尔特曼和SpaceX CEO埃隆·马斯克背书。周一，美国科技股因担忧支出放缓而大跌，英伟达股价下跌3.4%。特朗普则坚定支持数据中心建设，称其是“未来20年、25年的石油”，“比互联网更宏大”。黄仁勋虽承认应认真对待吹哨人，但认为恐慌在创新与安全之间制造了虚假对立。</description>
+      <title>特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数 整体缩减3-4毫米</title>
+      <link>https://finance.sina.com.cn/jjxw/2026-09-15/doc-inirwwmu8651998.shtml</link>
+      <pubDate>Tue, 15 Sep 2026 10:15:59 +0000</pubDate>
+      <description>特斯拉Model YL陷入后轮塌陷风波后，新浪科技获悉，特斯拉已修改Model YL车主手册中的车辆总高、离地间隙等参数，整体缩减3-4毫米不等。近日多位车主反馈，提车不到一年的Model YL在长途行驶等场景下出现后轮塌陷，后轮拱与轮胎缝隙明显变小，影响驾驶稳定性和安全性；还有车主在售后更换弹簧后不久再次塌陷，质疑是车辆通病。对比车主手册前后版本发现，今年4月版本中车辆总高为1668mm，载重离地间隙为122mm，未载重离地间隙为169mm；最新版本中分别缩减为1664mm、118mm和166mm。有车主担忧参数修改可能影响售后界定后轮塌陷标准及维修。截至发稿，特斯拉官方暂无回应，客服表示未接到相关通知。</description>
     </item>
     <item>
-      <title>英伟达、Palantir、博思艾伦将限制使用Anthropic模型</title>
-      <link>https://wallstreetcn.com/articles/3781723</link>
-      <pubDate>Mon, 14 Sep 2026 14:15:12 +0000</pubDate>
-      <description>据媒体报道，英伟达、Palantir和博思艾伦·汉密尔顿（Booz Allen Hamilton）正要求AI供应商提供新的数据保证，并减少或停止使用OpenAI或Anthropic最先进的模型。知情人士称，Palantir已说服Anthropic同意保证旗下所有模型实行“不可撤销”的零数据保留（Zero Data Retention）政策。此外，对于较为敏感的业务任务，这些公司正更多使用内部开发的AI模型。</description>
+      <title>特朗普称愿与伊朗谈判 提出美方要收“护航补偿”</title>
+      <link>https://wallstreetcn.com/articles/3781739</link>
+      <pubDate>Tue, 15 Sep 2026 03:05:33 +0000</pubDate>
+      <description>美国总统特朗普14日在社交媒体发布多条帖文为其对伊朗政策辩护。特朗普称对与伊朗谈判持“开放”态度，并表示伊朗“迫切”希望达成协议。他还称，美国正在帮助油轮通过霍尔木兹海峡，各国应当在冲突结束后对美国进行“护航补偿”。特朗普同时否认美军因伊朗战事出现弹药短缺，称美国目前生产的先进武器数量创下历史新高。他还将全美物价上涨归咎于拜登政府，称除油价暂时处于高位外其他物价正在回落，军事冲突结束后油价将暴跌。</description>
     </item>
     <item>
-      <title>特朗普回应AI减速呼吁：谁赢得AI谁就赢得一切</title>
-      <link>https://tech.ifeng.com/c/8wP9IwA2U9h</link>
-      <pubDate>Mon, 14 Sep 2026 04:58:00 +0000</pubDate>
-      <description>据路透社报道，美国总统特朗普周日回应AI行业减速呼声，将AI批评者称为“非常负面的力量”，认为他们提出的担忧不会发生。特朗普在爱尔兰表示，美国在AI领域领先中国，希望保持这一优势，因为“谁赢得AI，谁就赢得一切”。他同时表示可设置安全机制，但反对过度监管。此前，Anthropic CEO达里奥·阿莫代伊提出控制AI发展节奏的“三步框架”，得到马斯克、奥特曼等高管支持。特朗普在其第二任期内对AI企业持支持态度。</description>
-    </item>
-    <item>
-      <title>全球首个人工智能+脑机接口标准在我国发布</title>
-      <link>https://news.mydrivers.com/1/1150/1150935.htm</link>
-      <pubDate>Mon, 14 Sep 2026 07:31:16 +0000</pubDate>
-      <description>国家药监局近日批准发布我国第三个脑机接口医疗器械标准，这也是全球首个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准。新标准将于明年9月1日起正式实施，系统规范了脑机接口医疗器械在数据采集、处理、标注、存储和访问等全流程的技术要求和测试方法，旨在帮助企业解决数据集质量控制尺度不统一、建设过程不规范等共性问题。国家药监局表示，脑机接口医疗器械需通过“学习”大量脑电数据并“训练”人工智能算法来准确理解患者意图，新标准为研发生产提供了统一的脑电数据集“质量标尺”，达到国际领先水平。</description>
-    </item>
-    <item>
-      <title>马斯克旗下公司撤回对苹果诉讼 仍继续追究OpenAI</title>
-      <link>https://finance.sina.com.cn/tech/digi/2026-09-15/doc-inirvkks3962563.shtml</link>
-      <pubDate>Tue, 15 Sep 2026 02:48:55 +0000</pubDate>
-      <description>据路透社报道，马斯克旗下X公司与SpaceXAI于2026年9月14日在得克萨斯州联邦法院撤回针对苹果公司的反垄断诉讼。该诉讼始于2025年8月，指控苹果在Apple Intelligence功能中独家整合OpenAI的ChatGPT，排挤其他聊天机器人开发商，违反反垄断法，最初索赔数十亿美元。法庭文件未说明撤诉原因，也未提及是否达成和解。两家公司表示，将继续追究ChatGPT开发商OpenAI的相关诉求，OpenAI仍是本案被告之一。</description>
-    </item>
-    <item>
-      <title>美空军部长：美国已拥有在轨太空控制武器</title>
-      <link>https://news.cctv.com/2026/09/15/ARTIHbkU82PNOlwII1cj9gMc260915.shtml</link>
-      <pubDate>Tue, 15 Sep 2026 00:33:31 +0000</pubDate>
-      <description>据美国《华盛顿邮报》报道，美国空军部长特洛伊·迈因克14日表示，美国现已拥有在轨“太空控制武器”。《华盛顿邮报》援引一名匿名美国官员的话说，这一“新能力”可能包括摧毁对美国卫星进行攻击的敌方卫星。报道称，这是美国首次承认其在太空具备“进攻能力”。</description>
-    </item>
-    <item>
-      <title>甲骨文裁员13%落地 创始人取消逾75亿美元减持计划</title>
-      <link>https://news.futunn.com/post/79252229/oracle-s-ai-ledger-executes-two-strategic-reductions-implementing-a</link>
-      <pubDate>Mon, 14 Sep 2026 23:15:00 +0000</pubDate>
-      <description>甲骨文在AI战略调整中同时推进两项收缩举措：一是裁员13%的计划正式落地；二是创始人取消了原定超过75亿美元的减持计划。此举被市场视为甲骨文优化成本结构、稳定投资者信心的信号。</description>
-    </item>
-    <item>
-      <title>英伟达升级CUDA-Q平台，新增量子编排层以推动容错量子计算</title>
-      <link>https://news.mydrivers.com/1/1151/1151107.htm</link>
-      <pubDate>Mon, 14 Sep 2026 23:08:15 +0000</pubDate>
-      <description>英伟达宣布扩展其开源CUDA-Q平台，推出CUDA-Q Logical编排层，为容错量子计算应用开发提供可编程、可验证的工具，支持药物研发、金融建模和材料开发等场景。容错量子处理器和逻辑量子比特是实现实用量子计算的关键，但开发此类系统应用长期耗时费力。英伟达称，费米国家加速器实验室利用CUDA-Q Logical，将容错算法开发时间从约5个月缩短至3周，效率提升约7倍。Sandia国家实验室开发的量子计算基准QUOPS也已加入CUDA-Q，用于跨平台评估硬件进展。该平台已被多家量子处理器厂商和实验室采用。量子计算公司Iceberg Quantum利用CUDA-Q Logical建模，结果显示仅需15万个物理量子比特即可创建1000个逻辑量子比特，较此前估计减少约九成硬件规模。</description>
-    </item>
-    <item>
-      <title>美国空军部长称美拥有在轨太空控制武器</title>
-      <link>https://news.ifeng.com/c/8wQoTqsHtFx</link>
-      <pubDate>Mon, 14 Sep 2026 22:34:00 +0000</pubDate>
-      <description>美国空军部长特洛伊·迈因克当地时间14日在马里兰州举行的年度“航空、航天与网络会议”上发表讲话时称，美国已拥有“在轨”太空控制武器。据《华盛顿邮报》报道，这是美国首次承认其在太空具备“进攻能力”。</description>
-    </item>
-    <item>
-      <title>德国称暂停AI开发对欧洲不可行 呼吁中美参与AI治理</title>
-      <link>https://finance.sina.com.cn/tech/digi/2026-09-15/doc-inirveas7272578.shtml</link>
-      <pubDate>Tue, 15 Sep 2026 02:09:55 +0000</pubDate>
-      <description>德国数字事务部当地时间9月14日回应顶尖AI开发者提出的为AI系统设置安全防护的呼吁，表示停止AI研发对欧洲并非可行方案，强调推进AI研发与创新对巩固欧洲数字主权至关重要。该部门表示正密切关注全球AI发展动态，并重视AI研发人员的风险警示。发言人指出，若AI系统能脱离测试环境自行接入其他系统，将构成新型威胁场景，需新政策应对。同时，德国支持在AI治理领域开展国际协作，认为有效监管离不开美国与中国的共同参与，并已在七国集团（G7）层面推动相关讨论。</description>
-    </item>
-    <item>
-      <title>我国创新药出海再提速 今年对外授权突破1200亿美元</title>
-      <link>https://www.stdaily.com/web/gdxw/2026-09/15/content_580982.html</link>
-      <pubDate>Tue, 15 Sep 2026 01:16:25 +0000</pubDate>
-      <description>国家药监局在2026年全国药品安全宣传周启动仪式上发布数据，今年以来我国创新药对外授权交易总额突破1200亿美元，同比增长36%，首付款规模超百亿美元，呈现单笔平均交易金额稳步增长、首付款金额与占比双双提升、大额交易频发的特点。国家药监局持续深化监管改革，优化创新药临床试验审评审批机制，2025年全国登记新药临床试验达2900多项，同比增长18%，细胞与基因治疗药物临床试验数量年增长约30%。今年以来已有59个创新药、51个创新医疗器械获批上市，其中13个为首创新药；全球首个植入式脑机接口手部运动功能代偿系统成功上市。同时，多家跨国药企加大在华投资，新建或扩建研发中心和生产基地。国家药监局表示，将完善早期研发沟通机制，对重点品种实行‘提前介入、一企一策、全程指导、研审联动’，落实药品试验数据保护制度，加快临床急需产品上市。</description>
+      <title>戴尔CEO预计2027年芯片短缺加剧 硬件价格将继续上涨</title>
+      <link>https://tech.ifeng.com/c/8wRTt3R8QQ0</link>
+      <pubDate>Tue, 15 Sep 2026 14:51:33 +0000</pubDate>
+      <description>戴尔科技集团CEO迈克尔·戴尔在高盛大会上表示，半导体“结构性短缺”短期内难以缓解，2027年情况可能比2026年更严重。AI热潮持续推高算力设备和PC价格，戴尔称成本上涨将传导至产品价格，但比涨价更糟的是缺货，客户无法获得产品将影响业务运转。戴尔认为自身掌握的需求信号可靠，且与半导体供应商关系牢固，在供应紧张时反而可能占据优势。他还指出，AI正成为企业提升竞争力、创新能力和速度的工具，相关讨论已逐渐脱离传统IT预算范畴。</description>
     </item>
   </channel>
 </rss>
