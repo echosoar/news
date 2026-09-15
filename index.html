@@ -614,9 +614,9 @@
       </div>
     </section>
     <section class="search-panel" id="search-panel" role="search" aria-label="热点搜索">
-      <label class="search-label" id="search-label">搜索标题或描述（多个词使用空格分隔）</label>
+      <label class="search-label" id="search-label">搜索标题或描述（空格/逗号为“或”，+ 为“且”）</label>
       <div class="search-controls">
-        <div id="search-input" class="search-input" contenteditable="true" role="textbox" aria-multiline="false" aria-labelledby="search-label" data-placeholder="输入关键词，使用空格分隔"></div>
+        <div id="search-input" class="search-input" contenteditable="true" role="textbox" aria-multiline="false" aria-labelledby="search-label" data-placeholder="输入关键词：空格/逗号为或，+ 为且"></div>
         <button id="search-clear" class="search-clear" type="button" aria-label="清空搜索内容">×</button>
         <button id="search-submit" class="search-submit" type="button">搜索</button>
       </div>
@@ -710,26 +710,47 @@
     }
 
     function getSearchTerms(value) {
-      const terms = new Set();
-      String(value || "")
+      const normalizedQuery = String(value || "")
         .trim()
+        .replace(/\s*\+\s*/g, "+")
+        .replace(/\s*[，,]\s*/g, ",");
+      if (!normalizedQuery) return [];
+
+      // 空格分隔顶层“或”分支；每个分支中，+ 是“且”，逗号是该条件内的“或”。
+      return normalizedQuery
         .split(/\s+/)
-        .forEach(term => {
-          const normalized = term.toLowerCase();
-          if (normalized) terms.add(normalized);
-        });
-      return Array.from(terms);
+        .map(group => group
+          .split("+")
+          .map(condition => condition
+            .split(/[，,]/)
+            .map(term => term.trim().toLowerCase())
+            .filter(Boolean))
+          .filter(condition => condition.length))
+        .filter(group => group.length);
     }
 
     function getSearchWeight(item, terms) {
       const searchableText = `${item?.title || ""}\n${item?.summary || ""}`.toLowerCase();
-      return terms.reduce((weight, term) => weight + (searchableText.includes(term) ? 1 : 0), 0);
+      const matches = terms.some(group => group.every(condition =>
+        condition.some(term => searchableText.includes(term))
+      ));
+      return matches ? terms.length : 0;
+    }
+
+    function normalizeSearchTimestamp(value) {
+      let timestamp = Number(value);
+      if (!Number.isFinite(timestamp) || timestamp <= 0) return null;
+      // 历史数据中的 links[].time 同时存在秒、毫秒（及更高精度）时间戳。
+      while (timestamp > 100000000000) {
+        timestamp /= 1000;
+      }
+      return Math.floor(timestamp);
     }
 
     function getSearchTimestamp(item, dateString) {
       const times = (Array.isArray(item?.links) ? item.links : [])
-        .map(link => Number(link?.time))
-        .filter(time => Number.isFinite(time));
+        .map(link => normalizeSearchTimestamp(link?.time))
+        .filter(time => time !== null);
       if (times.length) return Math.max(...times);
       const date = parseDate(dateString);
       return date ? Math.floor(date.getTime() / 1000) : 0;
