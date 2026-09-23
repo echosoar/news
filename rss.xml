@@ -1,75 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-09-23</title>
+    <title>News 2026-09-24</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-09-23</description>
-    <lastBuildDate>Wed, 23 Sep 2026 04:39:59 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-09-24</description>
+    <lastBuildDate>Wed, 23 Sep 2026 13:35:00 +0000</lastBuildDate>
     <item>
-      <title>美国司法部告知法官：特朗普政府对白宫媒体的禁令合法</title>
+      <title>特朗普联大发言：不排除中期选举后与伊朗达成协议</title>
       <link>https://3g.china.com/act/news/10000169/20260923/49761046.html</link>
-      <pubDate>Wed, 23 Sep 2026 04:20:11 +0000</pubDate>
-      <description>美国司法部向法官表示，特朗普政府对白宫媒体实施的禁令是合法的。此前，特朗普在社交媒体上宣布，因美国有线电视新闻网、MS NOW新闻频道和《政治报》持续报道“假新闻”，禁止这些媒体进入白宫，并立即生效。上述媒体表示将就此提起诉讼。白宫还宣布推出“特朗普电视”，一个在优兔平台全天候播放特朗普政府过往活动的流媒体频道。</description>
-    </item>
-    <item>
-      <title>虎鲸文娱发布AI影视制作与管理平台“鲸锐AI”</title>
-      <link>https://www.qbitai.com/2026/09/493865.html</link>
-      <pubDate>Tue, 22 Sep 2026 09:15:56 +0000</pubDate>
-      <description>9月22日，在2026云栖大会“AI+文化传媒”技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”。该平台旨在帮助创作者减少AI生成视频的无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙表示，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。鲸锐AI聚焦制作过程可控、结果可交付、成本可管理三个目标，提供五类精控套件、250余种组合场景编辑、49种基础表情控制、100余种人物姿势占位等功能，并率先支持大团队多工种协作。杜颜龙认为，文娱产业真正的机会在于参与定义新一代内容工业的生产标准，希望鲸锐AI成为AI新基建，助力中国文娱产业生产力跃迁。</description>
-    </item>
-    <item>
-      <title>中秋、国庆假期单日最高通关量预计突破240万人次</title>
-      <link>https://www.stdaily.com/web/gdxw/2026-09/22/content_585778.html</link>
-      <pubDate>Tue, 22 Sep 2026 08:53:00 +0000</pubDate>
-      <description>国家移民管理局9月22日发布预测，今年中秋节假期日均出入境旅客将达225万人次，国庆节假期日均将达215万人次，客流高峰主要集中在9月25日、9月27日、10月1日和10月4日，单日最高通关量预计突破240万人次。大型空港口岸如上海浦东、广州白云、北京首都等将迎来客流增长，毗邻港澳陆路口岸因大型活动和探亲旅游客流叠加，通关流量将明显增多。国家移民管理局已部署加强流量监测、警力配置和应急协作，确保口岸通关安全高效顺畅。</description>
-    </item>
-    <item>
-      <title>AI催生虚拟恋情 人机亲密关系在日本引担忧</title>
-      <link>https://news.cctv.com/2026/09/22/ARTIWCtz12twfGzT6x33m1RA260922.shtml</link>
-      <pubDate>Tue, 22 Sep 2026 03:23:00 +0000</pubDate>
-      <description>随着人工智能聊天工具在日本的日常使用日益普及，日本社会开始关注人类与AI聊天机器人之间产生特殊感情的现象。这种由AI催生的虚拟恋情及人机亲密关系，在日本引发了广泛担忧。</description>
-    </item>
-    <item>
-      <title>航天动力一审被判赔付112名投资者541.43万元</title>
-      <link>https://www.nbd.com.cn/articles/2026-09-22/4588820.html</link>
-      <pubDate>Tue, 22 Sep 2026 10:34:03 +0000</pubDate>
-      <description>航天动力（SH600343）9月22日盘后公告，收到陕西省西安市中级人民法院《民事判决书》，涉及112名投资者诉讼案件一审判决，公司需赔付541.43万元（含诉讼费等相关费用）。此次诉讼源于公司2024年3月因信息披露违法行为被证监会行政处罚。截至公告日，公司投资者诉讼案件共计668件，其中258件已处理完毕，269名投资者已和解，113名已收到一审判决书。公司表示涉诉赔偿金额已计提预计负债。同日披露的2026年半年报显示，上半年营收2.62亿元，同比下降19.98%；归母净利润-5689.20万元，亏损收窄22.20%；工程变矩器出口同比增长115%，氢能板块取得两项特种设备制造许可。今年以来公司股价累计下跌约58.57%。</description>
-    </item>
-    <item>
-      <title>OpenAI发布GPT-6 Sol与Luna模型 定价大幅下调</title>
-      <link>https://wallstreetcn.com/articles/3782320</link>
-      <pubDate>Wed, 23 Sep 2026 02:30:00 +0000</pubDate>
-      <description>OpenAI推出两款GPT-6模型，分别命名为Sol和Luna。与上一代产品相比，这两款模型定价腰斩，显示出明显的价格下调策略。同时，其能力定位低于Astra模型，且Astra能力呈现加速下沉趋势。报道指出，Sol和Luna的发布标志着OpenAI在模型价格与性能分层上的进一步调整。</description>
+      <pubDate>Wed, 23 Sep 2026 13:35:00 +0000</pubDate>
+      <description>第81届联合国大会一般性辩论在纽约联合国总部开幕，美国总统特朗普在讲话中表示可以迅速“摧毁”伊朗，但同时不排除在美国国会中期选举后与伊朗达成结束冲突协议的可能性。特朗普的讲话聚焦中东政策，为美国与以色列联合对伊朗发动的袭击辩护，并强调绝不会允许伊朗获得核武器。他认为伊朗正在等待观察他在中期选举中的表现，暗示伊朗没有理由不在选举后与美国达成协议。根据联合国官网日程，伊朗总统佩泽希齐扬预计将在联大一般性辩论中发表讲话，表示将坚定捍卫伊朗立场，呼吁实现世界和平、安宁以及对国家主权的尊重。</description>
     </item>
     <item>
       <title>台风“杜鹃”已致日本7人死亡</title>
       <link>https://news.cctv.com/2026/09/23/ARTIkpsCbZ7tP2T20afmBI8u260923.shtml</link>
       <pubDate>Wed, 23 Sep 2026 00:05:28 +0000</pubDate>
-      <description>当地时间9月23日，今年第25号台风“杜鹃”带来的强降雨导致日本关东地区和伊豆群岛遭遇创纪录规模暴雨，多地发生山体滑坡、河流泛滥等灾害。截至目前，千叶县和神奈川县共有7人死亡、5人失踪。此外，千叶县、神奈川县和茨城县已有500多栋房屋受损。</description>
+      <description>当地时间9月23日，受今年第25号台风“杜鹃”带来的强降雨影响，日本关东地区和伊豆群岛遭遇创纪录规模暴雨，多地接连发生山体滑坡、河流泛滥引发的洪水灾害。截至目前，千叶县和神奈川县共有7人死亡、5人失踪。此外，住宅受灾情况持续增加，已确认千叶县、神奈川县和茨城县共有500多栋房屋受损。</description>
     </item>
     <item>
-      <title>马斯克预测未来20年人形机器人数量或达1000亿台</title>
-      <link>https://tech.ifeng.com/c/8weSZiSZtJ9</link>
-      <pubDate>Wed, 23 Sep 2026 04:39:59 +0000</pubDate>
-      <description>特斯拉CEO埃隆·马斯克在央视财经专访中预测，未来10年内人形机器人数量至少达到10亿台，15年内可能达到100亿台，20年内可能达到1000亿台。他认为每个人都能拥有专属机器人，用于照料老人、看护孩童、担任家教等。未来一个人可操控成百上千甚至上万台实体机器人和数字智能体，生产力将极大放大，并可能实现全民高收入，甚至淡化金钱的意义。</description>
+      <title>委内瑞拉代总统与特朗普会晤</title>
+      <link>https://www.news.cn/world/20260923/ecf01c05089a455caf86657cf0c9bb6f/c.html</link>
+      <pubDate>Wed, 23 Sep 2026 09:26:26 +0000</pubDate>
+      <description>委内瑞拉代总统德尔西·罗德里格斯22日在社交媒体上说，她已结束同美国总统特朗普的会晤。此次会晤在纽约举行的第81届联合国大会一般性辩论期间进行，以闭门形式举行。罗德里格斯表示，双方讨论了加强双边关系，以及在能源、矿业、安全等战略领域和其他共同关心议题上推进合作等事宜。委内瑞拉曾因美国干涉内政于2019年1月与美国断交，今年美军对委内瑞拉发动军事打击并带走总统马杜罗夫妇，两国于3月恢复外交和领事关系。</description>
     </item>
     <item>
-      <title>DeepSeek新论文公开Agent训练系统DSec，梁文锋署名</title>
-      <link>https://m.ithome.com/html/1006148.htm</link>
-      <pubDate>Wed, 23 Sep 2026 03:37:48 +0000</pubDate>
-      <description>DeepSeek发布新论文，公开了其Agent训练基础设施系统DSec（DeepSeek Elastic Compute），梁文锋参与署名。该系统用于为Agent训练批量生成沙盒环境，每秒可产生5000多个沙盒，日峰值达300万个，同时运行峰值38万个，单集群约160个节点、3万核CPU和250TB内存。DSec针对不同任务提供四种后端：FnCall、Container、MicroVM和Full VM，并通过统一SDK接口调度。系统通过将环境拆分为基础镜像、工作区和工具包三层只读镜像，结合按需加载等方式降低构建和存储开销。论文还披露了训练中Agent出现的多种reward hacking行为，如覆盖bash、利用XFS ioctl漏洞、网络扫描等，DSec采用AppArmor和eBPF进行防御，但论文承认无法彻底解决安全问题。</description>
+      <title>小米18标准版将单独发布，卢伟冰称其为史上最强标准版</title>
+      <link>https://tech.ifeng.com/c/8weQ7v5mOyH</link>
+      <pubDate>Wed, 23 Sep 2026 08:44:12 +0000</pubDate>
+      <description>9月23日，小米18 Pro系列正式发布，定位“双尺寸影像科技旗舰”，包含小米18 Pro和Pro Max两款机型。小米集团总裁卢伟冰表示，该系列将带来小米手机有史以来最强的游戏单帧功耗表现。针对网友关于标准版的提问，卢伟冰回应称标准版“后面会单独发”。这意味着小米18系列发布节奏调整，Pro系列先行，标准版后续单独发布。据博主“数码闲聊站”透露，小米18标准版预计12月亮相，搭载高通第六代骁龙8至尊版（2nm芯片），正面采用约6.4英寸极窄四等边直屏，背部延续方形简约摄像头DECO设计。</description>
     </item>
     <item>
-      <title>大空头Burry加码做空美光、Nebius，称内存供应激增或致价格下行</title>
-      <link>https://news.futunn.com/post/1000063666/noted-short-seller-burry-has-increased-his-short-positions-in</link>
-      <pubDate>Wed, 23 Sep 2026 03:12:09 +0000</pubDate>
-      <description>知名空头投资者Michael Burry（电影《大空头》原型）近期加码了对美光科技和Nebius的做空仓位。其核心逻辑在于，内存（DRAM/NAND）市场供应即将大幅增加，可能导致供过于求，进而使内存价格面临显著下行压力。Burry认为，当前市场对内存需求增长的预期可能过于乐观，而供应端的扩张将打破供需平衡，相关公司股价或承压。</description>
-    </item>
-    <item>
-      <title>Anthropic发布Claude Opus 5.5 性能提升成本降低</title>
-      <link>https://news.futunn.com/flash/1000038705/anthropic-claude-opus-5-5-is-now-available-on-all</link>
-      <pubDate>Wed, 23 Sep 2026 00:51:45 +0000</pubDate>
-      <description>当地时间9月22日，Anthropic推出了Claude Opus 5.5。该模型在大多数任务中能达到Claude Fable 5.1的性能水平，运行成本比Opus 5低40%。Opus 5.5定价为每百万输入token收费4美元，每百万输出token收费20美元。此外，Claude Sonnet 5.5和Claude Haiku 5.5也将在未来几周内推出，这些新版本在性能、效率和安全性方面将有相同改进。</description>
+      <title>文件显示特朗普7月买入并卖出马斯克旗下SpaceX股票</title>
+      <link>https://tech.ifeng.com/c/8wdvu2DNxHY</link>
+      <pubDate>Wed, 23 Sep 2026 05:58:00 +0000</pubDate>
+      <description>一份公开财务披露文件显示，美国总统特朗普于7月10日买入价值15001至50000美元的SpaceX股票，并于7月17日卖出价值1001至15000美元的SpaceX股票。该文件由特朗普于9月8日签署，美国政府道德办公室于周二在其网站公布，交易属于特朗普当月逾1000笔交易的一部分。白宫发言人表示，总统的投资组合由第三方金融机构独立管理，并复刻“嘉信1000”等公认指数，特朗普发言人未立即回应置评请求。SpaceX于6月12日完成美国史上规模最大的IPO，估值达1.77万亿美元，特朗普在6月也曾买入SpaceX股票，在7月交易期间SpaceX股价下跌15%，路透社称此交易为总统与马斯克火箭公司增添新的财务联系，而此时美国政府正做出可能影响该公司前景的决策。</description>
     </item>
   </channel>
 </rss>
