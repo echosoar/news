@@ -5,19 +5,9 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>Anthropic：Claude Opus 5.5现已在所有平台上线</title>
-      <link>https://news.futunn.com/flash/1000038705/anthropic-claude-opus-5-5-is-now-available-on-all</link>
-      <pubDate>Tue, 22 Sep 2026 16:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>白宫宣布推出特朗普电视</title>
       <link>https://huacheng.gz-cmc.com/pages/2026/09/23/db1a031ffa7d4e68bba25310e86eb3b9.html</link>
       <pubDate>Tue, 22 Sep 2026 22:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高通首款2nm芯，第六代骁龙8超级至尊版发布：首破5GHz</title>
-      <link>https://news.mydrivers.com/1/1153/1153215.htm</link>
-      <pubDate>Tue, 22 Sep 2026 22:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Meta Muse掀起AI颠覆交易 金融、保险、旅游股集体下挫</title>
@@ -25,14 +15,69 @@
       <pubDate>Tue, 22 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Anthropic：Claude Opus 5.5现已在所有平台上线</title>
+      <link>https://news.futunn.com/flash/1000038705/anthropic-claude-opus-5-5-is-now-available-on-all</link>
+      <pubDate>Tue, 22 Sep 2026 16:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高通首款2nm芯，第六代骁龙8超级至尊版发布：首破5GHz</title>
+      <link>https://news.mydrivers.com/1/1153/1153215.htm</link>
+      <pubDate>Tue, 22 Sep 2026 22:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>芬太尼类物质犯罪定罪量刑有新标准</title>
+      <link>https://news.ifeng.com/c/8weHzO1Ph90</link>
+      <pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>曹操出行盘中涨超7% 宣布与千问AI眼镜达成合作共同推出AI打车服务</title>
+      <link>https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-23/doc-inisunsm5368758.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 02:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>（爱知·名古屋亚运会）亚运会田径项目开赛 中国队包揽男女半程马拉松竞走金牌</title>
+      <link>http://www.chinanews.com//ty/2026/09-23/10702259.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek新论文公开Agent训练，梁文锋署名</title>
+      <link>https://tech.ifeng.com/c/8wePWro8Jrb</link>
+      <pubDate>Wed, 23 Sep 2026 03:09:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>十五五时期民政部将推动制定养老服务法</title>
+      <link>https://www.huanqiu.com/article/4TKKil4r4lk</link>
+      <pubDate>Wed, 23 Sep 2026 07:22:19 +0000</pubDate>
+    </item>
+    <item>
       <title>未来四年双一流高校本科招生数还将扩容7.6万人</title>
       <link>https://www.bjnews.com.cn/detail-1790131260129316.html</link>
       <pubDate>Wed, 23 Sep 2026 02:44:52 +0000</pubDate>
     </item>
     <item>
+      <title>每周至少半天校外实践教学将在全国推行</title>
+      <link>https://www.bjnews.com.cn/detail-1790131002129309.html</link>
+      <pubDate>Wed, 23 Sep 2026 02:38:34 +0000</pubDate>
+    </item>
+    <item>
       <title>教育部：中国接受过高等教育的人口达2.7亿</title>
       <link>https://news.ifeng.com/c/8weITh000bj</link>
       <pubDate>Wed, 23 Sep 2026 02:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌前安全负责人：AI对儿童的伤害恐超社交媒体</title>
+      <link>https://tech.ifeng.com/c/8we6gVwGc16</link>
+      <pubDate>Tue, 22 Sep 2026 23:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>涉案金额超60亿，警方打掉一跨国民族资产解冻类诈骗团伙</title>
+      <link>https://news.ifeng.com/c/8wf05IQb930</link>
+      <pubDate>Wed, 23 Sep 2026 12:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阿里发布Qwen Intelligence：提供AI手机全栈解决方案</title>
+      <link>https://www.chinaz.com/2026/0923/1778612.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 01:58:05 +0000</pubDate>
     </item>
     <item>
       <title>美团启动放心外卖七项行动：投入8000万元，上线食安版App</title>
@@ -43,11 +88,6 @@
       <title>阿根廷抗议英方支持在马岛争议区域延长油气开采许可</title>
       <link>https://www.huanqiu.com/article/4TK5OrL9kW1</link>
       <pubDate>Wed, 23 Sep 2026 00:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>每周至少半天校外实践教学将在全国推行</title>
-      <link>https://www.bjnews.com.cn/detail-1790131002129309.html</link>
-      <pubDate>Wed, 23 Sep 2026 02:38:34 +0000</pubDate>
     </item>
     <item>
       <title>中国选手石升吉夺得亚运会男子半程马拉松竞走金牌</title>
@@ -80,29 +120,69 @@
       <pubDate>Tue, 22 Sep 2026 23:19:15 +0000</pubDate>
     </item>
     <item>
+      <title>竞技体操男团决赛 中国队实现亚运三连冠</title>
+      <link>http://www.chinanews.com//ty/2026/09-23/10702352.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 08:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>柬埔寨首相：国际合作对于打击电信诈骗至关重要</title>
+      <link>https://www.huanqiu.com/article/4TKIaPqfQDQ</link>
+      <pubDate>Wed, 23 Sep 2026 06:22:34 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title>
       <link>https://wallstreetcn.com/articles/3782320</link>
       <pubDate>Tue, 22 Sep 2026 18:59:29 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌前安全负责人：AI对儿童的伤害恐超社交媒体</title>
-      <link>https://tech.ifeng.com/c/8we6gVwGc16</link>
-      <pubDate>Tue, 22 Sep 2026 23:32:22 +0000</pubDate>
+      <title>经合组织上调2026年全球经济增速预期至2.9%</title>
+      <link>https://jingji.cctv.com/2026/09/23/ARTIivmhsqXWqMhmlWF6lr26260923.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 09:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>芬太尼类物质犯罪定罪量刑有新标准</title>
-      <link>https://news.ifeng.com/c/8weHzO1Ph90</link>
-      <pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
+      <title>爱知·名古屋亚运会：中国男足0:0战平阿联酋队 小组头名晋级八强</title>
+      <link>http://www.chinanews.com//ty/2026/09-23/10702339.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 08:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>民政部：十五五时期将推动制定养老服务法</title>
-      <link>https://news.cctv.com/2026/09/23/ARTINybluzYKyiI4sJVHQ9xa260923.shtml</link>
-      <pubDate>Wed, 23 Sep 2026 08:32:02 +0000</pubDate>
+      <title>成功卫冕，中国队夺得亚运会男女混合4×100米混合泳接力金牌</title>
+      <link>http://www.chinanews.com//ty/2026/09-23/10702426.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外交部：日本现政权已成威胁地区和平稳定突出因素</title>
+      <link>https://www.news.cn/world/20260923/d8a41f5afd1545429328e1345ac5e236/c.html</link>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>菲弹劾法庭修改计票规则 副总统莎拉定罪门槛下调</title>
+      <link>https://www.news.cn/world/20260923/c9436adfa4e2448c9ec890d3ebbcd71e/c.html</link>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPPO Find X10 Pro Max发布后，压力给到了Ultra</title>
+      <link>https://tech.ifeng.com/c/8wdkqH8y2Li</link>
+      <pubDate>Tue, 22 Sep 2026 18:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>海昏侯墓考古，有新论断</title>
+      <link>https://huacheng.gz-cmc.com/pages/2026/09/23/8938a78a1ec54a7c8f79ad4ab74356e2.html</link>
+      <pubDate>Tue, 22 Sep 2026 22:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>科大讯飞发布全新语音识别大模型 Spark-ASR-2.0，明日上线讯飞输入法</title>
+      <link>https://m.ithome.com/html/1006345.htm</link>
+      <pubDate>Wed, 23 Sep 2026 08:35:48 +0000</pubDate>
     </item>
     <item>
       <title>于子迪夺得亚运会女子400米个人混合泳金牌</title>
       <link>http://www.chinanews.com//ty/2026/09-23/10702420.shtml</link>
       <pubDate>Wed, 23 Sep 2026 09:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>委内瑞拉代总统与特朗普会晤</title>
+      <link>https://www.news.cn/world/20260923/ecf01c05089a455caf86657cf0c9bb6f/c.html</link>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>唐钱婷夺得亚运会女子100米蛙泳金牌</title>
@@ -123,6 +203,11 @@
       <title>中国警队赴塞尔维亚执行警务联合巡逻任务</title>
       <link>https://news.cctv.com/2026/09/23/ARTIovwiK9HwK2WcgU2MP3bn260923.shtml</link>
       <pubDate>Wed, 23 Sep 2026 04:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 27.2 Beta 2史诗级更新，苹果出手限制开屏摇一摇广告 国区专属</title>
+      <link>https://tech.ifeng.com/c/8we6iAaWuQT</link>
+      <pubDate>Tue, 22 Sep 2026 23:24:25 +0000</pubDate>
     </item>
     <item>
       <title>文件显示特朗普7月买入并卖出马斯克旗下SpaceX股票</title>
