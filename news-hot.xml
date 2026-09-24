@@ -5,6 +5,16 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>特朗普抵达接机现场</title>
+      <link>https://news.ifeng.com/c/8wfZoUI9MSU</link>
+      <pubDate>Wed, 23 Sep 2026 21:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muse 爆了，Meta 的真拐点还是假高潮？</title>
+      <link>https://www.huxiu.com/article/4893633.html</link>
+      <pubDate>Wed, 23 Sep 2026 23:54:26 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年长焦与变焦手机横评：vivo X500 Pro Max四问都够</title>
       <link>https://news.zol.com.cn/1252/12525522.html</link>
       <pubDate>Thu, 24 Sep 2026 04:05:00 +0000</pubDate>
@@ -15,13 +25,18 @@
       <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>特朗普抵达接机现场</title>
-      <link>https://news.ifeng.com/c/8wfZoUI9MSU</link>
-      <pubDate>Wed, 23 Sep 2026 21:10:00 +0000</pubDate>
+      <title>腾讯QClaw即将停止运营</title>
+      <link>https://finance.sina.com.cn/tech/shenji/2026-09-24/doc-iniswrrf5500356.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 01:28:40 +0000</pubDate>
     </item>
     <item>
       <title>我国成功发射遥感四十号04组卫星</title>
       <link>https://www.news.cn/tech/20260924/8472c1af7bbd40fbb953374091e08b0f/c.html</link>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英国向中国返还12件流失文物艺术品</title>
+      <link>https://www.news.cn/world/20260924/90947d32c17343dd8b19f92aadad0743/c.html</link>
       <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
@@ -30,9 +45,14 @@
       <pubDate>Thu, 24 Sep 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>英国向中国返还12件流失文物艺术品</title>
-      <link>https://www.news.cn/world/20260924/90947d32c17343dd8b19f92aadad0743/c.html</link>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <title>商务部：中美第八轮经贸磋商达成多项共识</title>
+      <link>https://www.bjnews.com.cn/detail-1790236048129508.html</link>
+      <pubDate>Thu, 24 Sep 2026 07:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软发布搭载骁龙X2 Plus芯片的新一代12英寸Surface Pro</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1579384.htm</link>
+      <pubDate>Wed, 23 Sep 2026 22:27:00 +0000</pubDate>
     </item>
     <item>
       <title>我国成功发射卫星互联网低轨26组卫星</title>
@@ -45,9 +65,29 @@
       <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软发布搭载骁龙X2 Plus芯片的新一代12英寸Surface Pro</title>
-      <link>https://www.cnbeta.com.tw/articles/tech/1579384.htm</link>
-      <pubDate>Wed, 23 Sep 2026 22:27:00 +0000</pubDate>
+      <title>（爱知·名古屋亚运会）综合消息：中国泳军单日获六金 体操女团实现亚运会14连冠</title>
+      <link>http://www.chinanews.com//ty/2026/09-24/10702672.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 16:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI与Anthropic CEO联合国呼吁管控AI风险</title>
+      <link>https://tech.ifeng.com/c/8wfd1Z4TXGL</link>
+      <pubDate>Wed, 23 Sep 2026 22:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>数据显示：中国蝉联全球工业机器人最大市场</title>
+      <link>https://www.news.cn/tech/20260924/187adf2e95854226ba91b827a26d12b5/c.html</link>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>双节临近 海鲜、水果购销两旺</title>
+      <link>https://jingji.cctv.com/2026/09/24/ARTI0gfP6B1hW4kUXxCvroQe260924.shtml</link>
+      <pubDate>Wed, 23 Sep 2026 21:37:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>体验解析OPPO Find X10系列的天马屏</title>
+      <link>https://news.mydrivers.com/1/1153/1153839.htm</link>
+      <pubDate>Thu, 24 Sep 2026 10:06:00 +0000</pubDate>
     </item>
     <item>
       <title>文化和旅游部：我国已成为国际旅游最大客源国和主要目的地</title>
@@ -70,14 +110,19 @@
       <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯QClaw即将停止运营</title>
-      <link>https://finance.sina.com.cn/tech/shenji/2026-09-24/doc-iniswrrf5500356.shtml</link>
-      <pubDate>Thu, 24 Sep 2026 01:28:40 +0000</pubDate>
-    </item>
-    <item>
       <title>黄仁勋再对AI公司放话：要求监管就不应获得反垄断豁免</title>
       <link>https://tech.ifeng.com/c/8wferHsUwz3</link>
       <pubDate>Wed, 23 Sep 2026 22:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>世赛选手为观众调一款鸡尾酒</title>
+      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1183116&amp;sid=1</link>
+      <pubDate>Thu, 24 Sep 2026 04:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>9名哈萨克斯坦军人在里海军事演习中丧生</title>
+      <link>https://news.cctv.com/2026/09/24/ARTIfWqCKe8v8dxk62IGOGeE260924.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 12:57:23 +0000</pubDate>
     </item>
     <item>
       <title>腾讯Marvis定位升级AI管家，支持用户管理个人设备和数字资产</title>
@@ -90,16 +135,6 @@
       <pubDate>Thu, 24 Sep 2026 02:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>数据显示：中国蝉联全球工业机器人最大市场</title>
-      <link>https://www.news.cn/tech/20260924/187adf2e95854226ba91b827a26d12b5/c.html</link>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta发布AI时代电子宠物设备Muse Charm</title>
-      <link>https://tech.ifeng.com/c/8wfue51YNGL</link>
-      <pubDate>Thu, 24 Sep 2026 01:12:50 +0000</pubDate>
-    </item>
-    <item>
       <title>击败日本队 国羽时隔12年再获亚运会女团冠军</title>
       <link>http://www.chinanews.com//ty/2026/09-24/10702919.shtml</link>
       <pubDate>Thu, 24 Sep 2026 04:23:00 +0000</pubDate>
@@ -110,9 +145,44 @@
       <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>924两周年ETF牛熊榜：科创芯片ETF南方等13只ETF涨超300%，酒ETF鹏华跌17%（名单）</title>
+      <link>https://finance.sina.com.cn/stock/marketresearch/2026-09-24/doc-iniswvxi5018382.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 03:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>安理会讨论人工智能发展与安全风险应对</title>
+      <link>https://www.news.cn/world/20260924/56a82e3f496a436a90d18f63584efc1c/c.html</link>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>300211，将摘星脱帽，退市风险警报解除</title>
+      <link>https://finance.sina.com.cn/stock/s/2026-09-24/doc-inisxxkt8160291.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 14:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>川大智胜涉嫌信披违法违规被证监会立案，受损投资者可进行预登记索赔</title>
+      <link>https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-24/doc-inisxtav8240350.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 12:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果带火钢壳电池 国产品牌迅速跟进：容量冲击10000mAh</title>
+      <link>https://news.mydrivers.com/1/1153/1153788.htm</link>
+      <pubDate>Thu, 24 Sep 2026 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三安光电：实控人林秀成因涉嫌职务侵占、挪用资金罪被刑事拘留</title>
+      <link>https://www.tmtpost.com/nictation/8151897.html</link>
+      <pubDate>Thu, 24 Sep 2026 09:36:00 +0000</pubDate>
+    </item>
+    <item>
       <title>这不是眼镜？Meta发布轻量级VR头显：感谢苹果启发</title>
       <link>https://tech.ifeng.com/c/8wfqI0sWTiM</link>
       <pubDate>Thu, 24 Sep 2026 00:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>何岳基刷新举重男子65公斤级抓举世界纪录</title>
+      <link>https://huacheng.gz-cmc.com/pages/2026/09/24/88ceb0f49991424ebe914c48a29d7b30.html</link>
+      <pubDate>Thu, 24 Sep 2026 09:38:00 +0000</pubDate>
     </item>
     <item>
       <title>开户返现、投保返佣，最高可返30%：个人养老金违规冲量该刹车了</title>
@@ -125,14 +195,14 @@
       <pubDate>Thu, 24 Sep 2026 08:14:00 +0000</pubDate>
     </item>
     <item>
+      <title>市场监管总局：整治缺斤短两查处不合格秤8544台</title>
+      <link>https://www.huanqiu.com/article/4TLCU5jCNCD</link>
+      <pubDate>Thu, 24 Sep 2026 08:27:00 +0000</pubDate>
+    </item>
+    <item>
       <title>我国首个规模化应用18兆瓦海上风机项目投运</title>
       <link>https://news.cctv.com/2026/09/24/ARTIpCyksAnkmuyPzn9yB5gi260924.shtml</link>
       <pubDate>Thu, 24 Sep 2026 03:48:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>商务部：中美第八轮经贸磋商达成多项共识</title>
-      <link>https://www.bjnews.com.cn/detail-1790236048129508.html</link>
-      <pubDate>Thu, 24 Sep 2026 07:48:21 +0000</pubDate>
     </item>
     <item>
       <title>华为小艺Work正式上线：一句话做PPT、数据分析</title>
@@ -173,11 +243,6 @@
       <title>Anthropic推出首个生物实验室助手Claude CRISPR 助力基因编辑与生命科学研究</title>
       <link>https://www.cnbeta.com.tw/articles/tech/1579372.htm</link>
       <pubDate>Wed, 23 Sep 2026 18:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>双节临近 海鲜、水果购销两旺</title>
-      <link>https://jingji.cctv.com/2026/09/24/ARTI0gfP6B1hW4kUXxCvroQe260924.shtml</link>
-      <pubDate>Wed, 23 Sep 2026 21:37:09 +0000</pubDate>
     </item>
     <item>
       <title>联合国秘书长呼吁各国制定能源转型路线图</title>
