@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-23T16:32:58Z",
+  "generated_at": "2026-09-24T05:59:21Z",
   "summary": [
     {
       "title": "特朗普联大发言：不排除中期选举后与伊朗达成协议",
@@ -204,6 +204,214 @@
         }
       ],
       "summary": "一份公开财务披露文件显示，美国总统特朗普于7月10日买入价值15001至50000美元的SpaceX股票，并于7月17日卖出价值1001至15000美元的SpaceX股票。该文件由特朗普于9月8日签署，美国政府道德办公室于周二在其网站公布，交易属于特朗普当月逾1000笔交易的一部分。白宫发言人表示，总统的投资组合由第三方金融机构独立管理，并复刻“嘉信1000”等公认指数，特朗普发言人未立即回应置评请求。SpaceX于6月12日完成美国史上规模最大的IPO，估值达1.77万亿美元，特朗普在6月也曾买入SpaceX股票，在7月交易期间SpaceX股价下跌15%，路透社称此交易为总统与马斯克火箭公司增添新的财务联系，而此时美国政府正做出可能影响该公司前景的决策。"
+    },
+    {
+      "title": "黄仁勋：AI公司要求监管就不应获得反垄断豁免",
+      "tags": [
+        "黄仁勋",
+        "AI监管",
+        "反垄断豁免",
+        "英伟达",
+        "AI安全"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8wferHsUwz3",
+          "title": "黄仁勋再对AI公司放话：要求监管就不应获得反垄断豁免",
+          "origin": "凤凰科技",
+          "time": 1790202703
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579390.htm",
+          "title": "黄仁勋再对AI公司放话：要求监管就不应获得反垄断豁免",
+          "origin": "cnBeta",
+          "time": 1790203020
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41959916",
+          "title": "黄仁勋：互联网让你找到一切，AI要替你做完一切",
+          "origin": "华尔街见闻",
+          "time": 1790216906
+        }
+      ],
+      "summary": "英伟达CEO黄仁勋在《纽约时报》播客节目中表示，AI公司在要求监管的同时不应获得反垄断法或产品责任法的豁免。他认为AI实验室有责任自行测试产品，确保模型安全后再发布。此前，Anthropic CEO呼吁给予AI实验室反垄断豁免以在安全问题上合作，美国官员也曾提及责任豁免问题。黄仁勋同时表示不反对针对AI具体应用如自动驾驶汽车的监管，并支持填补监管空白。"
+    },
+    {
+      "title": "Anthropic成立生命科学团队并推出Claude CRISPR，Claude自主发现新型酶系统ART",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "生命科学",
+        "CRISPR",
+        "酶系统"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579372.htm",
+          "title": "Anthropic推出首个生物实验室助手Claude CRISPR 助力基因编辑与生命科学研究",
+          "origin": "cnBeta",
+          "time": 1790189820
+        },
+        {
+          "link": "https://m.ithome.com/html/1006524.htm",
+          "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+          "origin": "IT之家",
+          "time": 1790207152
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wfxoSixH8y",
+          "title": "Anthropic生命科学重磅成果，Claude自主发现新酶系统，学者炸锅了",
+          "origin": "凤凰科技",
+          "time": 1790215847
+        }
+      ],
+      "summary": "人工智能研究公司Anthropic宣布成立生命科学团队和实验室，并推出面向生命科学领域的AI助手“Claude CRISPR”。该工具基于Claude模型架构，旨在帮助科研人员处理基因组数据、设计CRISPR基因编辑方案、优化分子生物学实验流程，并集成了防止生物安全隐患的过滤机制。与此同时，Anthropic披露其Claude智能体在自主搜索中发现了噬菌体DNA中一种此前未知的酶系统，命名为“阵列相关逆转录酶”（ART）。该发现由多智能体系统在约950个会话、消耗2.1亿tokens、历时21.5小时无人类介入的搜索中完成，共识别出95个RT簇，其中28个带有重复阵列。研究团队认为ART可能类似反转子工作机制，但携带多套RNA模板。相关论文未经同行评审，且功能尚未经实验验证，有学者指出发现重复序列仅是第一步，系统功能仍需确认。"
+    },
+    {
+      "title": "英国向中国返还12件流失文物艺术品",
+      "tags": [
+        "文物返还",
+        "中英关系",
+        "流失文物",
+        "文物保护"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/09/24/ARTI7EpExeISzHsVCx0x3onf260924.shtml",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "CCTV",
+          "time": 1790212767
+        },
+        {
+          "link": "https://www.news.cn/world/20260924/90947d32c17343dd8b19f92aadad0743/c.html",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "新华网",
+          "time": 1790179200
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1790206392129117.html",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "新京报",
+          "time": 1790213133
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/09-24/10702909.shtml",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "中新网",
+          "time": 1790223180
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202609/24/AP6ab47d25e4b01d54a2848f44.html",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "文汇网",
+          "time": 1790215537
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/09/24/54cade47157446cdb927de9b169c919a.html",
+          "title": "英国向中国返还12件流失文物艺术品",
+          "origin": "花城",
+          "time": 1790212620
+        }
+      ],
+      "summary": "当地时间9月23日，英国向中国返还12件流失文物艺术品的交接仪式在中国驻英国使馆举行。文化和旅游部副部长、国家文物局局长饶权视频致辞，中国驻英国大使郑泽光，英国伦敦大都会警察厅，英国外交发展部，英国数字、文化、媒体和体育部，欧洲安全与合作组织代表出席仪式。此次返还的12件文物艺术品由英国伦敦大都会警察厅在办案过程中查获。中英两国均为联合国教科文组织《关于禁止和防止非法进出口文化财产和非法转让其所有权的方法的公约》缔约国。在公约框架下，国家文物局通过中国驻英国使馆，与英方密切协作，成功实现上述文物艺术品返还。"
+    },
+    {
+      "title": "巴基斯坦打击阿富汗无人机存放点 阿方称暂无伤亡报告",
+      "tags": [
+        "巴基斯坦",
+        "阿富汗",
+        "无人机",
+        "空袭",
+        "地区安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/09/24/ARTI1FtIgOZ3A3cI6rz8Up2q260924.shtml",
+          "title": "巴基斯坦打击阿富汗无人机存放点 阿方称暂无伤亡报告",
+          "origin": "CCTV",
+          "time": 1790222417
+        },
+        {
+          "link": "https://www.news.cn/world/20260924/2d8698d36f824c22a3febd6f07e6d2e7/c.html",
+          "title": "巴基斯坦打击阿富汗无人机存放点 阿方称暂无伤亡",
+          "origin": "新华网",
+          "time": 1790179200
+        }
+      ],
+      "summary": "巴基斯坦新闻与广播部长阿陶拉·塔拉尔24日发表声明说，巴基斯坦行使自卫权，对阿富汗境内用于发射和存放无人机的10个地点进行精确空中打击。声明称，巴方强烈谴责23日从阿富汗领土起飞的无人机非法入侵巴基斯坦，此举侵犯巴基斯坦主权和领土完整。巴防空系统摧毁了所有入侵无人机，使其未能抵达预定目标。打击行动严格限定于与袭击企图直接相关的军事目标，巴方呼吁阿方停止敌对活动并履行国际义务，对境内恐怖组织采取有效行动。阿富汗政府发言人穆贾希德24日表示，巴基斯坦军队当天凌晨3时左右袭击了阿南部坎大哈地区的一处荒漠地带，暂未收到人员伤亡和财产损失报告。"
+    },
+    {
+      "title": "Claude Opus 5.5发布：多项跑分登顶，API价格下调20%",
+      "tags": [
+        "Claude Opus 5.5",
+        "AI模型",
+        "API降价",
+        "代码迁移",
+        "安全限制"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579368.htm",
+          "title": "Anthropic已限制华为AI芯片使用Claude Opus 5.5开发前沿模型",
+          "origin": "cnBeta",
+          "time": 1790179380
+        },
+        {
+          "link": "https://www.qbitai.com/2026/09/496221.html",
+          "title": "Claude Opus 5.5突袭，68万行代码一天迁完，API价格打8折",
+          "origin": "量子位",
+          "time": 1790226338
+        }
+      ],
+      "summary": "Anthropic发布最新旗舰模型Claude Opus 5.5，在代码、知识工作、计算机操作等多项基准测试中排名第一，输出速度较Opus 5提升30%以上。API输入和输出价格分别为每百万Token 4美元和20美元，较Opus 5下降20%，缓存读取价从0.50美元降至0.20美元，降幅达60%。早期测试显示，该模型不到一天即可迁移68万行代码，审计修复20万行代码库耗时不到3小时。同时，Opus 5.5针对前沿大语言模型开发设置了特殊限制机制，涉及华为昇腾950DT和亚马逊Trainium3等AI芯片时，系统可能自动回退至能力较低的Opus 5。Anthropic还加强了反蒸馏和安全护栏，包括保留思考机制、输出水印及网络安全和生物安全措施。"
+    },
+    {
+      "title": "谷歌即将发布旗舰模型Gemini 4",
+      "tags": [
+        "谷歌",
+        "Gemini 4",
+        "AI模型",
+        "DeepMind",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/flash/1000131538/google-is-set-to-release-its-flagship-gemini-4-ai",
+          "title": "谷歌即将发布旗舰Gemini 4 AI模型",
+          "origin": "富途牛牛",
+          "time": 1790216280
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wg13xOKv5G",
+          "title": "谷歌即将发布旗舰模型Gemini 4",
+          "origin": "凤凰科技",
+          "time": 1790217761
+        }
+      ],
+      "summary": "9月24日消息，据The Information报道，谷歌DeepMind部门负责人Kavukcuoglu周三表示，谷歌即将发布其最新旗舰模型Gemini 4。该模型目前处于“后训练”开发阶段初期，即对基础AI模型进行精调。Kavukcuoglu希望该模型能“远早于”今年年底发布，并表示将尽快发布早期后训练成果，随后继续进行快节奏的迭代。在AI模型竞赛中，谷歌已落后于竞争对手Anthropic和OpenAI，因此这一进展备受期待。"
+    },
+    {
+      "title": "Meta Connect大会聚焦Muse，发布新款眼镜",
+      "tags": [
+        "Meta Connect",
+        "Muse",
+        "智能眼镜"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3782418",
+          "title": "Meta Connect大会：Muse唱主角，新眼镜发布",
+          "origin": "华尔街见闻",
+          "time": 1790211515
+        },
+        {
+          "link": "https://news.futunn.com/post/1000124026/meta-connect-conference-muse-takes-center-stage-with-new-glasses",
+          "title": "Meta Connect大会：Muse唱主角，新眼镜发布",
+          "origin": "富途牛牛",
+          "time": 1790211480
+        }
+      ],
+      "summary": "在Meta Connect大会上，Muse成为焦点，并发布了新款眼镜。大会展示了Muse相关的新品，眼镜成为此次发布的重要硬件产品。具体功能与细节未在现有材料中详细披露。"
     }
   ]
 }

@@ -4,12 +4,18 @@
     <title>News 2026-09-24</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-24</description>
-    <lastBuildDate>Wed, 23 Sep 2026 13:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:05:38 +0000</lastBuildDate>
     <item>
       <title>特朗普联大发言：不排除中期选举后与伊朗达成协议</title>
       <link>https://3g.china.com/act/news/10000169/20260923/49761046.html</link>
       <pubDate>Wed, 23 Sep 2026 13:35:00 +0000</pubDate>
       <description>第81届联合国大会一般性辩论在纽约联合国总部开幕，美国总统特朗普在讲话中表示可以迅速“摧毁”伊朗，但同时不排除在美国国会中期选举后与伊朗达成结束冲突协议的可能性。特朗普的讲话聚焦中东政策，为美国与以色列联合对伊朗发动的袭击辩护，并强调绝不会允许伊朗获得核武器。他认为伊朗正在等待观察他在中期选举中的表现，暗示伊朗没有理由不在选举后与美国达成协议。根据联合国官网日程，伊朗总统佩泽希齐扬预计将在联大一般性辩论中发表讲话，表示将坚定捍卫伊朗立场，呼吁实现世界和平、安宁以及对国家主权的尊重。</description>
+    </item>
+    <item>
+      <title>英国向中国返还12件流失文物艺术品</title>
+      <link>https://news.cctv.com/2026/09/24/ARTI7EpExeISzHsVCx0x3onf260924.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 04:13:00 +0000</pubDate>
+      <description>当地时间9月23日，英国向中国返还12件流失文物艺术品的交接仪式在中国驻英国使馆举行。文化和旅游部副部长、国家文物局局长饶权视频致辞，中国驻英国大使郑泽光，英国伦敦大都会警察厅，英国外交发展部，英国数字、文化、媒体和体育部，欧洲安全与合作组织代表出席仪式。此次返还的12件文物艺术品由英国伦敦大都会警察厅在办案过程中查获。中英两国均为联合国教科文组织《关于禁止和防止非法进出口文化财产和非法转让其所有权的方法的公约》缔约国。在公约框架下，国家文物局通过中国驻英国使馆，与英方密切协作，成功实现上述文物艺术品返还。</description>
     </item>
     <item>
       <title>台风“杜鹃”已致日本7人死亡</title>
@@ -34,6 +40,42 @@
       <link>https://tech.ifeng.com/c/8wdvu2DNxHY</link>
       <pubDate>Wed, 23 Sep 2026 05:58:00 +0000</pubDate>
       <description>一份公开财务披露文件显示，美国总统特朗普于7月10日买入价值15001至50000美元的SpaceX股票，并于7月17日卖出价值1001至15000美元的SpaceX股票。该文件由特朗普于9月8日签署，美国政府道德办公室于周二在其网站公布，交易属于特朗普当月逾1000笔交易的一部分。白宫发言人表示，总统的投资组合由第三方金融机构独立管理，并复刻“嘉信1000”等公认指数，特朗普发言人未立即回应置评请求。SpaceX于6月12日完成美国史上规模最大的IPO，估值达1.77万亿美元，特朗普在6月也曾买入SpaceX股票，在7月交易期间SpaceX股价下跌15%，路透社称此交易为总统与马斯克火箭公司增添新的财务联系，而此时美国政府正做出可能影响该公司前景的决策。</description>
+    </item>
+    <item>
+      <title>黄仁勋：AI公司要求监管就不应获得反垄断豁免</title>
+      <link>https://tech.ifeng.com/c/8wferHsUwz3</link>
+      <pubDate>Thu, 24 Sep 2026 02:28:26 +0000</pubDate>
+      <description>英伟达CEO黄仁勋在《纽约时报》播客节目中表示，AI公司在要求监管的同时不应获得反垄断法或产品责任法的豁免。他认为AI实验室有责任自行测试产品，确保模型安全后再发布。此前，Anthropic CEO呼吁给予AI实验室反垄断豁免以在安全问题上合作，美国官员也曾提及责任豁免问题。黄仁勋同时表示不反对针对AI具体应用如自动驾驶汽车的监管，并支持填补监管空白。</description>
+    </item>
+    <item>
+      <title>Anthropic成立生命科学团队并推出Claude CRISPR，Claude自主发现新型酶系统ART</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1579372.htm</link>
+      <pubDate>Thu, 24 Sep 2026 02:10:47 +0000</pubDate>
+      <description>人工智能研究公司Anthropic宣布成立生命科学团队和实验室，并推出面向生命科学领域的AI助手“Claude CRISPR”。该工具基于Claude模型架构，旨在帮助科研人员处理基因组数据、设计CRISPR基因编辑方案、优化分子生物学实验流程，并集成了防止生物安全隐患的过滤机制。与此同时，Anthropic披露其Claude智能体在自主搜索中发现了噬菌体DNA中一种此前未知的酶系统，命名为“阵列相关逆转录酶”（ART）。该发现由多智能体系统在约950个会话、消耗2.1亿tokens、历时21.5小时无人类介入的搜索中完成，共识别出95个RT簇，其中28个带有重复阵列。研究团队认为ART可能类似反转子工作机制，但携带多套RNA模板。相关论文未经同行评审，且功能尚未经实验验证，有学者指出发现重复序列仅是第一步，系统功能仍需确认。</description>
+    </item>
+    <item>
+      <title>巴基斯坦打击阿富汗无人机存放点 阿方称暂无伤亡报告</title>
+      <link>https://news.cctv.com/2026/09/24/ARTI1FtIgOZ3A3cI6rz8Up2q260924.shtml</link>
+      <pubDate>Thu, 24 Sep 2026 04:00:17 +0000</pubDate>
+      <description>巴基斯坦新闻与广播部长阿陶拉·塔拉尔24日发表声明说，巴基斯坦行使自卫权，对阿富汗境内用于发射和存放无人机的10个地点进行精确空中打击。声明称，巴方强烈谴责23日从阿富汗领土起飞的无人机非法入侵巴基斯坦，此举侵犯巴基斯坦主权和领土完整。巴防空系统摧毁了所有入侵无人机，使其未能抵达预定目标。打击行动严格限定于与袭击企图直接相关的军事目标，巴方呼吁阿方停止敌对活动并履行国际义务，对境内恐怖组织采取有效行动。阿富汗政府发言人穆贾希德24日表示，巴基斯坦军队当天凌晨3时左右袭击了阿南部坎大哈地区的一处荒漠地带，暂未收到人员伤亡和财产损失报告。</description>
+    </item>
+    <item>
+      <title>Claude Opus 5.5发布：多项跑分登顶，API价格下调20%</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1579368.htm</link>
+      <pubDate>Thu, 24 Sep 2026 05:05:38 +0000</pubDate>
+      <description>Anthropic发布最新旗舰模型Claude Opus 5.5，在代码、知识工作、计算机操作等多项基准测试中排名第一，输出速度较Opus 5提升30%以上。API输入和输出价格分别为每百万Token 4美元和20美元，较Opus 5下降20%，缓存读取价从0.50美元降至0.20美元，降幅达60%。早期测试显示，该模型不到一天即可迁移68万行代码，审计修复20万行代码库耗时不到3小时。同时，Opus 5.5针对前沿大语言模型开发设置了特殊限制机制，涉及华为昇腾950DT和亚马逊Trainium3等AI芯片时，系统可能自动回退至能力较低的Opus 5。Anthropic还加强了反蒸馏和安全护栏，包括保留思考机制、输出水印及网络安全和生物安全措施。</description>
+    </item>
+    <item>
+      <title>谷歌即将发布旗舰模型Gemini 4</title>
+      <link>https://news.futunn.com/flash/1000131538/google-is-set-to-release-its-flagship-gemini-4-ai</link>
+      <pubDate>Thu, 24 Sep 2026 02:42:41 +0000</pubDate>
+      <description>9月24日消息，据The Information报道，谷歌DeepMind部门负责人Kavukcuoglu周三表示，谷歌即将发布其最新旗舰模型Gemini 4。该模型目前处于“后训练”开发阶段初期，即对基础AI模型进行精调。Kavukcuoglu希望该模型能“远早于”今年年底发布，并表示将尽快发布早期后训练成果，随后继续进行快节奏的迭代。在AI模型竞赛中，谷歌已落后于竞争对手Anthropic和OpenAI，因此这一进展备受期待。</description>
+    </item>
+    <item>
+      <title>Meta Connect大会聚焦Muse，发布新款眼镜</title>
+      <link>https://wallstreetcn.com/articles/3782418</link>
+      <pubDate>Thu, 24 Sep 2026 00:58:35 +0000</pubDate>
+      <description>在Meta Connect大会上，Muse成为焦点，并发布了新款眼镜。大会展示了Muse相关的新品，眼镜成为此次发布的重要硬件产品。具体功能与细节未在现有材料中详细披露。</description>
     </item>
   </channel>
 </rss>
