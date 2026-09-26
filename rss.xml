@@ -4,7 +4,7 @@
     <title>News 2026-09-26</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-09-26</description>
-    <lastBuildDate>Fri, 25 Sep 2026 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:21:00 +0000</lastBuildDate>
     <item>
       <title>习近平出席美国总统特朗普在白宫举行的欢迎仪式</title>
       <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1184015&amp;sid=42</link>
@@ -22,6 +22,12 @@
       <link>https://m.ithome.com/html/1007107.htm</link>
       <pubDate>Fri, 25 Sep 2026 05:21:00 +0000</pubDate>
       <description>据开发者Tibor Blaho在ChatGPT网页端源代码中发现PROMAX字段，推测OpenAI正在筹备更高阶的ChatGPT Pro Max订阅方案，月费可能为500至600美元，约合人民币3350至4030元。该订阅主要特色为“最快的Work与Codex”，面向重度生产力场景。此前OpenAI已因GPT-6 Astra推理算力消耗过大，暂停200美元ChatGPT Pro档的新订阅。目前OpenAI尚未正式确认相关信息，产品名称、功能及最终定价仍不确定。</description>
+    </item>
+    <item>
+      <title>四川道孚“棕熊现身街头”图片系AI合成 两人被处罚</title>
+      <link>https://news.ifeng.com/c/8wj4hpiSAtB</link>
+      <pubDate>Fri, 25 Sep 2026 23:45:00 +0000</pubDate>
+      <description>近日，四川甘孜州道孚县出现两张街头及山脚公路边棕熊的图片，在网上迅速传播并引发当地群众恐慌。经道孚县公安局网安大队核查，确认这两张图片均为AI工具合成的虚假图片。警方溯源找到图片制作者尼麦某某和主要传播者陶某某。尼麦某某因好玩用AI生成虚假图片，陶某某未核实真伪即在朋友圈转发并称是监控实拍。民警对二人进行法治教育，两人均认识到错误并悔过，公安机关依法对二人作出行政处罚。警方提醒公众理性辨别网络图片信息，不造谣、不传谣、不信谣。</description>
     </item>
     <item>
       <title>以军无人机在加沙坠毁后爆炸 两名以士兵死亡</title>
@@ -58,6 +64,66 @@
       <link>https://m.ithome.com/html/1007099.htm</link>
       <pubDate>Fri, 25 Sep 2026 02:51:02 +0000</pubDate>
       <description>IT之家9月25日消息，DeepSeek Harness悄然上线官方桌面版，目前为开发者预览版，版本号V0.1.7-rc.2。此前DeepSeek Harness以WebUI方式呈现，此次桌面版无需安装Node.js、无需打开终端或手动运行npx命令，支持Windows x64和macOS Apple Silicon（M系列）平台。当前版本功能稳定性和兼容性可能有限，官方建议用户注意保存重要数据，并关注后续正式版本。桌面应用提供标准模式、PTC模式、极简模式和创造模式四种模式，分别面向常规任务、批量工具调用、基础测试和自定义插件与模式开发。DeepSeek Harness是深度求索于2026年8月开源的智能体运行时框架，采用MIT许可证，以TypeScript编写，核心理念为“一切皆插件”，所有Agent能力通过底层插件系统Cordis以插件形式提供。</description>
+    </item>
+    <item>
+      <title>比尔·盖茨警告AI强大到足以造成10亿人死亡</title>
+      <link>https://wallstreetcn.com/articles/3782553</link>
+      <pubDate>Fri, 25 Sep 2026 23:00:00 +0000</pubDate>
+      <description>美国企业家比尔·盖茨9月24日接受美国全国广播公司（NBC）采访时表示，人工智能（AI）的强大足以引发造成10亿人死亡的事件。他指出，人类从未拥有过像“心怀恶意之人使用最新AI工具”这样强大的武器，并呼吁对AI的使用实施立法限制。</description>
+    </item>
+    <item>
+      <title>特朗普称贝森特不会成为AI事务负责人</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7455701.shtml</link>
+      <pubDate>Sat, 26 Sep 2026 04:21:00 +0000</pubDate>
+      <description>美国总统特朗普表示，财政部长斯科特·贝森特不会成为他的人工智能（AI）事务负责人。特朗普周五在Truth Social发帖称：“第一，他本人不想做。第二，他在财政部干得非常出色，我希望他继续留在那里！”此前，贝森特在被问及是否会出任AI事务负责人时表示，他将继续参与政府的AI工作，但“我认为只有一个AI负责人，那就是特朗普总统”。</description>
+    </item>
+    <item>
+      <title>OpenAI通知数十家机构称其网站或遭AI干扰</title>
+      <link>https://news.futunn.com/post/1000232149/openai-faces-fresh-allegations-of-large-language-model-overreach-bill</link>
+      <pubDate>Sat, 26 Sep 2026 03:17:00 +0000</pubDate>
+      <description>OpenAI表示，已通知包括政府部门和大学在内的数十家机构，它们的网站可能因OpenAI在评估技术期间人工智能模型的访问而受到影响。OpenAI在扩大调查中发现多起事件，包括软件可能绕过在线服务安全控制、影响可用性，或未对齐AI模型对外部网站造成负面影响。此前OpenAI承认其AI模型今年早些时候入侵了澳大利亚政府医疗统计上报网站，澳总理表示未造成个人信息泄露。OpenAI称目前发现的大多数案例严重程度较低，几乎没有证据显示对第三方服务造成实质性影响。</description>
+    </item>
+    <item>
+      <title>微软将Office三件套整合进Copilot，AI助手升级为工作入口，股价上涨3.7%</title>
+      <link>https://wallstreetcn.com/articles/3782567</link>
+      <pubDate>Sat, 26 Sep 2026 01:36:00 +0000</pubDate>
+      <description>微软宣布对Copilot进行重大升级，将Word、Excel和PowerPoint直接整合进AI助手，用户可在Copilot中创建和编辑这些办公文件，并与其他用户协作，文件与原有Office应用保持同步。同时，Copilot新增编程工具Code（基于GitHub Copilot技术，支持自然语言创建应用）和能够持续运行的AI代理Autopilot（升级版Scout，可独立执行任务并具备身份权限控制）。此举旨在将Copilot从单一AI助手打造为覆盖办公、编程和任务执行的一站式工作入口，以应对ChatGPT和Claude等产品的竞争。受消息影响，微软股价周五收涨3.66%。</description>
+    </item>
+    <item>
+      <title>马斯克：SpaceX数据中心GPU数量到年底将翻倍</title>
+      <link>https://tech.ifeng.com/c/8wj6RUA4j4b</link>
+      <pubDate>Sat, 26 Sep 2026 04:19:00 +0000</pubDate>
+      <description>马斯克于周四表示，SpaceX旗下人工智能超级计算机Colossus 2项目计划大规模扩张，到今年年底其使用的英伟达芯片数量将较目前翻一倍以上。目前Colossus 2数据中心已搭载11万颗Nvidia GB200芯片和44万颗GB300芯片。下周将有22万颗GB300芯片投入使用，预计11月还将有22万颗，12月底可能再有22万颗上线。马斯克称芯片增加受限于中央交换机的光纤电缆数量。他还表示，SpaceX人工智能研究仅有三年历史，若保持强劲速度，约六个月内将占据领先。xAI曾计划到2026年为孟菲斯工厂配备100万个英伟达GPU。据估算，Colossus两项目芯片总价值超1000亿美元，算力超2吉瓦，算力除自用外还将提供给外部客户，谷歌月付款额10月起将增至9.2亿美元。此外，谷歌首颗原型卫星将搭乘SpaceX发射任务升空。</description>
+    </item>
+    <item>
+      <title>Anthropic诉特朗普政府受挫：美上诉法院维持供应链风险认定</title>
+      <link>https://wallstreetcn.com/articles/3782559</link>
+      <pubDate>Fri, 25 Sep 2026 18:51:00 +0000</pubDate>
+      <description>美国上诉法院维持了对Anthropic供应链风险的认定，导致Anthropic起诉特朗普政府的诉讼受挫。法院的裁决意味着Anthropic在相关法律争议中未能获得有利结果，其关于供应链风险的挑战未获支持。</description>
+    </item>
+    <item>
+      <title>Meta数据隐私案败诉，或面临最高2190亿美元天价罚款</title>
+      <link>https://wallstreetcn.com/articles/3782562</link>
+      <pubDate>Fri, 25 Sep 2026 22:20:00 +0000</pubDate>
+      <description>Meta Platforms在美国新墨西哥州的一起数据隐私诉讼中败诉。陪审团裁定，Meta在言论及数据隐私政策上存在欺骗公众的行为，违反了州法律。新墨西哥州总检察长Raúl Torrez表示，这一裁决是追究科技巨头责任的“里程碑式时刻”，将向法院申请对Meta处以最高2190亿美元的民事罚款。该案源于剑桥分析数据丑闻，涉及8700万份用户档案。此前Meta已支付约60亿美元和解金，但新墨西哥州未加入相关和解。Meta方面不认同裁决，表示将继续抗辩，并援引第一修正案维护其平台管理方式。最终罚款金额将由法官裁定，每次违规最高可处以5000美元罚款。</description>
+    </item>
+    <item>
+      <title>余承东：问界今年新品仍由华为团队主导设计，消费者可放心购买</title>
+      <link>https://tech.ifeng.com/c/8wjHw43XP3I</link>
+      <pubDate>Sat, 26 Sep 2026 02:03:59 +0000</pubDate>
+      <description>近期华为与问界的合作模式调整引发行业关注。鸿蒙智行官方公布，后续产品定义、设计、品牌营销、渠道零售、服务体系五大环节由赛力斯主导，华为终端团队全程深度参与赋能。针对外界“华为抛弃问界”的传言，赛力斯董事长张兴海澄清双方从未分手，此次调整是合作模式的升级迭代，旨在推动问界品牌全面升级并优化用户服务。华为常务董事余承东在中秋巡店时明确表示，问界品牌今年发布的全新产品仍由华为核心团队全程主导设计，全链路质量管控由华为团队把控，消费者可放心下单。此次调整并非分家，而是探索更适合自主品牌向上的协作模式，既保留华为技术优势，也给予整车制造端更大自主空间。</description>
+    </item>
+    <item>
+      <title>小米汽车回应澎程对坐场景后备厢需清空传闻：无需清空，避免阻碍座椅滑动即可</title>
+      <link>https://m.ithome.com/html/1007312.htm</link>
+      <pubDate>Sat, 26 Sep 2026 02:55:10 +0000</pubDate>
+      <description>针对网传小米澎程系列汽车进入对坐场景需清空后备厢的说法，小米汽车在官方答网友问（第292集）中回应：不需要清空，只需根据小爱语音提示，确保后备厢物品不超过座椅滑轨末端位置，避免阻碍座椅向后滑动即可。小米汽车同时解答了多个相关问题：前排旋转座椅与零重力座椅互斥，需二选一；座椅旋转功能仅可在P挡驻车场景下使用；小米澎程全系可选装电动迎宾踏板，单侧最大承重200kg；N70 Pro、N70 Max、N90 Max支持安装车顶行李架。此外，官方还介绍了各车型在会客厅模式下的对坐空间与后备厢储物能力。</description>
+    </item>
+    <item>
+      <title>伊朗提七天方案但划核红线：霍尔木兹可谈、浓缩铀不让步</title>
+      <link>https://wallstreetcn.com/articles/3782564</link>
+      <pubDate>Fri, 25 Sep 2026 22:45:00 +0000</pubDate>
+      <description>伊朗提出一项为期七天的方案，但在核问题上明确划出红线：霍尔木兹海峡问题可以谈判，而在浓缩铀问题上不会让步。该方案显示了伊朗在地区安全与核议题上的立场差异，既展现对话意愿，也坚持核心诉求。</description>
     </item>
   </channel>
 </rss>
