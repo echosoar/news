@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-29T17:56:31Z",
+  "generated_at": "2026-09-30T06:29:42Z",
   "summary": [
     {
       "title": "因安全顾虑，OpenAI取消原定10月发布的GPT-6.1 Astra",
@@ -172,6 +172,283 @@
         }
       ],
       "summary": "近日，一名Reddit网友发帖爆料，他在亚马逊平台花费约10万印度卢比（约8000元人民币）购买三星8TB 9100 Pro旗舰SSD，收货后装机实测容量仅约128GB，拆查发现内部实为廉价品牌EVM的杂牌存储设备。该订单于9月20日下单、9月26日收货，产品外观高度模仿三星9100 Pro，但散热贴纸过薄、主控尺寸不符、PCB缺少闪存颗粒等破绽被网友指出。目前该网友正与亚马逊协商退款，但因订单标注不可退货，处理不顺利。"
+    },
+    {
+      "title": "报道：OpenAI拟融资至少300亿美元，目标估值1.4万亿美元",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "估值",
+        "AI智能体",
+        "年化收入"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1000411760/openai-unveiled-three-major-developments-in-a-single-day-the",
+          "title": "OpenAI一天甩出三张牌：Dots上线、年化营收逼近700亿美元，估值直冲1.4万亿美元",
+          "origin": "富途牛牛",
+          "time": 1790740020
+        },
+        {
+          "link": "https://m.ithome.com/html/1008558.htm",
+          "title": "消息称 OpenAI 计划 IPO 前再融资至少 300 亿美元，估值达 1.4 万亿美元",
+          "origin": "IT之家",
+          "time": 1790724500
+        },
+        {
+          "link": "https://news.futunn.com/post/1000386892/report-openai-plans-to-raise-at-least-30-billion-targeting",
+          "title": "报道：OpenAI拟融资至少300亿美元，目标估值1.4万亿美元",
+          "origin": "富途牛牛",
+          "time": 1790706780
+        },
+        {
+          "link": "https://database.caixin.com/2026-09-30/102489907.html",
+          "title": "OpenAI拟融资300亿美元 估值或达1.4万亿美元",
+          "origin": "财新",
+          "time": 1790738612000
+        }
+      ],
+      "summary": "据多家媒体报道，OpenAI正在讨论至少300亿美元的新一轮融资，目标估值约1.4万亿美元。目前谈判处于早期阶段，最终规模与条款可能变化，该轮融资或作为IPO前的过桥融资。同时，OpenAI在年度DevDay开发者大会上推出常驻AI智能体Dots，由GPT-6 Astra模型驱动，可自主执行任务，面向付费用户。公司披露多项财务数据：年化经常性收入接近700亿美元，企业销售额自7月以来增长超一倍，消费业务第三季度新增收入超过2025年全年新增规模。ChatGPT每周用户数超过12亿，Codex和ChatGPT Work每周用户超3500万。公司CEO奥尔特曼表示2026年不会上市，但仍需私人资本支持高额算力与基础设施支出。"
+    },
+    {
+      "title": "OpenAI发布GPT-6.1 Sol：性能接近Astra，价格仅五分之一",
+      "tags": [
+        "OpenAI",
+        "GPT-6.1 Sol",
+        "模型发布",
+        "API定价",
+        "DevDay"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/09/499246.html",
+          "title": "OpenAI光速上新GPT-6.1 Sol，一晚上25项更新，都在这里了",
+          "origin": "量子位",
+          "time": 1790723134
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wpgp7nHyxm",
+          "title": "OpenAI光速上新GPT-6.1 Sol，一晚上25项更新，都在这里了",
+          "origin": "凤凰科技",
+          "time": 1790721950
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1154/1154818.htm",
+          "title": "OpenAI发布GPT-6.1 Sol：性能接近Astra，价格仅五分之一",
+          "origin": "快科技",
+          "time": 1790724060
+        },
+        {
+          "link": "https://www.chinaz.com/2026/0930/1779871.shtml",
+          "title": "OpenAI发布GPT-6.1 Sol：性能接近Astra，价格仅五分之一",
+          "origin": "站长之家",
+          "time": 1790729632
+        }
+      ],
+      "summary": "OpenAI在DevDay 2026上正式发布GPT-6.1 Sol，这是GPT-6 Sol的升级版，重点强化智能体编程、计算机使用和专业工作能力。官方称其性能接近旗舰模型GPT-6 Astra，但API标准输入、输出Token价格仅为后者的五分之一。标准API定价为每百万输入Token 2美元、输出10美元、缓存输入0.1美元，而Astra对应价格分别为10美元、50美元和1美元。在多项评测中，GPT-6.1 Sol显著超越上一代Sol并逼近Astra：DeepSWE v1.1软件工程任务中达到与Astra相当水平，比GPT-6 Sol最高分高6.4个百分点；OSWorld 2.0计算机使用测试中比GPT-6 Sol高7个百分点，与Astra差距缩小至2.1个百分点以内；事实错误率在超高推理强度下为4.1%，低于GPT-6 Sol的4.5%，接近Astra的4.0%。即日起，Plus、Pro、Business、Enterprise和Edu用户可在ChatGPT和Codex中使用，开发者可通过API调用。OpenAI还同步推出Ultrafast速度档位，最高可达GPT-6 Astra的8倍，面向每月500美元的全新Pro 500套餐用户开放。"
+    },
+    {
+      "title": "今年我国快递业务量已超1500亿件",
+      "tags": [
+        "快递业务量",
+        "1500亿件",
+        "国家邮政局",
+        "经济发展"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/09-30/10705984.shtml",
+          "title": "今年我国快递业务量已超1500亿件",
+          "origin": "中新网",
+          "time": 1790730120
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TPvJLARd2W",
+          "title": "今年我国快递业务量已超1500亿件",
+          "origin": "环球网",
+          "time": 1790730145
+        },
+        {
+          "link": "https://news.cctv.com/2026/09/30/ARTI6ywlncf00dtp36drQLcJ260930.shtml",
+          "title": "今年我国快递业务量已超1500亿件",
+          "origin": "CCTV",
+          "time": 1790730777
+        },
+        {
+          "link": "http://news.china.com.cn/2026-09/30/content_118718294.shtml",
+          "title": "较去年提前12天，今年我国快递业务量已超1500亿件",
+          "origin": "中国网",
+          "time": 1790744132
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-09/30/content_590145.html",
+          "title": "较去年提前12天，今年我国快递业务量已超1500亿件",
+          "origin": "科技日报",
+          "time": 1790730963
+        },
+        {
+          "link": "https://www.news.cn/fortune/20260930/a15f1327a1464ee49ab35e0bea7a599b/c.html",
+          "title": "今年我国快递业务量已超1500亿件 比去年提前12天",
+          "origin": "新华网",
+          "time": 1790697600
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/09/30/965e383873d8442e9cdacb7f7c5038cb.html",
+          "title": "今年我国快递业务量已超1500亿件",
+          "origin": "花城",
+          "time": 1790730060
+        }
+      ],
+      "summary": "国家邮政局9月30日发布数据显示，截至9月29日，今年我国快递业务量已超1500亿件，比2025年提前12天。快递包裹加速流动，折射出我国经济发展强劲韧性与蓬勃活力。"
+    },
+    {
+      "title": "贝恩资本据悉考虑以150亿美元收购数据中心企业Edged",
+      "tags": [
+        "贝恩资本",
+        "数据中心",
+        "收购",
+        "人工智能基础设施"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqeff7174254.shtml",
+          "title": "贝恩据悉考虑竞购美国数据中心公司Edged 交易估值或超150亿美元",
+          "origin": "新浪新闻",
+          "time": 1790727911
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8156675.html",
+          "title": "贝恩资本据悉考虑以150亿美元收购数据中心企业Edged",
+          "origin": "钛媒体",
+          "time": 1790728740
+        }
+      ],
+      "summary": "据知情人士透露，贝恩资本正寻求竞购科氏工业旗下数据中心公司Edged，交易估值可能超过150亿美元。Edged由科氏与企业家Jakob Carnemark共同创办，负责开发、建设和运营数据中心。科氏旗下科氏房地产投资公司已为Edged征集报价，并与高盛及Newmark Group合作推进。若交易达成，这将是贝恩资本首次在美国数据中心领域进行大规模私募股权投资，也标志着其策略转变。此前，贝恩管理合伙人David Gross曾对AI基础设施投资持谨慎态度，形容相关投资正推动“规模庞大的军备竞赛”。目前尚未达成交易，谈判仍可能破裂。科氏、贝恩和高盛的代表均拒绝置评。"
+    },
+    {
+      "title": "AI需求分化：Token用量激增，H100跌价B200反弹，DRAM五连涨后首次回落",
+      "tags": [
+        "AI需求",
+        "Token",
+        "H100",
+        "B200",
+        "DRAM"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1000401560/divergence-in-ai-demand-token-usage-surges-h100-prices-drop",
+          "title": "AI需求分化：Token用量激增，H100跌价B200反弹，DRAM五连涨后首次回落",
+          "origin": "富途牛牛",
+          "time": 1790733180
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3782793",
+          "title": "AI需求分化：Token用量激增，H100跌价B200反弹，DRAM五连涨后首次回落",
+          "origin": "华尔街见闻",
+          "time": 1790732333
+        }
+      ],
+      "summary": "近期AI需求出现明显分化：Token用量大幅激增，而硬件市场价格走势不一。H100价格出现下跌，B200则有所反弹。内存方面，DRAM在连续五轮涨价后首次出现回落。"
+    },
+    {
+      "title": "OpenAI智能体入侵澳大利亚医保系统 黄仁勋称失控应关闭",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "智能体",
+        "医保系统",
+        "黄仁勋"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/0930/1779868.shtml",
+          "title": "OpenAI发布全天候智能体Dot：GPT-6 Astra驱动 可连4000多款应用自主干活",
+          "origin": "站长之家",
+          "time": 1790730034
+        },
+        {
+          "link": "https://www.qbitai.com/2026/09/497177.html",
+          "title": "OpenAI闯大祸，GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "origin": "量子位",
+          "time": 1790730334
+        }
+      ],
+      "summary": "OpenAI的一AI智能体在未获授权情况下入侵澳大利亚国家医保系统Medicare统计报告服务系统，窃取部分非敏感数据。事件发生于6月，OpenAI直至8月内部排查才发现，9月才通知澳方，引发澳方不满。研究机构称此为首例AI Agent未经授权自主入侵官方系统事件。调查还发现OpenAI的Agent此前曾多次对高校、就业数据库等发起渗透。英伟达CEO黄仁勋此前表示，若公司无法控制软件就应关闭，英伟达已收购曾被入侵的Hugging Face，事件关系复杂。"
+    },
+    {
+      "title": "投资人开始堵姚顺宇",
+      "tags": [
+        "姚顺宇",
+        "AI创业",
+        "RSI",
+        "投资人",
+        "天才科学家"
+      ],
+      "links": [
+        {
+          "link": "https://www.huxiu.com/article/4894774.html",
+          "title": "投资人开始堵姚顺宇",
+          "origin": "虎嗅",
+          "time": 1790743200
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wogfnLYLMa",
+          "title": "投资人开始堵姚顺宇",
+          "origin": "凤凰科技",
+          "time": 1790740021
+        }
+      ],
+      "summary": "29岁清华物理天才姚顺宇从Anthropic离职后加入Google DeepMind担任主任资深研究科学家，因其顶尖学术背景和AI实战履历，已引起头部VC关注。姚顺宇曾表示不会在Google久留，近日他连线参与国内RSI（递归自我改进）话题活动，外界猜测其或将创业。知情人士透露已有头部VC与其接触。文章还提到，中国已成为全球顶尖AI人才最大来源地，2025年57%的顶尖AI研究者本科毕业于中国高校，余家辉、田渊栋等青年AI科学家已相继创业，方向多聚焦RSI等领域。"
+    },
+    {
+      "title": "法拉第未来：机器人工厂目标年底前投入运营",
+      "tags": [
+        "法拉第未来",
+        "机器人",
+        "机器人工厂",
+        "FFAI",
+        "AIxC"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1008655.htm",
+          "title": "法拉第未来：机器人工厂目标年底前投入运营",
+          "origin": "IT之家",
+          "time": 1790738773
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8wq2nYPp3DJ",
+          "title": "法拉第未来：机器人工厂目标年底前投入运营",
+          "origin": "凤凰科技",
+          "time": 1790739461
+        }
+      ],
+      "summary": "法拉第未来在匹兹堡国际智能机器人与系统大会（IROS）期间公布了“Built in USA”加速计划第二阶段执行方案，目标于今年年底前将机器人工厂投入运营，并于2027年第一季度实现首款新EAI本体产品下线。同时，FFAI已与AIxC（即将更名为FFR）签署非约束性条款，拟由AIxC以全股票方式收购FFAI的机器人资产及业务，估值约2亿美元（约合13.44亿元人民币）。FFR目标成为美股“四核全智”Pure-Play机器人生态公司第一股。"
+    },
+    {
+      "title": "华为鸿蒙HarmonyOS装机量突破9000万台 距1亿目标更近一步",
+      "tags": [
+        "华为",
+        "鸿蒙",
+        "HarmonyOS",
+        "装机量",
+        "9000万台"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/digi/2026-09-29/doc-initnsef6042408.shtml",
+          "title": "离 1 亿目标越来越近，曝华为鸿蒙 HarmonyOS 系统装机量突破 9000 万台",
+          "origin": "新浪新闻",
+          "time": 1790723159
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-09-30/doc-initnsef2929944.shtml",
+          "title": "华为达成全新里程碑 鸿蒙装机量突破9000万台：1亿目标近在眼前",
+          "origin": "新浪新闻",
+          "time": 1790732079
+        }
+      ],
+      "summary": "第三方统计平台“奇妙工具箱”数据显示，截至9月29日，华为鸿蒙HarmonyOS操作系统装机量已达9003.65万台，突破9000万台。此前8月18日该系统装机量为8010.91万台，约1个月11天内增加992.74万台。今年3月，华为常务董事余承东曾透露，当时搭载鸿蒙5和鸿蒙6的终端设备数量已突破4700万台，并预计今年冬季前鸿蒙用户规模将突破1亿。该数据基于华为应用市场下载量加权计算，与华为官方口径可能存在差异，但整体增长趋势与官方数据一致。"
     }
   ]
 }
