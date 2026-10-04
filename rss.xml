@@ -1,83 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-10-04</title>
+    <title>News 2026-10-05</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-10-04</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:15:24 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-10-05</description>
+    <lastBuildDate>Sun, 04 Oct 2026 14:35:00 +0000</lastBuildDate>
     <item>
-      <title>伊朗革命卫队近日对7艘违规油轮采取行动</title>
-      <link>https://www.huanqiu.com/article/4TT8zep8yZq</link>
-      <pubDate>Sun, 04 Oct 2026 02:11:02 +0000</pubDate>
-      <description>据伊朗方面消息，当地时间10月3日，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。目前伊方未公布更多细节，相关行动的具体情况尚不明确。</description>
+      <title>马斯克宣布SpaceXAI将更名为SpaceXSI</title>
+      <link>https://wallstreetcn.com/articles/3782984</link>
+      <pubDate>Sun, 04 Oct 2026 13:12:07 +0000</pubDate>
+      <description>马斯克在X平台回复用户提问时确认，将把“SpaceXAI”更名为“SpaceXSI”，并表示“不再叫AI，叫SI，这样更好”。此前，美国官方已将人工智能相关表述改为“超级智能”，并推动.si域名注册量激增。马斯克此举被视为对“超级智能”概念的呼应。</description>
     </item>
     <item>
-      <title>贝森特淡化对美债收益率上升和AI泡沫的担忧</title>
-      <link>https://wallstreetcn.com/articles/3782969</link>
-      <pubDate>Sun, 04 Oct 2026 03:51:17 +0000</pubDate>
-      <description>美国财长斯科特·贝森特在采访中淡化了对美债收益率上升和人工智能泡沫的担忧。他表示，美债收益率上升属于全球现象，并非美国独有；同时驳斥了AI泡沫担忧，并批评人工智能领域一些知名人士关于AI致人类存亡风险的警告是危言耸听、毫无助益，呼吁行业自我监管并拿出可行解决方案。此前，多位科技领袖呼吁放慢先进AI模型开发并加强政府监管，而特朗普政府则否定出台新的联邦AI监管规定，支持行业自我监管。</description>
+      <title>日本外务大臣召见美国大使，就驻日美军涉嫌杀人案提出抗议</title>
+      <link>https://news.cctv.com/2026/10/04/ARTIokWXI8H0N8YYW2YVVNSH261004.shtml</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:06 +0000</pubDate>
+      <description>据日本外务省网站4日消息，日本外务大臣茂木敏充当天就驻日美军涉嫌杀人案召见美国驻日大使乔治·格拉斯，并就此事向格拉斯提出抗议。此前，日本冲绳县警方4日逮捕了一名驻冲绳美国士兵，此人涉嫌3日凌晨在冲绳一家酒店抢劫并杀害一名当地女性。日本首相高市早苗在社交媒体发文称，发生如此极其残忍、凶恶的事件，令人深感遗憾。美方承诺全面配合调查。</description>
     </item>
     <item>
-      <title>朝鲜进行中程战略导弹发射训练</title>
-      <link>https://news.ifeng.com/c/8wvUcicXwrX</link>
-      <pubDate>Sat, 03 Oct 2026 12:51:00 +0000</pubDate>
-      <description>据朝中社10月3日援引朝鲜劳动党中央委员会部长金与正的话报道，朝鲜当天凌晨进行了中程战略导弹发射训练。报道称，朝鲜各类导弹的特殊飞行模式优越性在现实中得到验证。</description>
+      <title>我国首个海上注碳增气平台主体建造完工</title>
+      <link>https://m.ithome.com/html/1009618.htm</link>
+      <pubDate>Sun, 04 Oct 2026 09:53:00 +0000</pubDate>
+      <description>据中国海油和海洋石油工程股份有限公司消息，我国首个海上注碳增气技术示范应用工程——东方1-1气田新建中心平台主体建造完工，全面进入调试阶段。该平台重近1.7万吨，高度超过28层楼，甲板总面积超1万平方米，可将开采伴生的二氧化碳捕集提纯后加压回注地层，既提升难采天然气采出率，又实现二氧化碳永久封存。项目投产后，每年可在海底地层封存二氧化碳超100万吨。东方1-1气田是我国首个海上自营气田，2003年投产以来累计产气超500亿立方米。项目构建了海上二氧化碳捕集、提纯、封存、驱气增产全链条闭环技术体系，全球首创“低温精馏+膜分离”天然气脱碳技术，关键装备全面实现国产化，能耗较传统脱碳工艺降低20%，天然气采收率提高超12%。中心平台主体将在青岛完成调试后起运南海，导管架已在南海莺歌海海域完成安装，投用后将关联东方13-2、东方29-1等12座平台，助力打造海上二氧化碳捕集封存利用基地。</description>
     </item>
     <item>
-      <title>Anthropic招股书中的七个耐人寻味细节</title>
-      <link>https://news.futunn.com/post/1000411924/weekend-reading-the-7-most-intriguing-details-in-anthropic-s</link>
-      <pubDate>Sat, 03 Oct 2026 06:28:00 +0000</pubDate>
-      <description>本文聚焦Anthropic招股书中七个最值得关注的细节，分析了该公司在融资文件中所呈现的关键信息与潜在信号。由于原文正文未提供具体细节内容，本总结仅基于标题和来源标题概括其主题，不展开任何未经证实的细节。</description>
+      <title>特朗普宣布成立超级智能特别工作组</title>
+      <link>https://huacheng.gz-cmc.com/pages/2026/10/04/5e9d8a6dcbd44973ad9d2922498ac4bb.html</link>
+      <pubDate>Sun, 04 Oct 2026 14:35:00 +0000</pubDate>
+      <description>当地时间10月4日，美国总统特朗普宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责协调美国联邦政府在超级智能领域的相关工作。特朗普表示，该工作组将协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供商以及超级智能企业之间的沟通与合作。工作组将由美国国家情报总监杰伊·克莱顿、美国联邦贸易委员会主席安德鲁·弗格森、美国国防部首席技术官埃米尔·迈克尔，以及美国人事管理局局长斯科特·库珀共同领导，并向美国总统特朗普和白宫办公厅主任苏茜·怀尔斯汇报。此前，特朗普于9月29日发布行政令，要求联邦行政部门在法律允许的最大范围内，在官方通信、公开声明、政府网站、报告、政策文件及其他非法定文件中，使用“超级智能”取代“人工智能”的表述。</description>
     </item>
     <item>
-      <title>苹果确认美版iPhone 18 Pro Max存在蜂窝网络故障 需更换设备</title>
-      <link>https://news.ifeng.com/c/8wvWjz8b1Pq</link>
-      <pubDate>Sat, 03 Oct 2026 10:53:00 +0000</pubDate>
-      <description>苹果公司确认，部分美版iPhone 18 Pro Max存在蜂窝网络故障，受影响的用户需更换设备。该机型售价1299美元，于9月18日上市，是苹果除折叠屏手机iPhone Duo外的最高端机型。故障设备会间断或彻底断开AT&amp;T网络，无法正常通话、收发短信、使用移动数据，甚至影响紧急呼叫，手机常自动进入SOS紧急模式。目前尚不清楚具体受影响人数。苹果已发布运营商设置更新并推出iOS 27.0.1，以防止问题蔓延，但部分用户反馈升级后故障仍未解决。苹果表示，对于已受影响用户，换机是唯一解决办法，需联系苹果或AT&amp;T更换新设备。美版iPhone 18 Pro Max是新一代iPhone中唯一配备高通蜂窝基带的机型，其他地区同款机型及iPhone 18 Pro、iPhone Duo均搭载苹果自研C2基带，但目前没有证据证实故障由基带直接导致。</description>
+      <title>年度电影总票房超300亿元 国庆档电影票房突破5亿元</title>
+      <link>https://kite.kagi.com/china/2026100312/中国2026年电影总票房突破300亿元国庆档票房超4亿元</link>
+      <pubDate>Sun, 04 Oct 2026 01:10:00 +0000</pubDate>
+      <description>截至10月3日，2026年中国电影总票房（含预售）突破300亿元，观影人次达7.63亿，放映场次达1.12亿场。国家电影局数据显示，截至9月底，全国银幕总数达95,819块。国庆档（10月1日至7日）票房（含预售）突破5亿元，《神探之痕迹》《什么意思夫妇》《欢迎来龙餐馆》暂列档期票房前三。各地影院也在尝试将观影与书店、休闲服务及赛事直播相结合。</description>
     </item>
     <item>
-      <title>特朗普威胁韩国：不签字就加倍收费</title>
-      <link>https://www.wenweipo.com/a/202610/03/AP6ac0bb90e4b01d54a285c019.html</link>
-      <pubDate>Sat, 03 Oct 2026 09:05:29 +0000</pubDate>
-      <description>美国总统特朗普10月2日威胁说，如果韩国不同意投资一个阿拉斯加液化天然气项目，美国将向韩国收取更高费用。据法新社报道，特朗普9月30日宣布韩国约2000亿美元对美投资计划，该计划包括阿拉斯加州的一个液化天然气管道项目。据韩联社报道，韩国产业通商资源部长官金正官10月1日表示，对美投资项目应以“商业合理性”为前提，若不具商业可行性将不会推进。韩国政府表示，尚未就是否投资该项目以及潜在投资规模作出决定。</description>
+      <title>伊朗外长：敌方军事行动将遭到“更具毁灭性”回击</title>
+      <link>https://www.news.cn/world/20261004/0733bb5345c444b3851bbfb6cbe317d0/c.html</link>
+      <pubDate>Sun, 04 Oct 2026 14:05:38 +0000</pubDate>
+      <description>伊朗外交部长阿拉格齐10月4日在德黑兰会见驻伊外交官时表示，尽管伊朗仍愿通过外交途径寻求“公正且体面”的解决方案，但如果敌人再次诉诸军事行动，伊朗将予以比以往“更具毁灭性”的回击。他提到，近期赴纽约出席联合国大会期间，伊朗代表团提出了一项旨在化解分歧、结束与美国当前敌对状态的方案，若该方案获美方采纳，霍尔木兹海峡将在7天内重新开放。阿拉格齐还说，美国过去在军事和外交领域均已遭遇失败，针对伊朗实施的新制裁同样注定徒劳无功，希望美国能选择明智理性的道路，并强调只有在正义公平基础上，通过外交和谈判途径寻找解决方案才是出路。</description>
     </item>
     <item>
-      <title>金正恩观摩中程战略导弹发射训练</title>
-      <link>https://news.ifeng.com/c/8wwMRmgUzLD</link>
-      <pubDate>Sat, 03 Oct 2026 23:10:00 +0000</pubDate>
-      <description>据朝中社4日报道，朝鲜于3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。消息称，训练用导弹命中了设定在朝鲜东部海域的目标，旨在让操纵高超音速战略武器系统的导弹兵熟练掌握火力操纵能力。金正恩表示，要以强大的遏制力管控各种威胁，为国家建设保证安全环境。</description>
+      <title>伊朗议长：在条件满足之前 霍尔木兹海峡不会重新开放</title>
+      <link>https://www.tmtpost.com/nictation/8158968.html</link>
+      <pubDate>Sun, 04 Oct 2026 07:42:02 +0000</pubDate>
+      <description>当地时间4日，伊朗议会议长卡利巴夫表示，在条件满足之前，霍尔木兹海峡不会重新开放。他强调，面对伊朗的坚定立场与顽强抵抗，美国陷入绝望境地。</description>
     </item>
     <item>
-      <title>沙特主导联军：胡塞武装有关袭击利雅得说法存在误导</title>
-      <link>https://news.ifeng.com/c/8wwRwUT4LSW</link>
-      <pubDate>Sun, 04 Oct 2026 00:39:14 +0000</pubDate>
-      <description>沙特阿拉伯主导的多国联军10月3日表示，也门胡塞武装当天关于袭击沙特首都利雅得的说法“具有误导性”。多国联军发言人图尔基·马利基称，胡塞武装近期在也门塔伊兹省及其他战线遭受人员损失，试图通过宣称“虚假胜利”来转移外界关注。此前，胡塞武装称使用弹道导弹和无人机袭击了位于利雅得的一处沙特阿美公司石油设施，并称“直接命中”导致起火，还表示这是对沙特袭击也门萨那及其他胡塞武装控制区的回应。</description>
+      <title>美官员：美国将伊朗联合国大会代表团两名成员驱逐出境</title>
+      <link>http://www.chinanews.com//gj/2026/10-04/10707766.shtml</link>
+      <pubDate>Sun, 04 Oct 2026 04:36:00 +0000</pubDate>
+      <description>美国官员当地时间10月3日透露，出席纽约联合国大会的伊朗代表团两名成员已于当日被“驱逐”出境，此前几天他们已被要求离开美国。该官员表示，“联合国大会结束后很久，伊朗代表团仍有两名成员滞留在纽约”，并称“他们现已被驱逐出境”。据美媒报道，一名伊朗代表团成员于2日晚离境，另一名于3日上午离开美国。美方曾于9月28日要求出席联合国大会的伊朗代表团全体成员离开美国，10月2日再次要求仍留在纽约的两名伊朗外交官立即离境。此前报道称，在美国和伊朗双方代表团谈判陷入僵局后，美国国务卿鲁比奥于9月28日要求伊朗外长率领的代表团立即离开美国。</description>
     </item>
     <item>
-      <title>研考报名临近，报名流程和照片采集有新变化</title>
-      <link>https://www.stdaily.com/web/gdxw/2026-10/04/content_591740.html</link>
-      <pubDate>Sun, 04 Oct 2026 04:15:24 +0000</pubDate>
-      <description>2027年全国硕士研究生招生初试报名时间为2026年10月15日至10月24日。教育部表示，自2027年研考起，研招网将实行网上报名和网上确认一体化，考生在网上报名期间填写个人信息和报考志愿后，可一并提交报考点要求的核验材料。报名照片采集时间由网上确认阶段提前至网上报名基本信息填写阶段，考生无需提前准备照片，直接通过学信网App在线拍摄并上传，系统会实时检测光线、角度等拍摄条件并提示调整。报名照片将用于制作准考证，今年照片背景颜色统一要求为白色，系统还提供照片背景颜色替换等辅助功能。</description>
+      <title>全球跨国投资十强榜单出炉：台积电居首、字节跳动位列第二</title>
+      <link>https://news.mydrivers.com/1/1155/1155357.htm</link>
+      <pubDate>Sun, 04 Oct 2026 09:11:32 +0000</pubDate>
+      <description>据《fDi Report 2026》与Visual Capitalist分析，2025年全球跨国企业宣布的新增外国直接投资总额突破1.3万亿美元，同比增长2.2%。该统计聚焦实体建厂与基础设施等新投资，排除并购和公司间贷款。科技企业在前十大跨国投资者中占据半数席位，台积电位居第一，宣布投资1000亿美元用于美国亚利桑那州芯片厂建设，预计创造超1.8万个工作岗位。字节跳动以451亿美元位列第二，计划在巴西建设大型数据中心。其余上榜企业包括MGX Fund Management、Brookfield Asset Management、Alphabet、DAMAC Properties、Iberdrola、微软、伍德赛德能源和美光。</description>
     </item>
     <item>
-      <title>司法部：2025年共调解各类案件1653.7万件</title>
-      <link>https://news.cctv.com/2026/10/04/ARTIr2MvGXugc8nfkFQ9ov0G261004.shtml</link>
-      <pubDate>Sun, 04 Oct 2026 03:02:00 +0000</pubDate>
-      <description>司法部近日公布数据显示，2025年全国共调解各类案件1653.7万件，调解成功率达96.5%，调解协议履行率为94%。目前，全国共有人民调解委员会69.7万个，其中村（社区）调委会61.2万个，乡镇（街道）调委会4万个，行业性专业性调委会和工作室5.4万个；全国共有人民调解员310.2万人，其中专职调解员56万人，基本形成覆盖城乡社区和重点领域、单位的调解组织网络。</description>
-    </item>
-    <item>
-      <title>苹果收紧Mac全盘访问权限，防AI滥用并引macOS“iOS化”担忧</title>
-      <link>https://tech.ifeng.com/c/8wv4FP4u5ZJ</link>
-      <pubDate>Sat, 03 Oct 2026 04:47:11 +0000</pubDate>
-      <description>苹果公司近日宣布将进一步收紧macOS上的“全盘访问权限”，开发者声明暗示此举是为了应对具有高度自主性的AI Agent应用滥用该权限，可能利用用户信息差要求授权，读取其文件、邮件和浏览记录。为应对这一情况，苹果将推出更严格的权限控制系统，要求用户进行更明确、更繁琐的手动操作才能授予应用高级权限。
-
-资深开发者和评论人士John Gruber对此解读称，Meta Muse、Grok等AI应用为了获取用户上下文，疯狂索要最高权限，破坏了Mac社区长久以来的默契，逼使苹果采取强制手段。他担心macOS在权限管理上会变得更加封闭，趋向“iOS化”，牺牲核心用户的自由度。Gruber同时暗讽欧盟试图通过《数字市场法案》迫使苹果开放iOS，但他认为iOS虽然封闭，对用户隐私的保护是优秀的。他最后希望苹果不要一刀切，能为懂技术的核心用户保留后门。</description>
-    </item>
-    <item>
-      <title>中东局势升级，胡塞武装称袭击沙特石油设施 原油供应前景又生变？</title>
-      <link>https://news.futunn.com/post/1000553107/escalation-in-the-middle-east-houthi-rebels-claim-attacks-on</link>
-      <pubDate>Sun, 04 Oct 2026 01:23:00 +0000</pubDate>
-      <description>近期中东地区紧张局势再度升级，也门胡塞武装宣称对沙特阿拉伯境内的石油设施发动了袭击。这一事件引发市场对原油供应前景的担忧，使得国际油价走势面临新的不确定性。目前相关袭击的具体影响尚待进一步评估，局势发展值得持续关注。</description>
+      <title>美银：AI交易是当前美债市场最后一道防线</title>
+      <link>https://wallstreetcn.com/articles/3782975</link>
+      <pubDate>Sun, 04 Oct 2026 08:51:00 +0000</pubDate>
+      <description>美国银行表示，AI交易目前是美国国债市场的最后一道防线。该观点来自美银相关报告或评论，强调在当前市场环境下，人工智能驱动的交易活动对美债市场起到关键支撑作用。</description>
     </item>
   </channel>
 </rss>
