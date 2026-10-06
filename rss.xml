@@ -1,75 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-10-06</title>
+    <title>News 2026-10-07</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-10-06</description>
-    <lastBuildDate>Tue, 06 Oct 2026 04:15:50 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-10-07</description>
+    <lastBuildDate>Tue, 06 Oct 2026 14:30:54 +0000</lastBuildDate>
     <item>
-      <title>可灵AI据悉选定银行筹备香港IPO 拟上市募资至少10亿美元</title>
-      <link>https://m.ithome.com/html/1009964.htm</link>
-      <pubDate>Tue, 06 Oct 2026 04:15:50 +0000</pubDate>
-      <description>据媒体报道，快手科技旗下的人工智能视频服务提供商可灵AI已选定承销银行，筹备赴香港首次公开募股（IPO），拟募资至少10亿美元。知情人士称，可灵AI正与中金公司、高盛集团及瑞银集团合作推进股票发行事宜，目标最早于明年完成上市，但相关细节仍可能变动。可灵AI成立于2024年，今年7月完成一轮28亿美元融资，投资方包括阿里巴巴、腾讯、百度等，投前估值约150亿美元。其竞争对手包括字节跳动的Seedance及生数科技、PixVerse等，后两家公司也计划赴港IPO。</description>
+      <title>弗朗西斯·哈尔岑获2026年诺贝尔物理学奖</title>
+      <link>https://www.huxiu.com/article/4895551.html</link>
+      <pubDate>Tue, 06 Oct 2026 11:29:00 +0000</pubDate>
+      <description>瑞典皇家科学院10月6日宣布，将2026年诺贝尔物理学奖授予科学家弗朗西斯·哈尔岑，以表彰其对冰立方中微子天文台的决定性贡献和发现具有天体物理起源的高能中微子。哈尔岑1944年出生于比利时，目前任职于美国威斯康星大学麦迪逊分校。1988年，他首次提出利用南极冰层探测中微子的设想。在哈尔岑推动下，冰立方中微子天文台于2011年建成，利用约1立方千米体积的南极冰体部署光学传感器探测中微子。研究人员随后探测到首批高能中微子，并确认其中一些来自太阳系以外。诺贝尔物理学委员会主席马克·皮尔斯评价其坚韧和科学远见为一种新的天文学铺平了道路。哈尔岑将获得1200万瑞典克朗（约合806万元人民币）奖金。</description>
     </item>
     <item>
-      <title>我国海水淡化日处理能力突破300万吨</title>
-      <link>https://www.huanqiu.com/article/4TUteTmrgSZ</link>
-      <pubDate>Tue, 06 Oct 2026 02:11:00 +0000</pubDate>
-      <description>记者从自然资源部了解到，截至目前，我国海水淡化总规模已达到每日307.7万吨，突破300万吨。目前，全国已建海水淡化工程总规模为307.7万吨/日，据不完全统计，拟建和在建总规模超过100万吨/日。今年7月，国家发展改革委、自然资源部、水利部联合发布《海水淡化产业发展行动方案》，促进海水淡化规模化利用，力争到2030年，全国海水淡化工程总规模将达到450万吨/日，新增海水淡化工程规模150万吨/日以上。</description>
-    </item>
-    <item>
-      <title>Meta、微软削减对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一</title>
-      <link>https://wallstreetcn.com/articles/3783031</link>
-      <pubDate>Tue, 06 Oct 2026 02:40:00 +0000</pubDate>
-      <description>据The Information报道，Anthropic两大客户微软和Meta同时收缩了对Claude的使用。微软原本预计今年在Claude上的内部预算超过10亿美元，现已削减三分之一以上，云部门每人每月的Claude额度从10万美元降至约1万美元，并计划在2026年6月财年结束前取消大部分Claude Code许可证。Meta内部使用Claude Code的员工人数从约6万人降至约3万人，但近28天仍花费超1.05亿美元；同时Meta自研工具MetaCode用户超3万，Muse Code内部用户超6000，自研模型Muse Spark部分替代了Claude需求。报道还提到，Anthropic已提交S-1准备上市，两家未具名客户合计贡献约25%营收，市场猜测正是微软和Meta。此外，阿里、英伟达等企业也收紧了Claude使用。Anthropic已降低缓存读取成本并调整数据留存政策以应对客户流失。</description>
-    </item>
-    <item>
-      <title>快手旗下可灵AI选定承销商筹备港股IPO 拟募资至少10亿美元</title>
-      <link>https://finance.sina.com.cn/stock/hkstock/2026-10-06/doc-iniuhcmn7154469.shtml</link>
-      <pubDate>Tue, 06 Oct 2026 04:06:32 +0000</pubDate>
-      <description>据彭博社报道，快手科技旗下人工智能视频生成服务商可灵AI已选定中金公司、高盛和瑞银为其香港IPO提供承销服务，计划最早于明年赴港上市，至少融资10亿美元。若顺利挂牌，可灵AI将成为港股市场首家以视频生成大模型为核心业务的独立上市公司。目前相关股票发行事宜仍在推进中。</description>
-    </item>
-    <item>
-      <title>红海局势升温 胡塞武装大规模袭击利雅得机场及阿美炼油厂</title>
-      <link>https://news.futunn.com/post/1000597655/tensions-escalate-in-the-red-sea-as-houthi-forces-launch</link>
-      <pubDate>Tue, 06 Oct 2026 01:44:00 +0000</pubDate>
-      <description>也门胡塞武装与沙特支持的政府军冲突升级。胡塞武装对沙特本土发动多轮导弹和无人机袭击，目标包括利雅得哈立德国王国际机场、拉比格阿美炼油厂、艾卜哈机场及多个军事和敏感设施，利雅得一度传出爆炸声。也门政府随后宣布启动大规模军事行动，在沙特空军支持下对胡塞武装发动反攻，宣称已夺取祖巴卜地区多个阵地并对曼德海峡实现“有效控制”，但胡塞武装否认。战略港口摩卡的归属双方说法不一。胡塞武装还占领塔兹省南部图尔巴赫，切断政府军补给线。此次冲突使红海航运和能源出口通道安全风险上升，国际油价承压上行，市场关注航运保险成本与原油风险溢价的重估。</description>
+      <title>中国电信回应原员工实名举报：已内部核查，言论与事实不符</title>
+      <link>https://finance.sina.com.cn/tob/2026-10-06/doc-iniuhpzh6955572.shtml</link>
+      <pubDate>Tue, 06 Oct 2026 09:31:00 +0000</pubDate>
+      <description>近日，原中国电信员工郑某（郑季衍）实名举报中国电信多名高管，称其参与的“国家工业互联网大数据中心”项目存在围标串标、伪造合同、违规套取3800万元财政资金等问题，包括13天项目上报33779人日工作量、四家子公司围标致预算与中标价吻合度达99.97%、7700万自筹资金造假等。10月6日下午，中国电信大客户事业部发布声明回应，称郑某自2023年起无正当理由旷工635天，已于2026年8月31日依法解除劳动关系；所涉项目已于2024年进行过内部专项核查，其言论与事实不符。</description>
     </item>
     <item>
       <title>麦当劳在美遭集体诉讼，被指用AI系统非法操纵菜单价格</title>
-      <link>https://m.ithome.com/html/1009924.htm</link>
-      <pubDate>Tue, 06 Oct 2026 00:03:10 +0000</pubDate>
-      <description>据路透社报道，麦当劳已在芝加哥联邦法院被提起一项拟议的全国性集体诉讼。原告指控麦当劳借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格，违反美国反垄断法。诉状称，麦当劳与独立特许经营商合谋，利用基于非公开数据训练的算法操纵价格。路透社此前报道，麦当劳的定价引擎运用机器学习算法，持续分析其近14000家门店每天数百万笔交易产生的数据。麦当劳回应称相关指控属于主观揣测，缺乏事实依据，并表示巨无霸汉堡及其他餐品的价格并非由人工智能设定，各特许加盟商拥有定价决策权。原告为伊利诺伊州居民，希望代表可能多达数百万名麦当劳消费者。</description>
+      <link>https://news.mydrivers.com/1/1155/1155520.htm</link>
+      <pubDate>Tue, 06 Oct 2026 09:14:00 +0000</pubDate>
+      <description>麦当劳在美国芝加哥联邦法院遭到集体诉讼，原告指控其利用AI驱动的定价系统与独立加盟商非法协调菜单价格，违反美国反垄断法。诉讼于上周五提起，称麦当劳通过机器学习算法分析近1.4万家门店每日数百万笔交易数据，在加盟商之间建立隐形定价协调机制。原告为伊利诺伊州居民，寻求代表数百万消费者提起集体诉讼。麦当劳周一回应称指控“具有推测性且缺乏依据”，强调AI不会设定巨无霸或其他菜单项目的价格，加盟商自主定价。目前法院尚未认定指控，案件仍在审理中。此前美国已有多起针对企业利用AI算法协调酒店、公寓租赁价格的集体诉讼。</description>
     </item>
     <item>
-      <title>OpenAI遭商标侵权诉讼，“Astra”名称引发法律纠纷</title>
-      <link>https://wallstreetcn.com/articles/3783030</link>
-      <pubDate>Mon, 05 Oct 2026 20:45:00 +0000</pubDate>
-      <description>OpenAI因使用“Astra”名称而遭遇商标侵权诉讼，相关法律纠纷由此引发。目前具体诉讼细节尚未披露。</description>
-    </item>
-    <item>
-      <title>消息称苹果10月将分两波推出新品：首款触控MacBook、M6 iMac等</title>
-      <link>https://m.ithome.com/html/1009965.htm</link>
-      <pubDate>Tue, 06 Oct 2026 02:53:07 +0000</pubDate>
-      <description>据科技媒体 MacRumors 报道，苹果公司可能在2026年10月分两波推出多款新产品。第一波预计于10月13日发布，聚焦智能家居产品，包括首款智能家居中枢 Home Hub 和第四代 Apple TV 4K。第二波预计在10月最后一周，主角为 Mac 系列，可能包括采用 OLED 显示屏、更轻薄机身的苹果首款触控 MacBook（上市名或为 MacBook Ultra），搭载 M6 芯片的入门款14英寸 MacBook Pro 和 M6 iMac。此外，苹果此前宣布搭载 M5 Ultra 芯片、配备512GB内存的高端 Mac Studio 配置将于10月下旬上市，可能与第二波 Mac 新品发布安排重叠。新款 iPad mini 也预计在10月亮相，可能配备 OLED 显示屏、A20 Pro 芯片、横向前置摄像头和重新设计的扬声器系统。以上信息均来自媒体报道，具体发布情况以苹果官方为准。</description>
-    </item>
-    <item>
-      <title>港股主要股指集体走强，智谱涨超5%</title>
-      <link>https://www.tmtpost.com/nictation/8159830.html</link>
-      <pubDate>Tue, 06 Oct 2026 02:45:50 +0000</pubDate>
-      <description>港股主要股指今日集体走强，其中智谱相关个股表现突出，涨幅超过5%。</description>
-    </item>
-    <item>
-      <title>宁夏原油外输管网累计输油突破2亿吨</title>
-      <link>https://www.huanqiu.com/article/4TUr1IG9gfk</link>
-      <pubDate>Tue, 06 Oct 2026 01:01:00 +0000</pubDate>
-      <description>10月6日，据国家管网集团消息，宁夏原油外输管网累计输送原油突破2亿吨。该管网已安全运行48年，持续为我国西部地区优化油气资源配置、推进区域经济高质量发展提供坚强支撑。</description>
-    </item>
-    <item>
-      <title>人形机器人进工厂：现场需求重塑产品设计</title>
-      <link>https://www.huxiu.com/article/4895487.html</link>
-      <pubDate>Tue, 06 Oct 2026 00:32:48 +0000</pubDate>
-      <description>美国人形机器人公司Figure宣布退役上一代产品Figure 02，其在宝马工厂累计运行超1250小时，前臂故障数据被用于改进新一代Figure 03。文章指出，工厂正重新定义“好机器人”标准：优必选因工位覆盖不足为Walker S2增加腰部自由度和自主换电；银河通用根据工厂移动抓取需求选择轮式底盘；Agility Digit在GXO仓库持续迭代导航与充电，交付后仍需长期服务；云深处四足机器人在巡检中改进防雨、防尘和充电问题。宇树2025年人形机器人收入约8.68亿元，但约76%来自科研教育，生产市场仍需验证。</description>
+      <title>AMD苏姿丰密会台积电：确认追加投资 加码芯片供应链</title>
+      <link>https://m.ithome.com/html/1010114.htm</link>
+      <pubDate>Tue, 06 Oct 2026 14:30:54 +0000</pubDate>
+      <description>AMD CEO苏姿丰于10月6日密集拜会鸿海、广达、华硕、宏碁等厂商，下午前往新竹密会台积电。面对强劲的AI运算需求，苏姿丰证实AMD此前宣布在中国台湾投资100亿美元的供应链计划符合进度，并因市场需求暴增决定调高投资金额，持续扩大在台供应链投资。她表示，AMD正与台积电、后段封测及基板供应商加速拉升产能，但当前需求仍远高于供给，预计2027年将大幅扩增产能。AMD股价当日创历史新高，市值达1.06万亿美元。</description>
     </item>
   </channel>
 </rss>
