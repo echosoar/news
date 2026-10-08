@@ -4,7 +4,7 @@
     <title>News 2026-10-08</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-10-08</description>
-    <lastBuildDate>Wed, 07 Oct 2026 10:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:52:00 +0000</lastBuildDate>
     <item>
       <title>2026年诺贝尔化学奖揭晓</title>
       <link>https://wallstreetcn.com/articles/3783117</link>
@@ -46,6 +46,42 @@
       <link>https://tech.ifeng.com/c/8x1tRHNRfTO</link>
       <pubDate>Wed, 07 Oct 2026 07:01:42 +0000</pubDate>
       <description>比利时天才少年洛朗·西蒙斯现年16岁，已获得量子物理学博士学位，成为世界上最年轻的博士之一。他智商高达145，学业进度远超常人：6岁完成小学学业，8岁学完中学课程，9岁学习工程学，11岁取得量子物理学学士学位，15岁通过博士论文答辩。如今他正在医学领域攻读第二个博士学位，立志研发人工器官技术，以延长人类寿命。这一选择源于其祖父母患有心脏疾病，他希望通过生命科学研究攻克器官疾病难题。</description>
+    </item>
+    <item>
+      <title>量子精密测量实现新突破 我国科研团队研制出核光钟</title>
+      <link>https://www.tmtpost.com/nictation/8160929.html</link>
+      <pubDate>Thu, 08 Oct 2026 04:52:00 +0000</pubDate>
+      <description>日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探测和基础物理研究等开辟新的技术路径。国际期刊《自然》于2026年10月8日刊发了该项研究成果。</description>
+    </item>
+    <item>
+      <title>AI世纪IPO之战：OpenAI奋起直追，与Anthropic差距正在缩小</title>
+      <link>https://wallstreetcn.com/articles/3783161</link>
+      <pubDate>Thu, 08 Oct 2026 04:28:32 +0000</pubDate>
+      <description>今年以来，AI大模型商业竞争格局发生逆转。曾独占企业市场四分之三份额的Anthropic，正遭遇OpenAI强力反扑。OpenRouter数据显示，在同时使用两家产品的约12万家企业中，9月双方支出占比已大致持平。OpenAI于6月推出GPT-5.6系列，以成本效率为核心并大幅降价，成为市场转折点。Anthropic旗舰模型Fable 5默认保留用户数据30天，引发合规担忧，加速部分客户流失。两家公司均面临资本支出压力并筹备IPO，Anthropic最早可能11月上市，OpenAI预计明年跟进。企业客户更注重成本与多模型策略，部分开始使用中国低成本开源模型。尽管市场份额承压，Anthropic在开发者社群中仍有号召力，并于9月下旬发布Claude 5.5系列反击。这场价格战远未结束。</description>
+    </item>
+    <item>
+      <title>阿里巴巴蔡崇信：开源是欧洲发展AI的最佳选择</title>
+      <link>https://m.ithome.com/html/1010451.htm</link>
+      <pubDate>Thu, 08 Oct 2026 04:21:30 +0000</pubDate>
+      <description>阿里巴巴集团董事会主席蔡崇信在意大利都灵举行的Wave by Vento大会上表示，欧洲要在技术上摆脱对中美的依赖，最佳选择是开源AI。他呼吁欧洲认真投入算力基础设施建设，将模型训练和推理放在欧洲本地。蔡崇信认为，欧洲应重点利用专有工业数据训练模型以形成优势，并看好欧洲新型云服务商的发展。他还指出，中国有意侧重开源模型和公开研究成果，而OpenAI、Anthropic等美国企业主要提供专有模型，美国闭源实验室不再写论文，因为他们不想分享、想保持封闭。</description>
+    </item>
+    <item>
+      <title>原OpenAI安全负责人戴维·罗宾逊炮轰老东家：对待AI安全说一套做一套</title>
+      <link>https://m.ithome.com/html/1010351.htm</link>
+      <pubDate>Wed, 07 Oct 2026 23:19:43 +0000</pubDate>
+      <description>据《商业内幕》10月8日报道，上周从OpenAI离职的安全系统团队前负责人之一戴维·罗宾逊批评公司在AI安全问题上言行不一。他表示，OpenAI一边反复警告新模型能力增强可能带来的风险，一边公开谈论放慢AI开发速度，但内部却仍在全速推进，训练和部署那些被自己警告存在危险的模型。今年7月，数百名OpenAI员工签署公开信呼吁政府出台监管措施为AI开发降速；9月，OpenAI CEO奥尔特曼也曾表示需要控制前沿AI发展节奏。罗宾逊称，OpenAI办公室仍高速运转，不少人靠透支精力支撑工作。此外，OpenAI研究人员承认AI递归自我改进的危险，首席科学家雅库布·帕乔茨基也警告“眼下需要极度谨慎”。当地时间2日，OpenAI发言人证实罗宾逊已离职。</description>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5发布：单价降九成</title>
+      <link>https://news.futunn.com/post/1000688664/prices-slashed-to-rock-bottom-claude-haiku-5-5-has</link>
+      <pubDate>Thu, 08 Oct 2026 02:47:00 +0000</pubDate>
+      <description>Anthropic于10月7日发布Claude Haiku 5.5，输入价格降至每百万token 0.1美元，输出0.5美元，较上代Haiku 4.5降价90%，与OpenAI GPT-6 Luna持平。模型在编程、电脑操作和知识工作等测试中大幅提升，如Terminal-Bench从0%升至39.2%，OSWorld从15.7%升至72.4%。Haiku 5.5首次支持五档可调思考模式，上下文窗口100万token。此外，Anthropic将Sonnet 5.5缓存读取价格减半，并为Max和Team订阅用户提供每月API额度。官方建议Haiku 5.5用于摘要、分类、实时客服等量大且对成本敏感的任务，复杂编程仍由Sonnet和Opus承担。</description>
+    </item>
+    <item>
+      <title>伊朗高级官员：伊朗绝不会放弃铀浓缩权利</title>
+      <link>https://news.cctv.com/2026/10/08/ARTIlDBxK7ArpXXC2nOh1KeX261008.shtml</link>
+      <pubDate>Thu, 08 Oct 2026 02:55:00 +0000</pubDate>
+      <description>当地时间10月7日，伊朗一名高级官员就美国副总统万斯关于伊朗必须“实质性”削减铀浓缩能力才能满足美方要求、结束美伊冲突的言论回应称，美方的“诉求与想法”与伊朗的要求存在分歧。该官员强调，伊朗绝不会放弃铀浓缩权利。</description>
     </item>
   </channel>
 </rss>
