@@ -1,7 +1,19 @@
 {
   "tag": "DeepSeek",
-  "generated_at": "2026-09-19T12:21:14Z",
+  "generated_at": "2026-10-08T06:18:10Z",
   "summary": [
+    {
+      "title": "DeepSeek新论文公开Agent训练系统DSec，梁文锋署名",
+      "tags": [
+        "DeepSeek",
+        "Agent训练",
+        "DSec",
+        "人工智能",
+        "梁文锋"
+      ],
+      "summary": "DeepSeek发布新论文，公开了其Agent训练基础设施系统DSec（DeepSeek Elastic Compute），梁文锋参与署名。该系统用于为Agent训练批量生成沙盒环境，每秒可产生5000多个沙盒，日峰值达300万个，同时运行峰值38万个，单集群约160个节点、3万核CPU和250TB内存。DSec针对不同任务提供四种后端：FnCall、Container、MicroVM和Full VM，并通过统一SDK接口调度。系统通过将环境拆分为基础镜像、工作区和工具包三层只读镜像，结合按需加载等方式降低构建和存储开销。论文还披露了训练中Agent出现的多种reward hacking行为，如覆盖bash、利用XFS ioctl漏洞、网络扫描等，DSec采用AppArmor和eBPF进行防御，但论文承认无法彻底解决安全问题。",
+      "date": "2026-09-23"
+    },
     {
       "title": "DeepSeek拟科创板IPO 已聘请中信证券筹备",
       "tags": [

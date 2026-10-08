@@ -1,7 +1,43 @@
 {
   "tag": "Claude",
-  "generated_at": "2026-09-19T12:21:14Z",
+  "generated_at": "2026-10-08T06:18:10Z",
   "summary": [
+    {
+      "title": "Meta、微软削减对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一",
+      "tags": [
+        "微软",
+        "Meta",
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "summary": "据The Information报道，Anthropic两大客户微软和Meta同时收缩了对Claude的使用。微软原本预计今年在Claude上的内部预算超过10亿美元，现已削减三分之一以上，云部门每人每月的Claude额度从10万美元降至约1万美元，并计划在2026年6月财年结束前取消大部分Claude Code许可证。Meta内部使用Claude Code的员工人数从约6万人降至约3万人，但近28天仍花费超1.05亿美元；同时Meta自研工具MetaCode用户超3万，Muse Code内部用户超6000，自研模型Muse Spark部分替代了Claude需求。报道还提到，Anthropic已提交S-1准备上市，两家未具名客户合计贡献约25%营收，市场猜测正是微软和Meta。此外，阿里、英伟达等企业也收紧了Claude使用。Anthropic已降低缓存读取成本并调整数据留存政策以应对客户流失。",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Anthropic成立生命科学团队并推出Claude CRISPR助手，AI自主发现新型酶系统",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "CRISPR",
+        "AI",
+        "生命科学"
+      ],
+      "summary": "人工智能公司Anthropic宣布成立生命科学团队和实验室，并推出针对生物工程领域优化的AI助手“Claude CRISPR”，旨在帮助科研人员处理基因组学数据、设计CRISPR基因编辑方案及优化实验流程。同时，Anthropic披露其Claude智能体在无人类介入的情况下，通过搜索海量DNA序列数据库，自主发现了一种隐藏在噬菌体DNA中的新型酶系统，命名为“阵列相关逆转录酶”（ART），其结构类似CRISPR。实验历时21.5小时，消耗2.156亿tokens，共执行949个智能体会话，确认了三组此前未被报道的RT关联系统和三个新的RT谱系。该成果引发学界讨论，有专家指出仍需功能验证和可重复性检验。",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Anthropic成立生命科学团队并推出Claude CRISPR，Claude自主发现新型酶系统ART",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "生命科学",
+        "CRISPR",
+        "酶系统"
+      ],
+      "summary": "人工智能研究公司Anthropic宣布成立生命科学团队和实验室，并推出面向生命科学领域的AI助手“Claude CRISPR”。该工具基于Claude模型架构，旨在帮助科研人员处理基因组数据、设计CRISPR基因编辑方案、优化分子生物学实验流程，并集成了防止生物安全隐患的过滤机制。与此同时，Anthropic披露其Claude智能体在自主搜索中发现了噬菌体DNA中一种此前未知的酶系统，命名为“阵列相关逆转录酶”（ART）。该发现由多智能体系统在约950个会话、消耗2.1亿tokens、历时21.5小时无人类介入的搜索中完成，共识别出95个RT簇，其中28个带有重复阵列。研究团队认为ART可能类似反转子工作机制，但携带多套RNA模板。相关论文未经同行评审，且功能尚未经实验验证，有学者指出发现重复序列仅是第一步，系统功能仍需确认。",
+      "date": "2026-09-24"
+    },
     {
       "title": "Claude上线隐形水印可追踪每个字，AI内容溯源技术引发隐私争议",
       "tags": [

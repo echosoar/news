@@ -1,7 +1,30 @@
 {
   "tag": "Astra",
-  "generated_at": "2026-09-19T12:21:14Z",
+  "generated_at": "2026-10-08T06:18:10Z",
   "summary": [
+    {
+      "title": "OpenAI遭商标侵权诉讼，“Astra”名称引发法律纠纷",
+      "tags": [
+        "OpenAI",
+        "商标侵权",
+        "Astra",
+        "法律纠纷"
+      ],
+      "summary": "OpenAI因使用“Astra”名称而遭遇商标侵权诉讼，相关法律纠纷由此引发。目前具体诉讼细节尚未披露。",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "OpenAI发布GPT-6 Sol与Luna模型 定价大幅下调",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "Sol",
+        "Luna",
+        "Astra"
+      ],
+      "summary": "OpenAI推出两款GPT-6模型，分别命名为Sol和Luna。与上一代产品相比，这两款模型定价腰斩，显示出明显的价格下调策略。同时，其能力定位低于Astra模型，且Astra能力呈现加速下沉趋势。报道指出，Sol和Luna的发布标志着OpenAI在模型价格与性能分层上的进一步调整。",
+      "date": "2026-09-23"
+    },
     {
       "title": "需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响",
       "tags": [

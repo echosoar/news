@@ -1,7 +1,19 @@
 {
   "tag": "泄密",
-  "generated_at": "2026-09-19T12:21:14Z",
+  "generated_at": "2026-10-08T06:18:10Z",
   "summary": [
+    {
+      "title": "OpenAI安全团队持续地震，负责人离职，三名员工因泄密被开",
+      "tags": [
+        "OpenAI",
+        "安全团队",
+        "人事变动",
+        "David Robinson",
+        "泄密"
+      ],
+      "summary": "OpenAI安全团队再次出现人事动荡。据多家媒体报道，OpenAI Safety Systems团队内“安全透明度”职能负责人David Robinson已离职，目前其离职原因和继任者尚未公布。Robinson此前负责领导团队撰写模型“system card”（风险说明书），并是OpenAI《Preparedness Framework 2.0》的主要起草人，该框架用于追踪前沿模型可能带来的严重风险。在Robinson离职消息曝光前，OpenAI已开除三名安全方向员工Jasmine Wang、Tomek Korbak和Mikita Balesni，理由是内部调查发现他们将公司敏感信息分享给一家外部AI安全机构，其中包含OpenAI基础设施架构内容。据悉，OpenAI安全团队长期以来人员变动频繁，此事再次引发外界关注。",
+      "date": "2026-10-03"
+    },
     {
       "title": "航展照片可能泄露国家机密 国家安全部发布提示",
       "tags": [

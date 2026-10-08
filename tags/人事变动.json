@@ -1,0 +1,41 @@
+{
+  "tag": "人事变动",
+  "generated_at": "2026-10-08T06:18:10Z",
+  "summary": [
+    {
+      "title": "OpenAI安全团队持续地震，负责人离职，三名员工因泄密被开",
+      "tags": [
+        "OpenAI",
+        "安全团队",
+        "人事变动",
+        "David Robinson",
+        "泄密"
+      ],
+      "summary": "OpenAI安全团队再次出现人事动荡。据多家媒体报道，OpenAI Safety Systems团队内“安全透明度”职能负责人David Robinson已离职，目前其离职原因和继任者尚未公布。Robinson此前负责领导团队撰写模型“system card”（风险说明书），并是OpenAI《Preparedness Framework 2.0》的主要起草人，该框架用于追踪前沿模型可能带来的严重风险。在Robinson离职消息曝光前，OpenAI已开除三名安全方向员工Jasmine Wang、Tomek Korbak和Mikita Balesni，理由是内部调查发现他们将公司敏感信息分享给一家外部AI安全机构，其中包含OpenAI基础设施架构内容。据悉，OpenAI安全团队长期以来人员变动频繁，此事再次引发外界关注。",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "白宫新闻秘书莱维特即将离职，特朗普作出回应",
+      "tags": [
+        "美国",
+        "白宫",
+        "人事变动",
+        "政治"
+      ],
+      "summary": "",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "OpenAI发布GPT-5.6安全主管同时离职引业界关注",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "GPT",
+        "安全",
+        "人事变动"
+      ],
+      "summary": "OpenAI正式发布GPT-5.6系列多模态大模型，包括旗舰版Sol、平衡版Terra与轻量版Luna三款产品。同时，该公司推出了多步骤长文本智能体工具ChatGPT Work，并将独立运行的Codex应用整合进新版桌面客户端，实现三大功能统一入口。在定价方面，Sol每百万token输入5美元、输出30美元，Terra分别为2.5美元与15美元，Luna则为1美元和6美元。行业分析指出，随着推理努力程度机制可调节化，传统静态定价已无法反映真实成本，相同输入下成本差距可达近70倍。性能方面，Sol在Agents Last Exam评测中以53.6分领先Anthropic旗下Claude Fable 5，Token使用效率比前代提升54%，中档成本仅为竞品四分之一。此次发布正值OpenAI面临严峻竞争，Anthropic在企业API市场份额已反超OpenAI，后者消费者端份额亦跌破50%。OpenAI希望通过三档分层定价与面向C端的ChatGPT Work智能体，将竞争重心拉向消费端市场。",
+      "date": "2026-07-13"
+    }
+  ]
+}

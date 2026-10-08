@@ -1,7 +1,19 @@
 {
   "tag": "科技竞争",
-  "generated_at": "2026-09-19T12:21:14Z",
+  "generated_at": "2026-10-08T06:18:10Z",
   "summary": [
+    {
+      "title": "Opus 5.5跨级发布直扑GPT-6，Anthropic本周或推新模型",
+      "tags": [
+        "Anthropic",
+        "Opus 5.5",
+        "GPT",
+        "AI",
+        "科技竞争"
+      ],
+      "summary": "据开发者爆料，Anthropic可能跳过Opus 5.2，直接推出Claude Opus 5.5，代号“claude-wafer-eap”，预计本周二发布。该模型据称性能超越GPT-6 Astra，定价为每百万Token输入4美元、输出20美元，较Opus 5降价约20%。同时，Anthropic还在推进Claude Fable 5.2，其3D生成能力追平或反超Astra。当前OpenAI、Anthropic、谷歌三家正面竞争，GPT-6 Sol、Gemini 4 Pro也在同期测试。Anthropic此举被解读为在IPO前抢夺市场信心和开发者份额。",
+      "date": "2026-09-21"
+    },
     {
       "title": "GPT-5.6上线 马斯克与奥尔特曼再度隔空掐架 阶跃星辰发布端侧模型",
       "tags": [
