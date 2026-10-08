@@ -1,7 +1,31 @@
 {
   "tag": "Anthropic",
-  "generated_at": "2026-10-08T06:18:10Z",
+  "generated_at": "2026-10-08T14:46:41Z",
   "summary": [
+    {
+      "title": "AI世纪IPO之战：OpenAI奋起直追，与Anthropic差距正在缩小",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "IPO",
+        "大模型"
+      ],
+      "summary": "今年以来，AI大模型商业竞争格局发生逆转。曾独占企业市场四分之三份额的Anthropic，正遭遇OpenAI强力反扑。OpenRouter数据显示，在同时使用两家产品的约12万家企业中，9月双方支出占比已大致持平。OpenAI于6月推出GPT-5.6系列，以成本效率为核心并大幅降价，成为市场转折点。Anthropic旗舰模型Fable 5默认保留用户数据30天，引发合规担忧，加速部分客户流失。两家公司均面临资本支出压力并筹备IPO，Anthropic最早可能11月上市，OpenAI预计明年跟进。企业客户更注重成本与多模型策略，部分开始使用中国低成本开源模型。尽管市场份额承压，Anthropic在开发者社群中仍有号召力，并于9月下旬发布Claude 5.5系列反击。这场价格战远未结束。",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Claude Haiku 5.5发布：单价降九成",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude Haiku 5.5",
+        "降价",
+        "小模型"
+      ],
+      "summary": "Anthropic于10月7日发布Claude Haiku 5.5，输入价格降至每百万token 0.1美元，输出0.5美元，较上代Haiku 4.5降价90%，与OpenAI GPT-6 Luna持平。模型在编程、电脑操作和知识工作等测试中大幅提升，如Terminal-Bench从0%升至39.2%，OSWorld从15.7%升至72.4%。Haiku 5.5首次支持五档可调思考模式，上下文窗口100万token。此外，Anthropic将Sonnet 5.5缓存读取价格减半，并为Max和Team订阅用户提供每月API额度。官方建议Haiku 5.5用于摘要、分类、实时客服等量大且对成本敏感的任务，复杂编程仍由Sonnet和Opus承担。",
+      "date": "2026-10-08"
+    },
     {
       "title": "Meta、微软削减对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一",
       "tags": [

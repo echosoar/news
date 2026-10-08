@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T06:18:10Z",
+  "generated_at": "2026-10-08T14:46:41Z",
   "tags": [
     {
       "tag": "AI",
-      "count": 449,
+      "count": 452,
       "file": "tags/AI.json"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "tag": "伊朗",
-      "count": 148,
+      "count": 149,
       "file": "tags/伊朗.json"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "tag": "OpenAI",
-      "count": 97,
+      "count": 99,
       "file": "tags/OpenAI.json"
     },
     {
       "tag": "人工智能",
-      "count": 88,
+      "count": 90,
       "file": "tags/人工智能.json"
     },
     {
@@ -62,6 +62,11 @@
       "file": "tags/霍尔木兹海峡.json"
     },
     {
+      "tag": "Anthropic",
+      "count": 58,
+      "file": "tags/Anthropic.json"
+    },
+    {
       "tag": "苹果",
       "count": 58,
       "file": "tags/苹果.json"
@@ -70,11 +75,6 @@
       "tag": "SpaceX",
       "count": 57,
       "file": "tags/SpaceX.json"
-    },
-    {
-      "tag": "Anthropic",
-      "count": 56,
-      "file": "tags/Anthropic.json"
     },
     {
       "tag": "以色列",
@@ -93,7 +93,7 @@
     },
     {
       "tag": "IPO",
-      "count": 45,
+      "count": 46,
       "file": "tags/IPO.json"
     },
     {
@@ -137,6 +137,11 @@
       "file": "tags/乌克兰.json"
     },
     {
+      "tag": "小米",
+      "count": 32,
+      "file": "tags/小米.json"
+    },
+    {
       "tag": "无人机",
       "count": 32,
       "file": "tags/无人机.json"
@@ -168,7 +173,7 @@
     },
     {
       "tag": "大模型",
-      "count": 27,
+      "count": 28,
       "file": "tags/大模型.json"
     },
     {
@@ -197,6 +202,11 @@
       "file": "tags/网络安全.json"
     },
     {
+      "tag": "美伊关系",
+      "count": 25,
+      "file": "tags/美伊关系.json"
+    },
+    {
       "tag": "人形机器人",
       "count": 24,
       "file": "tags/人形机器人.json"
@@ -205,11 +215,6 @@
       "tag": "数据中心",
       "count": 24,
       "file": "tags/数据中心.json"
-    },
-    {
-      "tag": "美伊关系",
-      "count": 24,
-      "file": "tags/美伊关系.json"
     },
     {
       "tag": "美军",
@@ -267,11 +272,6 @@
       "file": "tags/制裁.json"
     },
     {
-      "tag": "小米",
-      "count": 20,
-      "file": "tags/小米.json"
-    },
-    {
       "tag": "微软",
       "count": 20,
       "file": "tags/微软.json"
@@ -287,6 +287,11 @@
       "file": "tags/华为.json"
     },
     {
+      "tag": "欧洲",
+      "count": 19,
+      "file": "tags/欧洲.json"
+    },
+    {
       "tag": "芯片",
       "count": 19,
       "file": "tags/芯片.json"
@@ -295,11 +300,6 @@
       "tag": "伤亡",
       "count": 18,
       "file": "tags/伤亡.json"
-    },
-    {
-      "tag": "欧洲",
-      "count": 18,
-      "file": "tags/欧洲.json"
     },
     {
       "tag": "安全",
@@ -482,6 +482,11 @@
       "file": "tags/西藏吉隆.json"
     },
     {
+      "tag": "阿里巴巴",
+      "count": 12,
+      "file": "tags/阿里巴巴.json"
+    },
+    {
       "tag": "公共卫生",
       "count": 11,
       "file": "tags/公共卫生.json"
@@ -535,11 +540,6 @@
       "tag": "财报",
       "count": 11,
       "file": "tags/财报.json"
-    },
-    {
-      "tag": "阿里巴巴",
-      "count": 11,
-      "file": "tags/阿里巴巴.json"
     },
     {
       "tag": "中国航天",
@@ -837,6 +837,11 @@
       "file": "tags/微信.json"
     },
     {
+      "tag": "核问题",
+      "count": 7,
+      "file": "tags/核问题.json"
+    },
+    {
       "tag": "法律",
       "count": 7,
       "file": "tags/法律.json"
@@ -992,11 +997,6 @@
       "file": "tags/核电站.json"
     },
     {
-      "tag": "核问题",
-      "count": 6,
-      "file": "tags/核问题.json"
-    },
-    {
       "tag": "消费电子",
       "count": 6,
       "file": "tags/消费电子.json"
@@ -1127,11 +1127,6 @@
       "file": "tags/外交谈判.json"
     },
     {
-      "tag": "小米汽车",
-      "count": 5,
-      "file": "tags/小米汽车.json"
-    },
-    {
       "tag": "山西",
       "count": 5,
       "file": "tags/山西.json"
@@ -1222,6 +1217,11 @@
       "file": "tags/真主党.json"
     },
     {
+      "tag": "神舟飞船",
+      "count": 5,
+      "file": "tags/神舟飞船.json"
+    },
+    {
       "tag": "紧急状态",
       "count": 5,
       "file": "tags/紧急状态.json"
@@ -1305,6 +1305,11 @@
       "tag": "金融科技",
       "count": 5,
       "file": "tags/金融科技.json"
+    },
+    {
+      "tag": "长征火箭",
+      "count": 5,
+      "file": "tags/长征火箭.json"
     },
     {
       "tag": "防汛",
@@ -2127,16 +2132,6 @@
       "file": "tags/导弹袭击.json"
     },
     {
-      "tag": "小米18 Fold",
-      "count": 3,
-      "file": "tags/小米18 Fold.json"
-    },
-    {
-      "tag": "小米澎程",
-      "count": 3,
-      "file": "tags/小米澎程.json"
-    },
-    {
       "tag": "工业事故",
       "count": 3,
       "file": "tags/工业事故.json"
@@ -2392,11 +2387,6 @@
       "file": "tags/碳中和.json"
     },
     {
-      "tag": "神舟二十三号",
-      "count": 3,
-      "file": "tags/神舟二十三号.json"
-    },
-    {
       "tag": "科技政策",
       "count": 3,
       "file": "tags/科技政策.json"
@@ -2602,11 +2592,6 @@
       "file": "tags/量子计算.json"
     },
     {
-      "tag": "长征十二号",
-      "count": 3,
-      "file": "tags/长征十二号.json"
-    },
-    {
       "tag": "间谍活动",
       "count": 3,
       "file": "tags/间谍活动.json"
@@ -2615,6 +2600,11 @@
       "tag": "阿里云",
       "count": 3,
       "file": "tags/阿里云.json"
+    },
+    {
+      "tag": "降价",
+      "count": 3,
+      "file": "tags/降价.json"
     },
     {
       "tag": "隐私",
