@@ -1,141 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-10-15</title>
+    <title>News 2026-10-16</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-10-15</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:01:00 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-10-16</description>
+    <lastBuildDate>Thu, 15 Oct 2026 14:54:00 +0000</lastBuildDate>
+    <item>
+      <title>工信部等三部门联合调查有关车辆刹车踏板支架断裂问题</title>
+      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1194910&amp;sid=46</link>
+      <pubDate>Thu, 15 Oct 2026 14:54:00 +0000</pubDate>
+      <description>针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理，有关情况将及时公布。尊界方面回应称，将积极响应、完全服从，并全力配合调查组工作。</description>
+    </item>
     <item>
       <title>中朝新鸭绿江大桥正式开通</title>
       <link>http://www.chinanews.com//sh/shipin/2026/10-15/news1071876.shtml</link>
-      <pubDate>Thu, 15 Oct 2026 05:01:00 +0000</pubDate>
-      <description>10月15日，中朝新鸭绿江大桥正式开通。该桥是两国互联互通的重要设施，开通后将进一步促进两国经贸交流和人员往来，增进两国人民福祉。开通仪式现场，双方车辆插国旗鸣笛驶过。</description>
+      <pubDate>Thu, 15 Oct 2026 09:39:00 +0000</pubDate>
+      <description>10月15日，中朝新鸭绿江大桥正式开通。开通仪式上，双方车辆插国旗鸣笛驶过。新鸭绿江大桥作为两国互联互通的重要设施，开通后将进一步促进中朝经贸交流和人员往来，增进两国人民福祉。</description>
     </item>
     <item>
-      <title>中朝新鸭绿江大桥将于10月15日正式开通</title>
-      <link>https://news.ifeng.com/c/8xD9SwmdJDY</link>
-      <pubDate>Wed, 14 Oct 2026 13:03:27 +0000</pubDate>
-      <description>经中朝双方商定，中朝新鸭绿江大桥将于10月15日正式开通，双方当日共同举行开通仪式。外交部发言人毛宁在10月14日例行记者会上回应相关提问时表示，作为两国重要的互联互通设施，新鸭绿江大桥的开通将进一步促进中朝之间的经贸交流和人员往来，增进两国人民福祉。</description>
+      <title>英伟达黄仁勋：对开发不安全AI软件的客户断供芯片</title>
+      <link>https://wallstreetcn.com/articles/3783650</link>
+      <pubDate>Thu, 15 Oct 2026 14:02:59 +0000</pubDate>
+      <description>英伟达CEO黄仁勋表示，若客户开发不安全的AI软件，公司可能采取断供芯片的极端措施。他同时强调，人工智能是一项“可能具有危险性”的技术，英伟达“绝对必须”与中国AI企业合作，共同监测和应对相关风险。黄仁勋主张加强对话，扩大与中国AI研究人员的交流，并建议美国、英国等国采取类似做法。在AI监管问题上，他与OpenAI、Anthropic等公司高管的立场存在分歧，反对进一步收紧监管，并认为英国有条件成为全球AI安全对话的召集方。</description>
     </item>
     <item>
-      <title>特朗普宣布将在格陵兰岛开展大规模油气和矿产勘探</title>
-      <link>https://wallstreetcn.com/articles/3783604</link>
-      <pubDate>Wed, 14 Oct 2026 15:05:35 +0000</pubDate>
-      <description>美国总统特朗普10月14日在社交媒体上发文称，即将在格陵兰岛开展大规模石油、天然气和矿产资源勘探。相关安排引发格陵兰岛居民担忧，丹麦媒体提醒需警惕美方今后对协议的执行和解读。</description>
+      <title>DeepSeek服务异常持续数小时 官方回应已定位原因正实施修复</title>
+      <link>https://www.163.com/dy/article/L99HF2HT05561G0D.html?f=post1603_tab_news</link>
+      <pubDate>Thu, 15 Oct 2026 13:51:00 +0000</pubDate>
+      <description>10月15日上午，大量网友反馈DeepSeek网页端与App出现服务异常，页面提示“服务器暂时不可用”。官方回应称，此次服务异常已影响对话服务、DeepSeek V4.1 Flash API服务及另外1个组件，目前官方已定位原因并正在实施修复。截至上午11时许，华商报大风新闻记者测试发现故障仍未解决，尝试联系杭州深度求索人工智能基础技术研究有限公司，电话接通后提示“暂时无法接通”，联系关联股东电话也遇到同样情况。公开资料显示，这已是DeepSeek年内至少第18次大面积异常，核心问题在于算力供需严重失衡。此前10月12日，DeepSeek也曾出现对话功能异常。此外，有网友猜测是否在测试新模型或遭到网络攻击，但官方未对此作出回应。</description>
     </item>
     <item>
-      <title>含DeepSeek、微信等，151款应用拒绝接入豆包手机助手</title>
-      <link>https://tech.ifeng.com/c/8xDBRpIOu4P</link>
-      <pubDate>Wed, 14 Oct 2026 13:01:00 +0000</pubDate>
-      <description>10月14日，豆包手机助手官方宣布《屏幕自动化操作声明协议》（SAEP）30天公示期结束，将逐步开放第三方应用的屏幕自动化操作权限。官方公布的最新拒绝操作清单涉及151款应用，微信、QQ、淘宝、支付宝、美团、快手、DeepSeek、Kimi、拼多多、小红书、WPS及多家银行和运营商应用均在列。其中腾讯及关联生态应用65款，阿里巴巴及关联生态应用23款，快手及关联生态应用14款，美团及关联生态应用11款。此次拒绝针对的是豆包手机助手通过图形用户界面识别屏幕、模拟点击和滑动等方式代替用户操作应用的能力，相关应用仍可正常安装使用，但用户无法让豆包助手代为操作。各类应用拒绝开放涉及账号安全、平台规则、数据与交易风险等考量：社交平台担心隐私与误操作，电商及本地生活平台关注资金安全与交易真实性，银行金融应用有严格安全要求，竞技游戏需防范外挂与账号风控。AI应用被列入清单也反映智能体与现有平台间的竞争和控制权问题。此前豆包手机助手已与《王者荣耀》等应用的风控机制发生冲突。业内人士表示，头部应用完全开放核心接口难度很大，跨应用自动办事能力仍受平台授权和安全规则制约。</description>
+      <title>商务部：我国外商直接投资权益存量位居全球第二</title>
+      <link>http://news.china.com.cn/2026-10/15/content_118734686.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 09:55:32 +0000</pubDate>
+      <description>商务部在10月15日例行新闻发布会上介绍，近期会同相关部门汇总完成2025年外商投资信息报告年报数据。数据显示，2025年共有46.1万家外资企业提交年报，同比增长5.7%；我国外商直接投资权益存量达26.8万亿元人民币，连续6年实现增长，位居全球第二。参报外资企业平均利润率为8.7%，其中制造业外资企业利润率高于全国规上工业企业利润率2.2个百分点。外资企业进出口额占全国货物进出口总额的三分之一，纳税占全国税收的七分之一，近5年年均吸收就业超过3000万人。商务部新闻发言人何亚东表示，这些数据说明中国超大规模市场能转化为实实在在收益，欢迎各国企业继续深耕中国，共享发展红利。</description>
     </item>
     <item>
-      <title>苹果国行iPhone 15 Pro及后续机型新增Apple智能、通义千问等大模型备案编号</title>
-      <link>https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivekpu1253443.shtml</link>
-      <pubDate>Wed, 14 Oct 2026 12:09:37 +0000</pubDate>
-      <description>据IT之家和快科技报道，苹果多款国行iPhone机型于9月29日完成备案换证，新增搭载的大模型备案编号，涉及iPhone 15 Pro/Pro Max及后续机型，包括iPhone Air、iPhone Duo等，而iPhone 15和iPhone 15 Plus未更新备案。备案编号包括上海苹果智能、上海通义万象、浙江通义千问等。今年7月，“网信中国”已公布苹果技术开发（上海）有限公司的“Apple智能”大模型完成备案，备案日期为2026年7月8日，适用场景为苹果手机。另据证券时报报道，阿里千问将作为AI能力集成至Apple智能，为国行iPhone用户提供文本与图像理解、内容生成等体验。此次备案更新或意味着Apple智能在中国大陆市场的落地加速。</description>
+      <title>美媒：美军考虑用“炸弹之母”打击伊朗</title>
+      <link>https://www.news.cn/world/20261015/9a20ef211c794a6d959cc93923a89306/c.html</link>
+      <pubDate>Thu, 15 Oct 2026 10:04:18 +0000</pubDate>
+      <description>据美国有线电视新闻网15日凌晨援引美国多名官员的话报道，美国军方已经制定了新的对伊朗打击计划，其中包括考虑使用“炸弹之母”打击伊朗的能源基础设施和核设施。相关消息也得到香港文汇报等媒体转载，报道称美方多名官员证实了这一考虑。目前该计划仍处于考虑阶段，尚未确认最终实施。</description>
     </item>
     <item>
-      <title>REDMI K100标准版入网：骁龙8至尊版、万级超大电池</title>
-      <link>https://www.chinaz.com/2026/1014/1781884.shtml</link>
-      <pubDate>Wed, 14 Oct 2026 08:33:26 +0000</pubDate>
-      <description>REDMI K100标准版已入网，配置曝光。该机将搭载骁龙8至尊版处理器，配备独显芯片、米系最大容量电池（预计约10000mAh）以及Bose双扬声器。据数码博主透露，当前骁龙8至尊版搭配12GB LPDDR5X内存和256GB UFS 4.1闪存的硬件成本已高达3000元左右。REDMI K100标准版还将采用大尺寸马达，注重性能、续航、扬声器和振动反馈等基础体验，与已发售的Pro系列形成差异化定位。</description>
+      <title>阶跃开源Step 5 Preview模型权重，支持100万token上下文窗口</title>
+      <link>https://www.oschina.net/news/503035/stepfun-ai-step-5-preview</link>
+      <pubDate>Thu, 15 Oct 2026 06:12:00 +0000</pubDate>
+      <description>10月15日，阶跃官方宣布正式释放Step 5 Preview模型权重，开放BF16与FP8权重、技术博客及配套开源开发工具。该模型面向长程Agent任务设计，采用稀疏MoE架构，总参数量600B，每token激活参数仅27B，支持100万token上下文窗口，原生支持文本与视觉输入，在AI编程、软件工程、专业知识工作和金融等场景表现突出。近期，Step 5 Preview在OpenRouter周调用量、日调用量榜单中均位居全球第二。模型权重已上线Hugging Face和ModelScope，并提供面向多种芯片平台和推理框架的适配支持。开发者可通过vLLM或SGLang部署兼容OpenAI接口的API服务，也可使用Transformers进行离线推理，将模型接入自有数据、工具和系统，构建智能体、应用、工作流与服务。</description>
     </item>
     <item>
-      <title>AI角色扮演独角兽Character.ai宣布破产，迪士尼接盘</title>
-      <link>https://wallstreetcn.com/articles/3783576</link>
-      <pubDate>Wed, 14 Oct 2026 00:15:49 +0000</pubDate>
-      <description>AI角色扮演初创公司Character.ai于10月13日宣布申请第11章破产保护，迪士尼作为初始竞标者将以2000万美元获得其部分知识产权许可。破产原因包括高昂的外部模型使用成本、与聊天机器人相关的诉讼以及“重大的法律、监管和运营阻力”。该公司曾被视为AI领域明星初创公司，2024年谷歌曾支付27亿美元获得其模型许可并召回创始人，但Character.ai仍成为AI行业“反向收购”浪潮中首个破产案例。平台表示将继续为订阅用户提供服务。</description>
-    </item>
-    <item>
-      <title>高盛警告：AI融资暂停撑住了信用债市场，未来两个月或是最后的平静期</title>
-      <link>https://wallstreetcn.com/articles/3783611</link>
-      <pubDate>Wed, 14 Oct 2026 14:21:35 +0000</pubDate>
-      <description>高盛警告称，AI相关融资的暂停暂时支撑了信用债市场，制造出一种类似圣诞行情的假象。报告指出，当前市场平静可能只是短期现象，未来两个月或是最后的平静期。高盛同时向美联储传递信心，认为AI引发的通胀效应即将见顶。</description>
-    </item>
-    <item>
-      <title>微软据悉讨论在Azure云业务部门削减至少20%成本</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcxxn0383814.shtml</link>
-      <pubDate>Wed, 14 Oct 2026 09:56:57 +0000</pubDate>
-      <description>据知情人士透露，微软已讨论对其Azure云服务器租赁业务进行大幅成本削减。Azure部门总裁吉里什·巴布拉尼近几周指示其约11500名员工的团队高管，设法将成本至少降低20%，尚不清楚是否包含裁员。尽管Azure收入增长加速，但数据中心支出给财务带来沉重负担。微软发言人称报道不准确，并称未指示制定削减成本计划。为削减成本，微软可能裁减云业务部门外部承包商。此外，微软正围绕高管阿伦·乌拉格重组云业务部门，并面临Anthropic、Meta等AI竞争对手挖角员工带来的薪酬竞争压力。Azure在截至6月的12个月里营收1019亿美元，同比增长40%，占总营收约31%。</description>
-    </item>
-    <item>
-      <title>特斯拉第二代Roadster发布定档：北京时间16日上午8:55直播</title>
-      <link>https://news.mydrivers.com/1/1157/1157431.htm</link>
-      <pubDate>Wed, 14 Oct 2026 08:51:00 +0000</pubDate>
-      <description>特斯拉宣布，第二代Roadster的展示活动将于美国中部时间10月15日晚上7点55分（北京时间10月16日上午8点55分）开启线上直播，地点位于得克萨斯州麦格雷戈的SpaceX测试基地。马斯克在社交平台转发相关消息并配文“时机就是一切”进行预热。该车最早于2017年亮相，定位为特斯拉完全自主打造的全新超跑，其亮点之一是计划在原本后排座椅位置布置约10个源自SpaceX冷气推进技术的推进器，以优化加速和过弯表现，甚至短暂离地，因此被称为“会飞的跑车”。不过，特斯拉尚未确认该推进器方案能否量产，车辆的技术参数、售价及交付时间也未公布。</description>
-    </item>
-    <item>
-      <title>Anthropic三季度营收168亿美元并实现盈利，但增速明显放缓</title>
+      <title>Anthropic三季度营收增至168亿美元并实现盈利，但增速放缓</title>
       <link>https://wallstreetcn.com/articles/3783668</link>
       <pubDate>Thu, 15 Oct 2026 02:29:00 +0000</pubDate>
-      <description>Anthropic公布三季度业绩，营收升至168亿美元，并实现调整后盈利。尽管业绩表现良好，但营收增速出现急剧放缓，显示增长动力有所减弱。公司盈利改善的同时，市场对其增长持续性保持关注。</description>
+      <description>Anthropic公布三季度业绩，营收升至168亿美元，并实现盈利。尽管业绩表现良好，但营收增速出现明显放缓，显示公司在高速增长后遭遇挑战。市场认为其业绩“好但不够好”，反映出投资者对增长持续性的关注。</description>
     </item>
     <item>
-      <title>美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船</title>
-      <link>https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml</link>
-      <pubDate>Wed, 14 Oct 2026 22:36:00 +0000</pubDate>
-      <description>美国中央司令部当地时间10月14日发布消息称，美军于10月6日在阿曼湾摧毁了一艘与伊朗有关联的独桅帆船，该船当时正对美国海军舰艇进行监视并锁定目标。被摧毁前，船上人员已被安全转移，遣返工作正在进行中。美军中央司令部发布的视频显示，船只被击中后燃起大火并冒出浓烟。此外，美军中央司令部称，自7月14日恢复针对所有进出伊朗港口船只的封锁行动以来，3个月内已使4艘商船丧失航行能力，135艘船只被勒令折返，并摧毁了10艘与伊朗伊斯兰革命卫队有关联的油轮。</description>
-    </item>
-    <item>
-      <title>马斯克称乌克兰星盾使用限制由美国政府决定</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1194414&amp;sid=21</link>
-      <pubDate>Thu, 15 Oct 2026 04:56:12 +0000</pubDate>
-      <description>美国企业家马斯克表示，乌克兰星盾的使用限制由美国政府决定。这一表态引发关注，但具体细节未在材料中详述。</description>
-    </item>
-    <item>
-      <title>巴克莱分析师：特斯拉与SpaceX合并或于年内官宣</title>
-      <link>https://news.futunn.com/post/1001174371/is-the-merger-of-tesla-and-spacex-entering-its-final</link>
-      <pubDate>Thu, 15 Oct 2026 00:32:01 +0000</pubDate>
-      <description>巴克莱银行分析师团队表示，埃隆·马斯克旗下的特斯拉与SpaceX可能在特斯拉召开年度股东大会前宣布合并。由丹·利维领衔的分析师预计，特斯拉2026年年度股东大会最迟将于12月6日举行，合并公告可能推迟至10月下旬或11月初，但若拖至该时间窗口，在股东大会上完成并购审批的难度将显著上升。分析师指出，合并能带来一定财务协同效应，但真正价值在于两家公司人工智能技术的垂直整合。投资者和分析师普遍预期两家企业将合并，尤其是在SpaceX今年完成创纪录的首次公开募股之后。SpaceX已购入价值超1亿美元的特斯拉Cybertruck，xAI是特斯拉电池的重要客户，双方还合作推进Terafab芯片制造项目。马斯克近期也表示两家公司在诸多领域存在重叠。巴克莱认为，任何交易的主要障碍是股东投票，特斯拉和SpaceX的股东可能都需批准合并。特斯拉2025年年度股东大会投票中约11%的流通投票为“经纪人不投票”并计为反对票，预计特斯拉将尝试在潜在合并投票中提高股东参与度。</description>
-    </item>
-    <item>
-      <title>日美就5500亿美元投资计划下首个芯片项目达成一致</title>
+      <title>日本和美国就5500亿美元投资计划下首个芯片项目达成一致</title>
       <link>https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhpnu1348403.shtml</link>
       <pubDate>Thu, 15 Oct 2026 04:58:18 +0000</pubDate>
-      <description>日本经济产业大臣赤泽亮正10月15日在东京记者会上表示，日本和美国已就去年达成的5500亿美元投资计划框架下的首个半导体项目达成共识。该项目拟向格罗方德计划在美国纽约州新建的芯片工厂投资，规模不超过210亿美元。赤泽亮正称，在AI时代，与美国合作保障芯片供应对日本经济安全至关重要，日方仍坚定致力于落实去年贸易协议的条款，并认为最新项目将进一步加强日美关系。</description>
+      <description>日本经济产业大臣赤泽亮正于10月15日在东京记者会上表示，日美双方已就去年达成的5500亿美元投资计划框架下的首个半导体项目达成共识。该项目拟向格罗方德计划在纽约州新建的芯片工厂投资，规模不超过210亿美元。赤泽亮正指出，在AI时代，与美国合作保障芯片供应对日本经济安全至关重要，日方将继续落实去年两国贸易协议相关条款，该项目也将进一步强化日美双边关系。</description>
     </item>
     <item>
-      <title>中国农业发展银行2000亿信贷资金专项用于秋粮收购</title>
-      <link>https://news.cctv.com/2026/10/15/ARTICKiR35F9O8VLh5KYemH3261015.shtml</link>
-      <pubDate>Thu, 15 Oct 2026 04:55:29 +0000</pubDate>
-      <description>记者从中国农业发展银行了解到，今年秋粮产量约占全年粮食总产量四分之三。为统筹支持好政策性收储和市场化收购，加大贷款投放力度，农发行已提前安排2000亿元信贷资金专项用于秋粮收购，确保秋粮收购平稳有序进行。</description>
-    </item>
-    <item>
-      <title>GlobalFoundries根据美日协议获得210亿美元用于新建芯片工厂</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhpns4634618.shtml</link>
-      <pubDate>Thu, 15 Oct 2026 04:47:00 +0000</pubDate>
-      <description>GlobalFoundries Inc.计划在日本政府高达210亿美元的支持下新建两座芯片工厂，作为美日协议的一部分，美国将持有该公司约4%的股份。根据周三宣布的协议，工厂将设在纽约州北部，由美日共同拥有，资金来自日本承诺的对美投资5500亿美元。这些工厂将生产汽车、工业设备和通信设备中使用的基础芯片。美国商务部将重新分配9.55亿美元的《芯片与科学法案》激励资金用于工厂扩建，GlobalFoundries将投入50亿美元用于纽约州和佛蒙特州工厂的资本投资。该协议预计在未来十年带来约30亿美元的调整后自由现金流，公司预计每年每股收益将增加0.50至0.75美元。</description>
-    </item>
-    <item>
-      <title>报道：Anthropic Q3营收168亿美元，环比大涨46%，调整后盈利并实现正现金流</title>
-      <link>https://wallstreetcn.com/articles/3783652</link>
-      <pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
-      <description>据英国金融时报报道，Anthropic在旧金山总部举行投资者说明会，为预计11月启动的IPO造势。公司向投资者披露，第三季度营收达168亿美元，较第二季度的115亿美元环比增长近50%，并已在调整后口径下实现盈利及正向现金流。市场普遍预期其上市估值将创IPO历史新高，但公司S-1文件草稿中近三分之一篇幅用于披露风险因素，包括AI模型可能对人类构成存在性风险。此外，行业竞争加剧、利率上升及宏观环境趋紧，可能制约公司未来十年逾5000亿美元的基础设施与算力投资计划。周三美国芯片股也因通胀数据升温及AI融资规模担忧而大幅下挫。</description>
-    </item>
-    <item>
-      <title>苹果中国版AI定档12月上线</title>
-      <link>https://wallstreetcn.com/articles/3783649</link>
-      <pubDate>Wed, 14 Oct 2026 21:45:30 +0000</pubDate>
-      <description>苹果公司计划于12月通过iOS更新在中国大陆正式推出Apple Intelligence人工智能平台。据知情人士透露，此次发布将涵盖两年前率先在美国推出的AI功能套件，首批上线功能包括Genmoji自定义表情、通知摘要、写作工具及照片编辑等，但不包括今年发布的全新Siri AI助手。苹果已与阿里巴巴联合开发合规防护机制，并与百度合作推进搜索及Siri相关功能的本地化落地。此前苹果曾多次推迟中国上线时间，今年9月29日获得相关许可。中国AI应用市场竞争激烈，苹果以基础功能入场，其竞争力仍有待市场检验。</description>
-    </item>
-    <item>
-      <title>昆仑万维发布全球首款单卡实时游戏世界模型Matrix-Game 4.0并开源</title>
-      <link>https://tech.ifeng.com/c/8xEh0CoPzvj</link>
-      <pubDate>Thu, 15 Oct 2026 04:05:30 +0000</pubDate>
-      <description>昆仑万维旗下Skywork AI发布Matrix-Game 4.0，宣称是全球首款可在单张消费级显卡（RTX 5090）上实时运行的游戏世界模型，且已开源。该模型采用“游戏引擎负责规则、视频模型负责画面”的架构，通过Coding Agent将自然语言转为游戏代码，由引擎维护世界状态并生成结构草图，视频模型基于草图实时生成最终画面。实际演示中，玩家中弹会先损耗盾牌耐久，盾碎后扣血，血量归零游戏结束，规则由代码严格结算。玩法可通过自然语言修改代码改变。在单张RTX 5090上，按键到画面响应约0.15秒，稳定60帧运行，显存峰值约18.5GiB。团队通过减少模型需猜测和记忆的内容、降低计算量（少步自回归蒸馏、CUDA Graph、FP8融合算子等）实现单卡运行。相比英伟达StreamRender-H3需8张GB200、端到端延迟约545ms，Matrix-Game 4.0延迟约为其五分之一。该项目从1.0起持续开源，此次将模型和代码一并公开，旨在推动游戏世界模型技术发展。目前画质为480p，仍有提升空间。</description>
-    </item>
-    <item>
-      <title>曾毓群：储能定位从新能源配套变为电力系统新型基础设施</title>
-      <link>https://tech.ifeng.com/c/8xEqiSfaVQc</link>
-      <pubDate>Thu, 15 Oct 2026 02:39:14 +0000</pubDate>
-      <description>10月15日，宁德时代董事长曾毓群在2026世界储能大会开幕式上表示，储能在电力系统中的作用已发生根本性变化，正从新能源配套设施逐步成为电力系统不可或缺的新型基础设施。他指出，全球能源转型推动风电、光伏装机规模扩张，但发电侧稳定性面临挑战；同时工业、交通电气化加速，算力AIDC等新领域增长，对电力系统的可靠性和灵活性提出更高要求。因此，储能行业不能只追求设备参数提升，更需构建满足电网需要的系统能力和长期可靠性。公开信息显示，宁德时代储能电池出货量市场占有率连续5年全球第一，2025年达30.4%；2025年宁德市锂电新能源产业产值超3000亿元，约占全国同行业总产值20%；宁德时代在全球已落地约3000个储能项目，以“整站交付”助力能源转型。业绩方面，其2026年上半年财报显示，储能电池系统业务收入532.61亿元，同比增长87.54%，出货量全球第一。</description>
-    </item>
-    <item>
-      <title>安兔兔Q3安卓手机芯片数据出炉：小米玄戒位列第三</title>
-      <link>https://news.mydrivers.com/1/1157/1157564.htm</link>
-      <pubDate>Thu, 15 Oct 2026 00:56:38 +0000</pubDate>
-      <description>安兔兔发布2026年Q3国内安卓用户处理器品牌分布统计。数据显示，高通占比68.9%，占据绝对主力；联发科占比28.9%，紧随其后；小米玄戒处理器占比1.2%，位列第三。三星占比0.5%，其他品牌合计0.4%。高通和联发科合计占据超过97%的市场。小米玄戒目前仅搭载于小米自家少量机型，未对外供货，能取得第三名说明自研芯片装机量稳步增长。该统计基于安兔兔跑分用户样本，可能偏向数码爱好者，但与真实大盘趋势大体一致。此外，小米18 Fold凭借玄戒O3芯片在安兔兔9月性能榜单中排名第一。</description>
+      <title>SpaceXAI发布Grok Voice 3.0：号称全球最智能语音模型，延迟低于1秒</title>
+      <link>https://m.ithome.com/html/1013159.htm</link>
+      <pubDate>Wed, 14 Oct 2026 23:36:09 +0000</pubDate>
+      <description>SpaceXAI于10月15日发布Grok Voice 3.0语音转语音模型，官方称其为全球智能水平最高的语音模型，延迟低于1秒，运行成本低于同级产品。在Artificial Analysis独立测试中，该模型以86.9分位列语音转语音综合榜单第一，全双工基准测试得分97%，τ-Voice得分为71.6%，性能与GPT-Live-1（Astra）相当，但延迟降低40%。在ServiceNow的EVA基准测试中取得74%的最高精度得分。Grok Voice每天在特斯拉车辆内处理数百万次对话，支持查询日程、回复邮件、下单咖啡、预订晚餐等任务；星链客服中心每天用多种语言承接2万通来电，约70%无需人工介入，四分之一销售通话可在挂断前促成下单。单个智能体可完成身份核验、故障排查、退款和补发设备等操作。Grok Voice 3.0已通过API上线，定价为每分钟0.08美元（约合0.54元人民币），与Grok Voice 2.0相同，使用grok-voice-latest版本的智能体已自动升级。</description>
     </item>
   </channel>
 </rss>
