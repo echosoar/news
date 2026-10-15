@@ -5,9 +5,19 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
+      <title>三部门联合调查有关车辆刹车踏板支架断裂问题</title>
+      <link>https://www.news.cn/fortune/20261015/7e254c9717864f1fbda8d028d7b65794/c.html</link>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中朝新鸭绿江大桥15日举行开通仪式</title>
       <link>https://original.ifeng.com/c/8xEgUKlaOng</link>
       <pubDate>Thu, 15 Oct 2026 00:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>四部门联合调查组发布婴幼儿纸尿裤甲酰胺问题核查情况通报</title>
+      <link>https://www.news.cn/fortune/20261015/762a50e5e71c489e86c17dd4fb85f55a/c.html</link>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片</title>
@@ -15,9 +25,14 @@
       <pubDate>Wed, 14 Oct 2026 20:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>四部门联合调查组发布婴幼儿纸尿裤甲酰胺问题核查情况通报</title>
-      <link>https://www.news.cn/fortune/20261015/762a50e5e71c489e86c17dd4fb85f55a/c.html</link>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+      <title>DeepSeek崩了，实测提示服务器暂时不可用</title>
+      <link>https://finance.sina.com.cn/tech/shenji/2026-10-15/doc-inivhier8136497.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 01:34:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>一碗无盐汤，映照鱼水情</title>
+      <link>http://news.china.com.cn/2026-10/15/content_118733941.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 00:55:25 +0000</pubDate>
     </item>
     <item>
       <title>我国外商直接投资权益存量位居全球第二</title>
@@ -30,19 +45,19 @@
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek崩了，实测提示服务器暂时不可用</title>
-      <link>https://finance.sina.com.cn/tech/shenji/2026-10-15/doc-inivhier8136497.shtml</link>
-      <pubDate>Thu, 15 Oct 2026 01:34:16 +0000</pubDate>
-    </item>
-    <item>
       <title>也门胡塞武装称再次袭击沙特首都机场</title>
       <link>https://www.news.cn/world/20261015/66db50dca312495fabe85b74736f654f/c.html</link>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>一碗无盐汤，映照鱼水情</title>
-      <link>http://news.china.com.cn/2026-10/15/content_118733941.shtml</link>
-      <pubDate>Thu, 15 Oct 2026 00:55:25 +0000</pubDate>
+      <title>中国治沙人殷玉珍入选粮农组织百位巾帼英雄</title>
+      <link>https://www.news.cn/world/20261015/41e18b67ccae4a71b942ec2cca548d13/c.html</link>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第三轮第七批中央生态环境保护督察全部实现督察进驻</title>
+      <link>https://huacheng.gz-cmc.com/pages/2026/10/15/d354c734037e428aa3cddf9bbfe2ffff.html</link>
+      <pubDate>Thu, 15 Oct 2026 07:11:00 +0000</pubDate>
     </item>
     <item>
       <title>韩股年内第十次触发熔断机制</title>
@@ -60,9 +75,29 @@
       <pubDate>Thu, 15 Oct 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
+      <title>通信感知网开通运行 渤海海域5G网络覆盖率超80%</title>
+      <link>https://news.cctv.com/2026/10/15/ARTIvEXlv3NKoQANZ6inUKYx261015.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 11:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果iPhone Duo维修价格出炉：换内屏7998元，电池1898元史上最贵</title>
+      <link>https://www.chinaz.com/2026/1015/1781977.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 00:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击</title>
+      <link>https://news.futunn.com/post/1001212433/energy-ceasefire-collapses-zelenskyy-says-ukraine-will-continue-strikes-on</link>
+      <pubDate>Thu, 15 Oct 2026 05:56:00 +0000</pubDate>
+    </item>
+    <item>
       <title>乌克兰总统泽连斯基不满SpaceX网络设限 直言有遭特朗普背叛之感</title>
       <link>https://www.cnbeta.com.tw/articles/tech/1582162.htm</link>
       <pubDate>Wed, 14 Oct 2026 20:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>女子晒11999元iPhone 18Pro订单，不法分子先后找5名跑腿骑手，冒领手机后接力转运寄往外地，警方连夜拦截</title>
+      <link>https://www.163.com/dy/article/L98AINNU051492LM.html?f=post1603_tab_news</link>
+      <pubDate>Wed, 14 Oct 2026 17:08:37 +0000</pubDate>
     </item>
     <item>
       <title>格陵兰岛官员否认美国即将上岛大规模勘探</title>
@@ -80,6 +115,11 @@
       <pubDate>Thu, 15 Oct 2026 02:26:42 +0000</pubDate>
     </item>
     <item>
+      <title>检察机关依法分别对杨克勤、朱小青、尉代青、刘云洲、班代荣提起公诉</title>
+      <link>http://www.chinanews.com//gn/2026/10-15/10715126.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 08:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日本宫城县女川核电站2号机组发生微量漏水</title>
       <link>https://www.wenweipo.com/a/202610/15/AP6ad04f9fe4b01d54a2873bf7.html</link>
       <pubDate>Thu, 15 Oct 2026 04:05:29 +0000</pubDate>
@@ -95,14 +135,24 @@
       <pubDate>Wed, 14 Oct 2026 21:31:00 +0000</pubDate>
     </item>
     <item>
+      <title>A股，再遇冰点，大资金连续3波抄底，这只宽基ETF放量超20倍</title>
+      <link>https://www.nbd.com.cn/articles/2026-10-15/4605393.html</link>
+      <pubDate>Thu, 15 Oct 2026 08:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>俄安全局逮捕一企图对俄实施恐袭的瑞典公民</title>
+      <link>https://news.ifeng.com/c/8xFJQSOGyei</link>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>重磅经济数据即将发布，多领域已现积极信号</title>
       <link>https://news.ifeng.com/c/8xFJog1zqes</link>
       <pubDate>Thu, 15 Oct 2026 09:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>第三轮第七批中央生态环境保护督察全部实现督察进驻</title>
-      <link>https://huacheng.gz-cmc.com/pages/2026/10/15/d354c734037e428aa3cddf9bbfe2ffff.html</link>
-      <pubDate>Thu, 15 Oct 2026 07:11:00 +0000</pubDate>
+      <title>印尼林火持续 多地受烟霾笼罩</title>
+      <link>http://www.chinanews.com//tp/hd2011/2026/10-15/1207872.shtml</link>
+      <pubDate>Thu, 15 Oct 2026 02:55:00 +0000</pubDate>
     </item>
     <item>
       <title>腾讯AI管家Marvis鸿蒙版正式上架</title>
@@ -150,6 +200,11 @@
       <pubDate>Wed, 14 Oct 2026 23:46:00 +0000</pubDate>
     </item>
     <item>
+      <title>500万人抢2万张门票，大麦回应肖战演唱会天价票炒作</title>
+      <link>https://news.mydrivers.com/1/1157/1157764.htm</link>
+      <pubDate>Thu, 15 Oct 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中方呼吁破解利比亚政治僵局</title>
       <link>https://www.news.cn/world/20261015/8168ce4f16214ff3851bc932da51fe2a/c.html</link>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
@@ -165,14 +220,14 @@
       <pubDate>Thu, 15 Oct 2026 00:55:25 +0000</pubDate>
     </item>
     <item>
-      <title>我国科学家发现石墨烯膜层间折叠卡扣结构</title>
-      <link>https://www.news.cn/tech/20261015/e64d9c1d219749c594f76d6f04282302/c.html</link>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>我国地理信息产业总产值超9000亿元 已构建起完整产业链</title>
       <link>https://huacheng.gz-cmc.com/pages/2026/10/15/634d15ef15b64879ab7241eb9558bf6c.html</link>
       <pubDate>Thu, 15 Oct 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我国科学家发现石墨烯膜层间折叠卡扣结构</title>
+      <link>https://www.news.cn/tech/20261015/e64d9c1d219749c594f76d6f04282302/c.html</link>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
