@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T18:35:30Z",
+  "summary": [
+    {
+      "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
+      "tags": [
+        "DeepSeek",
+        "API",
+        "网页搜索",
+        "计费"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1158/1158418.htm",
+          "title": "DeepSeek API已支持网页搜索和抓取：每1000次成功请求5元",
+          "origin": "快科技",
+          "time": 1792363440
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xLGtqVJ3F3",
+          "title": "DeepSeek API已支持网页搜索和抓取：每1000次成功请求5元",
+          "origin": "凤凰科技",
+          "time": 1792367113
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582842.htm",
+          "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
+          "origin": "cnBeta",
+          "time": 1792386240
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8172717.html",
+          "title": "DeepSeek API已支持网页搜索与抓取，按请求次数计费",
+          "origin": "钛媒体",
+          "time": 1792371780
+        }
+      ],
+      "summary": "快科技10月19日消息，DeepSeek发布公告，其API现已支持网页搜索与抓取功能，按请求次数计费，单价为每1000次成功请求5元。当前用户在DeepSeek Harness、Claude Code、Codex中使用DeepSeek API时，已能通过服务端工具调用访问Search/Fetch接口，这部分调用目前暂未计费，并计划于北京时间2026年11月1日00:00起按次收费。DeepSeek官方于10月17日宣布Search/Fetch API正式上线，两项接口均使用DeepSeek自研搜索引擎，为Agent与RAG应用提供实时网页内容。其中Search接口按query搜索网页并返回结构化结果，Fetch接口抓取单个网页并以Markdown文本返回标题与正文。两者均为原始JSON API，Base URL为api.deepseek.com，使用与DeepSeek API相同的Bearer鉴权。"
+    },
+    {
+      "title": "苹果公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+      "tags": [
+        "苹果",
+        "iPhone Duo",
+        "折叠屏",
+        "电池容量"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582786.htm",
+          "title": "苹果首次公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+          "origin": "cnBeta",
+          "time": 1792341240
+        },
+        {
+          "link": "https://www.163.com/dy/article/L9IK6DIG0511BLFD.html?f=post1603_tab_news",
+          "title": "苹果首次公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+          "origin": "网易号",
+          "time": 1792343343
+        },
+        {
+          "link": "https://www.chinaz.com/2026/1019/1782647.shtml",
+          "title": "苹果公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+          "origin": "站长之家",
+          "time": 1792368907
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xLDzS6H83T",
+          "title": "苹果公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+          "origin": "凤凰科技",
+          "time": 1792362845
+        }
+      ],
+      "summary": "苹果公司通过欧盟产品信息文件公布了首款折叠屏手机iPhone Duo的电池容量。该机采用双电芯设计，总容量为4883mAh，两块电芯容量分别为2962mAh和1921mAh。由于采用纯eSIM设计，全球版本电池容量一致。横向对比来看，其容量介于iPhone 18 Pro（4288mAh）和iPhone 18 Pro Max（5567mAh）之间。官方续航数据显示，使用7.6英寸内屏播放视频最长31小时，使用5.4英寸外屏则可达44小时。设备搭载A20 Pro芯片和C2调制解调器，支持60W以上有线快充，20分钟可充至50%，无线充电最高25W。iPhone Duo预计于10月23日正式上市。"
+    },
+    {
+      "title": "前三季度我国工业机器人产量同比增长29.1%",
+      "tags": [
+        "工业机器人",
+        "产量增长",
+        "装备制造业",
+        "高技术制造业",
+        "国家统计局"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598578.html",
+          "title": "前三季度我国工业机器人产量同比增长29.1%",
+          "origin": "科技日报",
+          "time": 1792378462
+        },
+        {
+          "link": "http://news.china.com.cn/2026-10/19/content_118739588.shtml",
+          "title": "前三季度我国工业机器人产量同比增长29.1%",
+          "origin": "中国网",
+          "time": 1792403730
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TfjdZ1cIVq",
+          "title": "前三季度我国工业机器人产量同比增长29.1%",
+          "origin": "环球网",
+          "time": 1792376345
+        }
+      ],
+      "summary": "国家统计局副局长毛盛勇10月19日在国新办新闻发布会上表示，前三季度我国装备制造业和高技术制造业支撑作用明显，其中工业机器人产量同比增长29.1%，3D打印设备产量同比增长62.5%，锂离子电池产量同比增长39.5%。"
+    },
+    {
+      "title": "特斯拉官方称没有“速成车”，陶琳：让人安心是最大的豪华",
+      "tags": [
+        "特斯拉",
+        "陶琳",
+        "直营体系",
+        "车辆安全"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1014723.htm",
+          "title": "特斯拉声明没有速成车，陶琳称安全稳定可靠、让人安心是最大的豪华",
+          "origin": "IT之家",
+          "time": 1792379029
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xLXUcZD3fx",
+          "title": "陶琳谈特斯拉没有速成车：安全稳定可靠，让人安心是最大的豪华",
+          "origin": "凤凰科技",
+          "time": 1792381188
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1158/1158522.htm",
+          "title": "特斯拉官方喊话没有速成车，陶琳：让人安心是最大的豪华",
+          "origin": "快科技",
+          "time": 1792382400
+        },
+        {
+          "link": "https://www.chinaz.com/2026/1019/1782723.shtml",
+          "title": "特斯拉官方喊话没有速成车，陶琳：让人安心是最大的豪华",
+          "origin": "站长之家",
+          "time": 1792391283
+        }
+      ],
+      "summary": "10月19日，特斯拉官方发文表示，特斯拉没有“速成车”。官方称，特斯拉拥有覆盖买车、提车、用车、修车、换车的完整直营体系，没有4S店，销售、交付、客服、技师均为自家人，大品牌加完整直营体系是消费者放心买、安心用的底气。特斯拉公司副总裁陶琳转发该博文并表示：“安全稳定可靠，让人安心是最大的豪华。”特斯拉此前公布，2026年第三季度全球生产超46.4万辆电动车，交付超48.6万辆，同比下降2%；储能产品装机量达13.7吉瓦时。"
+    },
+    {
+      "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+      "tags": [
+        "卫星互联网",
+        "北极",
+        "南极",
+        "青藏高原",
+        "通信"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598577.html",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "科技日报",
+          "time": 1792378462
+        },
+        {
+          "link": "https://news.cctv.com/2026/10/19/ARTIb7HPRLiJXa0UnBlzLxX0261019.shtml",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "CCTV",
+          "time": 1792377834
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1792376833129215.html",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "新京报",
+          "time": 1792376894
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/10-19/10717026.shtml",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "中新网",
+          "time": 1792376880
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xLUfYk3HY6",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "凤凰科技",
+          "time": 1792377593
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TfkAiKEaFx",
+          "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信",
+          "origin": "环球网",
+          "time": 1792377243
+        }
+      ],
+      "summary": "记者19日从正在执行中国第16次北冰洋考察任务的“极地”号获悉，该船已完成国产卫星互联网北极航线准业务化应用测试，本航次首次成功开展北极、南极、青藏高原联网通信验证，打通了全球通信“最后的盲区”。"
+    },
+    {
+      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+      "tags": [
+        "中央档案馆",
+        "长征档案",
+        "档案开放",
+        "长征胜利90周年"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/10/19/ARTIg2PZuJaruLwjeHSrvKvI261019.shtml",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "origin": "CCTV",
+          "time": 1792364739
+        },
+        {
+          "link": "http://news.china.com.cn/2026-10/19/content_118738878.shtml",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "origin": "中国网",
+          "time": 1792371328
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/10-19/10716931.shtml",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "origin": "中新网",
+          "time": 1792367640
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1792364828129119.html",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "origin": "新京报",
+          "time": 1792364933
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598485.html",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "origin": "科技日报",
+          "time": 1792372399
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/2026/10-19/news1072281.shtml",
+          "title": "5000余件长征专题档案向社会集中开放",
+          "origin": "中新网",
+          "time": 1792397340
+        }
+      ],
+      "summary": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，中央档案馆于2026年10月19日向社会集中开放一批长征专题档案，共计5000余件。"
+    }
+  ]
+}

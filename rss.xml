@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-10-19</title>
+    <title>News 2026-10-20</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-10-19</description>
-    <lastBuildDate>Mon, 19 Oct 2026 03:57:11 +0000</lastBuildDate>
-    <item>
-      <title>商家囤50台iPhone Duo面临亏本 近百万元订单遭压价</title>
-      <link>https://www.chinaz.com/2026/1019/1782656.shtml</link>
-      <pubDate>Mon, 19 Oct 2026 03:32:26 +0000</pubDate>
-      <description>苹果首款折叠屏iPhone Duo自预售以来市场热度极高，首批货源紧张导致二手价格大幅溢价，有消费者将官方售价17999元的512GB机型加价5000元转卖，二手平台报价一度超过25500元。然而，随着市场变化，部分商家面临风险：有商家囤积50台iPhone Duo，涉及近百万元订单，却遭遇压价，面临亏本。与此同时，有博主号召消费者抵制黄牛，称只要第一天不接盘，黄牛价格就会崩盘。目前苹果官网发货时间已排至明年1月，供应紧张状况短期难以缓解。</description>
-    </item>
-    <item>
-      <title>泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降</title>
-      <link>https://wallstreetcn.com/articles/3783873</link>
-      <pubDate>Mon, 19 Oct 2026 01:00:01 +0000</pubDate>
-      <description>乌克兰总统泽连斯基当地时间17日表示，美国政府豁免对俄罗斯实施的多项制裁措施是错误的，只会帮助俄罗斯人。泽连斯基称，自特朗普宣布俄乌能源停火以来，俄已对乌能源设施发动76次袭击，并强调俄罗斯不会因被解除制裁或协议而作出让步。他还批评美俄达成的柴油协议只是第一步，未来可能有更多举动，并称“星链”卫星系统使用仍受部分限制。美国国务卿鲁比奥否认美方限制“星链”使用，但知情人士称马斯克曾向特朗普提议限制卫星服务。特朗普则称豁免制裁是明智决定。俄方官员表示，美暂停实施对俄制裁法案是重要历史性时刻，并称俄美柴油协议只是开端。此外，美方特使曾提议欧洲恢复购买更多俄天然气，并考虑重启俄向欧洲输送天然气的管道。</description>
-    </item>
+    <description>Daily news summary for 2026-10-20</description>
+    <lastBuildDate>Mon, 19 Oct 2026 09:55:30 +0000</lastBuildDate>
     <item>
       <title>国产卫星互联网首次实现北极、南极、青藏高原联网通信</title>
       <link>https://www.stdaily.com/web/gdxw/2026-10/19/content_598577.html</link>
@@ -24,28 +12,34 @@
       <description>记者19日从正在执行中国第16次北冰洋考察任务的“极地”号获悉，该船已完成国产卫星互联网北极航线准业务化应用测试，本航次首次成功开展北极、南极、青藏高原联网通信验证，打通了全球通信“最后的盲区”。</description>
     </item>
     <item>
-      <title>苹果首次公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成</title>
+      <title>中央档案馆向社会集中开放5000余件长征专题档案</title>
+      <link>https://news.cctv.com/2026/10/19/ARTIg2PZuJaruLwjeHSrvKvI261019.shtml</link>
+      <pubDate>Mon, 19 Oct 2026 08:09:00 +0000</pubDate>
+      <description>为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，中央档案馆于2026年10月19日向社会集中开放一批长征专题档案，共计5000余件。</description>
+    </item>
+    <item>
+      <title>DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元</title>
+      <link>https://news.mydrivers.com/1/1158/1158418.htm</link>
+      <pubDate>Mon, 19 Oct 2026 05:04:00 +0000</pubDate>
+      <description>快科技10月19日消息，DeepSeek发布公告，其API现已支持网页搜索与抓取功能，按请求次数计费，单价为每1000次成功请求5元。当前用户在DeepSeek Harness、Claude Code、Codex中使用DeepSeek API时，已能通过服务端工具调用访问Search/Fetch接口，这部分调用目前暂未计费，并计划于北京时间2026年11月1日00:00起按次收费。DeepSeek官方于10月17日宣布Search/Fetch API正式上线，两项接口均使用DeepSeek自研搜索引擎，为Agent与RAG应用提供实时网页内容。其中Search接口按query搜索网页并返回结构化结果，Fetch接口抓取单个网页并以Markdown文本返回标题与正文。两者均为原始JSON API，Base URL为api.deepseek.com，使用与DeepSeek API相同的Bearer鉴权。</description>
+    </item>
+    <item>
+      <title>苹果公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成</title>
       <link>https://www.cnbeta.com.tw/articles/tech/1582786.htm</link>
       <pubDate>Mon, 19 Oct 2026 00:15:07 +0000</pubDate>
-      <description>苹果公司近日公布的欧盟产品信息文件揭示了首款折叠屏手机iPhone Duo的电池容量。该设备配备总容量为4883mAh的电池，由两块电芯组成，容量分别为2962mAh和1921mAh。此前网络已有相关爆料，此次官方文件证实了该数据。iPhone Duo采用纯eSIM设计，无实体SIM卡槽，因此全球版本电池容量一致。其容量介于iPhone 18 Pro（4288mAh）和iPhone 18 Pro Max（5567mAh）之间。根据苹果公布的续航数据，展开状态下使用7.6英寸内屏播放视频最长可达31小时，仅用5.4英寸外屏播放视频最长可达44小时，典型使用场景下最长续航为24小时。iPhone Duo搭载A20 Pro芯片和C2调制解调器，支持60W以上USB-C适配器快速充电，约20分钟可充至50%，无线充电支持MagSafe和Qi2，最高25W。该机预计于10月23日正式上市。</description>
+      <description>苹果公司通过欧盟产品信息文件公布了首款折叠屏手机iPhone Duo的电池容量。该机采用双电芯设计，总容量为4883mAh，两块电芯容量分别为2962mAh和1921mAh。由于采用纯eSIM设计，全球版本电池容量一致。横向对比来看，其容量介于iPhone 18 Pro（4288mAh）和iPhone 18 Pro Max（5567mAh）之间。官方续航数据显示，使用7.6英寸内屏播放视频最长31小时，使用5.4英寸外屏则可达44小时。设备搭载A20 Pro芯片和C2调制解调器，支持60W以上有线快充，20分钟可充至50%，无线充电最高25W。iPhone Duo预计于10月23日正式上市。</description>
     </item>
     <item>
-      <title>10年期收益率单周骤降17基点，AI交易动荡重燃美债避险属性</title>
-      <link>https://news.futunn.com/post/1001498945/10-year-treasury-yield-plunges-17-basis-points-in-a</link>
-      <pubDate>Mon, 19 Oct 2026 03:46:00 +0000</pubDate>
-      <description>近期市场数据显示，10年期美债收益率单周大幅下降17个基点。与此同时，AI相关交易出现动荡，使得美债的避险属性重新受到市场关注。</description>
+      <title>特斯拉官方称没有“速成车”，陶琳：让人安心是最大的豪华</title>
+      <link>https://m.ithome.com/html/1014723.htm</link>
+      <pubDate>Mon, 19 Oct 2026 06:28:03 +0000</pubDate>
+      <description>10月19日，特斯拉官方发文表示，特斯拉没有“速成车”。官方称，特斯拉拥有覆盖买车、提车、用车、修车、换车的完整直营体系，没有4S店，销售、交付、客服、技师均为自家人，大品牌加完整直营体系是消费者放心买、安心用的底气。特斯拉公司副总裁陶琳转发该博文并表示：“安全稳定可靠，让人安心是最大的豪华。”特斯拉此前公布，2026年第三季度全球生产超46.4万辆电动车，交付超48.6万辆，同比下降2%；储能产品装机量达13.7吉瓦时。</description>
     </item>
     <item>
-      <title>瑞银交易台：上周美股走势与AI股神爆仓那次非常像</title>
-      <link>https://wallstreetcn.com/articles/3783874</link>
-      <pubDate>Mon, 19 Oct 2026 01:14:00 +0000</pubDate>
-      <description>瑞银交易台指出，上周美股走势与此前AI股神爆仓时的走势非常相似。这一对比暗示当前市场可能面临类似的风险或波动特征，但具体细节未在提供材料中详述。</description>
-    </item>
-    <item>
-      <title>六小龄童回应AI魔改圣黛CP：很有趣 但不能逾越观众的底线</title>
-      <link>https://m.ithome.com/html/1014753.htm</link>
-      <pubDate>Mon, 19 Oct 2026 03:57:11 +0000</pubDate>
-      <description>据新黄河及快科技报道，86版《西游记》孙悟空饰演者六小龄童近日在山东济南接受采访时，回应了近期火爆的“圣黛CP”（孙悟空与林黛玉的跨作品AI组合）现象。他表示，该CP相关内容播放量已达50亿次，体现观众对名著的喜爱，并认为这类创意有意义、很好玩，能推动传统文化传承与艺术创新。但他同时强调“忠于原著，慎于翻新”，改编不能逾越政策法规和观众心中的红线。此前，快手等平台已对涉及经典影视人物的不当AI魔改内容进行治理。</description>
+      <title>前三季度我国工业机器人产量同比增长29.1%</title>
+      <link>https://www.stdaily.com/web/gdxw/2026-10/19/content_598578.html</link>
+      <pubDate>Mon, 19 Oct 2026 09:55:30 +0000</pubDate>
+      <description>国家统计局副局长毛盛勇10月19日在国新办新闻发布会上表示，前三季度我国装备制造业和高技术制造业支撑作用明显，其中工业机器人产量同比增长29.1%，3D打印设备产量同比增长62.5%，锂离子电池产量同比增长39.5%。</description>
     </item>
   </channel>
 </rss>
