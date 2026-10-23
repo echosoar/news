@@ -4,7 +4,7 @@
     <title>News 2026-10-23</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-10-23</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:44:00 +0000</lastBuildDate>
     <item>
       <title>马斯克证实特斯拉与SpaceX研究合并 拟在特朗普任内完成交易</title>
       <link>https://tech.ifeng.com/c/8xQHeCjbZa0</link>
@@ -36,10 +36,34 @@
       <description>奔驰CEO康林松近日接受采访时确认，备受关注的“小G”上市时间将比预期更早，距离正式上市已不到24个月，最迟2028年底前亮相。奔驰于2023年宣布开发“小G”，2025年发布首张官方预告图。新车将归入紧凑型车阵容，尺寸接近GLA、GLB和CLA，但为保障越野能力，将采用专属梯形车架底盘，而非现有模块化平台。动力方面，奔驰最初计划只推纯电版，后因纯电大G市场表现不佳及经销商压力等因素，决定增加混动版本。纯电版预计采用双电机四驱系统，配备85kWh三元锂电池；混动版有望沿用CLA的1.5L电气化发动机，均标配四驱。外观将保留经典G级方盒子造型、圆形LED大灯等设计，内饰预计搭载奔驰最新车载技术。外界预估其美国起售价约7万美元。</description>
     </item>
     <item>
+      <title>SpaceX洽谈租用8万个通信基站，拟打造美国第四大全国性无线运营商</title>
+      <link>https://m.ithome.com/html/1016790.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:42:28 +0000</pubDate>
+      <description>据彭博社报道，知情人士透露，SpaceX计划在美国各地获取至少8万个通信基站，目前正与至少一家大型移动通信基础设施公司进行谈判。若达成协议，将为SpaceX打造全美第四大无线运营商奠定基础。洽谈的租赁对象之一为冠城国际（Crown Castle Inc.），该公司与美国铁塔、Vertical Bridge Holdings并列为美国最大通信塔资产持有者。冠城国际首席执行官在财报电话会议上表示正在与各方接触，但未透露具体客户。相关交易金额或达数十亿美元。此前，SpaceX总裁格温·肖特韦尔曾表示，公司计划建设地面移动通信网络，直接与美国三大电信运营商AT&amp;T、Verizon和T-Mobile展开竞争。</description>
+    </item>
+    <item>
       <title>“十四五”时期我国吸收外商直接投资超7500亿美元</title>
       <link>http://www.chinanews.com//cj/2026/10-22/10719112.shtml</link>
       <pubDate>Thu, 22 Oct 2026 08:16:00 +0000</pubDate>
       <description>国务院新闻办公室于10月22日举行“开局起步‘十五五’”系列主题新闻发布会。商务部副部长蒋成华介绍，“十四五”时期，我国吸收外商直接投资5年累计超过7500亿美元；非金融类对外直接投资遍及近190个国家和地区，5年累计超过8000亿美元。同期，国内消费市场稳步扩大，社会消费品零售总额先后跨越40万亿元和50万亿元大关；对外贸易再创新高，货物进出口超过6万亿美元，服务进出口突破1万亿美元。</description>
+    </item>
+    <item>
+      <title>MiniMax M3.1 Flash模型权重正式开源</title>
+      <link>https://www.oschina.net/news/503169</link>
+      <pubDate>Fri, 23 Oct 2026 02:44:00 +0000</pubDate>
+      <description>10月23日，MiniMax宣布开源MiniMax M3.1 Flash模型权重。该模型总参数达428B，激活参数为23B。据证券时报报道，M3.1 Flash上线后72小时内，真实用户处理量已超过100万亿Token。</description>
+    </item>
+    <item>
+      <title>OpenAI融资磋商进入尾声 估值目标据悉下调至1.25万亿美元</title>
+      <link>https://m.ithome.com/html/1016782.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:21:18 +0000</pubDate>
+      <description>据知情人士透露，OpenAI的最新一轮融资磋商已进入最后阶段，目标估值从先前讨论的1.4万亿美元下调1500亿美元至1.25万亿美元。该公司正寻求在此轮融资中筹集约300亿美元。融资谈判仍在进行，具体细节仍可能有变。Coatue Management正在洽谈共同领投本轮融资，OpenAI还与阿联酋多家投资基金及贝莱德等机构接触。此前，OpenAI于2026年3月以8520亿美元投后估值完成1220亿美元融资。OpenAI预计将在下周末前敲定投资者的出资承诺。</description>
+    </item>
+    <item>
+      <title>外部评估人员发现OpenAI内部监控系统漏洞：AI智能体可绕过安全限制</title>
+      <link>https://m.ithome.com/html/1016781.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:20:30 +0000</pubDate>
+      <description>今年早些时候，AI安全评估机构METR和Redwood Research对OpenAI内部监控系统进行了试点评估，发现多项新漏洞。其中一项漏洞可被AI智能体利用，使数百次操作逃过监控。评估于7月21日至8月11日进行，两家机构各派一名研究员，获准深入访问OpenAI内部基础设施，但全程有人陪同且设备由OpenAI提供。OpenAI称相关漏洞均已修复，但修复措施有效性尚未经两家机构核实。研究人员还发现OpenAI的Codex智能体存在绕过安全限制的潜在途径，可获取与用户相同的完整操作权限。两家机构向OpenAI提交了61页内部报告，但同意仅公开评估结果概要，并允许OpenAI删除敏感信息。此次评估以7月21日及之前的监控系统为对象。OpenAI表示，评估结果帮助其加强安全防护，并为未来与第三方评估机构的合作提供参考。</description>
     </item>
   </channel>
 </rss>
