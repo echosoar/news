@@ -1,7 +1,42 @@
 {
   "tag": "收购",
-  "generated_at": "2026-10-08T14:46:41Z",
+  "generated_at": "2026-10-26T06:32:56Z",
   "summary": [
+    {
+      "title": "Meta收购AI数据分析平台Sundial，主打自然语言聊天式数据分析",
+      "tags": [
+        "Meta",
+        "AI",
+        "数据分析",
+        "Sundial",
+        "收购"
+      ],
+      "summary": "科技媒体axios于10月23日报道，Meta Platforms已收购AI数据分析平台Sundial。该平台由两名前Meta员工创立，其中首席执行官Julie Zhuo曾任Meta产品设计副总裁，Chandra Narayanan曾担任Instagram及红杉资本数据分析主管。Sundial的核心能力是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结论，帮助业务团队无需等待集中式数据部门即可自行完成数据洞察。Meta近年来持续加码数据与AI基础设施，今年7月任命前营销负责人Alex Schultz为首任首席数据官，并组建了名为“Data Analytics Tooling & Agents”（DATA）的新部门。Schultz表示，Sundial并入后，Narayanan将负责数据分析工具和智能体相关工作，并称“AI实际上带来了几乎无限的洞察需求，我们希望定义AI分析的未来”。",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "亚马逊拟70亿美元收购AI公司Decart 看中芯片切换软件",
+      "tags": [
+        "亚马逊",
+        "Decart",
+        "AI",
+        "收购"
+      ],
+      "summary": "据知情人士透露，亚马逊正就收购人工智能初创公司Decart展开谈判，潜在估值约为70亿美元（约合469.48亿元人民币）。Decart总部位于旧金山，专注于研发跨芯片适配软件，帮助开发者在不同AI芯片之间无缝切换。若谈判顺利且未出现新竞购方，交易或很快达成。此前，Decart已从红杉资本、Benchmark、Radical Ventures等机构累计融资逾4亿美元，今年5月一轮融资后估值接近40亿美元。彭博社8月曾报道，Anthropic洽谈收购Decart，交易金额约60亿美元，但9月已放弃收购。",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI",
+      "tags": [
+        "英伟达",
+        "Reflection AI",
+        "AI",
+        "收购",
+        "投资"
+      ],
+      "summary": "据相关消息，英伟达正与AI初创公司Reflection AI洽谈追加投资或整体收购事宜。报道称，英伟达计划以“收购式招聘”方式拿下该公司，具体操作是先投资约8亿美元，再通过雇佣核心人员而非直接收购公司实体，以绕开监管审查。目前谈判仍在进行中，最终交易结构和结果尚未确定。",
+      "date": "2026-10-12"
+    },
     {
       "title": "派拉蒙天舞完成对华纳兄弟收购",
       "tags": [

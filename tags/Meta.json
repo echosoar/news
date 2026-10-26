@@ -1,7 +1,43 @@
 {
   "tag": "Meta",
-  "generated_at": "2026-10-08T14:46:41Z",
+  "generated_at": "2026-10-26T06:32:56Z",
   "summary": [
+    {
+      "title": "Meta收购AI数据分析平台Sundial，主打自然语言聊天式数据分析",
+      "tags": [
+        "Meta",
+        "AI",
+        "数据分析",
+        "Sundial",
+        "收购"
+      ],
+      "summary": "科技媒体axios于10月23日报道，Meta Platforms已收购AI数据分析平台Sundial。该平台由两名前Meta员工创立，其中首席执行官Julie Zhuo曾任Meta产品设计副总裁，Chandra Narayanan曾担任Instagram及红杉资本数据分析主管。Sundial的核心能力是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结论，帮助业务团队无需等待集中式数据部门即可自行完成数据洞察。Meta近年来持续加码数据与AI基础设施，今年7月任命前营销负责人Alex Schultz为首任首席数据官，并组建了名为“Data Analytics Tooling & Agents”（DATA）的新部门。Schultz表示，Sundial并入后，Narayanan将负责数据分析工具和智能体相关工作，并称“AI实际上带来了几乎无限的洞察需求，我们希望定义AI分析的未来”。",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Meta修改商业服务条款引发AI训练争议 相关表述已删除",
+      "tags": [
+        "Meta",
+        "AI",
+        "商业服务条款",
+        "网络抓取",
+        "内容版权"
+      ],
+      "summary": "当地时间10月17日，Meta修改了即将生效的商业服务条款，删除了一段引发媒体出版商和法律专家担忧的表述。原有条款曾明确提到，Meta可以使用从相关网站、网页或网址获取的内容，用于开发、改进、研究和训练其产品及服务。外界担心，Meta可能借此绕过内容授权谈判，大规模抓取与商业账号关联的第三方网站内容用于人工智能训练。争议发酵后，Meta删除相关表述，并澄清网络抓取条款仅适用于广告及商业产品，强调未改变网络爬虫使用方式，网站所有者仍可通过robots.txt控制访问。但部分媒体行业代表认为，新表述仍可能间接涉及人工智能用途，相关争议反映了人工智能数据获取与内容版权之间的深层问题。",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Meta发布开放权重模型Muse Spark Open 称美国最强",
+      "tags": [
+        "Meta",
+        "开源模型",
+        "Muse Spark Open",
+        "AI",
+        "多模态"
+      ],
+      "summary": "Meta于周四发布了其人工智能模型Muse Spark的开放权重版本Muse Spark Open，主要用于编程和AI智能体任务。Meta官方称这是迄今为止美国最强大的开放权重模型，是一款原生多模态模型，总参数量8160亿，单次激活420亿，支持100万token上下文。在部分基准测试中，该模型表现领先，但在编程、长周期软件工程及专业工作能力评估中落后于Kimi K3和GLM 5.3。Meta首席AI官表示，出于安全性和能力考量，通常不会开源最强大模型，但持续开源优秀模型很重要。Meta还与苹果合作，使模型能在搭载M5 Ultra芯片的Mac Studio上运行。开发者可通过Baseten、Fireworks AI、Groq等平台使用，权重可在Amazon SageMaker AI、Google Cloud Model Garden和Hugging Face下载。",
+      "date": "2026-10-17"
+    },
     {
       "title": "Meta、微软削减对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一",
       "tags": [

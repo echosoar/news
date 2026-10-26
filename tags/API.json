@@ -1,0 +1,49 @@
+{
+  "tag": "API",
+  "generated_at": "2026-10-26T06:32:56Z",
+  "summary": [
+    {
+      "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
+      "tags": [
+        "DeepSeek",
+        "API",
+        "网页搜索",
+        "计费"
+      ],
+      "summary": "快科技10月19日消息，DeepSeek发布公告，其API现已支持网页搜索与抓取功能，按请求次数计费，单价为每1000次成功请求5元。当前用户在DeepSeek Harness、Claude Code、Codex中使用DeepSeek API时，已能通过服务端工具调用访问Search/Fetch接口，这部分调用目前暂未计费，并计划于北京时间2026年11月1日00:00起按次收费。DeepSeek官方于10月17日宣布Search/Fetch API正式上线，两项接口均使用DeepSeek自研搜索引擎，为Agent与RAG应用提供实时网页内容。其中Search接口按query搜索网页并返回结构化结果，Fetch接口抓取单个网页并以Markdown文本返回标题与正文。两者均为原始JSON API，Base URL为api.deepseek.com，使用与DeepSeek API相同的Bearer鉴权。",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "谷歌旗舰模型Gemini 4 Argon全球上线，API限时五折",
+      "tags": [
+        "谷歌",
+        "Gemini 4 Argon",
+        "AI",
+        "API"
+      ],
+      "summary": "10月14日，谷歌宣布旗舰模型Gemini 4 Argon全球开放，开发者和企业可通过Google AI Studio及Gemini platform的API使用，Google AI Ultra和Pro订阅用户可通过Gemini应用及谷歌搜索AI模式访问。该模型于10月1日发布，擅长编程、金融、法律、网络安全和科学等复杂任务，谷歌称其在多个基准测试中超过其他前沿模型，在Vals Index榜单上排名第一。API首发价为每百万输入token 2美元、输出token 10美元，优惠持续至11月30日。谷歌展示了Argon在硬件设计、动画制作、餐饮业务、游戏开发及科学数据处理等场景的应用。此外，Argon首发优惠价仅为GPT-6 Astra和Claude Fable 5.1的五分之一，单次输出上限提升至100万词元。随着Meta、谷歌接连发布新旗舰模型，前沿AI竞争进一步升温。",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "OpenAI推出GPT-6.1 Sol Ultrafast版：6倍价格、最高8倍速度",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "人工智能",
+        "API"
+      ],
+      "summary": "OpenAI Developers官方宣布，OpenAI正式在API、Codex和ChatGPT Work中推出GPT-6.1 Sol的Ultrafast版本。该版本运行速度最高可达Sol标准版的8倍，定价为标准版的6倍，每百万tokens输入12美元（约合80.5元人民币），每百万tokens输出60美元（约合402.7元人民币）。在Codex和ChatGPT Work中，该功能已面向Pro 500、符合条件的按量付费企业版以及采用配额计费的教育版方案开放，企业用户需由管理员主动开启权限。Ultrafast版已在所有支持的区域上线，并全面支持美国和欧盟境内的数据驻留合规服务。",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "DeepSeek发布V4 Pro并上调API价格",
+      "tags": [
+        "DeepSeek",
+        "大模型",
+        "API"
+      ],
+      "summary": "8月15日消息，国家超算互联网宣布上线DeepSeek V4 Pro正式版（编号0813）及智能体框架DeepSeek Harness。该模型增强了Agent能力，生产环境下性能提升显著，整体表现可与国外闭源模型Claude Fable 5、Opus-4.8相媲美。超算互联网作为全国首个十万卡级超智融合算力资源池，可为科研院所、企业及开发者提供大模型全生命周期算力支撑，其AI社区已汇聚170",
+      "date": "2026-08-15"
+    }
+  ]
+}

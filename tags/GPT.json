@@ -1,7 +1,30 @@
 {
   "tag": "GPT",
-  "generated_at": "2026-10-08T14:46:41Z",
+  "generated_at": "2026-10-26T06:32:56Z",
   "summary": [
+    {
+      "title": "微软推出高速决策AI模型，速度达GPT-6 Sol的35倍，36项测试准确率第一",
+      "tags": [
+        "微软",
+        "AI",
+        "高速决策",
+        "GPT",
+        "准确率"
+      ],
+      "summary": "微软近日推出一款高速决策AI模型，其运行速度据称是GPT-6 Sol的35倍，并在36项测试中准确率排名第一。该模型主打快速决策能力，性能表现显著优于现有标杆产品。相关测试结果与性能数据来自发布方的公开信息，具体技术细节尚未完全披露。",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "OpenAI推出GPT-6.1 Sol Ultrafast版：6倍价格、最高8倍速度",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "人工智能",
+        "API"
+      ],
+      "summary": "OpenAI Developers官方宣布，OpenAI正式在API、Codex和ChatGPT Work中推出GPT-6.1 Sol的Ultrafast版本。该版本运行速度最高可达Sol标准版的8倍，定价为标准版的6倍，每百万tokens输入12美元（约合80.5元人民币），每百万tokens输出60美元（约合402.7元人民币）。在Codex和ChatGPT Work中，该功能已面向Pro 500、符合条件的按量付费企业版以及采用配额计费的教育版方案开放，企业用户需由管理员主动开启权限。Ultrafast版已在所有支持的区域上线，并全面支持美国和欧盟境内的数据驻留合规服务。",
+      "date": "2026-10-09"
+    },
     {
       "title": "因安全顾虑，OpenAI取消原定10月发布的GPT-6.1 Astra",
       "tags": [

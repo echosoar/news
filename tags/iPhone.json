@@ -1,7 +1,19 @@
 {
   "tag": "iPhone",
-  "generated_at": "2026-10-08T14:46:41Z",
+  "generated_at": "2026-10-26T06:32:56Z",
   "summary": [
+    {
+      "title": "苹果国行iPhone 15 Pro及后续机型新增Apple智能、通义千问等大模型备案编号",
+      "tags": [
+        "苹果",
+        "iPhone",
+        "大模型备案",
+        "Apple智能",
+        "通义千问"
+      ],
+      "summary": "据IT之家和快科技报道，苹果多款国行iPhone机型于9月29日完成备案换证，新增搭载的大模型备案编号，涉及iPhone 15 Pro/Pro Max及后续机型，包括iPhone Air、iPhone Duo等，而iPhone 15和iPhone 15 Plus未更新备案。备案编号包括上海苹果智能、上海通义万象、浙江通义千问等。今年7月，“网信中国”已公布苹果技术开发（上海）有限公司的“Apple智能”大模型完成备案，备案日期为2026年7月8日，适用场景为苹果手机。另据证券时报报道，阿里千问将作为AI能力集成至Apple智能，为国行iPhone用户提供文本与图像理解、内容生成等体验。此次备案更新或意味着Apple智能在中国大陆市场的落地加速。",
+      "date": "2026-10-15"
+    },
     {
       "title": "苹果推出iPhone Handoff功能：允许两个iPhone共用同一手机号码",
       "tags": [

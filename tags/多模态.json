@@ -1,0 +1,41 @@
+{
+  "tag": "多模态",
+  "generated_at": "2026-10-26T06:32:56Z",
+  "summary": [
+    {
+      "title": "Meta发布开放权重模型Muse Spark Open 称美国最强",
+      "tags": [
+        "Meta",
+        "开源模型",
+        "Muse Spark Open",
+        "AI",
+        "多模态"
+      ],
+      "summary": "Meta于周四发布了其人工智能模型Muse Spark的开放权重版本Muse Spark Open，主要用于编程和AI智能体任务。Meta官方称这是迄今为止美国最强大的开放权重模型，是一款原生多模态模型，总参数量8160亿，单次激活420亿，支持100万token上下文。在部分基准测试中，该模型表现领先，但在编程、长周期软件工程及专业工作能力评估中落后于Kimi K3和GLM 5.3。Meta首席AI官表示，出于安全性和能力考量，通常不会开源最强大模型，但持续开源优秀模型很重要。Meta还与苹果合作，使模型能在搭载M5 Ultra芯片的Mac Studio上运行。开发者可通过Baseten、Fireworks AI、Groq等平台使用，权重可在Amazon SageMaker AI、Google Cloud Model Garden和Hugging Face下载。",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash开始内测：新结构原生多模态，能力速度成本全面优化",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "多模态",
+        "内测"
+      ],
+      "summary": "DeepSeek于9月8日在官方交流群发布通知，启动V4.1 Flash中间版本的内测。该模型采用全新结构，原生支持多模态，能力更强、速度更快且成本更低。其base_url保持不变，用户将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与DeepSeek V4 Flash相同，每账号限流20并发。此前，DeepSeek V4 Flash正式版API已于7月底上线公测，Agent能力大幅增强，并推出V4 Flash Vision Exp多模态视觉理解模型，支持图片输入及多种图片格式。",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "OpenAI全面开源Codex Harness，DeepSeek V4-Flash补上视觉能力逼近Opus 4.8",
+      "tags": [
+        "AI",
+        "代码生成",
+        "多模态",
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "summary": "",
+      "date": "2026-08-21"
+    }
+  ]
+}

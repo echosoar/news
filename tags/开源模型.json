@@ -1,7 +1,19 @@
 {
   "tag": "开源模型",
-  "generated_at": "2026-10-08T14:46:41Z",
+  "generated_at": "2026-10-26T06:32:56Z",
   "summary": [
+    {
+      "title": "Meta发布开放权重模型Muse Spark Open 称美国最强",
+      "tags": [
+        "Meta",
+        "开源模型",
+        "Muse Spark Open",
+        "AI",
+        "多模态"
+      ],
+      "summary": "Meta于周四发布了其人工智能模型Muse Spark的开放权重版本Muse Spark Open，主要用于编程和AI智能体任务。Meta官方称这是迄今为止美国最强大的开放权重模型，是一款原生多模态模型，总参数量8160亿，单次激活420亿，支持100万token上下文。在部分基准测试中，该模型表现领先，但在编程、长周期软件工程及专业工作能力评估中落后于Kimi K3和GLM 5.3。Meta首席AI官表示，出于安全性和能力考量，通常不会开源最强大模型，但持续开源优秀模型很重要。Meta还与苹果合作，使模型能在搭载M5 Ultra芯片的Mac Studio上运行。开发者可通过Baseten、Fireworks AI、Groq等平台使用，权重可在Amazon SageMaker AI、Google Cloud Model Garden和Hugging Face下载。",
+      "date": "2026-10-17"
+    },
     {
       "title": "智谱开源GLM-5.3模型权重，免费商用但超大型企业需审查",
       "tags": [
