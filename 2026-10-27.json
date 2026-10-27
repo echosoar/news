@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-26T18:32:02Z",
+  "generated_at": "2026-10-27T06:06:31Z",
   "summary": [
     {
       "title": "日本前首相福田康夫逝世 外交部：沉痛哀悼",
@@ -243,6 +243,98 @@
         }
       ],
       "summary": "马斯克近日在社交媒体上警告，大量算力可能闲置在未完工的数据中心，并称200多家新云厂商（Neocloud）将迎来倒闭与整合浪潮。他指出，债务市场已几乎切断这类企业的融资渠道，除非拥有独立于AI数据中心之外的稳定营收。马斯克同时宣布SpaceX完成400亿美元GPU相关债务融资，并计划到2026年底建成2.5至3吉瓦算力，2027年算力资本开支预计达3900亿美元。市场分析认为，马斯克的言论可能压低新云厂商估值，为后续收购铺路。当前，多家新云企业信用违约互换飙升，行业龙头CoreWeave遭遇股债双杀，债券收益率触及15%—16%，股价单周跌超20%。同时，AI数据中心承租方开始要求更高的逾期赔付标准。不过，也有观点指出，资金并未完全撤离AI基础设施领域，部分企业仍获大额融资，但市场评估标准已转向偿债能力、现金流久期与电力交付确定性。"
+    },
+    {
+      "title": "苹果回应iPhone Duo内屏开裂：大多数设备不受影响",
+      "tags": [
+        "iPhone Duo",
+        "苹果",
+        "屏幕开裂",
+        "富士康",
+        "折叠屏"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1160/1160805.htm",
+          "title": "iPhone Duo内屏开裂，富士康员工：因产能吃紧曾降低过质检",
+          "origin": "快科技",
+          "time": 1793058180
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwrqsv8829458.shtml",
+          "title": "苹果回应iPhone Duo内屏断裂：可联系苹果官方客服申请更换",
+          "origin": "新浪新闻",
+          "time": 1793065290
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1160/1160814.htm",
+          "title": "富士康员工曝iPhone Duo内屏爆裂、划线原因：苹果自作孽",
+          "origin": "快科技",
+          "time": 1793062800
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1160/1160792.htm",
+          "title": "不是故意黑，iPhone Duo内屏爆裂、划线：苹果承认并回应",
+          "origin": "快科技",
+          "time": 1793051760
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1160/1160803.htm",
+          "title": "苹果回应iPhone Duo内屏开裂：大多数设备不受影响",
+          "origin": "快科技",
+          "time": 1793057760
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xYaHdgaOTW",
+          "title": "iPhone Duo内屏开裂引热议，富士康员工透露内情",
+          "origin": "凤凰科技",
+          "time": 1793060537
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xYPXx3btOJ",
+          "title": "苹果回应iPhone Duo内屏破裂问题：将保修更换",
+          "origin": "凤凰科技",
+          "time": 1793053567
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xYWKSwIhRL",
+          "title": "苹果回应iPhone Duo内屏开裂",
+          "origin": "凤凰网",
+          "time": 1793055960
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8182971.html",
+          "title": "苹果回应iPhone Duo内屏开裂",
+          "origin": "钛媒体",
+          "time": 1793058720
+        }
+      ],
+      "summary": "近日，苹果首款折叠屏手机iPhone Duo被曝出现内屏开裂、漏液等问题，引发用户投诉。有网友称新机激活后折叠两次内屏即碎裂，前往苹果售后维修时被告知暂无配件。苹果回应称，已注意到少量iPhone Duo内屏存在问题，大多数设备不受影响，问题机型通常在使用初期显现故障，用户可联系AppleCare申请换机。据界面新闻报道，一名富士康员工透露，产能吃紧时苹果曾降低过一定良率质检标准，可能导致问题产品流入市场；目前产线已紧急替换一批物料，实际生产未受影响，备货策略暂未改变。"
+    },
+    {
+      "title": "博通与多家银行合作进行630亿美元AI融资",
+      "tags": [
+        "博通",
+        "AI融资",
+        "银行合作",
+        "XPU加速器",
+        "Anthropic"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/flash/1002325838/broadcom-is-partnering-with-multiple-banks-to-secure-63-billion",
+          "title": "博通与多家银行合作进行630亿美元AI融资",
+          "origin": "富途牛牛",
+          "time": 1793046180
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8182975.html",
+          "title": "博通与多家银行合作进行630亿美元AI融资",
+          "origin": "钛媒体",
+          "time": 1793059500
+        }
+      ],
+      "summary": "钛媒体App 10月27日消息，美国银行、黑石、花旗和摩根士丹利等机构正与博通合作，共同设立一项总额达630亿美元的AI融资安排，为AI算力提供资金。博通将为该特殊目的实体（SPV）的第一留置权（优先担保）债务部分提供残值支持。从2027年开始，博通将通过该SPV供应XPU AI加速器，这些加速器随后将租赁给Anthropic使用。"
     }
   ]
 }
