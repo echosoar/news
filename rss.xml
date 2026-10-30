@@ -4,7 +4,7 @@
     <title>News 2026-10-30</title>
     <link>https://github.com/echosoar/news</link>
     <description>Daily news summary for 2026-10-30</description>
-    <lastBuildDate>Thu, 29 Oct 2026 14:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:55:30 +0000</lastBuildDate>
     <item>
       <title>习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电</title>
       <link>https://news.cctv.com/2026/10/29/ARTInB5sndmB4YNzBodmoPy3261029.shtml</link>
@@ -52,6 +52,54 @@
       <link>https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwawy6074790.shtml</link>
       <pubDate>Thu, 29 Oct 2026 05:56:31 +0000</pubDate>
       <description>10月29日，在2026腾讯全球数字生态大会上，腾讯宣布新一代大语言模型Hy4即将发布。相比Hy4 preview，Hy4实现全面大幅提升，强化了各类长程和真实生产力任务的能力，显著提升思维链效率，并首次引入视觉理解能力。此外，Hy4 flash也将在近期发布，该模型主打极致性价比，在继承Hy4视觉、Agent等能力的基础上，通过模型与产品的深度Co-Design高频进化。今年8月28日，腾讯混元曾发布并开源Hy4 preview，总参数770B、激活参数49B，上下文长度突破1M，在模型尺寸、上下文长度和数据规模上均显著扩展。</description>
+    </item>
+    <item>
+      <title>新研究：AI模型处理不同语言Token消耗量最高相差17倍</title>
+      <link>https://m.ithome.com/html/1020026.htm</link>
+      <pubDate>Fri, 30 Oct 2026 04:27:13 +0000</pubDate>
+      <description>人工智能语言公平研究联盟的一项新研究发现，AI模型处理不同语言时消耗的Token数量差异悬殊，形成隐性的“分词器税”。即使互联网上最常用的20种语言，Token消耗量最高也可达最低的1.5至5倍；若扩大到200种语言，差距更大，其中一个AI模型中不同语言的Token消耗量最多相差17倍。这导致使用人数较少语言的用户可能支付更高费用，且响应更慢、可处理上下文更少，影响相关地区参与AI经济。研究指出，分词器主要针对英语等数据资源丰富的语言优化，底层数据质量与文字系统也影响Token消耗。改善途径包括提升多语言数据质量及专门改进下一代分词器设计。</description>
+    </item>
+    <item>
+      <title>谷歌股价暴跌超12%：AI投入吞噬现金流、回购归零且搜索货币化承压</title>
+      <link>https://news.futunn.com/post/1002858804/the-logic-behind-google-s-biggest-single-day-plunge-in</link>
+      <pubDate>Fri, 30 Oct 2026 03:24:55 +0000</pubDate>
+      <description>谷歌母公司Alphabet发布最新财报后，股价周四暴跌超12%，创2004年上市以来最大单日跌幅，市值蒸发约5000亿美元。财报显示，尽管谷歌搜索查询量同比增速创五年新高，但搜索及其他业务收入仅增长12%至633.5亿美元，增速降至年内最低，AI模式货币化水平较低引发担忧。云业务收入同比翻倍至307亿美元，利润率升至36.2%，但集团层面共享AI研发亏损扩大至77亿美元，云业务利润增量约半数被消耗。自由现金流消耗约为市场预期的三倍，2026年前三季度股票回购金额为零，公司转而通过发行新股和债券融资。摩根大通称这是AI/科技交易重新点火的一次挫折，高盛表示市场正从奖励资本开支转向要求回报证据。多家机构下调Alphabet目标价，但多数维持评级。</description>
+    </item>
+    <item>
+      <title>苹果CarPlay现接入Claude，用户开车也能语音问AI</title>
+      <link>https://m.ithome.com/html/1019966.htm</link>
+      <pubDate>Fri, 30 Oct 2026 03:19:48 +0000</pubDate>
+      <description>Anthropic于10月29日在X平台宣布升级Claude移动应用，覆盖iPhone、iPad、Android、Chromebook及网页和桌面端。其中，iPhone版Claude的语音模式现已支持Apple CarPlay，用户可在驾驶途中无需双手离开方向盘直接向AI提问。此外，iPhone和iPad端将推出下拉搜索功能，方便查找历史对话或项目；iPad和iPhone Duo支持内容并排展示并可切换全屏。账号管理方面，iOS和Android版支持多账号同时登录与直接切换。Android版在大屏和折叠屏设备上优化了侧边栏、触控板、右键操作及键盘快捷键。语言能力新增24种语言，累计支持33种；语音模式响应更快，嘈杂环境识别更准确，非英语语音更自然，并覆盖更多Android手机。</description>
+    </item>
+    <item>
+      <title>美科技巨头财报接连踩雷 AI硬件股普遍重挫 避险资金转向美债医药科网股</title>
+      <link>https://news.futunn.com/post/1002856596/us-tech-giants-have-repeatedly-posted-disappointing-earnings-sending-ai</link>
+      <pubDate>Fri, 30 Oct 2026 03:07:00 +0000</pubDate>
+      <description>美国科技巨头最新财报及业绩展望接连令市场失望，英特尔对个人电脑市场的悲观预测引发半导体需求担忧，亚马逊公布巨额AI资本开支后股价不涨反跌，谷歌因营收数据和支出警告创下历史最大跌幅。受此影响，亚洲芯片股遭遇新一轮抛售，韩国KOSPI指数盘中跌超5.6%并触发侧车机制，日经225指数跌近3%，港股AI硬件股普跌。市场对AI投资回报和半导体需求能否持续的疑虑加深，投资者转向美债、医药等避险资产，美国国债收益率全期限下跌，10年期收益率一度跌破4.90%；减肥药龙头礼来大涨6%创新高，港股科网股如小米、美团盘中涨超4%。现货黄金失守4000美元/盎司。市场焦点转向将于11月17日公布业绩的英伟达。</description>
+    </item>
+    <item>
+      <title>英伟达出手背书新兴云厂商：为Nscale逾50亿美元建设融资提供担保</title>
+      <link>https://wallstreetcn.com/articles/3784812</link>
+      <pubDate>Fri, 30 Oct 2026 02:36:00 +0000</pubDate>
+      <description>英伟达宣布为新兴云厂商Nscale提供担保，支持其超过50亿美元的建设融资。此举体现了英伟达对新兴云计算基础设施建设的背书，有助于Nscale推进相关项目建设。具体融资细节及双方合作范围尚未披露。</description>
+    </item>
+    <item>
+      <title>Anthropic成为SpaceX最大单一客户，每月贡献或高达约30亿美元</title>
+      <link>https://m.ithome.com/html/1019845.htm</link>
+      <pubDate>Fri, 30 Oct 2026 00:20:07 +0000</pubDate>
+      <description>据彭博社和钛媒体引述知情人士消息，Anthropic已成为马斯克旗下SpaceX的最大单一客户，第三季度为SpaceX贡献了超三分之一的营收。SpaceX在申报文件中披露，上一季度约34.5%的营收来自单一客户，该客户主要向其提供算力的人工智能部门采购服务，文件中被称为“客户B”的正是Anthropic。双方合作中，Anthropic主要租赁SpaceX位于田纳西州孟菲斯数据中心的计算资源。Anthropic的IPO文件显示，合同有效期至2029年，潜在支出上限达1205亿美元，从今年12月开始，每月支付金额约31亿美元。此外，Anthropic可在2027年初之后提前90天书面通知取消合同。</description>
+    </item>
+    <item>
+      <title>一个万卡智算集群构建“超级大脑”</title>
+      <link>http://news.china.com.cn/2026-10/30/content_118754869.shtml</link>
+      <pubDate>Fri, 30 Oct 2026 04:55:30 +0000</pubDate>
+      <description>在内蒙古和林格尔新区，中国移动智算中心（呼和浩特）节点以约2万张AI加速卡组成万卡级智算集群，打造人工智能“超级大脑”。该集群通过万卡高速互联及软硬全链路监控技术，将线性加速比提升至90%以上，模型训练最长无中断时长达22天。针对异构算力管理难题，中心通过九天人工智能平台实现不同品牌芯片的统一调度。在能源方面，智算中心大规模部署冷板式液冷系统，探索“源网荷储算”一体化模式，将PUE降至1.15。依托400G OTN骨干网，呼和浩特至北京单向传输时延低至3.5毫秒，可支撑大模型训练及金融高频交易、工业互联网、自动驾驶等实时业务。“十五五”时期，全国一体化算力网建设提速，将有序部署万卡、十万卡及以上智算集群，夯实人工智能发展根基。</description>
+    </item>
+    <item>
+      <title>以英雄为名 “文秀”“娇龙”月季正式上市</title>
+      <link>https://huacheng.gz-cmc.com/pages/2026/10/30/a6bb3bf4846346209aaf8bc6bcc7d939.html</link>
+      <pubDate>Fri, 30 Oct 2026 01:19:00 +0000</pubDate>
+      <description>10月29日，云南月季新品种“文秀”和“娇龙”正式上市，并通过电商平台面向全国发售。这两个品种分别以广西百色百坭村原第一书记黄文秀和新疆伊犁原文旅局副局长、昭苏县原副县长贺娇龙的名字命名。黄色“文秀”月季致敬黄文秀扎根基层、带领村民脱贫致富的奉献精神；粉色“娇龙”月季致敬贺娇龙直播助农、推动新疆农产品品牌建设的热情与付出。据培育团队介绍，该品种未来有望实现全年供应。</description>
     </item>
   </channel>
 </rss>
