@@ -1,7 +1,29 @@
 {
   "tag": "OpenAI",
-  "generated_at": "2026-10-26T06:32:56Z",
+  "generated_at": "2026-11-02T09:59:29Z",
   "summary": [
+    {
+      "title": "OpenAI宣布12月起ChatGPT与Codex共享统一使用额度",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "共享额度"
+      ],
+      "summary": "OpenAI发布公告，宣布自12月起，随着Work智能体能力引入ChatGPT主体验，Plus、Pro及Business订阅用户将在ChatGPT与Codex之间共享统一使用额度。共享额度统一按Token计量，实际消耗速度取决于所选模型及任务复杂度，即时对话不占用额度。官方表示正在推进过渡筹备工作，预计大多数用户等待额度重置的频率不会高于此前。用户可在设置→使用量中查看合并后的剩余额度及下次重置时间；额度耗尽后，可选择等待自动重置、升级订阅方案或增购点数继续使用。",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "OpenAI宣布重大调整：12月起ChatGPT与Codex共享使用额度",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "额度调整"
+      ],
+      "summary": "OpenAI发布公告，宣布从今年12月开始，将ChatGPT与Codex的使用额度合并，Plus、Pro及Business订阅用户将共享统一额度池。调整后，两项服务的用量统一按Token计量，实际消耗速度取决于所选模型及任务复杂度；即时对话（Instant Chat）不占用额度。OpenAI表示正在推进过渡筹备，预计多数用户额度重置频率不会高于此前。用户可在“设置→使用量”中查看合并后的剩余额度及重置时间；若额度耗尽，可选择等待重置、升级订阅或增购点数。",
+      "date": "2026-11-01"
+    },
     {
       "title": "美FBI考虑对OpenAI窃听案员工追加经济间谍指控",
       "tags": [

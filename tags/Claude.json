@@ -1,7 +1,19 @@
 {
   "tag": "Claude",
-  "generated_at": "2026-10-26T06:32:56Z",
+  "generated_at": "2026-11-02T09:59:29Z",
   "summary": [
+    {
+      "title": "苹果CarPlay现接入Claude，用户开车也能语音问AI",
+      "tags": [
+        "苹果",
+        "CarPlay",
+        "Claude",
+        "人工智能",
+        "语音助手"
+      ],
+      "summary": "Anthropic于10月29日在X平台宣布升级Claude移动应用，覆盖iPhone、iPad、Android、Chromebook及网页和桌面端。其中，iPhone版Claude的语音模式现已支持Apple CarPlay，用户可在驾驶途中无需双手离开方向盘直接向AI提问。此外，iPhone和iPad端将推出下拉搜索功能，方便查找历史对话或项目；iPad和iPhone Duo支持内容并排展示并可切换全屏。账号管理方面，iOS和Android版支持多账号同时登录与直接切换。Android版在大屏和折叠屏设备上优化了侧边栏、触控板、右键操作及键盘快捷键。语言能力新增24种语言，累计支持33种；语音模式响应更快，嘈杂环境识别更准确，非英语语音更自然，并覆盖更多Android手机。",
+      "date": "2026-10-30"
+    },
     {
       "title": "Anthropic Claude被曝绕过付费墙调取美国佐治亚州选民数据",
       "tags": [
