@@ -1,117 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-11-04</title>
+    <title>News 2026-11-05</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-11-04</description>
-    <lastBuildDate>Wed, 04 Nov 2026 03:10:00 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-11-05</description>
+    <lastBuildDate>Wed, 04 Nov 2026 14:20:30 +0000</lastBuildDate>
     <item>
-      <title>苹果CEO回应iPhone Duo缺货：产能爬坡顺利 供需平衡时间不确定</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixkzyk2444834.shtml</link>
-      <pubDate>Tue, 03 Nov 2026 13:48:00 +0000</pubDate>
-      <description>苹果公司发布2026财年第四季度财报，总营收1144.77亿美元，同比增长12%；净利润307.11亿美元，同比增长12%。iPhone收入同比增长17%，服务业务创历史新高，但大中华区收入175.39亿美元，同比增长21%却不及预期。财报发布后，苹果股价盘后上涨0.47%。对于iPhone Duo折叠屏手机缺货问题，苹果CEO约翰·特努斯回应称，产能爬坡进展顺利，但供需平衡的具体时间仍不确定。此前有报道称，iPhone Duo因提前发布导致库存严重短缺，且存在屏幕开裂等品控问题，苹果表示将更换新机。</description>
+      <title>腾讯混元发布最新一代大语言模型Hy4，首次跻身最强开源模型行列</title>
+      <link>https://www.chinaz.com/2026/1104/1786228.shtml</link>
+      <pubDate>Wed, 04 Nov 2026 13:05:30 +0000</pubDate>
+      <description>11月4日，腾讯混元正式发布最新一代大语言模型Hy4。相比此前预览版，新模型显著扩大预训练和后训练规模，并首次引入视觉能力，在指令遵循、长文本理解、长程任务执行和深度研究等方面全面提升。Hy4支持电脑操作，可结合命令行和图形界面执行任务，并对Blender、CAD等专业软件及前端开发、金融分析等场景进行专项优化。在金融领域，基于真实金融场景构建的测试中，Hy4综合表现位居开源模型第一。目前Hy4已接入WorkBuddy、CodeBuddy、腾讯元宝、企业微信智能助理大圆、ima及腾讯云TokenHub等产品，API同步接入OpenRouter、Hermes、OpenCode等平台。价格方面，API定价保持不变，缓存命中输入0.3元/百万Tokens，普通输入6元/百万Tokens，输出18元/百万Tokens。</description>
     </item>
     <item>
-      <title>特朗普：美国对伊朗发动了小规模攻击</title>
-      <link>https://news.futunn.com/post/1003289989/iran-refuses-to-open-the-strait-of-hormuz-demanding-that</link>
-      <pubDate>Wed, 04 Nov 2026 00:36:00 +0000</pubDate>
-      <description>综合各方来源，美国总统特朗普近日表示，美国对伊朗发动了小规模攻击，但同时强调美国目前没有立即对伊朗发动军事打击的计划。特朗普指出，如果有必要，美国已做好再次采取军事行动的准备。此前有报道称伊朗拒绝开放霍尔木兹海峡，并要求美国回应七项条件，但相关细节尚未得到进一步证实。</description>
+      <title>育碧被曝有意收购微软Xbox旗下《耻辱》《死亡循环》开发商Arkane Lyon</title>
+      <link>https://m.ithome.com/html/1021884.htm</link>
+      <pubDate>Tue, 03 Nov 2026 23:11:59 +0000</pubDate>
+      <description>据彭博社报道，育碧已向微软提出收购申请，有意将《耻辱》和《死亡循环》的开发商Arkane Lyon纳入旗下。除育碧外，至少还有两家游戏公司提交了收购报价，目前该工作室的未来归属尚未确定。微软正寻求剥离这家法国游戏工作室，此举是Xbox首席执行官Asha Sharma推动业务重组的一部分。微软也在考虑将工作室出售给现有管理层，使其成为独立开发商。Arkane Lyon目前正在开发《漫威刀锋战士》，但工作室所有权可能变化，游戏后续开发及发行安排存在不确定性。此前法国媒体称，约217名员工岗位面临风险，微软已将相关协商期限延长一个月。育碧自身也在进行业务重组，即使收购成功，工作室未来安排仍有待观察。</description>
     </item>
     <item>
-      <title>力箭二号遥二运载火箭发射成功</title>
-      <link>https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1206214&amp;sid=21</link>
-      <pubDate>Tue, 03 Nov 2026 03:49:00 +0000</pubDate>
-      <description>北京时间11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区发射升空，将搭载的千帆极轨21组卫星顺利送入预定轨道，飞行试验任务取得圆满成功。此次任务是力箭二号运载火箭的第2次飞行。</description>
+      <title>AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%</title>
+      <link>https://wallstreetcn.com/articles/3785116</link>
+      <pubDate>Wed, 04 Nov 2026 00:54:00 +0000</pubDate>
+      <description>在AMD电话会中，公司预计第四季度AI芯片收入将首次超越服务器CPU，并预期明年数据中心收入占比将突破80%。</description>
     </item>
     <item>
-      <title>百度否认昆仑芯IPO推迟市场传闻</title>
-      <link>https://news.mydrivers.com/1/1162/1162814.htm</link>
-      <pubDate>Tue, 03 Nov 2026 08:27:08 +0000</pubDate>
-      <description>11月3日，针对近日有关昆仑芯上市时间可能推迟的市场传闻，百度方面回应称相关市场传闻及报道均不属实。百度表示，昆仑芯目前处于保密申报阶段，根据监管要求，公司不能披露包括上市流程进展在内的任何重大非公开信息，未来将适时对外公告。此前，百度集团曾宣布昆仑芯于今年1月1日向香港证券交易所提交上市申请表，同时昆仑芯（北京）科技股份有限公司于2026年5月7日启动科创板上市辅导。昆仑芯前身为百度智能芯片及架构部，2018年推出昆仑1代AI芯片，2021年从百度分拆独立运营。目前昆仑芯已完成三代AI芯片研发与商业化，新一代芯片M300计划于2027年初上市，其产品已适配Kimi K3、GLM 5.2等主流大模型。</description>
+      <title>陶哲轩警告：人类过度依赖AI或将很快导致现实世界严重后果</title>
+      <link>https://m.ithome.com/html/1022440.htm</link>
+      <pubDate>Wed, 04 Nov 2026 14:20:30 +0000</pubDate>
+      <description>菲尔兹奖得主、著名数学家陶哲轩近日对人类社会日益依赖人工智能发出警告。他于10月16日在加州大学洛杉矶分校举办的Science x AI Summit上演讲时表示，随着人们逐渐将思考和解决问题的过程交给AI，人类正在失去对问题本身及其解决方案的理解，这一趋势可能很快在现实世界中产生严重后果。陶哲轩指出，AI在数学领域能快速给出答案，但人类未必能理解其背后的推理过程。纯数学领域的风险相对可控，因为证明可通过形式化工具验证；但在电网、航空交通管制、药物研发和芯片设计等现实领域，AI给出的方案可能在数学模型中完全成立，却因缺乏对底层模型和现实约束条件的理解而偏离人类真实需求，甚至可能利用模型漏洞满足表面指标。他强调问题不在于AI技术本身，而在于人类如何使用AI，主张推动数学研究进入“Math 2.0”时代，让AI增强而非替代人类理解。10月22日，他还在《自然》杂志发文呼吁数学界重新审视AI时代的研究目标，强调AI时代需保留人类理解、检验和判断答案的能力。</description>
     </item>
     <item>
-      <title>特朗普称美国对伊朗发动“小规模攻击”</title>
-      <link>https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml</link>
-      <pubDate>Tue, 03 Nov 2026 14:26:00 +0000</pubDate>
-      <description>美国总统特朗普于11月3日表示，美军对伊朗发动了“小规模攻击”，并称这“并非战事”。特朗普在接受福克斯新闻频道电话采访时称，伊朗耗时约两个月建造的一处防空设施刚完工，美军就在昨晚对其进行了“非常漂亮地”打击。他还表示美国“完全控制了”霍尔木兹海峡，且不排除在中期选举后对伊朗采取军事行动。伊朗南部格什姆岛当地时间3日凌晨数次传出爆炸声，美国媒体报道称美军摧毁了伊朗导弹发射器。此前特朗普曾表示“不急于”决定是否重启对伊朗的战事。</description>
+      <title>以色列一安全公司称部分AI网络入侵系人为失误</title>
+      <link>https://wallstreetcn.com/articles/3785108</link>
+      <pubDate>Wed, 04 Nov 2026 13:24:58 +0000</pubDate>
+      <description>以色列“非常规”人工智能公司首席执行官丹·拉哈夫日前在伦敦一场科技行业活动上表示，该公司负责的一系列人工智能模型安全测试中，因人为失误和时间压力，部分隔离防护措施未正确配置，导致模型接入互联网并实施了网络入侵。</description>
     </item>
     <item>
-      <title>Salesforce斥资27亿美元收购初创公司Cresta</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixmhha9950789.shtml</link>
-      <pubDate>Tue, 03 Nov 2026 09:13:15 +0000</pubDate>
-      <description>据钛媒体消息，Salesforce宣布以27亿美元收购人工智能初创公司Cresta。此次收购旨在增强Salesforce在客户服务与销售领域的AI能力，Cresta专注于通过AI技术为客服和销售团队提供实时指导和自动化支持。交易完成后，Cresta的技术将整合进Salesforce的客户关系管理平台，帮助提升客户体验和运营效率。</description>
+      <title>印度ChatGPT周活跃用户超美国 登顶全球最大市场</title>
+      <link>https://original.ifeng.com/c/8xmNTD47gpn</link>
+      <pubDate>Wed, 04 Nov 2026 08:52:00 +0000</pubDate>
+      <description>OpenAI印度董事总经理普拉布吉特·辛格11月4日表示，按每周活跃用户计算，印度已超越美国成为ChatGPT全球第一大市场。自今年1月以来，ChatGPT在印度的用户规模增长一倍，更多消费者将其用于工作、学习和生活。今年2月，OpenAI曾宣布印度周活跃用户超1亿，当时仍为第二大市场。企业方面，印度客户对生成式AI的使用正从试验转向规模化部署。OpenAI计划加大本地化投入，可能数周内公布与UPI相关的进展，并已联合塔塔集团启动印度本地AI基础设施建设，初期规划100兆瓦数据中心容量，未来或扩展至1吉瓦。公司还计划在孟买和班加罗尔设立新办公室。</description>
     </item>
     <item>
-      <title>百度Apollo World世界模型亮相，以AI训练AI推动无人驾驶规模化落地</title>
-      <link>https://www.oschina.net/news/503374</link>
-      <pubDate>Tue, 03 Nov 2026 14:29:00 +0000</pubDate>
-      <description>11月3日，百度在深圳AI Day·Apollo专场首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准：基础门槛为因果性与交互性，增益属性包括物理准确性、持久性和实时性。该模型将虚拟场景中的交通参与者建模为具备决策能力的AI智能体，支持多模态数据实时生成与完整任务闭环模拟，为萝卜快跑提供虚拟训练环境。Apollo World可“日行十万公里”，依托萝卜快跑累计超3.5亿公里真实数据，形成虚实结合的迭代闭环，旨在破解无人驾驶安全、智能与规模的“不可能三角”。行业分析认为，物理AI市场预计2033年达9604亿美元，Apollo World有望助推无人驾驶产业迎来“AGI时刻”。</description>
+      <title>Anthropic工程师警告：AI越强，人类越容易陷入认知投降</title>
+      <link>https://original.ifeng.com/c/8xm61sxmjoS</link>
+      <pubDate>Wed, 04 Nov 2026 06:56:00 +0000</pubDate>
+      <description>Anthropic旗下Claude Code团队工程师、前谷歌技术高管Addy Osmani近日在社交平台X发表长文，警告随着AI智能体越来越强大，人类可能在享受效率提升的同时，逐渐丧失独立思考、验证结果和理解复杂系统的能力，他将这种现象称为“认知投降”。Osmani将人类使用AI的状态分为认知卸载、推迟判断和认知投降三个层次，指出这种转变会随AI使用逐渐形成。他建议用户在向AI提问前先形成初步假设，主动寻找推翻AI结论的证据，并关注测试实际证明的内容。他还提出“编排税”和“监督悖论”等概念，强调AI自动化可能导致人类技能退化。Osmani认为，人类可以将工作和大部分审核任务交给AI，但不能将责任一并交出，涉及重大决定时仍需保留关键判断权。</description>
     </item>
     <item>
-      <title>OpenAI将停用旧版ChatGPT Classic应用 合并聊天和工作标签页</title>
-      <link>https://original.ifeng.com/c/8xkE2t3rusF</link>
-      <pubDate>Tue, 03 Nov 2026 07:26:21 +0000</pubDate>
-      <description>OpenAI已通知用户，旧版ChatGPT Classic应用将于2027年1月30日正式停止服务，所有聊天记录将迁移至新版应用。同时，OpenAI计划在数周内开始测试将聊天（Chat）与工作（Work）整合为统一界面的新体验，测试将先面向一小部分用户开放。此前，OpenAI发布新桌面应用整合ChatGPT、Work和Codex，并将原应用更名为Classic，但因界面混乱和Electron替代原生应用引发争议。OpenAI随后恢复了切换按钮等改进，Classic应用则保持原状并逐渐不可靠。OpenAI总裁格雷格·布罗克曼曾承认界面混乱，并计划取消Work标签页。新测试将让用户在统一界面中使用ChatGPT对话功能及Work高级功能。</description>
-    </item>
-    <item>
-      <title>科技股暴跌拖累Anthropic IPO估值预期降至1.5万亿至1.6万亿美元</title>
-      <link>https://m.ithome.com/html/1021299.htm</link>
-      <pubDate>Tue, 03 Nov 2026 05:55:00 +0000</pubDate>
-      <description>据《华尔街日报》报道，受近期科技股暴跌及AI投资回报担忧影响，机构投资者已向Anthropic表示，其本月晚些时候IPO估值应在1.5万亿美元至1.6万亿美元之间，远低于此前市场讨论的近2万亿美元。投资者担忧股市波动、AI敞口过大、数据中心政治阻力以及云服务商AI利润前景不明。Anthropic尚未最终确定估值目标和售股规模，计划最早下周启动路演，预计感恩节前一周上市。该公司第三季度营收为170亿美元，但投资者对AI资产定价持谨慎态度。</description>
-    </item>
-    <item>
-      <title>苹果财报显示成本上升产品涨价，AI算力支出成主因</title>
-      <link>https://tech.ifeng.com/c/8xkUJxZJFmq</link>
-      <pubDate>Tue, 03 Nov 2026 04:15:54 +0000</pubDate>
-      <description>苹果发布2026财年第四财季及全财年业绩，录得史上最佳财年：单季营收1144.77亿美元，同比增长12%；全财年营收4788亿美元。但新CEO特努斯在财报电话会上坦言，内存价格“前所未有”地上涨，给硬件定价带来直接压力。AI驱动的Siri每天处理超25亿次请求，云端推理算力推高研发支出至457.65亿美元，同比暴涨32.5%。为转嫁成本，苹果上调Mac mini、iPad Air、MacBook Air及iPhone 18 Pro等产品售价，并延后发布标准版iPhone，主推高利润的Pro系列和折叠屏iPhone Duo（售价21999元）。iPhone Duo出现品控问题且供货受限。同时，Mac业务因企业用户为避开云端算力通胀而购买高配机型，单季营收108亿美元，同比增长24%。苹果计划将AI功能融入iCloud+订阅，探索服务器调用阈值与扩容方案，以开辟新增长空间。</description>
-    </item>
-    <item>
-      <title>身体好就不用打流感疫苗？专家提醒避开常见误区</title>
-      <link>https://news.cctv.com/2026/11/03/ARTI0AJTq2rO8cB4kefFdRSU261103.shtml</link>
-      <pubDate>Tue, 03 Nov 2026 00:55:35 +0000</pubDate>
-      <description>央视网转载健康中国文章指出，流感是由流感病毒引起的急性唿吸道传染病，季节性流行会带来严重的健康危害与经济负担。针对“身体好就不用打流感疫苗”等常见误区，文章进行了澄清和提醒，强调接种流感疫苗的重要性，并呼吁公众正确认识疫苗接种，避免因误区而错过防护。</description>
-    </item>
-    <item>
-      <title>微软Win11 AI PC路线图曝光：4档硬件，8GB内存也有AI入场券</title>
-      <link>https://m.ithome.com/html/1021886.htm</link>
-      <pubDate>Tue, 03 Nov 2026 23:44:00 +0000</pubDate>
-      <description>微软公布了下一代Windows AI PC路线图，按设备能力和内存配置将产品划分为四个层级，覆盖从8GB内存入门级设备到128GB及以上内存的创作者PC和超级计算机。路线图显示，AMD Ryzen AI 500系列和Intel Core Ultra Series 4将成为主流AI设备的主要硬件平台；更高端类别则规划采用NVIDIA RTX Spark、下一代Intel Core Ultra和下一代AMD平台。分层标准方面，8GB内存对应基础入门级PC，Copilot+ PC至少需16GB内存，创作者PC和超级计算机类别内存可达128GB及以上。该路线图显示微软正围绕现代AI PC构建Windows硬件生态，并通过内存门槛和处理器平台区分产品能力，但未给出具体芯片上市时间、完整规格及终端产品安排。</description>
-    </item>
-    <item>
-      <title>巴基斯坦成功试射首枚国产空对空导弹</title>
-      <link>https://www.news.cn/world/20261104/46e78c43660d4f1d9bb989fb32a685f8/c.html</link>
-      <pubDate>Wed, 04 Nov 2026 03:10:00 +0000</pubDate>
-      <description>巴基斯坦三军新闻局11月3日发表声明，宣布当天成功试射首枚国产空对空导弹。声明指出，该导弹配备了先进的末端制导系统，能够在更远距离拦截敌方空中目标，将显著提升巴空军的作战灵活性，进一步巩固国家整体防御态势。此次试射标志着巴基斯坦航空航天与国防能力发展迈出重要一步，彰显了其国防工业在技术成熟度、创新能力和自主性方面取得的成就。巴武装部队高级军官及参研参试科学家、工程师共同见证试射，巴基斯坦总统扎尔达里、总理夏巴兹、陆军参谋长穆尼尔向导弹成功试射表示祝贺。此前10月13日，巴基斯坦曾成功试射“法塔赫-2”增程型高超音速弹道导弹。</description>
-    </item>
-    <item>
-      <title>AI军备竞赛推高融资成本：美国科技企业融资溢价创2003年以来最高</title>
-      <link>https://wallstreetcn.com/articles/3785105</link>
-      <pubDate>Tue, 03 Nov 2026 19:32:00 +0000</pubDate>
-      <description>据相关报道，AI军备竞赛正在推高美国科技企业的融资成本，其融资溢价已达到2003年以来的最高水平。这一现象反映出人工智能领域的激烈竞争对资本市场产生的显著影响。</description>
-    </item>
-    <item>
-      <title>谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭</title>
-      <link>https://m.ithome.com/html/1021880.htm</link>
-      <pubDate>Tue, 03 Nov 2026 22:47:23 +0000</pubDate>
-      <description>谷歌宣布自2027年起，面向K-12（幼儿园至高中）教育用户的AI功能将默认关闭，包括Gemini、NotebookLM、Gemini in Classroom及Google Search等服务，学校管理员需主动启用学生账户才能使用。谷歌表示此举旨在让学校自行决定AI工具在课堂中的使用方式。然而，若学校选择全面禁用AI，学生将无法使用Google Search，因为搜索与AI已深度融合，学校无法单独关闭AI功能而保留传统搜索。谷歌教育业务副总裁Chris Phillips解释，彻底关闭AI后学生尝试搜索时会看到停用提示。此外，谷歌还计划将AI辅助学习功能Guided Learning引入Google Classroom和搜索，引导学生自主理解问题，而非直接提供答案，该功能将先在美国部分学校试点。此前部分教育机构和家长担忧AI影响学生独立思考，此次调整虽将AI工具默认关闭，但搜索与AI的绑定引发新讨论。</description>
-    </item>
-    <item>
-      <title>北京经开区为具身机器人演出发放“沙盒演出证”</title>
-      <link>https://politics.gmw.cn/2026-11/04/content_39084101.htm</link>
-      <pubDate>Wed, 04 Nov 2026 00:55:27 +0000</pubDate>
-      <description>北京经济技术开发区针对具身机器人演出缺乏明确审批规范的问题，推出“沙盒审批”新模式，为具身机器人发放演出“入场凭证”。今年8月，在2026世界机器人大会期间，全国首个具身机器人演出“沙盒审批”试点在北京亦庄落地，首形科技、中科慧灵、阿卡帕尼三家企业获颁《具身机器人演出“沙盒审批”准入证明》。该证明允许机器人在风险可控、划定范围内登台试演。审核涉及责任主体、信息安全、表达安全等维度，并要求配备专业安全员实时保障。获证后每次演出仍需报备，演出计划、内容须审核，现场设摄像头实时监控，机器人运行状态实时共享。此前北京经开区已落地全国首个数字人营业性演出沙盒试点，此次将审批范围从虚拟数字人延伸至实体机器人。目前北京亦庄已集聚机器人及智能制造生态企业300余家，产业链规模超200亿元。</description>
-    </item>
-    <item>
-      <title>OpenAI披露ChatGPT最新增长数据：每周活跃用户达12亿</title>
-      <link>https://m.ithome.com/html/1021878.htm</link>
-      <pubDate>Tue, 03 Nov 2026 22:39:56 +0000</pubDate>
-      <description>OpenAI消费者产品负责人Adam Fry于11月2日在纽约举行的活动期间接受采访时透露，ChatGPT每周活跃用户已达12亿，过去60天新增约2亿用户，平均每月增加1亿。在搜索业务方面，ChatGPT处理的搜索类查询量约为Google的五分之一；每周生成图片达15亿张；语音输入和语音对话功能合计周活跃用户达2.5亿。Fry解释，搜索类查询指用户提问触发联网搜索的情况，不包括纯写作和编程请求。此外，OpenAI于9月29日推出的个人助手Dots正在谨慎测试中，并计划整合ChatGPT的Chat和Work模式为统一界面。ChatGPT付费订阅用户已超5000万，广告业务年经常性收入超10亿美元。</description>
-    </item>
-    <item>
-      <title>京东首创安装充电桩按米收费 0米起售用多少买多少</title>
-      <link>https://news.mydrivers.com/1/1162/1162954.htm</link>
-      <pubDate>Tue, 03 Nov 2026 23:19:26 +0000</pubDate>
-      <description>京东在行业内率先推出新能源汽车充电桩安装“按米收费”创新服务，打破传统固定长度线缆套包模式，支持0米起售，线缆用多少买多少。消费者下单后由京东工程师上门勘测，根据实际布线长度核算费用，按需取用线缆，计费清晰透明。该服务已实现全国覆盖，支持一次上门完成送货与安装，依托京东物流可实现211当日达、次日达。今年京东11.11开启三周以来，充电桩安装订单量同比增长近100%。</description>
+      <title>雷军：小米人形机器人实现8小时稳定运行，达行业领先水平</title>
+      <link>https://www.chinaz.com/2026/1104/1786166.shtml</link>
+      <pubDate>Wed, 04 Nov 2026 02:35:30 +0000</pubDate>
+      <description>11月4日消息，雷军在微博公布了小米人形机器人的最新进展：该机器人在汽车工厂中完成了8小时连续作业，初步验证了产线级别的作业能力。雷军解释，相比固定位置的机械臂，通用人形机器人硬件无需改动，可适应更多岗位和场景。他指出，通用人形机器人当前主要难点是长时间稳定运行，而8小时稳定运行已是行业最领先水平之一。此前小米机器人只能持续工作3小时，此次提升至8小时，恰好覆盖一个工厂班次的时长，标志着向工业场景实际落地迈出重要一步。视频显示，机器人能与产线系统协同，自动从配送箱中捡取汽车盖板并插入排序架。目前该机器人仍处于“实习”阶段，仅完成初步验证，距离大规模上岗尚有距离。雷军表示，后续将继续拉长稳定工作时长，打磨可靠性，并拓展更多工厂场景。</description>
     </item>
   </channel>
 </rss>
