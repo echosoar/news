@@ -5,9 +5,14 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>我国成功发射遥感五十一号07-09星</title>
-      <link>https://www.news.cn/tech/20261106/81df5d74139e477aa504f1321040cd80/c.html</link>
+      <title>更具中国风 第二艘中国国产大型邮轮交付</title>
+      <link>https://www.news.cn/fortune/20261106/db579f5a7c0a40edb9a11adec61c2cf6/c.html</link>
       <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>李标，被遣返回国</title>
+      <link>https://news.ifeng.com/c/8xpkug5t47k</link>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI发布GPT-6 Cyber：网络安全AI能力跃升，已协助发现数百个高危漏洞</title>
@@ -15,24 +20,14 @@
       <pubDate>Thu, 05 Nov 2026 19:25:08 +0000</pubDate>
     </item>
     <item>
-      <title>中国科学家造出已知最冷人造物质</title>
-      <link>https://news.ifeng.com/c/8xovbzIRb3I</link>
-      <pubDate>Thu, 05 Nov 2026 22:02:00 +0000</pubDate>
+      <title>（第九届进博会）英特尔中国区董事长王稚聪：外企正重新定位在中国的角色</title>
+      <link>http://www.chinanews.com//cj/shipin/2026/11-06/news1073986.shtml</link>
+      <pubDate>Thu, 05 Nov 2026 23:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>第二艘国产大型邮轮爱达 · 花城号正式交付，较原计划提前约两个月</title>
-      <link>https://m.ithome.com/html/1023055.htm</link>
-      <pubDate>Fri, 06 Nov 2026 00:54:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>新疆和田地区和康县发生4.8级地震</title>
-      <link>https://news.cctv.com/2026/11/06/ARTIDLckgd7dd1314NPrvntG261106.shtml</link>
-      <pubDate>Thu, 05 Nov 2026 17:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>为竞选2028，鲁比奥将辞职？本人回应了</title>
-      <link>https://original.ifeng.com/c/8xp6esIqQj5</link>
-      <pubDate>Thu, 05 Nov 2026 23:12:00 +0000</pubDate>
+      <title>我国成功发射遥感五十一号07-09星</title>
+      <link>https://www.news.cn/tech/20261106/81df5d74139e477aa504f1321040cd80/c.html</link>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>广电总局重申：扶持真人微短剧 规范AI微短剧</title>
@@ -40,9 +35,49 @@
       <pubDate>Thu, 05 Nov 2026 21:56:23 +0000</pubDate>
     </item>
     <item>
+      <title>我国建成全球海拔最高的并网光热电站</title>
+      <link>https://news.cctv.com/2026/11/06/ARTIem49sSFGT6kpYEAnA2vc261106.shtml</link>
+      <pubDate>Thu, 05 Nov 2026 21:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国科学家造出已知最冷人造物质</title>
+      <link>https://news.ifeng.com/c/8xovbzIRb3I</link>
+      <pubDate>Thu, 05 Nov 2026 22:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>特朗普称将很快决定是否重启对伊全面战争，外交斡旋同步提速</title>
+      <link>https://wallstreetcn.com/articles/3785311</link>
+      <pubDate>Fri, 06 Nov 2026 00:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>新疆和田地区和康县发生4.8级地震</title>
+      <link>https://news.cctv.com/2026/11/06/ARTIDLckgd7dd1314NPrvntG261106.shtml</link>
+      <pubDate>Thu, 05 Nov 2026 17:16:15 +0000</pubDate>
+    </item>
+    <item>
       <title>全国已累计收购秋粮1亿吨</title>
       <link>http://www.chinanews.com//cj/2026/11-06/10727112.shtml</link>
       <pubDate>Fri, 06 Nov 2026 02:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>习近平复信澳大利亚青年学生</title>
+      <link>http://www.chinanews.com//gn/2026/11-06/10727135.shtml</link>
+      <pubDate>Fri, 06 Nov 2026 03:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家网信办 金融监管总局集中整治网上金融黑灰产信息乱象</title>
+      <link>https://www.bjnews.com.cn/detail-1793955832129604.html</link>
+      <pubDate>Fri, 06 Nov 2026 09:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>税收征收管理法修订草案向社会公开征求意见</title>
+      <link>https://www.bjnews.com.cn/detail-1793952900129546.html</link>
+      <pubDate>Fri, 06 Nov 2026 08:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>为竞选2028，鲁比奥将辞职？本人回应了</title>
+      <link>https://original.ifeng.com/c/8xp6esIqQj5</link>
+      <pubDate>Thu, 05 Nov 2026 23:12:00 +0000</pubDate>
     </item>
     <item>
       <title>特朗普称将就俄乌问题达成重大协议</title>
@@ -50,9 +85,34 @@
       <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>中菲合作遣返100余名涉赌诈犯罪嫌疑人</title>
+      <link>https://www.news.cn/world/20261106/0834de5d35d44848859422682375ebd2/c.html</link>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>澳门特区初级法院判决区锦新危害国家安全案罪成</title>
+      <link>https://www.bjnews.com.cn/detail-1793952968129547.html</link>
+      <pubDate>Fri, 06 Nov 2026 08:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>黄仁勋跌出全球富豪榜前十</title>
+      <link>https://wallstreetcn.com/articles/3785308</link>
+      <pubDate>Thu, 05 Nov 2026 23:51:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>检察公益诉讼有了专门法律</title>
+      <link>https://www.bjnews.com.cn/detail-1793929130129237.html</link>
+      <pubDate>Fri, 06 Nov 2026 01:40:08 +0000</pubDate>
+    </item>
+    <item>
       <title>冷空气继续影响中东部地区 中东部地区将有大范围雨雪天气</title>
       <link>http://www.chinanews.com//sh/2026/11-06/10727006.shtml</link>
       <pubDate>Fri, 06 Nov 2026 00:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>反跨境腐败法表决通过</title>
+      <link>https://www.bjnews.com.cn/detail-1793927098129227.html</link>
+      <pubDate>Fri, 06 Nov 2026 01:41:14 +0000</pubDate>
     </item>
     <item>
       <title>电动车开到第10年怎么办，蔚来李斌：车电不同寿刻不容缓</title>
@@ -60,9 +120,29 @@
       <pubDate>Thu, 05 Nov 2026 16:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>习近平复信澳大利亚青年学生</title>
-      <link>http://www.chinanews.com//gn/2026/11-06/10727135.shtml</link>
-      <pubDate>Fri, 06 Nov 2026 03:05:00 +0000</pubDate>
+      <title>AI抛售潮冲击Anthropic IPO，潜在估值预期下调至1.2万亿—1.3万亿美元</title>
+      <link>https://wallstreetcn.com/articles/3785394</link>
+      <pubDate>Fri, 06 Nov 2026 13:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI交易概念盘后小幅回暖，闪迪、泛林集团涨3%，NEBIUS涨超2%，美光、AMD、博通、迈威尔科技涨超1%。</title>
+      <link>https://news.futunn.com/flash/1003617687/ai-related-stocks-saw-a-slight-post-market-rebound-with</link>
+      <pubDate>Thu, 05 Nov 2026 21:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>造成5死10伤，重庆万州恩广高速较大瓦斯爆炸事故调查报告公布</title>
+      <link>https://www.bjnews.com.cn/detail-1793971668129947.html</link>
+      <pubDate>Fri, 06 Nov 2026 13:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>国防部：国际社会应高度警惕日本重启战争机器</title>
+      <link>https://www.bjnews.com.cn/detail-1793948516129490.html</link>
+      <pubDate>Fri, 06 Nov 2026 07:03:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>全球首个商业化高温气冷堆核岛建设全面启动</title>
+      <link>https://www.huanqiu.com/article/4Tuheu0vh8A</link>
+      <pubDate>Fri, 06 Nov 2026 03:11:53 +0000</pubDate>
     </item>
     <item>
       <title>这份首次发布的报告，为分享中国市场提供精准指南</title>
@@ -80,19 +160,64 @@
       <pubDate>Thu, 05 Nov 2026 22:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>检察公益诉讼有了专门法律</title>
-      <link>https://www.bjnews.com.cn/detail-1793929130129237.html</link>
-      <pubDate>Fri, 06 Nov 2026 01:40:08 +0000</pubDate>
+      <title>000520，被证监会立案</title>
+      <link>https://finance.sina.com.cn/wm/2026-11-06/doc-inixvfeu5398430.shtml</link>
+      <pubDate>Fri, 06 Nov 2026 13:56:48 +0000</pubDate>
     </item>
     <item>
-      <title>反跨境腐败法表决通过</title>
-      <link>https://www.bjnews.com.cn/detail-1793927098129227.html</link>
-      <pubDate>Fri, 06 Nov 2026 01:41:14 +0000</pubDate>
+      <title>2026中国（广西）—东盟矿业合作大会在南宁开幕</title>
+      <link>http://www.chinanews.com//tp/2026/11-06/10727570.shtml</link>
+      <pubDate>Fri, 06 Nov 2026 13:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT技术太烂，日本正在被黑客们当怪刷</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1585176.htm</link>
+      <pubDate>Thu, 05 Nov 2026 19:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧盟机构：几乎可确定今年全球升温超1.5摄氏度</title>
+      <link>https://www.news.cn/world/20261106/5b1a8ea965374ddc8467201ce299570a/c.html</link>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>33.5万亿Token喂出来，百度文心5.5 Flash Base正式开源</title>
+      <link>https://news.mydrivers.com/1/1163/1163583.htm</link>
+      <pubDate>Thu, 05 Nov 2026 22:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美法官发布临时限制令阻特朗普凯旋门项目开工</title>
+      <link>https://www.news.cn/world/20261106/2bb9cf91cb0a416e911cb1aeeab9ca18/c.html</link>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市政府强推减税案遭质疑 石破茂等投票前离场</title>
+      <link>https://www.news.cn/world/20261106/fda8ce34bc19406a8de5f8e8cf4a0eb7/c.html' target='_blank'&gt;&lt;i style='white-space: nowrap; font-style: normal;'&gt;国防部&lt;/i&gt;：国际社会应高度警惕日本重启“战争机器”&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href='https://www.news.cn/world/20261106/28ec9766407d433eb8b6973230a6b8e0/c.html</link>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>比日本车多交45%税费，中国车企被集体噶腰子</title>
+      <link>https://www.huxiu.com/article/4903318.html</link>
+      <pubDate>Fri, 06 Nov 2026 04:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>骨折旅客买到中铺，想换下铺未成功？官方通报</title>
+      <link>https://news.cctv.com/2026/11/06/ARTIYhhguHGw9EVWfsnSgLlU261106.shtml</link>
+      <pubDate>Fri, 06 Nov 2026 08:26:42 +0000</pubDate>
     </item>
     <item>
       <title>韩股跌破5000点，今年第十次触发熔断机制</title>
       <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtxma5132216.shtml</link>
       <pubDate>Fri, 06 Nov 2026 00:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>新修订的水法2027年3月22日起施行</title>
+      <link>https://www.bjnews.com.cn/detail-1793929316129246.html</link>
+      <pubDate>Fri, 06 Nov 2026 01:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>骨折旅客乘坐D28次列车未换到下铺？广州客运段发布情况说明</title>
+      <link>https://www.bjnews.com.cn/detail-1793952512129543.html</link>
+      <pubDate>Fri, 06 Nov 2026 08:51:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
