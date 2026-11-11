@@ -5,9 +5,14 @@
     <link>https://github.com/echosoar/news</link>
     <description>Hot news items with at least 3 source links</description>
     <item>
-      <title>Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnp2247205.shtml</link>
-      <pubDate>Tue, 10 Nov 2026 18:57:44 +0000</pubDate>
+      <title>Anthropic 启动IPO路演 估值目标高达1.4万亿美元</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1585834.htm</link>
+      <pubDate>Tue, 10 Nov 2026 16:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达独立董事聘请外部律所 对黄仁勋事件展开调查</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnp2253278.shtml</link>
+      <pubDate>Tue, 10 Nov 2026 20:21:39 +0000</pubDate>
     </item>
     <item>
       <title>华为Pura X Max版本配置解析</title>
@@ -20,14 +25,19 @@
       <pubDate>Wed, 11 Nov 2026 01:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达独立董事聘请外部律所 对黄仁勋事件展开调查</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnp2253278.shtml</link>
-      <pubDate>Tue, 10 Nov 2026 20:21:39 +0000</pubDate>
+      <title>OpenAI营收增至100亿美元但持续面临巨额亏损</title>
+      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiah2135702.shtml</link>
+      <pubDate>Tue, 10 Nov 2026 23:29:57 +0000</pubDate>
     </item>
     <item>
       <title>第一批新车次列车车票 今起陆续发售</title>
       <link>http://www.chinanews.com//sh/2026/11-11/10729887.shtml</link>
       <pubDate>Tue, 10 Nov 2026 23:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1585846.htm</link>
+      <pubDate>Tue, 10 Nov 2026 21:13:00 +0000</pubDate>
     </item>
     <item>
       <title>以色列新一届议会举行首次会议</title>
@@ -40,6 +50,21 @@
       <pubDate>Tue, 10 Nov 2026 19:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>上海优化道路停车收费政策 15分钟内停车限次免费</title>
+      <link>https://www.news.cn/fortune/20261111/688b66f08ee34771907550a98b9c8133/c.html</link>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>张雪宣布53号冠军车拍卖款不再捐给韩红基金会，后面发生了一些事情，我内心是有些质疑的，此前许诺失效</title>
+      <link>https://news.ifeng.com/c/8xxUsKewbOh</link>
+      <pubDate>Wed, 11 Nov 2026 00:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>火流星散落石家庄周边，天外来客价值几何？</title>
+      <link>https://news.ifeng.com/c/8xxRCkc2dIP</link>
+      <pubDate>Tue, 10 Nov 2026 23:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>约翰·图恩连任美国参议院共和党领袖</title>
       <link>https://news.ifeng.com/c/8xxBZjNCMNf</link>
       <pubDate>Tue, 10 Nov 2026 20:49:00 +0000</pubDate>
@@ -50,24 +75,19 @@
       <pubDate>Wed, 11 Nov 2026 03:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI营收增至100亿美元但持续面临巨额亏损</title>
-      <link>https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiah2135702.shtml</link>
-      <pubDate>Tue, 10 Nov 2026 23:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>张雪宣布53号冠军车拍卖款不再捐给韩红基金会，后面发生了一些事情，我内心是有些质疑的，此前许诺失效</title>
-      <link>https://news.ifeng.com/c/8xxUsKewbOh</link>
-      <pubDate>Wed, 11 Nov 2026 00:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>上海优化道路停车收费政策 15分钟内停车限次免费</title>
-      <link>https://www.news.cn/fortune/20261111/688b66f08ee34771907550a98b9c8133/c.html</link>
+      <title>我国已与150多个国家30多个国际组织签署共建一带一路合作文件</title>
+      <link>https://www.news.cn/world/20261111/f24e9d0bd0c846508b062df4f6be50e4/c.html</link>
       <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>火流星散落石家庄周边，天外来客价值几何？</title>
-      <link>https://news.ifeng.com/c/8xxRCkc2dIP</link>
-      <pubDate>Tue, 10 Nov 2026 23:30:00 +0000</pubDate>
+      <title>公安机关依法严打网络售假犯罪 公布10起典型案例</title>
+      <link>https://www.bjnews.com.cn/detail-1794353792129705.html</link>
+      <pubDate>Wed, 11 Nov 2026 02:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google发布Gemini 4 Carbon 推出智能体蜂群功能</title>
+      <link>https://www.cnbeta.com.tw/articles/tech/1585832.htm</link>
+      <pubDate>Tue, 10 Nov 2026 16:58:00 +0000</pubDate>
     </item>
     <item>
       <title>吉姆·乔丹当选美国下一届国会众议院共和党领袖</title>
@@ -80,24 +100,44 @@
       <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>我国已与150多个国家30多个国际组织签署共建一带一路合作文件</title>
-      <link>https://www.news.cn/world/20261111/f24e9d0bd0c846508b062df4f6be50e4/c.html</link>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>美方指控一男子在纽约监狱参与策划袭击英国空军基地</title>
       <link>https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml</link>
       <pubDate>Tue, 10 Nov 2026 22:45:59 +0000</pubDate>
     </item>
     <item>
-      <title>公安机关依法严打网络售假犯罪 公布10起典型案例</title>
-      <link>https://www.bjnews.com.cn/detail-1794353792129705.html</link>
-      <pubDate>Wed, 11 Nov 2026 02:30:39 +0000</pubDate>
+      <title>山东省司法厅原党委书记、厅长解维俊受贿案一审宣判</title>
+      <link>https://news.cctv.com/2026/11/11/ARTID0pr7oNOwduMEPrJetkO261111.shtml</link>
+      <pubDate>Wed, 11 Nov 2026 08:54:57 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic七名联合创始人拟在IPO中各套现2.5亿美元</title>
-      <link>https://original.ifeng.com/c/8xxGFR994eS</link>
-      <pubDate>Tue, 10 Nov 2026 22:16:29 +0000</pubDate>
+      <title>CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企</title>
+      <link>https://news.futunn.com/post/1004085398/coreweave-s-quarterly-report-allays-fears-of-an-ai-slowdown</link>
+      <pubDate>Tue, 10 Nov 2026 23:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10月新能源汽车月度新车销量占比达64.3%</title>
+      <link>https://www.news.cn/fortune/20261111/b5e9695ebc0f4b47977867d16ee1ee06/c.html</link>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高鸿股份索赔仍在时效内，受损投资者可进行预登记索赔</title>
+      <link>https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-11/doc-iniykefy8452931.shtml</link>
+      <pubDate>Wed, 11 Nov 2026 08:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>韩国公交车撞车致48伤 我使馆证实无中国公民受伤</title>
+      <link>https://www.news.cn/world/20261111/5329f0fc6788450eaefb8075fce3bf3c/c.html</link>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoreWeave电话会：算力供不应求推动大幅提价，明年容量已近售罄</title>
+      <link>https://wallstreetcn.com/articles/3785686</link>
+      <pubDate>Tue, 10 Nov 2026 22:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>马杜罗辩护团队要求美方撤销酷刑虐待指控</title>
+      <link>https://www.news.cn/world/20261111/8a51e147aec54946923a20a0cbe21ee8/c.html</link>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>中东部快速升温多地暖意同期少见 13日起雨雪天气增多</title>
@@ -118,16 +158,6 @@
       <title>国台办：所谓反渗透法是不折不扣的恶法</title>
       <link>https://news.ifeng.com/c/8xxdswhiWOR</link>
       <pubDate>Wed, 11 Nov 2026 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>抢在Anthropic IPO前出手，投资者据称兜售配售份额，溢价高达5%</title>
-      <link>https://news.futunn.com/post/1004085425/moving-ahead-of-anthropic-s-ipo-investors-reportedly-offloading-allocation</link>
-      <pubDate>Tue, 10 Nov 2026 22:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon连夜上桌，力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞</title>
-      <link>https://tech.ifeng.com/c/8xugZ5rMQHQ</link>
-      <pubDate>Tue, 10 Nov 2026 22:10:00 +0000</pubDate>
     </item>
     <item>
       <title>雷军：小米科技园亮灯庆祝</title>
