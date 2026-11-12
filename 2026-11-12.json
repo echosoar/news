@@ -1,5 +1,495 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T01:50:42Z",
-  "summary": []
+  "generated_at": "2026-11-12T01:57:53Z",
+  "summary": [
+    {
+      "title": "英伟达董事会今日开会决定黄仁勋去留，已开始遴选新CEO并考虑过渡方案",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "CEO更迭",
+        "董事会"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1025852.htm",
+          "title": "英伟达董事会已聘请外部机构物色新 CEO 候选人以接替黄仁勋，同时考虑临时 CEO 方案",
+          "origin": "IT之家",
+          "time": 1794442724
+        },
+        {
+          "link": "https://m.ithome.com/html/1025855.htm",
+          "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+          "origin": "IT之家",
+          "time": 1794443794
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785773",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "华尔街见闻",
+          "time": 1794441557
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/t/2026-11-12/doc-iniymsin8595625.shtml",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "新浪新闻",
+          "time": 1794444966
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsip3914926.shtml",
+          "title": "英伟达董事会正权衡黄仁勋去留 媒体：白宫不干预英伟达董事会的决定",
+          "origin": "新浪新闻",
+          "time": 1794444722
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785762",
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "origin": "华尔街见闻",
+          "time": 1794437935
+        },
+        {
+          "link": "https://news.futunn.com/post/1004225739/jensen-huang-has-reportedly-been-involved-in-another-extramarital-affair",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达盘后大跌8%",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://news.futunn.com/post/1004225739/jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785765",
+          "title": "黄仁勋再曝新婚外情，董事会准备罢免，英伟达盘后跌幅达8%",
+          "origin": "华尔街见闻",
+          "time": 1794439021
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165115.htm",
+          "title": "黄仁勋CEO位置悬了，英伟达寻找接班人 临时CEO人选也曝光",
+          "origin": "快科技",
+          "time": 1794443880
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xz7l18NBFV",
+          "title": "彭博：英伟达与外部公司合作寻找新CEO，考虑任命临时CEO",
+          "origin": "凤凰科技",
+          "time": 1794441034
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8601891.shtml",
+          "title": "英伟达首席执行官黄仁勋前景不明 亚洲芯片股走势分化",
+          "origin": "新浪新闻",
+          "time": 1794444186
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8599159.shtml",
+          "title": "英伟达高管鲍威尔被曝与黄仁勋有染后，取消周四行程",
+          "origin": "新浪新闻",
+          "time": 1794443941
+        },
+        {
+          "link": "https://international.caixin.com/2026-11-12/102503788.html",
+          "title": "黄仁勋再曝绯闻英伟达盘后跌9% 美媒称其可能将被罢免",
+          "origin": "财新",
+          "time": 1794439727000
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165118.htm",
+          "title": "开始物色新CEO，英伟达准备罢免黄仁勋 特朗普已获悉",
+          "origin": "快科技",
+          "time": 1794444120
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzi1345184.shtml",
+          "title": "连曝两宗婚外情，英伟达董事会据悉准备罢免黄仁勋",
+          "origin": "新浪新闻",
+          "time": 1794443523
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xz85EBAuVN",
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "origin": "凤凰网",
+          "time": 1794441480
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsip3881094.shtml",
+          "title": "英伟达董事会据悉举行会议讨论黄仁勋的去留问题",
+          "origin": "新浪新闻",
+          "time": 1794441314
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xytKFJnH0w",
+          "title": "美媒曝光黄仁勋第二段婚外情，英伟达股价大跌8%",
+          "origin": "凤凰科技",
+          "time": 1794436139
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165125.htm",
+          "title": "第二段婚外情曝光，英伟达董事会拟罢免黄仁勋",
+          "origin": "快科技",
+          "time": 1794446340
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026111111/英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "title": "英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "origin": "kagi",
+          "time": 1794426203
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165098.htm",
+          "title": "玩完，英伟达最快今日宣布：欲罢免CEO黄仁勋",
+          "origin": "快科技",
+          "time": 1794436980
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzp1912930.shtml",
+          "title": "黄仁勋被曝出婚外情后 英伟达准备将其罢免",
+          "origin": "新浪新闻",
+          "time": 1794440205
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8565699.shtml",
+          "title": "英伟达据悉在与外部公司合作物色CEO候选人",
+          "origin": "新浪新闻",
+          "time": 1794443511
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201845.html",
+          "title": "英伟达据悉在与外部公司合作物色CEO候选人",
+          "origin": "钛媒体",
+          "time": 1794441960
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004222458/the-wall-street-journal-nvidia-is-preparing-to-remove-ceo",
+          "title": "华尔街日报：英伟达准备罢免CEO黄仁勋",
+          "origin": "富途牛牛",
+          "time": 1794436440
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xyzbb3nczP",
+          "title": "美媒：英伟达董事会准备罢免CEO黄仁勋",
+          "origin": "凤凰科技",
+          "time": 1794437076
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzi1344007.shtml",
+          "title": "英伟达正准备罢免首席执行官黄仁勋",
+          "origin": "新浪新闻",
+          "time": 1794439840
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xz1dEtL03G",
+          "title": "美媒爆料：英伟达准备罢免黄仁勋",
+          "origin": "凤凰网",
+          "time": 1794436380
+        },
+        {
+          "link": "https://news.futunn.com/post/1004228759/a-meeting-was-held-today-to-decide-whether-jensen-huang",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "富途牛牛",
+          "time": 1794445824
+        },
+        {
+          "link": "https://news.futunn.com/post/10779100/record-tr4cking-news-jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xz85EBAuVN",
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "origin": "凤凰网",
+          "time": 1794441480
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xzDp4DOjAf",
+          "title": "美媒：白宫不会干预英伟达董事会对黄仁勋去留的决定",
+          "origin": "凤凰科技",
+          "time": 1794446708
+        }
+      ],
+      "summary": "据彭博社等媒体报道，英伟达董事会已聘请外部专业机构物色新CEO候选人，以接替现任CEO黄仁勋，同时考虑在找到正式继任者前任命临时CEO。此前有报道称，董事会正在讨论黄仁勋的去留问题，可能因黄仁勋的桃色丑闻而准备罢免其职务。当地时间11月12日，英伟达董事会召开会议讨论此事。受相关报道影响，英伟达股价盘后一度下跌约8%。白宫方面表示不会干预英伟达董事会的决定。目前英伟达尚未就相关报道作出正式回应。"
+    },
+    {
+      "title": "美联航限制AI代理订票 称保护交易安全",
+      "tags": [
+        "美联航",
+        "AI代理",
+        "订票限制",
+        "航空业"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1004213076/united-airlines-restricts-ai-agents-from-booking-tickets-ceo-states",
+          "title": "美联航限制AI代理订票 CEO直言不想再多一个中间商",
+          "origin": "富途牛牛",
+          "time": 1794427080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xykly8y9Jk",
+          "title": "美联航限制AI代理订票 CEO直言不想再多一个中间商",
+          "origin": "凤凰科技",
+          "time": 1794425004
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201857.html",
+          "title": "美联航限制AI代理订票",
+          "origin": "钛媒体",
+          "time": 1794444000
+        }
+      ],
+      "summary": "11月12日，美国联合航空宣布将限制未经授权的第三方个人AI代理或助手访问其服务，涉及自有数字平台及通过旅行社和聚合平台的间接访问。美联航表示，此举旨在保护旅客账户、敏感信息及交易安全，并防范自动化操作带来的合规风险。目前AI代理仍可向消费者展示航班选择和价格，但无法在网站上代为完成交易。美联航称，当前来自AI代理的订票量不多，其后台系统能够区分个人旅客、传统旅行社和AI代理等不同订单来源。"
+    },
+    {
+      "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+      "tags": [
+        "美国",
+        "伊朗",
+        "海上封锁",
+        "霍尔木兹海峡"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10730583.shtml",
+          "title": "美国中央司令部发布声明：严格执行对伊朗海上封锁",
+          "origin": "中新网",
+          "time": 1794439440
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml",
+          "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+          "origin": "CCTV",
+          "time": 1794436419
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201854.html",
+          "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+          "origin": "钛媒体",
+          "time": 1794443400
+        }
+      ],
+      "summary": "美国中央司令部表示，美军持续昼夜不停地开展行动，以确保霍尔木兹海峡对商业航运保持开放。同时，美军严格执行针对伊朗的严密海上封锁，并与美国政府各相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道，转移先进武器系统、军民两用技术、受制裁物资，或进行非法资金往来。"
+    },
+    {
+      "title": "伊朗高官警告：美国若再动武，参与侵略的欧洲基地将成为目标",
+      "tags": [
+        "伊朗",
+        "美国",
+        "军事威胁",
+        "欧洲基地",
+        "雷扎伊"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8xz9Jcik410",
+          "title": "伊朗高官：美若再动武，参与的欧洲基地皆为目标",
+          "origin": "凤凰网",
+          "time": 1794442380
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201941.html",
+          "title": "伊朗高官：美若再动武，参与的欧洲基地皆为目标",
+          "origin": "钛媒体",
+          "time": 1794445740
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/90b93fb5677748d290585865578af952/c.html",
+          "title": "伊高官:美若再动武 参与的欧洲基地皆为目标",
+          "origin": "新华网",
+          "time": 1794412800
+        }
+      ],
+      "summary": "伊朗最高国家安全委员会秘书雷扎伊12日在社交媒体上表示，如果美国再次对伊朗发动军事行动，所有参与侵略的军事基地，包括从西亚到欧洲的欧洲基地，都将成为伊朗合法打击的目标，并称“没有安全之地”。这一表态是对美国可能对伊动武的强硬回应。"
+    },
+    {
+      "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
+      "tags": [
+        "AI卖家秀",
+        "消费者调查",
+        "双十一",
+        "购物体验"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-12/10730603.shtml",
+          "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
+          "origin": "中新网",
+          "time": 1794443340
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/12/content_39097395.htm",
+          "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
+          "origin": "光明网",
+          "time": 1794444935
+        }
+      ],
+      "summary": "今年“双十一”期间，一项调查显示，81.5%的受访者感到AI卖家秀变多了，其中超三成（33.9%）感觉明显变多。同时，89.0%的受访者认为当前AI卖家秀与收到的实物差距大。多数受访者强调，商家应清晰标注AI生成内容，并提供产品实拍图，以减少误导。"
+    },
+    {
+      "title": "中国大模型商业化转向：从低价API走向分层增收",
+      "tags": [
+        "大模型",
+        "AI商业化",
+        "API",
+        "分层增收",
+        "国产AI"
+      ],
+      "links": [
+        {
+          "link": "https://www.huxiu.com/article/4904904.html",
+          "title": "中国大模型，不想只卖API了",
+          "origin": "虎嗅",
+          "time": 1794444169
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xxhkMhcum3",
+          "title": "中国大模型，不想只卖API了",
+          "origin": "凤凰科技",
+          "time": 1794443690
+        }
+      ],
+      "summary": "国产大模型在拿下海外开源市场后，商业化策略正从单纯出售低价API转向分层增收模式。近期，国内大模型企业不再局限于按token计费的API售卖，而是探索更多元化的变现路径，包括企业级解决方案、模型定制及增值服务等。这一转变反映出行业竞争加剧，单纯依赖低价API难以支撑高昂的研发与运营成本，企业开始寻求更可持续的商业模式。"
+    },
+    {
+      "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+      "tags": [
+        "新能源",
+        "重卡",
+        "渗透率",
+        "中国汽车工业协会"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730586.shtml",
+          "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+          "origin": "中新网",
+          "time": 1794439980
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201848.html",
+          "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+          "origin": "钛媒体",
+          "time": 1794442140
+        }
+      ],
+      "summary": "中国汽车工业协会发布数据显示，2026年10月份新能源重卡渗透率突破50%。这一数据反映了新能源重卡在市场中的占比首次超过一半，标志着新能源重卡在商用车领域的推广应用取得重要进展。"
+    },
+    {
+      "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+      "tags": [
+        "国产大型邮轮",
+        "爱达·花城号",
+        "试运营"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730602.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "中新网",
+          "time": 1794443160
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Tzb9JgkMyl",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "环球网",
+          "time": 1794444345
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201935.html",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "钛媒体",
+          "time": 1794445440
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/12/9e7451f09a114c9c8581b97fc118d04a.html",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "花城",
+          "time": 1794444000
+        }
+      ],
+      "summary": "第二艘国产大型邮轮“爱达·花城号”已完成首个试运营航次。该邮轮是国产大型邮轮项目的又一重要成果，此次试运营标志着其在正式投入运营前迈出了关键一步。目前关于该航次的具体细节尚未公布。"
+    },
+    {
+      "title": "万斯考虑与伊朗强硬派直接谈判 伊朗议长提出七项条件",
+      "tags": [
+        "美伊关系",
+        "直接谈判",
+        "伊朗",
+        "美国"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3785776",
+          "title": "万斯考虑与伊朗强硬派直接谈，伊朗议长：美国必须满足伊方提出的七项条件",
+          "origin": "华尔街见闻",
+          "time": 1794444990
+        },
+        {
+          "link": "https://news.futunn.com/post/1004233499/vance-considers-direct-talks-with-iranian-hardliners-iranian-speaker-us",
+          "title": "万斯考虑与伊朗强硬派直接谈，伊朗议长：美国必须满足伊方提出的七项条件",
+          "origin": "富途牛牛",
+          "time": 1794448044
+        }
+      ],
+      "summary": "据相关报道，美国副总统万斯正考虑与伊朗强硬派进行直接谈判。对此，伊朗议长回应称，美国必须满足伊朗方面提出的七项条件，才能推进对话。目前双方尚未就具体谈判安排达成一致，伊朗方面的条件细节未公布。"
+    },
+    {
+      "title": "美前总统拜登在爱尔兰遭抗议者扔掷物品 一男子被起诉",
+      "tags": [
+        "拜登",
+        "爱尔兰",
+        "抗议",
+        "巴勒斯坦",
+        "安保"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml",
+          "title": "美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉",
+          "origin": "CCTV",
+          "time": 1794436978
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10730600.shtml",
+          "title": "拜登在爱尔兰遭抗议者扔掷物品  一男子被起诉",
+          "origin": "中新网",
+          "time": 1794442860
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/38bbfb6420a84179af9bb5db468598c9/c.html",
+          "title": "拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉",
+          "origin": "新华网",
+          "time": 1794412800
+        }
+      ],
+      "summary": "据爱尔兰警方通报，美国前总统拜登10日在爱尔兰首都都柏林出席活动时，遭部分支持巴勒斯坦的抗议者扔掷牛奶盒等物品。警方逮捕3名男子，其中一名50多岁的男子已被起诉，另外两人已获释。事发时拜登到访都柏林圣三一大学，抗议者高呼口号并投掷物品，现场有牛奶溅出，安保人员撑伞防护。一名学生呼吁美国和欧盟采取切实行动保护巴勒斯坦平民。欧洲政治共同体领导人会议和欧盟领导人非正式会议将于12日和13日在都柏林举行，爱尔兰警方已启动大规模安保行动。"
+    },
+    {
+      "title": "内蒙古乌海市通报出现刺鼻气味：系应急演练催泪弹",
+      "tags": [
+        "刺鼻气味",
+        "应急演练",
+        "催泪弹",
+        "乌海市",
+        "情况通报"
+      ],
+      "links": [
+        {
+          "link": "https://politics.gmw.cn/2026-11/12/content_39097547.htm",
+          "title": "内蒙古乌海市通报“出现刺鼻气味”：系应急演练催泪弹",
+          "origin": "光明网",
+          "time": 1794447624
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTI47W6i8fF0mQLQVxWTxjf261112.shtml",
+          "title": "内蒙古乌海市通报出现刺鼻气味：系应急演练催泪弹",
+          "origin": "CCTV",
+          "time": 1794437242
+        }
+      ],
+      "summary": "11月11日17时左右，内蒙古乌海市海勃湾区城区北部出现白色气体并伴有刺激性气味。当地通报称，该气味系相关部门组织应急演练时使用的催泪弹所产生，成分为辣椒素混合物，短时间内对呼吸道有轻微刺激，无毒。官方提醒市民不必恐慌，如有不适可用生理盐水冲洗鼻腔、清水漱口缓解，敏感人群可关好门窗，尽量减少户外停留。"
+    }
+  ]
 }
