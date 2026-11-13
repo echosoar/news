@@ -1,63 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>News 2026-11-13</title>
+    <title>News 2026-11-14</title>
     <link>https://github.com/echosoar/news</link>
-    <description>Daily news summary for 2026-11-13</description>
-    <lastBuildDate>Fri, 13 Nov 2026 04:22:34 +0000</lastBuildDate>
+    <description>Daily news summary for 2026-11-14</description>
+    <lastBuildDate>Fri, 13 Nov 2026 14:58:00 +0000</lastBuildDate>
     <item>
-      <title>第二艘国产大型邮轮爱达·花城号完成首个试运营航次</title>
-      <link>http://www.chinanews.com//cj/2026/11-12/10730602.shtml</link>
-      <pubDate>Thu, 12 Nov 2026 03:57:00 +0000</pubDate>
-      <description>第二艘国产大型邮轮“爱达·花城号”已完成首个试运营航次，并抵达广州。该邮轮是国产大型邮轮项目的第二艘，此次试运营标志着其正式运营前的重要验证阶段。试运营航次旨在测试船舶性能、服务流程及运营能力，为后续投入商业运营奠定基础。</description>
+      <title>AI一秒生成图片，美术教育未来何去何从</title>
+      <link>https://news.cctv.com/2026/11/13/ARTIF1zBvOOly7LyFoY3zCan261113.shtml</link>
+      <pubDate>Fri, 13 Nov 2026 04:55:34 +0000</pubDate>
+      <description>随着人工智能模型能够批量生成不同风格的图片、网页设计和品牌包装，美术教育面临前所未有的挑战。报道指出，传统美术教育需要重新思考“为谁设计”“怎么学设计”以及创作者的价值所在。清华大学美术学院教授吴琼认为，设计若只追求形式新奇，再精致也只是技术包装；艺术若只追逐流量，再绚烂也填不满人心空洞。该院教授赵超则强调，真正有生命力的创新既来自专业深耕，也来自边界拓展。11月1日，清华大学美术学院发布了“洛图”人工智能学科平台预告视频，旨在探索AI与美术教育的融合路径。这一事件折射出艺术院校在技术变革中寻求转型的共同课题。</description>
     </item>
     <item>
-      <title>美国华盛顿发生枪击事件 已致1死4伤</title>
-      <link>http://www.chinanews.com//tp/hd2011/2026/11-13/1210679.shtml</link>
-      <pubDate>Fri, 13 Nov 2026 00:57:00 +0000</pubDate>
-      <description>当地时间11月12日，美国首都华盛顿发生一起枪击事件，造成1名受害者身亡、4人受伤。据当地警方通报，事件发生在上午8点左右，地点位于白宫以北约1.5公里的洛根环岛街区一家健身中心。嫌疑人在健身中心内向一名男子开枪，随后逃离并在周边区域继续开枪，造成多人伤亡。嫌疑人在与警方对峙时开枪自杀。</description>
-    </item>
-    <item>
-      <title>腾讯否认裁员50%传闻：系AI时代资源重新调度的比喻</title>
-      <link>https://original.ifeng.com/c/8xzXAYEBk0E</link>
-      <pubDate>Thu, 12 Nov 2026 07:39:00 +0000</pubDate>
-      <description>11月12日，腾讯公司公关总监张军在微博回应网络流传的“腾讯将裁员50%”消息，称这是“纯纯的误会和谣言”。张军解释，相关表述出自腾讯28周年Linktime线上直播，指约50%的人守土有责做核心业务，另50%的人探索AI Native，是资源适应AI时代的重新调度，打比方成分更大。此前，网络上流传一张“马化腾化身灭霸打响指，50%企鹅灰飞烟灭”的神图，张军表示该图是基于一个谣言作图的。</description>
-    </item>
-    <item>
-      <title>美中央司令部：美军严格执行对伊朗海上封锁</title>
-      <link>http://www.chinanews.com//gj/2026/11-12/10730583.shtml</link>
-      <pubDate>Thu, 12 Nov 2026 00:30:00 +0000</pubDate>
-      <description>美国中央司令部11月12日发布声明表示，美军持续昼夜不停地开展行动，以确保霍尔木兹海峡对商业航运保持开放。同时，美军严格执行针对伊朗的严密海上封锁，并与美国政府各相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道转移先进武器系统、军民两用技术、受制裁物资，或进行非法资金往来。</description>
-    </item>
-    <item>
-      <title>伊朗高官：美若再动武，参与的欧洲基地皆为目标</title>
-      <link>https://news.ifeng.com/c/8xz9Jcik410</link>
-      <pubDate>Thu, 12 Nov 2026 01:09:00 +0000</pubDate>
-      <description>伊朗最高国家安全委员会秘书雷扎伊11月12日在德黑兰表示，如果美国再次对伊朗动武，其“参与侵略”的欧洲军事基地也将成为伊朗的目标。</description>
-    </item>
-    <item>
-      <title>消息称三星电子正谈判收购数据中心散热企业Modine</title>
-      <link>https://m.ithome.com/html/1026661.htm</link>
-      <pubDate>Fri, 13 Nov 2026 04:05:20 +0000</pubDate>
-      <description>据彭博社11月12日报道，三星电子正就收购数据中心冷却系统制造商Modine的潜在交易进行谈判。该交易最早可能在未来几周内完成，但谈判尚未最终决定，交易仍可能被取消，其他潜在收购方也可能加入竞逐。Modine总部位于美国，主要生产大型商业建筑和工业机械的重型冷却和加热系统，截至报道时市值约56.4亿美元（约合377.04亿元人民币）。三星电子去年收购了暖通空调企业FläktGroup，今年8月宣布了2400亿韩元（约合12亿元人民币）的相关产能投资。</description>
-    </item>
-    <item>
-      <title>伊朗革命卫队称摧毁美军在巴林的预警雷达</title>
-      <link>https://news.ifeng.com/c/8y0xtIuuSSa</link>
-      <pubDate>Fri, 13 Nov 2026 04:05:34 +0000</pubDate>
-      <description>伊朗伊斯兰革命卫队11月13日宣布，为回应敌方对伊朗南部霍尔木兹甘省锡里克地区一座通信塔发动的袭击，革命卫队航空航天部队“锁定并摧毁了巴林境内一处属于美军的预警雷达”。革命卫队在声明中表示，此次打击是对敌方空袭伊朗通信塔的回应，是对侵略敌军的严厉警告，并要求敌方停止在霍尔木兹海峡的空中挑衅和石油走私活动。声明还称，革命卫队航空航天部队保持高度戒备，如果敌方再次侵犯，将毫不妥协地予以反击。据伊朗方面12日晚间消息，有官方消息人士表示，伊朗锡里克地区遭到敌方袭击。</description>
-    </item>
-    <item>
-      <title>巴克莱：美伊不战不和僵局或持续至特朗普任期结束</title>
-      <link>https://news.futunn.com/post/1004403505/barclays-prepare-for-the-us-iran-no-war-no-peace</link>
-      <pubDate>Fri, 13 Nov 2026 04:22:34 +0000</pubDate>
-      <description>巴克莱指出，美国与伊朗之间可能陷入“不战不和”的僵持状态，并建议市场为这一局面长期持续做好准备，甚至可能延续到特朗普本届任期结束。这一判断意味着短期内美国对伊朗既不会采取大规模军事行动，也难以达成实质性和解，地缘政治风险可能维持高位。</description>
-    </item>
-    <item>
-      <title>特斯拉前高管曝马斯克沟通铁则：精简高效与及时透明</title>
-      <link>https://news.mydrivers.com/1/1165/1165491.htm</link>
-      <pubDate>Fri, 13 Nov 2026 03:13:00 +0000</pubDate>
-      <description>特斯拉前全球总裁Jon McNeill近日披露马斯克在特斯拉内部的沟通铁则：邮件必须三句话讲清楚，即说明问题、提出方案、明确所需资源或权限；坏消息必须第一时间上报，不得拖延或隐瞒。这两条准则旨在提高沟通效率并防止问题恶化。</description>
+      <title>DeepSeek开放全家桶应用API：开发者可1:1复刻完整DeepSeek App</title>
+      <link>https://m.ithome.com/html/1026960.htm</link>
+      <pubDate>Fri, 13 Nov 2026 14:58:00 +0000</pubDate>
+      <description>11月13日晚间，DeepSeek宣布正式开放全家桶应用API。开发者在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能，语音及相关底层能力（含OCR、ASR、TTS等）也开放独立接口，支持单独或组合调用。目前V4.1-Flash模型已支持联网搜索、深度思考搜索、文件输入、阅读链接、模型安全校验等能力，底层能力及语音能力均可作为独立接口调用。DeepSeek还基于新版API构建并开源了轻量前端Demo，支持导入历史对话。使用扩展能力时，除Token费用外，还将收取工具调用费用，如文字/图片搜索5元/千次，网页抓取5元/千次，文字识别1.5元/千页，语音识别限时5折后0.39元/小时，语音合成限时5折后1.5元/万字符。</description>
     </item>
   </channel>
 </rss>
