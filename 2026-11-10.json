@@ -1,5 +1,579 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T08:09:58Z",
-  "summary": []
+  "generated_at": "2026-11-15T03:15:08Z",
+  "summary": [
+    {
+      "title": "Anthropic近700亿美元IPO计划短期披露后撤回",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "撤回",
+        "融资"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1003955647/physical-ai-acceleration-is-being-implemented-anthropic-apple-and-others",
+          "title": "物理AI加速落地，Anthropic、苹果等陆续迭代相关模型，港股物理AI概念股走强",
+          "origin": "富途牛牛",
+          "time": 1794291300
+        },
+        {
+          "link": "https://news.futunn.com/post/1004006288/anthropic-s-ipo-aims-to-raise-69-3-billion-targeting",
+          "title": "Anthropic IPO拟募资693亿美元，冲刺下周四、五上市，七巨头斥资260亿美元入股",
+          "origin": "富途牛牛",
+          "time": 1794300240
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xwbyjNR0kL",
+          "title": "Anthropic拟发行8.25亿股股票：IPO定价区间为70至78美元，目标估值约1万亿美元",
+          "origin": "凤凰科技",
+          "time": 1794312257
+        },
+        {
+          "link": "https://news.futunn.com/flash/1003948543/reuters-anthropic-plans-to-raise-up-to-69-3-billion",
+          "title": "路透：Anthropic拟通过IPO募资至多693亿美元，招股价区间为每股70-80美元",
+          "origin": "富途牛牛",
+          "time": 1794272760
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyhfqw9179495.shtml",
+          "title": "Anthropic公布IPO发行方案：拟发行8.25亿股，最高募资规模达643.5亿美元",
+          "origin": "新浪新闻",
+          "time": 1794313097
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyhfqw9194430.shtml",
+          "title": "Anthropic公布IPO发行价区间70‑78美元，这家AI企业即将登陆纳斯达克",
+          "origin": "新浪新闻",
+          "time": 1794315028
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfkmf2781731.shtml",
+          "title": "Anthropic近700亿美元的IPO计划曾短暂地向各家银行披露 随后被撤回",
+          "origin": "新浪新闻",
+          "time": 1794284410
+        },
+        {
+          "link": "https://news.futunn.com/post/1003955995/hong-kong-listed-ai-giants-rally-as-anthropic-aims-for",
+          "title": "港股大模型双雄走强，Anthropic将冲刺下周IPO，或可建立估值锚",
+          "origin": "富途牛牛",
+          "time": 1794277080
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004021699/anthropic-s-latest-ipo-prospectus-reveals-plans-to-issue-825",
+          "title": "Anthropic IPO最新招股文件曝光：拟以每股70至78美元发行8.25亿股",
+          "origin": "富途牛牛",
+          "time": 1794308040
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xudyEAd94P",
+          "title": "高盛CEO：AI基建融资需求仍旺，市场环境仍支持Anthropic上市",
+          "origin": "凤凰科技",
+          "time": 1794282600
+        },
+        {
+          "link": "https://news.futunn.com/post/1003923983/anthropic-s-roadshow-could-begin-as-early-as-tuesday-with",
+          "title": "Anthropic路演最快本周二启动，AI抛售潮后IPO定价迎大考",
+          "origin": "富途牛牛",
+          "time": 1794260520
+        },
+        {
+          "link": "https://database.caixin.com/2026-11-10/102502921.html",
+          "title": "Anthropic最快周二启动IPO正式推介 AI股巨震考验定价",
+          "origin": "财新",
+          "time": 1794273588000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfzhw2646026.shtml",
+          "title": "临近IPO，Anthropic发布新一代前沿大模型",
+          "origin": "新浪新闻",
+          "time": 1794303539
+        }
+      ],
+      "summary": "Anthropic一项规模接近700亿美元的IPO计划曾短暂向多家银行披露，但随后被撤回。该计划若实施，拟发行约8.25亿股股票，定价区间为每股70至78美元，目标估值约1万亿美元。此次撤回引发市场关注，目前尚不清楚后续是否重新推进上市。"
+    },
+    {
+      "title": "第九届进博会按年计意向成交额突破854亿美元",
+      "tags": [
+        "进博会",
+        "意向成交",
+        "854亿美元",
+        "贸易合作",
+        "溢出效应"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-10/10729547.shtml",
+          "title": "（第九届进博会）学者阐释进博会溢出效应释放路径 望上海形成买全球、卖全球双向能力",
+          "origin": "中新网",
+          "time": 1794303060
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-10/10729338.shtml",
+          "title": "（第九届进博会）从进博会看亚太经贸合作你中有我",
+          "origin": "中新网",
+          "time": 1794283440
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/10/ARTIBSr190elGsMnOrqHJDcn261110.shtml",
+          "title": "第九届进博会按年计意向成交额突破854亿美元",
+          "origin": "CCTV",
+          "time": 1794294914
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/10/content_611305.html",
+          "title": "第九届进博会按年计意向成交额突破854亿美元",
+          "origin": "科技日报",
+          "time": 1794298051
+        },
+        {
+          "link": "https://www.news.cn/world/20261110/d9af7bb249a54dfab83988fdaa0e7250/c.html",
+          "title": "第九届进博会按年计意向成交额破854亿美元",
+          "origin": "新华网",
+          "time": 1794240000
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/10/58b76c38804c442c8decade03d2ecb37.html",
+          "title": "第九届进博会按年计意向成交额突破854亿美元",
+          "origin": "花城",
+          "time": 1794295080
+        },
+        {
+          "link": "https://www.yicai.com/news/103434574.html",
+          "title": "第九届进博会按年计意向成交金额854.5亿美元，五项核心数据创历史新高",
+          "origin": "第一财经",
+          "time": 1794302734
+        }
+      ],
+      "summary": "第九届中国国际进口博览会闭幕，按一年计意向成交金额达854.5亿美元，同比增长5.47%，五项核心数据创历史新高。本届进博会期间，上海市组织了近1.5万家企业、12.2万名采购商参会，意向成交金额112亿美元。进博会溢出效应持续释放，学者建议上海形成“买全球、卖全球”的双向能力，推动亚太经贸合作你中有我、深度融合。"
+    },
+    {
+      "title": "黄仁勋婚外情发酵 美国借势推三项对华芯片法案",
+      "tags": [
+        "黄仁勋",
+        "婚外情",
+        "对华芯片法案",
+        "外交部回应",
+        "英伟达"
+      ],
+      "links": [
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261110/49859100.html",
+          "title": "外交部回应黄仁勋婚外情事件：所谓中国间谍的论调纯属捕风捉影",
+          "origin": "中国网",
+          "time": 1794320022
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xvyZR31Cqw",
+          "title": "黄仁勋婚外情曝光前一年，已聘请擅长处理性丑闻的公关公司",
+          "origin": "凤凰科技",
+          "time": 1794277224
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164693.htm",
+          "title": "黄仁勋婚外情发酵 美国借势推三项对华芯片法案",
+          "origin": "快科技",
+          "time": 1794308460
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164495.htm",
+          "title": "黄仁勋婚外情风波升级：NVIDIA遭集体诉讼",
+          "origin": "快科技",
+          "time": 1794277560
+        },
+        {
+          "link": "https://database.caixin.com/2026-11-09/102502809.html",
+          "title": "黄仁勋婚外情风波的信托冲击与启示",
+          "origin": "财新",
+          "time": 1794218139000
+        }
+      ],
+      "summary": "英伟达CEO黄仁勋婚外情事件持续发酵，美国官员声称涉事女子曾为中国情报部门工作。对此，中国外交部发言人郭嘉昆在例行记者会上回应称，所谓“中国间谍”的论调纯属捕风捉影、污蔑抹黑，毫无根据。与此同时，美国方面借此事态推动三项对华芯片法案，进一步加大对中国半导体产业的限制。该事件还引发对黄仁勋个人信托架构及英伟达公司治理的讨论，并有报道称英伟达已对黄仁勋展开调查，且面临集体诉讼。"
+    },
+    {
+      "title": "宝马新增电芯供应商：三星SDI供欧洲 LG新能源供美国",
+      "tags": [
+        "宝马",
+        "三星SDI",
+        "LG新能源",
+        "电池供应",
+        "电动汽车"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1024737.htm",
+          "title": "宝马与三星 SDI、LG 新能源达成电池电芯供应合作，将为欧美工厂供货",
+          "origin": "IT之家",
+          "time": 1794281702
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xw5bC7xwcR",
+          "title": "宝马新增电芯供应商：三星SDI供欧洲，LG新能源供美国",
+          "origin": "凤凰科技",
+          "time": 1794283085
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585736.htm",
+          "title": "宝马新增电芯供应商：三星SDI供欧洲 LG新能源供美国",
+          "origin": "cnBeta",
+          "time": 1794291960
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfuyy2672751.shtml",
+          "title": "宝马选定LG新能源、三星SDI供应下一代动力电池",
+          "origin": "新浪新闻",
+          "time": 1794295629
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfkma5972919.shtml",
+          "title": "宝马与LG新能源及三星SDI签署电池供应协议",
+          "origin": "新浪新闻",
+          "time": 1794279141
+        }
+      ],
+      "summary": "宝马集团11月9日宣布，已为第六代高压电池新增三星SDI和LG新能源为电芯供应商。三星SDI将从2020年代后期起在欧洲工厂为宝马供货，LG新能源则在美国工厂供货。宝马遵循“本地服务本地”原则，以强化供应链韧性和灵活性。至此，宝马在欧洲的电芯供应商包括宁德时代、亿纬锂能与三星SDI，LG新能源负责美国市场配套。宝马还在全球新建五座电池生产基地，分别位于德国、匈牙利、中国、美国和墨西哥。"
+    },
+    {
+      "title": "英伟达CEO风波持续发酵 华尔街热议黄仁勋重要性",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "CEO风波",
+        "华尔街",
+        "挪威主权基金"
+      ],
+      "links": [
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-11-10/4644192.html",
+          "title": "黄仁勋的CEO职务，不是\"铁饭碗\"：英伟达董事会若要罢免，无需任何理由",
+          "origin": "每经网",
+          "time": 1794319389
+        },
+        {
+          "link": "https://news.futunn.com/post/1003951588/the-nvidia-ceo-controversy-continues-to-escalate-wall-street-is",
+          "title": "英伟达CEO风波持续发酵，华尔街热议：黄仁勋到底有多重要？",
+          "origin": "富途牛牛",
+          "time": 1794281880
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164714.htm",
+          "title": "英伟达CEO风波持续发酵，华尔街热议：黄仁勋到底有多重要",
+          "origin": "快科技",
+          "time": 1794321480
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785624",
+          "title": "世界对黄仁勋依赖过深，英伟达应降低单一CEO风险",
+          "origin": "华尔街见闻",
+          "time": 1794283437
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyhmws2535348.shtml",
+          "title": "挪威主权财富基金CEO称黄仁勋执掌英伟达表现出色",
+          "origin": "新浪新闻",
+          "time": 1794321441
+        }
+      ],
+      "summary": "近期英伟达CEO黄仁勋职务风波持续引发关注。华尔街就黄仁勋对英伟达的重要性展开热议，有观点认为世界对黄仁勋依赖过深，英伟达应降低单一CEO风险。与此同时，挪威主权财富基金首席执行官Nicolai Tangen公开表示，黄仁勋在打造英伟达及领导公司方面“做得非常出色”，但对其近期事件不予置评。当被问及英伟达是否仍是一项好的投资时，他未给出明确回应。目前，有关黄仁勋职务稳定性的讨论仍在发酵，市场关注英伟达治理结构及潜在继任计划。"
+    },
+    {
+      "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2：速度提升30% API价格降20%",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Fable",
+        "Mythos",
+        "AI模型"
+      ],
+      "links": [
+        {
+          "link": "https://www.oschina.net/news/503499/claude-fable-and-mythos-5-2",
+          "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，声称8 天写出一个能开机的操作系统",
+          "origin": "oschina",
+          "time": 1794281820
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585668.htm",
+          "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2：速度提升30% API价格降20%",
+          "origin": "cnBeta",
+          "time": 1794254040
+        },
+        {
+          "link": "https://www.yicai.com/news/103435013.html",
+          "title": "Anthropic发布新Fable、Mythos模型",
+          "origin": "第一财经",
+          "time": 1794319539
+        }
+      ],
+      "summary": "Anthropic发布了Claude Fable 5.2和Mythos 5.2两款新模型，据称速度提升30%，API价格下降20%。"
+    },
+    {
+      "title": "泸州花坛藏尸案一审宣判：陈某芬死刑、杨某根死缓",
+      "tags": [
+        "泸州花坛藏尸案",
+        "一审宣判",
+        "故意杀人",
+        "死刑判决",
+        "法治新闻"
+      ],
+      "links": [
+        {
+          "link": "https://www.huanqiu.com/article/4TxzlrwkVY0",
+          "title": "被告人陈某芬、杨某根故意杀人，陈某芬伪造身份证件、使用虚假身份证件、偷越国（边）境案一审宣判",
+          "origin": "环球网",
+          "time": 1794277466
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1211065&sid=46",
+          "title": "凶手整容改名隐匿28年，泸州花坛藏尸案一审宣判，更多细节披露",
+          "origin": "上观",
+          "time": 1794285557
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/10/15f82ad7fe12401894cce47b0786b0e0.html",
+          "title": "陈某芬死刑、杨某根死缓 泸州花坛藏尸案一审宣判",
+          "origin": "花城",
+          "time": 1794277800
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TxzypFFxYe",
+          "title": "陈某芬死刑、杨某根死缓 泸州花坛藏尸案一审宣判",
+          "origin": "环球网",
+          "time": 1794277817
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261110/49859106.html",
+          "title": "泸州花坛藏尸案一审宣判 主犯被判死刑",
+          "origin": "中国网",
+          "time": 1794320169
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/10/ARTIgM1YOKz4f5RWzuyRRxbA261110.shtml",
+          "title": "泸州花坛藏尸案一审宣判",
+          "origin": "CCTV",
+          "time": 1794277866
+        }
+      ],
+      "summary": "11月10日，四川省泸州市中级人民法院对被告人陈某芬、杨某根故意杀人一案进行一审公开宣判。法院以故意杀人罪判处陈某芬死刑，剥夺政治权利终身；以故意杀人罪判处杨某根死刑，缓期二年执行，剥夺政治权利终身。该案系泸州花坛藏尸案，此前陈某芬曾通过整容、改名隐匿28年。此外，陈某芬还涉及伪造身份证件、使用虚假身份证件、偷越国（边）境等罪行。目前，案件已作出一审判决。"
+    },
+    {
+      "title": "中美两军在成都举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+      "tags": [
+        "中美两军",
+        "驼峰航线",
+        "遗骸移交",
+        "援华抗日"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/10/content_611179.html",
+          "title": "中美两军举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+          "origin": "科技日报",
+          "time": 1794282109
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/10/ARTI1Debd2qSQZCdEw7rMhUc261110.shtml",
+          "title": "中美两军举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+          "origin": "CCTV",
+          "time": 1794277131
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-10/10729337.shtml",
+          "title": "中美两军举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+          "origin": "中新网",
+          "time": 1794283620
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xw0fYV6ZM6",
+          "title": "中美两军举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+          "origin": "凤凰网",
+          "time": 1794278220
+        },
+        {
+          "link": "https://www.news.cn/world/20261110/bd47d65589d64cabb208d2ef00b45422/c.html",
+          "title": "中美两军举行驼峰航线美军援华抗日飞行员遗骸移交仪式",
+          "origin": "新华网",
+          "time": 1794240000
+        },
+        {
+          "link": "https://kite.kagi.com/china/20261110111/中美两军在成都举行驼峰航线美军援华飞行员遗骸移交仪式",
+          "title": "中美两军在成都举行驼峰航线美军援华飞行员遗骸移交仪式",
+          "origin": "kagi",
+          "time": 1794254839
+        }
+      ],
+      "summary": "中美两军于11月10日在四川成都举行遗骸移交仪式，中方向美方移交了一批在“驼峰航线”沿线发掘的美军援华抗日飞行员遗骸。中方表示，多年来一直协助美方寻找相关遗骸，并愿意继续开展务实合作。此举体现了双方在历史与人道主义领域的合作意愿。"
+    },
+    {
+      "title": "八部门联合印发通知支持实体书店服务全民阅读",
+      "tags": [
+        "全民阅读",
+        "实体书店",
+        "政策通知",
+        "公共文化服务"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/10/ARTIgMSKj28tB8T0bQAxX94X261110.shtml",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "CCTV",
+          "time": 1794271799
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794268467129956.html",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "新京报",
+          "time": 1794269043
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/10/e143dae9221b468298c728522df314fb.html",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "花城",
+          "time": 1794268920
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-10/10729185.shtml",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "中新网",
+          "time": 1794268860
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/10/content_611091.html",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "科技日报",
+          "time": 1794274357
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TxwK9b0NOp",
+          "title": "八部门联合印发通知支持实体书店服务全民阅读",
+          "origin": "环球网",
+          "time": 1794271678
+        }
+      ],
+      "summary": "近日，中央宣传部、中央社会工作部、教育部、财政部、住房城乡建设部、商务部、文化和旅游部、国家文物局联合印发《中共中央宣传部等关于支持实体书店服务全民阅读的通知》。通知提出提升书店供给质量，实施“千名店长”成长培训计划，建立“书店主讲人”公共数据库，推动新华书店更新门店网点，鼓励民营书店差异化发展。培育特色阅读空间，打造地标书店、特色书店等，融入城市更新和一刻钟便民生活圈。支持书店参与公共文化服务，与公共文化机构深度融合，纳入县级图书馆总分馆体系。赋能书香校园建设，鼓励书店建设校外阅读实践基地。加强财政扶持，通过发放惠民购书券、消费券等方式带动阅读和销售，助力书店降本增效，优化证照办理流程，推进线上线下融合。通知要求各地因地制宜细化措施，建立协同推进机制，形成支持书店发展、参与全民阅读的浓厚氛围。"
+    },
+    {
+      "title": "法外长称伊朗对法国超市制冷系统遭网攻负有责任",
+      "tags": [
+        "法国",
+        "伊朗",
+        "网络攻击",
+        "超市制冷系统",
+        "欧盟制裁"
+      ],
+      "links": [
+        {
+          "link": "https://international.caixin.com/2026-11-10/102503079.html",
+          "title": "法国指控伊朗应对数百家超市制冷系统遭网攻负责 寻求欧盟层面制裁",
+          "origin": "财新",
+          "time": 1794295275000
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TxplUAPha6",
+          "title": "法外长称伊朗对法国超市制冷系统遭网攻负有责任",
+          "origin": "环球网",
+          "time": 1794260663
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xvYEQwTzbr",
+          "title": "超市制冷系统遭网攻，法国外长：伊朗负有责任",
+          "origin": "凤凰网",
+          "time": 1794256320
+        }
+      ],
+      "summary": "法国外长巴罗11月9日表示，伊朗对近期法国超市制冷系统遭受的网络攻击“负有责任”。法方认定此次破坏性网络攻击由隶属于伊朗伊斯兰革命卫队的电子与网络中心人员实施。法国正寻求在欧盟层面对伊朗采取制裁措施。"
+    },
+    {
+      "title": "黄仁勋承认出轨发全员信道歉，英伟达启动紧急调查",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "出轨",
+        "辞职风波",
+        "公司治理"
+      ],
+      "links": [
+        {
+          "link": "https://www.qbitai.com/2026/11/508498.html",
+          "title": "黄仁勋承认出轨发全员信道歉，英伟达启动紧急调查",
+          "origin": "量子位",
+          "time": 1794287135
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164438.htm",
+          "title": "我出轨 对妻子不忠，黄仁勋一夜损失近3000000000000元",
+          "origin": "快科技",
+          "time": 1794264960
+        },
+        {
+          "link": "https://photos.caixin.com/2026-11-09/102502778.html",
+          "title": "黄仁勋公开承认出轨并道歉 董事会启动独立调查",
+          "origin": "财新",
+          "time": 1794217692000
+        }
+      ],
+      "summary": "英伟达CEO黄仁勋公开承认对妻子不忠并发布全员信道歉，英伟达董事会已启动独立调查。事件引发市场强烈反应，其个人财富一度出现大幅缩水。目前调查仍在进行中，具体影响有待进一步评估。"
+    },
+    {
+      "title": "微软推出Windows Server TAP计划 邀请企业客户提前测试新功能",
+      "tags": [
+        "Windows Server",
+        "微软",
+        "TAP计划",
+        "企业测试",
+        "技术采纳"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1024752.htm",
+          "title": "Windows Server 开发新思路：微软推出 TAP 计划，邀请真实客户共同排雷",
+          "origin": "IT之家",
+          "time": 1794286092
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xwBO31vKJH",
+          "title": "微软请企业为Windows Server新功能排雷",
+          "origin": "凤凰科技",
+          "time": 1794296200
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585786.htm",
+          "title": "微软请企业为Windows Server新功能排雷",
+          "origin": "cnBeta",
+          "time": 1794301920
+        }
+      ],
+      "summary": "微软于2026年11月9日在官方技术社区发布招募公告，推出Windows Server技术采纳计划（Technology Adoption Program，简称TAP），邀请企业客户直接参与系统改进。相比现有的Windows Server Insider项目，TAP计划将反馈环节大幅前移，入选企业可在实验室或测试环境中试用尚未正式发布的功能和版本，并将使用体验、兼容性问题及改进建议直接反馈给微软技术团队。微软表示，不同组织部署和使用Windows Server的方式差异很大，因此需要直接听取真实客户在升级、工作负载兼容性和特定功能验证等方面的意见。申请TAP计划的企业需具备足够技术资源，能够在非生产环境中开展测试并持续提供反馈，微软会根据申请者的技术环境、兴趣方向和测试能力进行匹配筛选。"
+    },
+    {
+      "title": "特朗普质疑美国中期选举结果 称提前投票数据异常",
+      "tags": [
+        "特朗普",
+        "中期选举",
+        "提前投票",
+        "美国政治"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/10/ARTIhrW523fpve7YjuOiJlsP261110.shtml",
+          "title": "特朗普质疑美国中期选举结果 称提前投票数据异常",
+          "origin": "CCTV",
+          "time": 1794246923
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TxpnR1H8N0",
+          "title": "特朗普质疑美国中期选举结果 称提前投票数据异常",
+          "origin": "环球网",
+          "time": 1794260716
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-10/10729165.shtml",
+          "title": "特朗普质疑美国中期选举结果 称提前投票数据异常",
+          "origin": "中新网",
+          "time": 1794261180
+        }
+      ],
+      "summary": "美国总统特朗普11月9日在其社交媒体上发帖，质疑美国中期选举结果，称提前投票数据存在异常，但没有提供任何证据支持其说法。截至报道发布时，尚无官方或独立机构对相关数据异常作出回应或证实。"
+    }
+  ]
 }
