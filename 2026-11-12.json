@@ -1,5 +1,1185 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-17T08:56:05Z",
-  "summary": []
+  "generated_at": "2026-11-19T14:40:02Z",
+  "summary": [
+    {
+      "title": "英伟达董事会聘请外部机构物色新CEO 黄仁勋去留引股价盘后重挫",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "CEO更迭",
+        "股价下跌"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1025852.htm",
+          "title": "英伟达董事会已聘请外部机构物色新 CEO 候选人以接替黄仁勋，同时考虑临时 CEO 方案",
+          "origin": "IT之家",
+          "time": 1794442724
+        },
+        {
+          "link": "https://m.ithome.com/html/1025855.htm",
+          "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+          "origin": "IT之家",
+          "time": 1794443794
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785773",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "华尔街见闻",
+          "time": 1794441557
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/t/2026-11-12/doc-iniymsin8595625.shtml",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "新浪新闻",
+          "time": 1794444966
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsip3914926.shtml",
+          "title": "英伟达董事会正权衡黄仁勋去留 媒体：白宫不干预英伟达董事会的决定",
+          "origin": "新浪新闻",
+          "time": 1794444722
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785762",
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "origin": "华尔街见闻",
+          "time": 1794437935
+        },
+        {
+          "link": "https://news.futunn.com/post/1004225739/jensen-huang-has-reportedly-been-involved-in-another-extramarital-affair",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达盘后大跌8%",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://news.futunn.com/post/1004225739/jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785765",
+          "title": "黄仁勋再曝新婚外情，董事会准备罢免，英伟达盘后跌幅达8%",
+          "origin": "华尔街见闻",
+          "time": 1794439021
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165115.htm",
+          "title": "黄仁勋CEO位置悬了，英伟达寻找接班人 临时CEO人选也曝光",
+          "origin": "快科技",
+          "time": 1794443880
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xz7l18NBFV",
+          "title": "彭博：英伟达与外部公司合作寻找新CEO，考虑任命临时CEO",
+          "origin": "凤凰科技",
+          "time": 1794441034
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8601891.shtml",
+          "title": "英伟达首席执行官黄仁勋前景不明 亚洲芯片股走势分化",
+          "origin": "新浪新闻",
+          "time": 1794444186
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8599159.shtml",
+          "title": "英伟达高管鲍威尔被曝与黄仁勋有染后，取消周四行程",
+          "origin": "新浪新闻",
+          "time": 1794443941
+        },
+        {
+          "link": "https://international.caixin.com/2026-11-12/102503788.html",
+          "title": "黄仁勋再曝绯闻英伟达盘后跌9% 美媒称其可能将被罢免",
+          "origin": "财新",
+          "time": 1794439727000
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165118.htm",
+          "title": "开始物色新CEO，英伟达准备罢免黄仁勋 特朗普已获悉",
+          "origin": "快科技",
+          "time": 1794444120
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzi1345184.shtml",
+          "title": "连曝两宗婚外情，英伟达董事会据悉准备罢免黄仁勋",
+          "origin": "新浪新闻",
+          "time": 1794443523
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xz85EBAuVN",
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "origin": "凤凰网",
+          "time": 1794441480
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsip3881094.shtml",
+          "title": "英伟达董事会据悉举行会议讨论黄仁勋的去留问题",
+          "origin": "新浪新闻",
+          "time": 1794441314
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xytKFJnH0w",
+          "title": "美媒曝光黄仁勋第二段婚外情，英伟达股价大跌8%",
+          "origin": "凤凰科技",
+          "time": 1794436139
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165125.htm",
+          "title": "第二段婚外情曝光，英伟达董事会拟罢免黄仁勋",
+          "origin": "快科技",
+          "time": 1794446340
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026111111/英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "title": "英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "origin": "kagi",
+          "time": 1794426203
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165098.htm",
+          "title": "玩完，英伟达最快今日宣布：欲罢免CEO黄仁勋",
+          "origin": "快科技",
+          "time": 1794436980
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzp1912930.shtml",
+          "title": "黄仁勋被曝出婚外情后 英伟达准备将其罢免",
+          "origin": "新浪新闻",
+          "time": 1794440205
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymsin8565699.shtml",
+          "title": "英伟达据悉在与外部公司合作物色CEO候选人",
+          "origin": "新浪新闻",
+          "time": 1794443511
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201845.html",
+          "title": "英伟达据悉在与外部公司合作物色CEO候选人",
+          "origin": "钛媒体",
+          "time": 1794441960
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004222458/the-wall-street-journal-nvidia-is-preparing-to-remove-ceo",
+          "title": "华尔街日报：英伟达准备罢免CEO黄仁勋",
+          "origin": "富途牛牛",
+          "time": 1794436440
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xyzbb3nczP",
+          "title": "美媒：英伟达董事会准备罢免CEO黄仁勋",
+          "origin": "凤凰科技",
+          "time": 1794437076
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzi1344007.shtml",
+          "title": "英伟达正准备罢免首席执行官黄仁勋",
+          "origin": "新浪新闻",
+          "time": 1794439840
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xz1dEtL03G",
+          "title": "美媒爆料：英伟达准备罢免黄仁勋",
+          "origin": "凤凰网",
+          "time": 1794436380
+        },
+        {
+          "link": "https://news.futunn.com/post/1004228759/a-meeting-was-held-today-to-decide-whether-jensen-huang",
+          "title": "今日开会决定黄仁勋是否下台，英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+          "origin": "富途牛牛",
+          "time": 1794445824
+        },
+        {
+          "link": "https://news.futunn.com/post/10779100/record-tr4cking-news-jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xz85EBAuVN",
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "origin": "凤凰网",
+          "time": 1794441480
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xzDp4DOjAf",
+          "title": "美媒：白宫不会干预英伟达董事会对黄仁勋去留的决定",
+          "origin": "凤凰科技",
+          "time": 1794446708
+        },
+        {
+          "link": "https://news.futunn.com/post/94378815/record-tr4cking-news-jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165161.htm",
+          "title": "美国议员让辞职 敢不从下狠手，黄仁勋再曝婚外情 愤怒回应",
+          "origin": "快科技",
+          "time": 1794452160
+        },
+        {
+          "link": "https://news.futunn.com/post/46101992/record-tr4cking-news-jensen-huang-has-reportedly-engaged-in-another-extramarital-affair-and",
+          "title": "黄仁勋再曝新婚外情，董事会据悉准备罢免，英伟达股价重挫",
+          "origin": "富途牛牛",
+          "time": 1794439800
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymwrm3849419.shtml",
+          "title": "Polymarket 称黄仁勋之女黄敏珊为英伟达 CEO领先候选人，但概率仅 12%",
+          "origin": "新浪新闻",
+          "time": 1794451735
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165119.htm",
+          "title": "黄仁勋第二段婚外情曝光后 涉事英伟达女高管取消行程",
+          "origin": "快科技",
+          "time": 1794445740
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585990.htm",
+          "title": "有消息称英伟达拟罢免首席执行官黄仁勋 英伟达盘后股价大跌8%",
+          "origin": "cnBeta",
+          "time": 1794437160
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785797",
+          "title": "报道：英伟达部分董事倾向由CFO Kress担任过渡期CEO",
+          "origin": "华尔街见闻",
+          "time": 1794466981
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165314.htm",
+          "title": "出轨不止一个，黄仁勋酒店亲密女高管 CEO要被罢免",
+          "origin": "快科技",
+          "time": 1794473220
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165239.htm",
+          "title": "黄乐不是唯一，黄仁勋与英伟达女高管还有其婚外情 谁更美",
+          "origin": "快科技",
+          "time": 1794464400
+        },
+        {
+          "link": "https://news.futunn.com/post/1004284343/without-jensen-huang-how-much-would-nvidia-be-worth",
+          "title": "没有黄仁勋，英伟达还值多少钱？",
+          "origin": "富途牛牛",
+          "time": 1794470820
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynifc1822960.shtml",
+          "title": "网传印度裔高管接替黄仁勋出任英伟达CEO？假的",
+          "origin": "新浪新闻",
+          "time": 1794474343
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniyniex1256257.shtml",
+          "title": "英伟达部分董事倾向于任命CFO为临时CEO 苹果高管是猎头候选人之一",
+          "origin": "新浪新闻",
+          "time": 1794474468
+        },
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-11-12/doc-iniynppc3804323.shtml",
+          "title": "黄仁勋再陷婚外情风波，英伟达盘前大跌7%",
+          "origin": "新浪新闻",
+          "time": 1794475392
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586048.htm",
+          "title": "白宫不会干预英伟达董事会对黄仁勋去留的决定",
+          "origin": "cnBeta",
+          "time": 1794464400
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586042.htm",
+          "title": "Polymarket 称黄仁勋之女黄敏珊为英伟达 CEO领先候选人 但概率仅 12%",
+          "origin": "cnBeta",
+          "time": 1794463800
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586040.htm",
+          "title": "英伟达高管鲍威尔被曝与黄仁勋有染后，取消周四行程",
+          "origin": "cnBeta",
+          "time": 1794463740
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261112/49867240.html",
+          "title": "英伟达盘前暴跌10% 黄仁勋辞职引发震荡",
+          "origin": "中国网",
+          "time": 1794492788
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261112/49867229.html",
+          "title": "黄仁勋辞去英伟达CEO职务 职位不确定性引发关注",
+          "origin": "中国网",
+          "time": 1794491808
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165397.htm",
+          "title": "黄仁勋辞职冲击波，英伟达盘前暴跌10%",
+          "origin": "快科技",
+          "time": 1794493020
+        },
+        {
+          "link": "https://m.ithome.com/html/1026421.htm",
+          "title": "黄仁勋辞任 CEO 后，英伟达称维持原定时间公布 2027 财年三季度财报",
+          "origin": "IT之家",
+          "time": 1794492861
+        },
+        {
+          "link": "https://m.ithome.com/html/1026396.htm",
+          "title": "黄仁勋辞去 CEO 后，英伟达任命执行副总裁兼首席财务官科莱特 · 克雷斯为临时首席执行官",
+          "origin": "IT之家",
+          "time": 1794491855
+        },
+        {
+          "link": "https://m.ithome.com/html/1026394.htm",
+          "title": "即刻生效，黄仁勋辞去英伟达总裁、首席执行官和董事会成员职务",
+          "origin": "IT之家",
+          "time": 1794491473
+        },
+        {
+          "link": "https://news.futunn.com/post/1004333632/the-jensen-huang-era-has-come-to-an-end-nvidia",
+          "title": "黄仁勋时代落幕，英伟达33年唯一CEO卸任，财务老将临危救火",
+          "origin": "富途牛牛",
+          "time": 1794494012
+        },
+        {
+          "link": "https://news.futunn.com/post/1004338073/jensen-huang-resigns-so-who-will-take-nvidia-into-the",
+          "title": "黄仁勋辞职，英伟达把下一程交给谁？",
+          "origin": "富途牛牛",
+          "time": 1794495812
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004329325/nvidia-announced-a-change-in-ceo-jensen-huang-resigned-and",
+          "title": "英伟达宣布CEO变动：黄仁勋辞职，CFO出任临时CEO",
+          "origin": "富途牛牛",
+          "time": 1794491340
+        },
+        {
+          "link": "https://news.futunn.com/post/62145579/record-tr4cking-news-the-jensen-huang-era-has-come-to-an-end-nvidia",
+          "title": "黄仁勋时代落幕，英伟达33年唯一CEO卸任，财务老将临危救火",
+          "origin": "富途牛牛",
+          "time": 1794494012
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785829",
+          "title": "黄仁勋辞职，英伟达盘前暴跌10%",
+          "origin": "华尔街见闻",
+          "time": 1794491379
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/12/1acc1620a7f84e03ab5617d7d4322bea.html",
+          "title": "英伟达首席执行官黄仁勋辞职",
+          "origin": "花城",
+          "time": 1794492120
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/bf46e547cecf48d6ac258ff0b3587582/c.html",
+          "title": "英伟达首席执行官黄仁勋辞职",
+          "origin": "新华网",
+          "time": 1794412800
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10731222.shtml",
+          "title": "英伟达宣布黄仁勋辞职",
+          "origin": "中新网",
+          "time": 1794492540
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10731212.shtml",
+          "title": "黄仁勋辞去英伟达公司总裁、首席执行官及董事会成员职务",
+          "origin": "中新网",
+          "time": 1794491940
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y07ckncUD4",
+          "title": "黄仁勋辞任总裁、CEO后，英伟达维持原定时间公布2027财年三季度财报",
+          "origin": "凤凰科技",
+          "time": 1794494298
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y07qys7AXv",
+          "title": "黄仁勋辞去CEO，没能走出乔布斯的困境",
+          "origin": "凤凰科技",
+          "time": 1794493525
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y05rTaxwOG",
+          "title": "英伟达宣布公司总裁、CEO黄仁勋辞职",
+          "origin": "凤凰科技",
+          "time": 1794491625
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/12/AP6af5cb94e4b028ec0193ad6e.html",
+          "title": "突发人事震动， 黄仁勋即时辞任英伟达CEO 33年掌舵时代落幕",
+          "origin": "文汇网",
+          "time": 1794493413
+        },
+        {
+          "link": "https://www.caixin.com/2026-11-12/102504193.html",
+          "title": "黄仁勋辞职 立即卸任英伟达CEO、总裁和董事职务",
+          "origin": "财新",
+          "time": 1794495302000
+        },
+        {
+          "link": "https://www.huxiu.com/article/4905151.html",
+          "title": "黄仁勋辞职，英伟达盘前暴跌10%",
+          "origin": "虎嗅",
+          "time": 1794492338
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniyntux1705945.shtml",
+          "title": "英伟达CEO黄仁勋或被罢免 苹果硬件负责人是候选人之一",
+          "origin": "新浪新闻",
+          "time": 1794488810
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynpnz1771054.shtml",
+          "title": "从风投元老、法律专家到水母学者 决定黄仁勋去留的英伟达董事会一览",
+          "origin": "新浪新闻",
+          "time": 1794484664
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyax3756261.shtml",
+          "title": "英伟达CEO黄仁勋辞职，AMD、博通股价大涨",
+          "origin": "新浪新闻",
+          "time": 1794495675
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyav1614076.shtml",
+          "title": "黄仁勋辞去英伟达总裁、CEO及董事职务",
+          "origin": "新浪新闻",
+          "time": 1794494264
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyav1613757.shtml",
+          "title": "分析师悲观研判：失去黄仁勋，英伟达前景不明",
+          "origin": "新浪新闻",
+          "time": 1794495181
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyar1046572.shtml",
+          "title": "英伟达CEO黄仁勋辞职，科莱特・克雷斯出任临时首席执行官",
+          "origin": "新浪新闻",
+          "time": 1794492374
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyav1607994.shtml",
+          "title": "英伟达临时CEO，何许人也？",
+          "origin": "新浪新闻",
+          "time": 1794493430
+        }
+      ],
+      "summary": "英伟达董事会已聘请外部机构物色新任CEO候选人，并考虑在过渡期任命临时CEO。董事会于当地时间11月12日召开会议讨论黄仁勋去留问题。此前有报道称董事会正准备解除黄仁勋CEO职务，相关消息引发资本市场反应，英伟达股价在周三盘后交易中下跌约8%。彭博社指出，董事会面临两难：解除黄仁勋职务将使公司失去创立以来唯一一位CEO，继续留任则可能面临国会议员、投资者、客户及员工的进一步审查。英伟达尚未就相关报道作出回应。"
+    },
+    {
+      "title": "李彦宏在百度世界2026提出组织进化三原则，称AI时代岗位不会消失但将收敛为两类",
+      "tags": [
+        "李彦宏",
+        "百度世界大会",
+        "组织进化三原则",
+        "AI时代岗位",
+        "岗位收敛"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniymsif1295387.shtml",
+          "title": "李彦宏首提组织进化三原则：打破岗位边界、沉淀隐性知识、设计流程闭环",
+          "origin": "新浪新闻",
+          "time": 1794448437
+        },
+        {
+          "link": "https://www.iheima.com/article-404172.html",
+          "title": "百度世界2026：李彦宏首提组织进化三原则，判断AI下一幕是智能组织",
+          "origin": "i黑马",
+          "time": 1794463140
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9131095.shtml",
+          "title": "李彦宏现身预热百度世界大会，和AI搓麻将，体验AI健身助手",
+          "origin": "新浪新闻",
+          "time": 1794447188
+        },
+        {
+          "link": "https://finance.sina.com.cn/hy/hyjz/2026-11-12/doc-iniymsip3953598.shtml",
+          "title": "AI时代岗位会不会消失？李彦宏：不会，但岗位会收敛",
+          "origin": "新浪新闻",
+          "time": 1794448209
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165222.htm",
+          "title": "百度世界2026：李彦宏首提组织进化三原则 判断AI下一",
+          "origin": "快科技",
+          "time": 1794459420
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniymsim1877911.shtml",
+          "title": "李彦宏：智能组织是AI时代新厂房，AI变革势不可挡",
+          "origin": "新浪新闻",
+          "time": 1794447998
+        },
+        {
+          "link": "http://www.chinanews.com//cj/shipin/cns-d/2026/11-12/news1074733.shtml",
+          "title": "李彦宏：AI时代岗位不会消失 将收敛为两类",
+          "origin": "中新网",
+          "time": 1794490320
+        }
+      ],
+      "summary": "11月12日，百度世界2026大会开幕式上，百度创始人李彦宏首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。他认为，AI时代岗位不会消失但会收敛，未来大致分为两类：Builder（负责创造新东西）和Seller（负责人与人之间的沟通连接、建立情感与信任）。"
+    },
+    {
+      "title": "腾讯否认裁员50%传闻：称系AI时代资源重新调度的比喻",
+      "tags": [
+        "腾讯",
+        "裁员传闻",
+        "AI业务",
+        "资源调度",
+        "辟谣"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1026001.htm",
+          "title": "知情人士回应腾讯裁员 50%系谣言误读，该说法完全不属实",
+          "origin": "IT之家",
+          "time": 1794455774
+        },
+        {
+          "link": "https://news.futunn.com/post/1004254949/insider-claims-that-tencent-is-cutting-50-of-its-workforce",
+          "title": "知情人士：腾讯裁员50%系谣言误读，该说法完全不属实",
+          "origin": "富途牛牛",
+          "time": 1794456988
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniymwrm3902520.shtml",
+          "title": "知情人士：腾讯裁员50%系谣言误读，该说法完全不属实",
+          "origin": "新浪新闻",
+          "time": 1794455588
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586046.htm",
+          "title": "腾讯否认裁员50%传闻：系AI时代资源重新调度的比喻",
+          "origin": "cnBeta",
+          "time": 1794464340
+        },
+        {
+          "link": "https://www.huxiu.com/article/4905029.html",
+          "title": "腾讯裁员50%？员工吃不下饭，知情人士称是误读",
+          "origin": "虎嗅",
+          "time": 1794472523
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xzQFx3bf7d",
+          "title": "知情人士：腾讯裁员50%说法不属实",
+          "origin": "凤凰科技",
+          "time": 1794456573
+        }
+      ],
+      "summary": "针对社交媒体流传的“腾讯裁员50%”“裁员8000人”等说法，接近腾讯的知情人士回应称，相关传言系对内部讲话的误读，该说法完全不属实。传闻源于11月11日腾讯28周年司庆期间的Linktime线上直播，管理层用比喻解释资源重配思路：核心业务基本盘为“陆军”，AI Native业务为“海军”，“陆军”借助AI提升效能，同时调整50%人员转向“海军”支持AI Native业务探索。该表述被简化为“裁员50%”并衍生多个版本。知情人士强调，此轮变革与几年前偏“降本”的降本增效不同，本次更偏“增效”，是面向AI时代的主动资源调度，而非削减一半员工。截至目前，腾讯官方尚未发布正式声明。"
+    },
+    {
+      "title": "上交所理事长邱勇：支持量子科技、生物制造、具身智能等优质硬科技企业在科创板上市",
+      "tags": [
+        "科创板",
+        "硬科技",
+        "上交所",
+        "新质生产力",
+        "资本市场开放"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/wm/2026-11-12/doc-iniymwrk8637644.shtml",
+          "title": "上交所邱勇：全力服务新质生产力发展壮大 支持量子科技、生物制造、具身智能等硬科技企业在科创板上市",
+          "origin": "新浪新闻",
+          "time": 1794457840
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-11-12/4645790.html",
+          "title": "上海证券交易所理事长邱勇：将丰富国际化产品供给，增强中国资产对全球投资者的吸引力",
+          "origin": "每经网",
+          "time": 1794463389
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/csjzbj/2026-11-12/doc-iniynaxh8517237.shtml",
+          "title": "上交所理事长邱勇：支持量子科技、生物制造、具身智能等优质硬科技企业在科创板上市",
+          "origin": "新浪新闻",
+          "time": 1794458483
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730868.shtml",
+          "title": "上海证券交易所理事长邱勇：支持更多领域优质硬科技企业在科创板上市",
+          "origin": "中新网",
+          "time": 1794475260
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8202509.html",
+          "title": "上交所理事长邱勇：持续增强中国资产对全球投资者的吸引力",
+          "origin": "钛媒体",
+          "time": 1794459060
+        }
+      ],
+      "summary": "上海证券交易所理事长邱勇在2026年上交所国际投资者大会上表示，上交所将全力服务新质生产力发展壮大，支持量子科技、生物制造、具身智能等更多领域优质硬科技企业在科创板上市，并将科创板第五套上市标准适用范围拓展至人工智能大模型和商业航天。他还介绍，2026年前三季度科创板上市公司扣非后净利润增速同比增长6.7倍，研发投入同比增长26%；上交所将持续深化投融资综合改革，推动上市公司质量提升，发挥科创板改革试验田作用，稳步推进资本市场高水平对外开放，丰富国际化产品供给，持续增强中国资产对全球投资者的吸引力。"
+    },
+    {
+      "title": "外媒曝特朗普与内塔尼亚胡就伊朗问题爆发激烈争吵",
+      "tags": [
+        "特朗普",
+        "内塔尼亚胡",
+        "伊朗",
+        "军事行动",
+        "外交谈判"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8xziPDUF4wW",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题激烈争吵",
+          "origin": "凤凰网",
+          "time": 1794471480
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/f7989aa8ba6d41659d2b623c9f27c882/c.html",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题激烈争吵",
+          "origin": "新华网",
+          "time": 1794412800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/12/AP6af58048e4b028ec0193a4de.html",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题激烈争吵",
+          "origin": "文汇网",
+          "time": 1794474330
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题激烈争吵",
+          "origin": "CCTV",
+          "time": 1794480733
+        },
+        {
+          "link": "https://news.ifeng.com/c/8y09JPfGks1",
+          "title": "特朗普要体面收场，内塔尼亚胡却想再打一仗",
+          "origin": "凤凰网",
+          "time": 1794495120
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10731223.shtml",
+          "title": "外媒：特朗普与内塔尼亚胡在交谈中爆发地狱般的争吵",
+          "origin": "中新网",
+          "time": 1794492660
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TzrtuOAOA7",
+          "title": "特朗普与内塔尼亚胡被曝就伊朗问题激烈争吵",
+          "origin": "环球网",
+          "time": 1794472475
+        }
+      ],
+      "summary": "美国福克斯新闻频道转引以色列媒体消息称，美国总统特朗普与以色列看守政府总理内塔尼亚胡上周末通电话时，围绕是否重启对伊朗的军事行动爆发“地狱般的激烈争吵”。报道称内塔尼亚胡敦促特朗普重启军事行动，特朗普则主张继续通过外交途径推进与伊朗的谈判。两名消息人士称通话“艰难”。以色列总理办公室回应称报道为“假新闻”，否认通话具有对抗性；一名以色列高级官员证实有过通话，但强调“绝不是一场艰难的对话”。英国《金融时报》报道称，内塔尼亚胡最近“每天”给特朗普打电话，敦促其恢复对伊朗的军事行动。此前今年6月，媒体曾爆料特朗普因不满以方升级在黎巴嫩的军事行动，在通话中怒斥内塔尼亚胡“简直疯了”。"
+    },
+    {
+      "title": "AI算力租赁模式生变：从固定租金转向Token分成",
+      "tags": [
+        "AI算力",
+        "GPU共享",
+        "算力租赁",
+        "Token分成",
+        "商业模式"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165307.htm",
+          "title": "显卡利用率暴增2.6倍，GPU共享平台发布：让AI算力不再闲置",
+          "origin": "快科技",
+          "time": 1794472440
+        },
+        {
+          "link": "https://www.yicai.com/news/103437269.html",
+          "title": "算力租金一年翻倍，AI时代的基础研究有多贵？",
+          "origin": "第一财经",
+          "time": 1794444938
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xzqvIqZez4",
+          "title": "千亿美元AI云市场，算力军备竞赛之后拼什么？",
+          "origin": "凤凰科技",
+          "time": 1794477645
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xzjC7gDiS4",
+          "title": "AI算力收租生意&quot;正在变天",
+          "origin": "凤凰科技",
+          "time": 1794486685
+        }
+      ],
+      "summary": "随着AI算力成本上升，算力租赁行业正出现商业模式调整。俄罗斯Basis公司推出GPU共享平台Basis Air，通过统一调度将显卡利用率从30%提升至80%以上，相当于提升2.6倍，以软件调度替代硬件堆叠来提升算力密度。与此同时，国内部分算力服务商开始将传统的固定机柜租赁改为“保底服务费+Token调用量分成”模式。有服务商将基础保底服务费下调约一成，Token收入分成上调逾两倍，与服务商分享下游推理业务增量收益。新合同分两层：基础固定服务费保留收入确定性，Token分成分享推理增长收益。服务商让出部分固定现金流，换取更深客户绑定，但需承担调用量不及预期导致收入下滑的风险。银行对算力租赁项目风险溢价提高，要求设备抵押、担保、应收账款质押等组合增信，并关注客户资质、合同质量和实际上架率。分成模式仍处小规模试点，头部战略客户和推理业务占比较高的项目更倾向采用混合方案，普通客户和训练类业务仍以传统长租为主。"
+    },
+    {
+      "title": "马斯克回应聘用黄仁勋传闻：那将是我的荣幸",
+      "tags": [
+        "马斯克",
+        "黄仁勋",
+        "英伟达",
+        "人事"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3785792",
+          "title": "马斯克又发声：如果能聘请黄仁勋，那将是我的荣幸",
+          "origin": "华尔街见闻",
+          "time": 1794464796
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960162",
+          "title": "马斯克谈聘任黄仁勋：那将是我莫大的荣幸",
+          "origin": "华尔街见闻",
+          "time": 1794448754
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xzGxbdpm2x",
+          "title": "马斯克回应聘用黄仁勋：我的荣幸",
+          "origin": "凤凰科技",
+          "time": 1794448581
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xz8XFlXHyG",
+          "title": "马斯克给黄仁勋留了个工位",
+          "origin": "凤凰科技",
+          "time": 1794457436
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xzFZNfCm0C",
+          "title": "马斯克回应雇佣黄仁勋",
+          "origin": "凤凰网",
+          "time": 1794447240
+        }
+      ],
+      "summary": "因出轨丑闻，英伟达CEO黄仁勋面临公司董事会调查，或遭罢免。有网友在X平台呼吁马斯克雇佣黄仁勋，马斯克回应称“那将是我的荣幸”。此前黄仁勋丑闻爆出时，马斯克也曾为其辩护。在相关讨论中，马斯克还对有关建议先完成调查、再进行股东投票的帖文评论“完全正确”。黄仁勋于1993年联合创立英伟达，将其打造为全球领先的人工智能芯片供应商，目前正面临越来越严格的审查。11月8日，黄仁勋首次公开承认一段婚外情，英伟达董事会随后启动由沃克特尔·利普顿·罗森·卡茨律师事务所牵头的调查。众议院3个重要委员会的共和党领导人也要求黄仁勋出席闭门简报会说明相关交往情况。11月11日美媒最新消息称，黄仁勋还有其他婚外情。在此背景下，英伟达董事会正考虑罢免黄仁勋。"
+    },
+    {
+      "title": "美联航限制AI代理订票，CEO称不想再多一个中间商",
+      "tags": [
+        "美联航",
+        "AI代理",
+        "订票",
+        "航空",
+        "数据安全"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1004213076/united-airlines-restricts-ai-agents-from-booking-tickets-ceo-states",
+          "title": "美联航限制AI代理订票 CEO直言不想再多一个中间商",
+          "origin": "富途牛牛",
+          "time": 1794427080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xykly8y9Jk",
+          "title": "美联航限制AI代理订票 CEO直言不想再多一个中间商",
+          "origin": "凤凰科技",
+          "time": 1794425004
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201857.html",
+          "title": "美联航限制AI代理订票",
+          "origin": "钛媒体",
+          "time": 1794444000
+        }
+      ],
+      "summary": "美国联合航空宣布将限制未经授权的第三方个人AI代理或助手访问其服务，范围包括自有数字平台以及通过旅行社和聚合平台的间接访问。美联航表示，此举旨在保护旅客账户、敏感信息及交易安全，并防范自动化操作带来的合规风险。AI代理仍可向消费者展示美联航的航班选择和价格，但无法在其网站上代为完成交易。美联航称目前来自AI代理的订票量不多，后台技术系统能够区分个人旅客、传统旅行社和AI代理等不同订单来源。"
+    },
+    {
+      "title": "文心三款新模型上线百度智能云千帆",
+      "tags": [
+        "文心大模型",
+        "百度智能云千帆",
+        "AI推理",
+        "视频生成"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165271.htm",
+          "title": "百度发布两款文心应用模型，推理成本降低30%",
+          "origin": "快科技",
+          "time": 1794468540
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165303.htm",
+          "title": "文心三款新模型上线百度智能云千帆",
+          "origin": "快科技",
+          "time": 1794472140
+        },
+        {
+          "link": "https://www.yicai.com/news/103438740.html",
+          "title": "百度发布两款文心应用模型",
+          "origin": "第一财经",
+          "time": 1794492332
+        }
+      ],
+      "summary": "在百度世界2026主论坛上，百度应用模型研发部负责人贾磊发布两款文心应用模型：文心闪电深度思考模型和文心一镜微表情大模型，并同步上线百度智能云千帆平台，面向企业客户及合作伙伴开放API服务。文心闪电深度思考模型最初为百度搜索业务研发，采用基于反馈式KV压缩的稀疏注意力技术BSA和快慢思考协同的Looping方案，支持思考与非思考两种模式，覆盖编程、逻辑推理、智能体和文本处理等任务，借助BSA与昆仑芯协同优化可实现单机八卡高速推理，模型ROI较同类芯片提升50%，推理引擎成本降低30%以上。文心一镜微表情大模型采用文本、视觉、语音三态一体建模，支持最长4000字文本驱动，构建覆盖6大维度、200个子维度的细粒度描述体系，并推出篇章级配音技术，视频生成成本较业界降低50%，支持分钟级视频生产，极速版本可实现1:1实时生成。"
+    },
+    {
+      "title": "中国海油渤海中部超深层油气勘探获重大突破",
+      "tags": [
+        "中国海油",
+        "渤海",
+        "超深层油气",
+        "天然气勘探",
+        "重大突破"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8202016.html",
+          "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
+          "origin": "钛媒体",
+          "time": 1794448260
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730704.shtml",
+          "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
+          "origin": "中新网",
+          "time": 1794453420
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/12/content_612091.html",
+          "title": "我国在渤海中部海域取得超深层油气勘探重大突破",
+          "origin": "科技日报",
+          "time": 1794446632
+        }
+      ],
+      "summary": "中国海油11月12日宣布，在渤海中部海域紧邻渤中凹陷处，于超5000米超深层火山岩地层钻获高产油气井，完钻井深5770米，累计钻遇超120米天然气层，测试日产天然气约80万立方米。该突破展现海上超深层火山岩领域勘探前景，推动渤中凹陷天然气勘探进程，对建设渤海万亿方大气区具有积极意义。"
+    },
+    {
+      "title": "中汽协：10月新能源重卡渗透率突破50%",
+      "tags": [
+        "新能源重卡",
+        "渗透率",
+        "中国汽车工业协会",
+        "电动化",
+        "干线物流"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730586.shtml",
+          "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+          "origin": "中新网",
+          "time": 1794439980
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201848.html",
+          "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+          "origin": "钛媒体",
+          "time": 1794442140
+        },
+        {
+          "link": "http://www.chinanews.com//cj/shipin/2026/11-12/news1074642.shtml",
+          "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+          "origin": "中新网",
+          "time": 1794449940
+        }
+      ],
+      "summary": "中国汽车工业协会发布数据显示，10月份我国新能源重卡单月渗透率突破50%，标志着重卡行业迈入电动化发展新阶段。中国汽车技术研究中心同日发布信息称，今年以来新能源重卡在研发、基础设施、技术验证等方面持续突破，新一代车型进入量产阶段，满载续航达500公里级；兆瓦超充、快速换电等补能技术路线加速成熟，G4京港澳高速湖北段启动10座重卡充电站；全生命周期成本不断降低，干线场景应用进入快车道。目前新能源重卡在港口、矿山等封闭场景渗透率已超七成，长途干线物流应用前景广阔。"
+    },
+    {
+      "title": "第二艘国产大型邮轮“爱达·花城号”完成首个试运营航次",
+      "tags": [
+        "国产大型邮轮",
+        "爱达·花城号",
+        "试运营航次",
+        "广州南沙",
+        "首航季"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730602.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "中新网",
+          "time": 1794443160
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Tzb9JgkMyl",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "环球网",
+          "time": 1794444345
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201935.html",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "钛媒体",
+          "time": 1794445440
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/12/9e7451f09a114c9c8581b97fc118d04a.html",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "花城",
+          "time": 1794444000
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTIN37oGgLFiF01dKMa2I6Z261112.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "CCTV",
+          "time": 1794449240
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/12/content_612165.html",
+          "title": "第二艘国产大型邮轮爱达·花城号完成首个试运营航次",
+          "origin": "科技日报",
+          "time": 1794452516
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-12/10730720.shtml",
+          "title": "第二艘国产大型邮轮完成首个试运营航次 抵达广州",
+          "origin": "中新网",
+          "time": 1794455820
+        }
+      ],
+      "summary": "2026年11月12日，第二艘国产大型邮轮“爱达·花城号”顺利完成首个试运营航次，抵达广州南沙国际邮轮母港。该航次模拟真实运营状态，围绕海事安全运营、船岸联动、全船信息系统以及餐饮、客房、演艺等核心服务流程开展全方位压力测试与演练。后续工作人员将结合航程反馈优化服务流程与宾客体验，为11月22日开启的首航季做准备。首航季将提供6天5晚广州至越南航线、9天8晚南洋风情线及17天16晚前往东南亚6国的海上丝绸之路航线。"
+    },
+    {
+      "title": "中消协就网购AB货问题发声：同价不同质不容欺生凌弱",
+      "tags": [
+        "中消协",
+        "网购AB货",
+        "消费者权益",
+        "公平交易",
+        "算法歧视"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/fortune/20261112/ef72ed6f3a884dbc9ea6b192050b5fbf/c.html",
+          "title": "网购AB货争议持续升温 中消协：不容欺生凌弱",
+          "origin": "新华网",
+          "time": 1794412800
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTIRyf7Ssgfo0lOr77QeraB261112.shtml",
+          "title": "针对网购AB货问题 中消协最新发声",
+          "origin": "CCTV",
+          "time": 1794449501
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTI7OwxRfhrRkiLo9xTyZbr261112.shtml",
+          "title": "针对网购AB货问题 中消协最新发声",
+          "origin": "CCTV",
+          "time": 1794449270
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/12/content_612261.html",
+          "title": "针对网购AB货问题 中消协最新发声",
+          "origin": "科技日报",
+          "time": 1794469130
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Tze7sTHsqP",
+          "title": "针对网购AB货问题 中消协最新发声",
+          "origin": "环球网",
+          "time": 1794449344
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/12/608f8656c9be45a3bcdf5a9db535cc9f.html",
+          "title": "针对网购AB货问题，中消协最新发声",
+          "origin": "花城",
+          "time": 1794460800
+        }
+      ],
+      "summary": "近期网购“AB货”争议升温，指部分电商以同一链接、同一价格销售商品时，向不同消费者发送品质明显不同的商品：展示为A货实际发B货，或对偏远农村、维权意识弱的消费者定向发送降级B货。中消协指出，此举侵害消费者知情权和自主选择权，涉嫌货不对板、以次充好甚至欺诈；商家利用算法画像区别发货，侵犯消费者个人信息权益和公平交易权；同时构成不正当竞争，破坏公平竞争秩序、侵蚀放心消费根基。中消协呼吁平台履行主体责任，排查治理“大数据杀熟”和区别供货行为，商家坚守诚信底线，消费者增强证据留存意识、依法维权。"
+    },
+    {
+      "title": "光大期货发布软商品类日报11.12",
+      "tags": [
+        "期货日报",
+        "软商品",
+        "行情分析"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-12/doc-iniymsif1278414.shtml",
+          "title": "光大期货：有色金属类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794448190
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-12/doc-iniymsin8633809.shtml",
+          "title": "光大期货：能源化工类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794446915
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-12/doc-iniymsif1276672.shtml",
+          "title": "光大期货：矿钢煤焦类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794446856
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-12/doc-iniymsif1277858.shtml",
+          "title": "光大期货：软商品类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794448194
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-12/doc-iniymsim1858175.shtml",
+          "title": "光大期货：农产品类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794446962
+        },
+        {
+          "link": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-11-12/doc-iniymsif1275309.shtml",
+          "title": "光大期货：金融类日报11.12",
+          "origin": "新浪新闻",
+          "time": 1794446729
+        }
+      ],
+      "summary": "光大期货于2026年11月12日发布软商品类日报，涵盖铜、镍、不锈钢、氧化铝、电解铝、铝合金、工业硅、多晶硅及碳酸锂等品种的行情分析与展望。铜价隔夜震荡偏强，国内进口盈利窗口持续打开，但中期预计延续震荡偏弱，核心矛盾在于海外宏观叙事走弱与国内低库存高升水支撑之间的博弈。镍价小幅上涨，印尼RKAB政策预期及减产消息或形成支撑，但海外宏观压力较大。氧化铝减产落地带动盘面修复，但库存仍处累库状态，反弹空间受限；铝锭去库斜率衰减，现货高升水收窄，短期区间震荡。工业硅震荡偏强，多晶硅震荡偏弱，多晶硅供需差有望转负但尚未走出震荡。碳酸锂期货小幅上涨，周度库存维持去库但需求端下调拖累市场情绪，需警惕持仓扰动。"
+    },
+    {
+      "title": "腾讯否认裁员50%传闻 张军回应马化腾灭霸图系谣言衍生",
+      "tags": [
+        "腾讯",
+        "裁员谣言",
+        "马化腾",
+        "张军回应",
+        "AI变革"
+      ],
+      "links": [
+        {
+          "link": "https://original.ifeng.com/c/8xzXAYEBk0E",
+          "title": "灭霸马化腾打响指，50%企鹅灰飞烟灭？腾讯张军回应",
+          "origin": "凤凰科技",
+          "time": 1794463406
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165274.htm",
+          "title": "腾讯裁员50%谣言催生神图，马化腾化身灭霸企鹅遭殃",
+          "origin": "快科技",
+          "time": 1794469140
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniynaxh8594722.shtml",
+          "title": "腾讯张军回应马化腾灭霸图片：基于一个谣言作图",
+          "origin": "新浪新闻",
+          "time": 1794465179
+        }
+      ],
+      "summary": "11月12日，针对网络流传的“腾讯将裁员50%”消息，腾讯公司公关总监张军在微博发文辟谣，称这是“纯纯的误会和谣言”。张军解释称，在腾讯28周年Linktime线上直播中，管理层表达加快组织变革的决心，强调此次面向AI时代的主动出击更偏“增效”，不同于几年前的“降本增效”。内部提出“50%的人像陆军守土有责做好核心业务，另50%的人像海军拥抱浪潮探索AI Native”，这是公司资源适应AI时代的重新调度，打比方成分更大，裁员说法完全不属实。对于网友将马化腾比作灭霸的玩梗制图，张军回应称“基于一个谣言作图”。"
+    },
+    {
+      "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+      "tags": [
+        "美国中央司令部",
+        "伊朗",
+        "海上封锁",
+        "霍尔木兹海峡"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-12/10730583.shtml",
+          "title": "美国中央司令部发布声明：严格执行对伊朗海上封锁",
+          "origin": "中新网",
+          "time": 1794439440
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml",
+          "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+          "origin": "CCTV",
+          "time": 1794436419
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201854.html",
+          "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+          "origin": "钛媒体",
+          "time": 1794443400
+        }
+      ],
+      "summary": "美国中央司令部当地时间11日发表声明称，美军继续夜以继日开展行动，确保霍尔木兹海峡对商业航运保持开放。声明同时表示，美军严格执行针对伊朗的严密海上封锁，并与美国政府相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道转移先进武器系统、军民两用技术、受制裁物资或进行非法资金往来。"
+    },
+    {
+      "title": "苹果直营店iPhone Duo样机铰链异响并伴随震动",
+      "tags": [
+        "iPhone Duo",
+        "铰链异响",
+        "折叠屏",
+        "可靠性"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165243.htm",
+          "title": "知名博主用iPhone Duo近1个月怒抛弃：苹果折叠屏华而不实",
+          "origin": "快科技",
+          "time": 1794464700
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xzj9oMmCco",
+          "title": "苹果直营店样机也翻车了，iPhone Duo铰链异响还伴随震动",
+          "origin": "凤凰科技",
+          "time": 1794470911
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165280.htm",
+          "title": "苹果直营店样机也翻车了，iPhone Duo铰链异响 尴尬",
+          "origin": "快科技",
+          "time": 1794470880
+        }
+      ],
+      "summary": "有博主在北京三里屯苹果直营店体验iPhone Duo时发现，展示机开合过程中铰链发出“咯哒咯哒”异响并伴有轻微震动。此前已有部分用户反馈内屏开裂、开合异响等问题，苹果确认少量设备存在内屏问题并允许通过AppleCare更换。iFixit拆解分析认为，铰链中央支撑结构在折叠时可能未充分下沉避让，导致柔性屏局部应力集中，弧形导轨也存在类似风险；灰尘测试中虽有颗粒进入活动结构并产生摩擦异响。iPhone Duo国行起售价15999元，其长期可靠性有待验证。此外，博主MKBHD深度使用近一个月后放弃将其作为主力机，转回iPhone 18 Pro，理由是影像能力缩水、屏下Touch ID体验不如Face ID、第三方应用适配不足。"
+    },
+    {
+      "title": "伊朗高官：美若再动武，参与的欧洲军事基地也将成为目标",
+      "tags": [
+        "伊朗",
+        "美国",
+        "军事基地",
+        "威胁"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8xz9Jcik410",
+          "title": "伊朗高官：美若再动武，参与的欧洲基地皆为目标",
+          "origin": "凤凰网",
+          "time": 1794442380
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8201941.html",
+          "title": "伊朗高官：美若再动武，参与的欧洲基地皆为目标",
+          "origin": "钛媒体",
+          "time": 1794445740
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/90b93fb5677748d290585865578af952/c.html",
+          "title": "伊高官:美若再动武 参与的欧洲基地皆为目标",
+          "origin": "新华网",
+          "time": 1794412800
+        }
+      ],
+      "summary": "新华社德黑兰11月12日消息，伊朗最高国家安全委员会秘书雷扎伊当天在社交媒体上表示，如果美国再次对伊朗动武，其“参与侵略”的欧洲军事基地也将成为目标。雷扎伊称，“从西亚到欧洲，参与侵略的每个军事基地都将成为伊朗致命打击的合法目标”，并强调“没有安全之地”。"
+    },
+    {
+      "title": "特朗普称美国不需要与伊朗达成协议",
+      "tags": [
+        "特朗普",
+        "伊朗",
+        "美伊关系"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/flash/1004324445/trump-no-need-to-reach-an-agreement-with-iran-the",
+          "title": "特朗普：不需要与伊朗达成协议 达成协议的时代早已过去",
+          "origin": "富途牛牛",
+          "time": 1794488880
+        },
+        {
+          "link": "https://www.news.cn/world/20261112/b3a88a80fe4d4a5dbf7aeab4dacbe205/c.html",
+          "title": "特朗普：美国不需要与伊朗达成协议",
+          "origin": "新华网",
+          "time": 1794412800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/12/AP6af5c0fde4b028ec0193abda.html",
+          "title": "特朗普称美国不需要与伊朗达成协议",
+          "origin": "文汇网",
+          "time": 1794492333
+        }
+      ],
+      "summary": "当地时间11月12日，美国总统特朗普表示，美国不需要与伊朗达成协议，并称达成协议的时代早已过去。他还声称，美国已经掌握了伊朗数千亿美元的資金以及霍尔木兹海峡。相关消息由央视新闻报道。"
+    }
+  ]
 }
