@@ -1,6 +1,6 @@
 {
   "tag": "GPT",
-  "generated_at": "2026-11-19T14:26:37Z",
+  "generated_at": "2026-11-19T14:28:05Z",
   "summary": [
     {
       "title": "OpenAI发布GPT-6.2 Astra和Sol，任务成本显著下降",
@@ -12,17 +12,6 @@
       ],
       "summary": "第一财经《AI进化速递》报道，OpenAI正式推出GPT-6.2 Astra和GPT-6.2 Sol两款模型。相关来源标题称其性能超越Fable 5.2，任务成本显著下降、成本仅5%。同期其他AI动态包括：微软发布MAI Image 2.7及Flash版模型并推出交互式图像创作空间Canvas；腾讯称WorkBuddy每日超千万用户合计消耗100万亿以上词元；当虹科技与海光信息联合发布AI一体机；范式智能发布通用语言模型Phai-A1及视频生成模型Phai-M1。",
       "date": "2026-11-18"
-    },
-    {
-      "title": "OpenAI发布GPT-6.2 Astra和Sol，任务成本显著下降",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI",
-        "科技新闻"
-      ],
-      "summary": "第一财经《AI进化速递》报道，OpenAI正式推出GPT-6.2 Astra和GPT-6.2 Sol两款模型。相关来源标题称其性能超越Fable 5.2，任务成本显著下降、成本仅5%。同期其他AI动态包括：微软发布MAI Image 2.7及Flash版模型并推出交互式图像创作空间Canvas；腾讯称WorkBuddy每日超千万用户合计消耗100万亿以上词元；当虹科技与海光信息联合发布AI一体机；范式智能发布通用语言模型Phai-A1及视频生成模型Phai-M1。",
-      "date": "2026-11-11"
     },
     {
       "title": "微软推出高速决策AI模型，速度达GPT-6 Sol的35倍，36项测试准确率第一",

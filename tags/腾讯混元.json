@@ -1,6 +1,6 @@
 {
   "tag": "腾讯混元",
-  "generated_at": "2026-11-19T14:26:37Z",
+  "generated_at": "2026-11-19T14:28:05Z",
   "summary": [
     {
       "title": "腾讯混元正式开源Hy4 flash模型，最高支持百万Token上下文",
@@ -13,18 +13,6 @@
       ],
       "summary": "11月18日，腾讯混元宣布正式开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flashBase三个版本，开发者可在GitHub、Hugging Face、Model Scope和Git Code下载部署。该模型拥有2240亿参数，最高支持百万Token上下文，瞄准低成本智能体应用，单任务成本可降至Hy4的二十分之一。腾讯同时表示正在加速开源Hy4模型。",
       "date": "2026-11-18"
-    },
-    {
-      "title": "腾讯混元正式开源Hy4 flash模型，最高支持百万Token上下文",
-      "tags": [
-        "腾讯混元",
-        "Hy4 flash",
-        "开源",
-        "大模型",
-        "智能体"
-      ],
-      "summary": "11月18日，腾讯混元宣布正式开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flashBase三个版本，开发者可在GitHub、Hugging Face、Model Scope和Git Code下载部署。该模型拥有2240亿参数，最高支持百万Token上下文，瞄准低成本智能体应用，单任务成本可降至Hy4的二十分之一。腾讯同时表示正在加速开源Hy4模型。",
-      "date": "2026-11-11"
     },
     {
       "title": "腾讯混元发布最新一代大语言模型Hy4，首次跻身最强开源模型行列",
