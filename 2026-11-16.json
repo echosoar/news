@@ -1,5 +1,980 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-17T08:56:05Z",
-  "summary": []
+  "generated_at": "2026-11-19T14:49:58Z",
+  "summary": [
+    {
+      "title": "超10万人签名请愿要求黄仁勋回归英伟达",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "请愿",
+        "CEO回归"
+      ],
+      "links": [
+        {
+          "link": "https://www.landian.news/archives/128392.html",
+          "title": "金融时报称黄仁勋有可能回归英伟达其盟友组成作战室游说董事会并争取白宫支持",
+          "origin": "蓝点",
+          "time": 1794807000
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004554034/financial-times-jensen-huang-is-considering-returning-to-nvidia-and",
+          "title": "英国金融时报：黄仁勋考虑重返英伟达，硅谷盟友正组建游说团推动其复职",
+          "origin": "富途牛牛",
+          "time": 1794769800
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586516.htm",
+          "title": "黄仁勋辞职仅数日便传出考虑复出：英伟达内部酝酿迎回创始人行动",
+          "origin": "cnBeta",
+          "time": 1794776520
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261116/49874714.html",
+          "title": "黄仁勋所持英伟达股份，出售需获得妻子同意 夫妻共同管理信托",
+          "origin": "中国网",
+          "time": 1794790405
+        },
+        {
+          "link": "https://m.ithome.com/html/1027470.htm",
+          "title": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
+          "origin": "IT之家",
+          "time": 1794785185
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsti1301960.shtml",
+          "title": "未提前规划黄仁勋接班人 财富500强前CEO：英伟达董事会严重失职",
+          "origin": "新浪新闻",
+          "time": 1794788053
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785999",
+          "title": "AI抛售持续，英伟达财报前夕，费半大跌5%，黄金、原油双双走低",
+          "origin": "华尔街见闻",
+          "time": 1794840094
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y5lnPYTWJe",
+          "title": "公司跟死没区别，诸多行业工程师直言没黄仁勋就没有英伟达",
+          "origin": "凤凰科技",
+          "time": 1794789600
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165980.htm",
+          "title": "出轨黄乐，黄仁勋辞职 美国不让中国有任何英伟达尖端芯片",
+          "origin": "快科技",
+          "time": 1794793200
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166011.htm",
+          "title": "马斯克向英伟达员工抛橄榄枝，承诺给岗位 力挺黄仁勋回归",
+          "origin": "快科技",
+          "time": 1794798240
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166060.htm",
+          "title": "李国庆预测黄仁勋大概率重返英伟达：否则弹指间灰飞烟灭",
+          "origin": "快科技",
+          "time": 1794802980
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165973.htm",
+          "title": "黄仁勋走后员工也不干了，英伟达机器人工程师宣布辞职",
+          "origin": "快科技",
+          "time": 1794791940
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y62k7fxD5c",
+          "title": "黄仁勋卸任引发员工离职，英伟达机器人工程师公开发声",
+          "origin": "凤凰科技",
+          "time": 1794801371
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165951.htm",
+          "title": "黄仁勋被曝考虑重返英伟达，硅谷盟友组战情室推动复职",
+          "origin": "快科技",
+          "time": 1794786240
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166014.htm",
+          "title": "老黄不能走，全球10万人签名请愿要求黄仁勋回归英伟达",
+          "origin": "快科技",
+          "time": 1794798420
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxuez5934810.shtml",
+          "title": "投资者消化黄仁勋辞职带来的连锁冲击，英伟达再跌3%",
+          "origin": "新浪新闻",
+          "time": 1794830284
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586566.htm",
+          "title": "英伟达目标价遭大砍 工程师戴士钦为支持黄仁勋辞职",
+          "origin": "cnBeta",
+          "time": 1794809940
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166040.htm",
+          "title": "还有反转，曝黄仁勋考虑回归英伟达 盟友施压董事会",
+          "origin": "快科技",
+          "time": 1794800280
+        },
+        {
+          "link": "https://news.zol.com.cn/1273/12733187.html",
+          "title": "黄仁勋卸任英伟达CEO，多元背景董事会迎治理新阶段",
+          "origin": "zol",
+          "time": 1794787260
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y5QrZj2Ecq",
+          "title": "英媒：黄仁勋考虑重返英伟达，盟友正组建游说团",
+          "origin": "凤凰网",
+          "time": 1794772380
+        },
+        {
+          "link": "https://news.futunn.com/post/1004613512/what-nvidia-and-the-ai-industry-lost-after-jensen-huang",
+          "title": "黄仁勋闪电辞职后，英伟达和AI行业失去了什么",
+          "origin": "富途牛牛",
+          "time": 1794828900
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261116/49874723.html",
+          "title": "黄仁勋被曝考虑重返英伟达 硅谷盟友力挺复职",
+          "origin": "中国网",
+          "time": 1794790509
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y5cZnhuUro",
+          "title": "硅谷盟友支持，黄仁勋考虑回归担任英伟达CEO",
+          "origin": "凤凰科技",
+          "time": 1794780817
+        },
+        {
+          "link": "https://opinion.caixin.com/2026-11-16/102505323.html",
+          "title": "英伟达的黄仁勋效应与AI产业的英伟达效应",
+          "origin": "财新",
+          "time": 1794816715000
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960184",
+          "title": "逼黄仁勋下台，英伟达董事会是为了自保",
+          "origin": "华尔街见闻",
+          "time": 1794792194
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165958.htm",
+          "title": "没了黄仁勋 英伟达也就死了",
+          "origin": "快科技",
+          "time": 1794789600
+        },
+        {
+          "link": "https://www.qbitai.com/2026/11/510358.html",
+          "title": "黄仁勋筹备重返英伟达",
+          "origin": "量子位",
+          "time": 1794791129
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y6gUd8meAq",
+          "title": "黄仁勋要夺回英伟达？",
+          "origin": "凤凰科技",
+          "time": 1794838077
+        }
+      ],
+      "summary": "英国金融时报报道称，辞去英伟达CEO数日的黄仁勋正与盟友讨论回归可能性，其硅谷盟友正筹组由科技公司高管组成的“作战室”，计划游说英伟达董事会并争取白宫支持，相关行动获黄仁勋本人支持。部分投资者已致信董事会，建议保留黄仁勋回归选项；公开请愿网站已收集超过16万个支持签名，马斯克等科技界人士公开表态支持。英伟达现由CFO科莱特·克雷斯暂任CEO，董事会称正选择招聘机构、尚未接触潜在候选人。美国财政部长则称英伟达需重大管理层调整，应从外部寻找新CEO。"
+    },
+    {
+      "title": "华为云发布并开源昇腾原生具身世界模型，80%中国具身智能企业选择昇腾云",
+      "tags": [
+        "华为云",
+        "具身智能",
+        "昇腾",
+        "世界模型",
+        "清扫机器人"
+      ],
+      "links": [
+        {
+          "link": "https://original.ifeng.com/c/8y6VQqOTYtg",
+          "title": "华为切入清扫机器人业务，布并开源昇腾原生具身世界模型",
+          "origin": "凤凰科技",
+          "time": 1794826624
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166222.htm",
+          "title": "华为具身世界模型宣布开源：国产昇腾训练 拿下两个第一",
+          "origin": "快科技",
+          "time": 1794833400
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786012",
+          "title": "华为云发布具身世界模型，回应与机器人公司的竞争",
+          "origin": "华尔街见闻",
+          "time": 1794818576
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y6FkWSZiSF",
+          "title": "华为公布最新数据：80%中国具身智能企业选择昇腾云",
+          "origin": "凤凰科技",
+          "time": 1794812654
+        },
+        {
+          "link": "https://www.yicai.com/news/103442130.html",
+          "title": "华为加码具身智能，切入清扫机器人业务",
+          "origin": "第一财经",
+          "time": 1794819930
+        },
+        {
+          "link": "https://www.yicai.com/news/103442484.html",
+          "title": "华为云发布并开源昇腾原生具身世界模型",
+          "origin": "第一财经",
+          "time": 1794834331
+        }
+      ],
+      "summary": "11月16日，华为云宣布与环卫装备企业福龙马联合研制的新一代智能清扫机器人启动预售，同日正式发布并开源昇腾原生具身世界模型CloudRobo-WM1.2。华为云为该清扫机器人提供CloudRobo开发工具链、感知与规划模型、Agentic运行平台及昇腾云算力，使机器人能够对复杂动态物理空间进行推演和未来状态预测。今年9月，福龙马已与华为云签署金额2亿元、期限3年的环卫自动驾驶技术开发合同。华为在机器人领域不直接制造本体，而是通过CloudRobo平台提供模型、算力和开发工具，定位为机器人厂商共享的技术底座。此前华为云已与亿嘉和、拓斯达、优艾智合等企业合作，覆盖电力巡检、工业搬运等场景。"
+    },
+    {
+      "title": "腾讯总办号召AI时代再创业：称这是生死存亡问题",
+      "tags": [
+        "腾讯",
+        "AI战略",
+        "组织变革",
+        "再创业"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/hy/hyjz/2026-11-16/doc-iniywwza8922846.shtml",
+          "title": "腾讯总办谈AI：现在不是和平年代了，大家不能自以为很安全，或者谈好条件利益才上船",
+          "origin": "新浪新闻",
+          "time": 1794793864
+        },
+        {
+          "link": "https://finance.sina.com.cn/hy/hyjz/2026-11-16/doc-iniywwze5702714.shtml",
+          "title": "腾讯总办：但如果现在不投AI，以后可能连参与的机会也没有",
+          "origin": "新浪新闻",
+          "time": 1794794022
+        },
+        {
+          "link": "https://finance.sina.com.cn/hy/hyjz/2026-11-16/doc-iniywwza8918431.shtml",
+          "title": "腾讯总办号召AI时代再创业：这是一个生死存亡的问题",
+          "origin": "新浪新闻",
+          "time": 1794793695
+        },
+        {
+          "link": "https://finance.sina.com.cn/hy/hyjz/2026-11-16/doc-iniywwza8932120.shtml",
+          "title": "腾讯总办谈AI：什么都要问清楚才动身，没有机会",
+          "origin": "新浪新闻",
+          "time": 1794794325
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261116/49876101.html",
+          "title": "腾讯总办号召AI时代再创业，官方公布原文",
+          "origin": "中国网",
+          "time": 1794801184
+        }
+      ],
+      "summary": "11月16日，腾讯文化发布《总办号召AI时代再创业，“心态归零”》一文，复盘引发热议的腾讯司庆讲话内容。总办在LinkTime播客中表示，智能革命若不投入拥抱就是被颠覆，这是生死存亡的问题；当前不是和平年代，不能自以为安全或谈好条件利益才上船。公司要求所有核心业务面向AI时代再创业，主动增效，组织扁平化，打破山头主义和地盘意识，以小团队为作战单元，加快速度、马上行动。腾讯称要做以人为本的AI，坚持AI造福人类和社会、由人控制、赋能人的创造力；投入很大是因为AI发展仍在早期，但如果不投以后可能连参与机会也没有。腾讯AI金字塔核心是模型，已进入国内第一梯队，小微、元宝、WorkBuddy等产品覆盖用户日常需求，AI应用开发才刚开始。总办还表示要心态归零，打破旧管理流程，让更多有机小团队做大事，并号召所有人先动起来，把焦虑转为兴奋、全情投入。"
+    },
+    {
+      "title": "中国与东盟宣布将2027年定为人工智能合作年",
+      "tags": [
+        "中国东盟合作",
+        "人工智能",
+        "自贸区3.0"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027607.htm",
+          "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
+          "origin": "IT之家",
+          "time": 1794802658
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10732701.shtml",
+          "title": "中国与东盟宣布将2027年定为人工智能合作年",
+          "origin": "中新网",
+          "time": 1794801420
+        },
+        {
+          "link": "https://www.news.cn/world/20261116/680eef31514d4fcfbbfb7f50afcd8adf/c.html",
+          "title": "中国与东盟宣布将2027年定为人工智能合作年",
+          "origin": "新华网",
+          "time": 1794758400
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/16/content_613771.html",
+          "title": "中国与东盟宣布将2027年定为人工智能合作年",
+          "origin": "科技日报",
+          "time": 1794806276
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U31nqdizIr",
+          "title": "中国与东盟宣布将2027年定为人工智能合作年",
+          "origin": "环球网",
+          "time": 1794801441
+        }
+      ],
+      "summary": "据央视新闻报道，中国与东盟宣布将2027年定为人工智能合作年。同时，中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。东盟现有11个成员国，秘书处设在印度尼西亚雅加达。此前，广西壮族自治区工业和信息化厅于2025年3月发布《广西“人工智能+制造”行动方案（2025—2027年）》，支持南宁建设中国—东盟人工智能创新合作中心；2025年2月，广西与老挝在万象签约共建中国—老挝人工智能创新合作中心，这是中国与东盟国家签订的首个人工智能合作创新平台。"
+    },
+    {
+      "title": "DeepSeek因算力不足对免费用户限额并调整额度管理",
+      "tags": [
+        "DeepSeek",
+        "算力不足",
+        "免费用户限额",
+        "服务故障",
+        "AI大模型"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyxiqz1144747.shtml",
+          "title": "DeepSeek推出限额使用措施，近期因调用量飙升出现多次故障",
+          "origin": "新浪新闻",
+          "time": 1794811704
+        },
+        {
+          "link": "https://www.yicai.com/news/103441951.html",
+          "title": "调用量冲上全球第一，DeepSeek开始对免费用户限额了",
+          "origin": "第一财经",
+          "time": 1794816330
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261116/49876179.html",
+          "title": "DeepSeek因算力不足限额 额度管理逻辑曝光",
+          "origin": "中国网",
+          "time": 1794804054
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786026",
+          "title": "算力不足，DeepSeek开始对免费用户限额",
+          "origin": "华尔街见闻",
+          "time": 1794831828
+        },
+        {
+          "link": "https://news.ifeng.com/c/8y6Nk2hs4Ok",
+          "title": "DeepSeek开始对免费用户限额了",
+          "origin": "凤凰网",
+          "time": 1794817800
+        }
+      ],
+      "summary": "因算力资源供给紧张，DeepSeek于11月16日面向普通用户的App及网页版对话服务推出限额使用措施。具体包括：不再支持存续超过7天且无活跃交互的长对话，下调单次输入文本上限至约4万字，并限制每日对话额度，达到上限时提示“因服务器繁忙，使用额度已达上限”。行业分析认为，该调整意在回收闲置会话占用的KV缓存资源，优先保障活跃用户推理需求。DeepSeek自10月以来出现多次服务中断，官方状态页记录8起故障，其中10月15日故障持续超过4小时。官方尚未发布统一限额规则及解除时间，部分用户对调整不透明表示不满。DeepSeek在C端商业化上态度克制，创始人梁文锋曾强调长期目标是AGI，算力是主要限制。"
+    },
+    {
+      "title": "外交部：习近平将于11月19日在深圳同普京、特朗普举行中俄美元首会晤",
+      "tags": [
+        "中俄美元首会晤",
+        "习近平",
+        "普京",
+        "特朗普",
+        "深圳"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3785984",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "华尔街见闻",
+          "time": 1794791082
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004559025/will-hold-a-china-russia-us-summit-with-russian-president",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "富途牛牛",
+          "time": 1794790953
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8206117.html",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "钛媒体",
+          "time": 1794790860
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTI0NuJfh9FwARWCIz6nHta261116.shtml",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "CCTV",
+          "time": 1794793316
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTI950UnkurIBUnPCptYHz7261116.shtml",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "CCTV",
+          "time": 1794791477
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-16/10732602.shtml",
+          "title": "（深圳APEC）习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "origin": "中新网",
+          "time": 1794794400
+        },
+        {
+          "link": "https://international.caixin.com/2026-11-16/102505128.html",
+          "title": "外交部：习近平将同普京、特朗普举行中俄美元首会晤",
+          "origin": "财新",
+          "time": 1794792771000
+        }
+      ],
+      "summary": "据新华社消息，外交部发言人11月16日宣布：11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。相关报道显示，普京、特朗普先后抵达深圳，中俄美三国元首将首次面对面会晤。"
+    },
+    {
+      "title": "1至10月全国铁路完成固定资产投资6773亿元",
+      "tags": [
+        "铁路投资",
+        "固定资产投资",
+        "重点工程",
+        "铁路建设"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTI9XrG9cR2eMLibXEzL7bA261116.shtml",
+          "title": "1至10月全国铁路完成固定资产投资6773亿元",
+          "origin": "CCTV",
+          "time": 1794798537
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10732671.shtml",
+          "title": "1至10月全国铁路完成固定资产投资6773亿元",
+          "origin": "中新网",
+          "time": 1794798960
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10732815.shtml",
+          "title": "1至10月中国铁路完成固定资产投资6773亿元",
+          "origin": "中新网",
+          "time": 1794817020
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794812494129788.html",
+          "title": "1至10月全国铁路完成固定资产投资6773亿元",
+          "origin": "新京报",
+          "time": 1794812604
+        }
+      ],
+      "summary": "据国铁集团消息，今年1至10月，全国铁路完成固定资产投资6773亿元，同比增长0.9%，一批重点建设项目加快推进。进入10月以来，天府新区至蒲江铁路正式开通运营，与成都至雅安铁路、成都至自贡至宜宾高速铁路衔接，雅安至天府机场站最快80分钟可达。淮北至宿州至蚌埠城际铁路、阜阳至蒙城至宿州（淮北）铁路、巢湖至马鞍山城际铁路启动试运行；重庆至万州高速铁路、银川至巴彦浩特铁路启动联调联试；渝昆高铁宜宾至昆明南段完成铺轨；成都至达州至万州高速铁路、南通至宁波高速铁路、兰州至张掖高速铁路武威至张掖段、珠海至肇庆高速铁路江门至珠三角枢纽机场段相继进入铺轨阶段。下一步，国铁集团将全面落实国家“十五五”规划《纲要》确定的各项铁路重点工程建设，持续提升铁路投资质量和效益。"
+    },
+    {
+      "title": "腾讯WorkBuddy国际版接入谷歌Gemini 4 Carbon大模型",
+      "tags": [
+        "腾讯WorkBuddy",
+        "Gemini 4 Carbon",
+        "AI大模型",
+        "百万Token上下文"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027487.htm",
+          "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+          "origin": "IT之家",
+          "time": 1794789877
+        },
+        {
+          "link": "https://www.chinaz.com/2026/1116/1788499.shtml",
+          "title": "谷歌Gemini 4 Carbon入驻腾讯WorkBuddy：百万Token上下文 暂仅限Pro用户使用",
+          "origin": "站长之家",
+          "time": 1794796324
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165979.htm",
+          "title": "百万Token上下文，谷歌Gemini 4 Carbon入驻腾讯WorkBuddy",
+          "origin": "快科技",
+          "time": 1794793260
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y5qlKHg5O5",
+          "title": "腾讯WorkBuddy国际版接入Gemini 4 Carbon：仅限Pro用户",
+          "origin": "凤凰科技",
+          "time": 1794792377
+        }
+      ],
+      "summary": "腾讯WorkBuddy国际版宣布正式上线谷歌Gemini 4 Carbon大模型，主要面向需要更深入推理和处理更长任务的场景，目前仅面向Pro计划用户开放。Gemini 4 Carbon由谷歌于11月10日正式开放，定位为适合处理复杂问题的模型，面向长周期智能体工作流，适用于复杂知识工作、软件工程、网络安全和科学推理等任务，支持文本、图像、音频和视频输入，输入与输出合计上下文窗口最高可达100万Token。此次接入意味着WorkBuddy Pro用户可在该平台内直接调用Gemini 4 Carbon，无需仅通过谷歌自有产品使用。WorkBuddy国际版支持用户在不同模型之间切换，并可连接办公软件及开发工具。目前WorkBuddy官方尚未公布该模型在平台内的具体调用额度及使用限制。"
+    },
+    {
+      "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+      "tags": [
+        "国民经济",
+        "工业生产",
+        "高技术制造业",
+        "服务业",
+        "国家统计局"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10732626.shtml",
+          "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+          "origin": "中新网",
+          "time": 1794795240
+        },
+        {
+          "link": "https://jingji.cctv.com/2026/11/16/ARTIeWJoofAAf3PYxHSs2hOQ261116.shtml",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "CCTV",
+          "time": 1794795053
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794791828129570.html",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "新京报",
+          "time": 1794794470
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10732619.shtml",
+          "title": "10月国民经济运行总体平稳、向新向优",
+          "origin": "中新网",
+          "time": 1794794520
+        },
+        {
+          "link": "https://www.nbd.com.cn/app_features/2559",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "每经网",
+          "time": 1794802722
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/16/e95028222c8f4c46b6ba31043defacf4.html",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "花城",
+          "time": 1794794460
+        },
+        {
+          "link": "https://www.news.cn/fortune/20261116/9e572fdeafbe4df991a7d92603b24094/c.html",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "新华网",
+          "time": 1794758400
+        },
+        {
+          "link": "https://www.yicai.com/news/103441440.html",
+          "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+          "origin": "第一财经",
+          "time": 1794798341
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/16/content_39103021.htm",
+          "title": "10月份国民经济运行总体平稳、向新向优",
+          "origin": "光明网",
+          "time": 1794822931
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/16/content_39103848.htm",
+          "title": "一组数据看10月份国民经济运行总体平稳、向新向优",
+          "origin": "光明网",
+          "time": 1794840932
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U3BQAaD1SX",
+          "title": "10月国民经济运行总体平稳、向新向优",
+          "origin": "环球网",
+          "time": 1794817593
+        }
+      ],
+      "summary": "国家统计局11月16日发布数据显示，10月份国民经济运行延续总体平稳、向新向优发展态势。工业生产较快增长，全国规模以上工业增加值同比增长4.8%，装备制造业和高技术制造业增加值分别增长10.6%和17.6%，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长85.9%、30.0%、26.0%。服务业平稳增长，全国服务业生产指数同比增长4.6%，现代服务业增势良好。市场销售规模扩大，1至10月份社会消费商品和服务零售总额同比增长2.5%，其中服务零售额增长4.9%。固定资产投资同比下降，但知识产权产品投资同比增长9.2%，高技术产业投资增长4.0%。货物进出口总额同比增长20.0%，全国城镇调查失业率平均值为5.2%，就业物价总体稳定，新质生产力茁壮成长。"
+    },
+    {
+      "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+      "tags": [
+        "伊朗",
+        "霍尔木兹海峡",
+        "油轮",
+        "触雷"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-16/10732537.shtml",
+          "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+          "origin": "中新网",
+          "time": 1794784800
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTITYuoou5oyge2e90LPLx8261116.shtml",
+          "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+          "origin": "CCTV",
+          "time": 1794782293
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-16/10732532.shtml",
+          "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+          "origin": "中新网",
+          "time": 1794781200
+        },
+        {
+          "link": "https://www.163.com/dy/article/LBS5LLBV0514BQ68.html?f=post1603_tab_news",
+          "title": "伊朗：一艘超级油轮在霍尔木兹海峡触雷沉没",
+          "origin": "网易号",
+          "time": 1794811142
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U3Coh1CVMw",
+          "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+          "origin": "环球网",
+          "time": 1794819936
+        }
+      ],
+      "summary": "据央视新闻报道，当地时间16日，伊朗军队海军表示，当天清晨在霍尔木兹海峡以东一处限制区域内，一艘油轮触雷起火并停航。伊朗海军强调，关闭导航系统、未经伊朗授权擅自进入限制区域或不安全海域，会使违规船只面临严重风险。另据土耳其阿纳多卢通讯社报道，伊朗伊斯兰革命卫队15日宣布，两艘沿未经伊朗授权航线行驶的油轮在霍尔木兹海峡南部海域触雷并引发剧烈爆炸，这些油轮在美国军方支持下关闭了所有识别及定位系统，试图秘密通过海峡；其中一艘载有超过200万桶原油的超级油轮在爆炸起火后沉没于波斯湾南部海域。"
+    },
+    {
+      "title": "华为Pura X Max与苹果折叠屏大屏对比：比例适配成关键",
+      "tags": [
+        "折叠屏手机",
+        "华为Pura X Max",
+        "苹果折叠屏",
+        "大屏对比",
+        "比例适配"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166025.htm",
+          "title": "苹果折叠和华为Pura X Max大屏怎么比",
+          "origin": "快科技",
+          "time": 1794799500
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166021.htm",
+          "title": "苹果新款折叠屏对比华为Pura X Max",
+          "origin": "快科技",
+          "time": 1794799500
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166024.htm",
+          "title": "苹果折叠屏手机和华为Pura X Max",
+          "origin": "快科技",
+          "time": 1794799500
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166023.htm",
+          "title": "苹果18折叠对比华为Pura X Max",
+          "origin": "快科技",
+          "time": 1794799500
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166020.htm",
+          "title": "苹果折叠对比华为Pura X Max",
+          "origin": "快科技",
+          "time": 1794799500
+        }
+      ],
+      "summary": "快科技发布文章对比苹果折叠屏手机与华为Pura X Max的大屏体验，重点讨论比例适配问题。华为Pura X Max于2026年4月20日发布、4月25日开售，属于横向阔折叠大折叠手机，配备7.7英寸OLED内屏和5.4英寸OLED外屏，内外屏比例均约为1.4:1，旨在减少切换时的重新排版。文章称，该机外屏支持小红书最高3列布局，内屏最高5列；华为实验室与直板机对比测试显示，观看16:9视频有效显示面积提升约50%，观看4:3视频提升约135%。该机搭载麒麟9030 Pro与HarmonyOS 7，配备5000万像素可变光圈主摄和5000万像素长焦，支持3.5倍光学变焦，内置5300mAh电池，支持66W有线和50W无线充电，建议零售价10999元起。文章同时提醒消费者关注系统迁移、便携性、折痕和续航等实际体验，并建议先体验真机与常用应用再决定购买。"
+    },
+    {
+      "title": "IBM副董事长称Anthropic IPO将成AI估值风向标",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI估值",
+        "科技巨头"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1004560492/anthropic-s-blockbuster-ipo-draws-its-sword-this-week-does",
+          "title": "Anthropic超级IPO本周出鞘，美股AI信仰面临最严苛大考？",
+          "origin": "富途牛牛",
+          "time": 1794797820
+        },
+        {
+          "link": "https://news.futunn.com/post/1004617674/tech-giants-deepen-ties-with-anthropic-as-an-upcoming-ipo",
+          "title": "科技巨头深度绑定Anthropic，一场IPO牵动整个AI产业链",
+          "origin": "富途牛牛",
+          "time": 1794837360
+        },
+        {
+          "link": "https://database.caixin.com/2026-11-16/102505163.html",
+          "title": "IBM副董事长：Anthropic IPO将成AI估值风向标",
+          "origin": "财新",
+          "time": 1794797268000
+        }
+      ],
+      "summary": "财新网报道，IBM副董事长Gary Cohn表示，Anthropic的IPO将成为AI行业估值的重要风向标。他指出，企业AI投资回报尚不明朗，上市初期表现不代表长期走势。相关报道显示，Anthropic IPO最多募资625亿美元，估值下探至1万亿至1.4万亿美元，并拟将两成IPO份额留给散户。此前OpenAI和Anthropic估值出现松动，AI初创企业身价面临重估。"
+    },
+    {
+      "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支下调近三成，英伟达受冲击最严重",
+      "tags": [
+        "AI算力",
+        "SemiAnalysis",
+        "英伟达",
+        "汇丰",
+        "资本开支"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3786019",
+          "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
+          "origin": "华尔街见闻",
+          "time": 1794828539
+        },
+        {
+          "link": "https://news.futunn.com/post/1004613632/semianalysis-sharply-cuts-ai-compute-forecasts-2028-capital-expenditure-forecast",
+          "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
+          "origin": "富途牛牛",
+          "time": 1794829020
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxchy8902176.shtml",
+          "title": "汇丰将英伟达评级下调至持有 目标价从365美元下调至170美元",
+          "origin": "新浪新闻",
+          "time": 1794803150
+        }
+      ],
+      "summary": "研究机构SemiAnalysis大幅下修AI算力预测，将2028年资本开支预测下调近三成，五年硅片出货面积下调17%，其中英伟达受冲击最严重。同时，汇丰将英伟达评级下调至持有，目标价从365美元下调至170美元。"
+    },
+    {
+      "title": "美国ULA火神火箭发射失败，亚马逊40颗卫星全部损失",
+      "tags": [
+        "火神火箭",
+        "ULA",
+        "亚马逊卫星",
+        "发射失败",
+        "航天"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8y5mPP88NHn",
+          "title": "美国ULA火神火箭发射完全失败，40颗亚马逊卫星全部损失",
+          "origin": "凤凰网",
+          "time": 1794787140
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165940.htm",
+          "title": "美国火神火箭发射失败，亚马逊40颗卫星全报废",
+          "origin": "快科技",
+          "time": 1794781920
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y5eBiwNU9w",
+          "title": "美火箭升空10分钟后故障，亚马逊40颗卫星损失",
+          "origin": "凤凰科技",
+          "time": 1794783425
+        }
+      ],
+      "summary": "当地时间11月15日，美国联合发射联盟（ULA）的“火神”火箭从佛罗里达州卡纳维拉尔角发射升空，执行亚马逊Leo低轨卫星互联网网络的首批部署任务，搭载40颗宽带卫星。火箭飞行约10分钟后出现异常，未能将卫星送入预定轨道，40颗卫星全部损失。ULA表示正与亚马逊及相关机构调查具体原因并制定纠正措施。这是ULA自2006年成立以来首次遭遇整次发射任务完全失败，也是“火神”火箭第五次飞行、时隔9个月复飞。亚马逊称相信ULA会从任务中吸取经验。此次事故可能影响亚马逊后续卫星部署及ULA发射安排，事故原因和火箭恢复飞行时间尚未公布。"
+    },
+    {
+      "title": "豆包工作上线21个场景工作台，降低AI使用门槛",
+      "tags": [
+        "豆包工作",
+        "AI工作台",
+        "专业场景",
+        "办公效率"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027608.htm",
+          "title": "豆包工作新功能工作台上线，首批覆盖金融、医疗、教育等 21 个专业场景",
+          "origin": "IT之家",
+          "time": 1794803253
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786017",
+          "title": "豆包工作上线21个场景工作台，降低技能与工具配置门槛",
+          "origin": "华尔街见闻",
+          "time": 1794821419
+        },
+        {
+          "link": "https://finance.sina.com.cn/tob/2026-11-16/doc-iniyxcic1263174.shtml",
+          "title": "豆包工作上线工作台功能，首批覆盖21个专业场景",
+          "origin": "新浪新闻",
+          "time": 1794809503
+        }
+      ],
+      "summary": "豆包工作宣布独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景。该功能为用户打造专属AI工作空间，预先配置专业场景所需技能和工具，用户无需逐项挑选即可直接使用，大幅降低AI使用门槛并提升工作效率。例如金融投研工作台提供公告解读、业绩分析、市场简报等入口，并可通过插件链接万得、同花顺等数据服务；创意设计工作台覆盖海报设计、社媒配图等技能。用户还可自建个性化工作台并保存分享。目前该功能已在豆包工作电脑版和豆包电脑版上线。"
+    },
+    {
+      "title": "无界进化完成超亿元Pre-A轮融资，刷新虚拟细胞企业单笔融资纪录",
+      "tags": [
+        "无界进化",
+        "Pre-A轮融资",
+        "虚拟细胞",
+        "AI4S",
+        "生命科学"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027609.htm",
+          "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称刷新中国虚拟细胞企业单笔融资纪录",
+          "origin": "IT之家",
+          "time": 1794804123
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/2026-11-16/doc-iniyxcia5689064.shtml",
+          "title": "无界进化宣布完成超亿元Pre-A轮融资，称刷新中国虚拟细胞企业单笔融资纪录",
+          "origin": "新浪新闻",
+          "time": 1794803337
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786001",
+          "title": "无界进化获Pre-A轮超亿元融资，红杉中国再投AI生命科学",
+          "origin": "华尔街见闻",
+          "time": 1794808808
+        }
+      ],
+      "summary": "AI for Science企业无界进化（INFevo）宣布完成超亿元Pre-A轮融资，称刷新中国虚拟细胞企业单笔融资金额纪录。本轮由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等联合投资，老股东顺为资本、红杉中国和松禾资本继续追加。这是公司继2026年6月完成数千万元天使轮融资后，五个月内完成的第二轮融资。资金将用于加快AI4S基础设施建设，推动细胞响应预测、科学假说检验与高通量自动化实验反馈协同，打造覆盖靶点发现、虚拟筛选、临床方案优化的全链路AI生物学平台。公司提出递归科学发现理念，构建自研基础大模型OCOO与高通量自动化实验的双驱闭环体系，其OCOO-T模型在Tahoe100M、Replogle和PBMC三大单细胞扰动基准评测中取得行业领先表现。"
+    },
+    {
+      "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+      "tags": [
+        "生态环境保护督察",
+        "中央督察",
+        "进驻阶段",
+        "环境信访举报"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTI9OPhNNgdiZK4dpKApo7k261116.shtml",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "CCTV",
+          "time": 1794820232
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/16/content_613955.html",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "科技日报",
+          "time": 1794819816
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-16/10732833.shtml",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "中新网",
+          "time": 1794818040
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-16/10732824.shtml",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "中新网",
+          "time": 1794816120
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/16/6b2c1dfba3a2433283e4c4e5631aefc0.html",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "花城",
+          "time": 1794816000
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794815203129849.html",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "新京报",
+          "time": 1794816164
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/16/ARTI0kNPVqHKX2njWgPia4K2261116.shtml",
+          "title": "第三轮第七批中央生态环保督察完成督察进驻阶段工作",
+          "origin": "CCTV",
+          "time": 1794839534
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U3CGuPZU0P",
+          "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+          "origin": "环球网",
+          "time": 1794819021
+        }
+      ],
+      "summary": "经党中央、国务院批准，第三轮第七批5个中央生态环境保护督察组于2026年10月13日至15日陆续进驻住房城乡建设部、农业农村部开展例行督察，并对湖北、湖南、广西、重庆、四川、贵州、云南7省（区、市）开展溶洞天坑山谷污染问题专项督察，近日已全面完成督察进驻阶段工作。截至2026年11月15日，两个例行督察组共受理群众来电、来信有效举报607件，经梳理合并重复举报后累计转办382件，被督察对象已办结或阶段办结249件；不属于被督察部门领域的信访举报已按程序转交有关方面办理。"
+    },
+    {
+      "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+      "tags": [
+        "APEC",
+        "经贸合作",
+        "区域经济一体化",
+        "商务部"
+      ],
+      "links": [
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214911&sid=21",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "上观",
+          "time": 1794821721
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-16/10732907.shtml",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "中新网",
+          "time": 1794821700
+        },
+        {
+          "link": "https://www.news.cn/world/20261116/e2b704c87b50459ca4d212b536b1ead5/c.html",
+          "title": "今年中国与APEC经济体已达成近50项经贸务实成果",
+          "origin": "新华网",
+          "time": 1794758400
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/16/5eba59a07905433aa2060415250f312f.html",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "花城",
+          "time": 1794821700
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794821663129991.html",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "新京报",
+          "time": 1794821738
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8207099.html",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "钛媒体",
+          "time": 1794822360
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-16/10733052.shtml",
+          "title": "（深圳APEC）今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "中新网",
+          "time": 1794833820
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U3DyOfKWIJ",
+          "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
+          "origin": "环球网",
+          "time": 1794821878
+        }
+      ],
+      "summary": "11月16日，2026年APEC领导人会议周新闻中心举行第四场吹风会。中国国际贸易谈判代表兼商务部副部长李成钢介绍，今年以来，商务部会同各相关部门在经贸领域围绕推进区域经济一体化、支持世贸组织工作、深化数智合作和发展绿色经济四条主线推动合作，与APEC经济体携手达成近50项务实成果。"
+    },
+    {
+      "title": "美法官驳回三星、SK海力士撤诉申请，DRAM反垄断诉讼继续",
+      "tags": [
+        "DRAM",
+        "反垄断",
+        "三星",
+        "SK海力士",
+        "存储芯片"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3786030",
+          "title": "三星、SK海力士、美光合谋制造内存短缺？美法官拒绝驳回反垄断诉讼",
+          "origin": "华尔街见闻",
+          "time": 1794834546
+        },
+        {
+          "link": "https://news.futunn.com/post/1004623042/did-samsung-sk-hynix-and-micron-conspire-to-create-a",
+          "title": "三星、SK海力士、美光合谋制造内存短缺？美法官拒绝驳回反垄断诉讼",
+          "origin": "富途牛牛",
+          "time": 1794834540
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586560.htm",
+          "title": "SK海力士宣布未来五年投入10.5亿美元扶持本土芯片供应商",
+          "origin": "cnBeta",
+          "time": 1794809640
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165945.htm",
+          "title": "三星、SK海力士撤诉申请遭驳回 被指人为制造DRAM短缺",
+          "origin": "快科技",
+          "time": 1794783900
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1166/1166108.htm",
+          "title": "狂砸3万亿元，SK海力士开建全球最高芯片厂：150米高",
+          "origin": "快科技",
+          "time": 1794815160
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywste8972452.shtml",
+          "title": "SK海力士将在五年内投入10亿美元支持芯片供应商",
+          "origin": "新浪新闻",
+          "time": 1794787497
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8206084.html",
+          "title": "SK海力士将在五年内投入10亿美元支持芯片供应商",
+          "origin": "钛媒体",
+          "time": 1794787980
+        }
+      ],
+      "summary": "美国一名法官驳回三星、SK海力士及美光提出的撤诉申请，相关反垄断诉讼将继续推进。该诉讼指控上述存储芯片厂商合谋人为制造DRAM短缺。与此同时，SK海力士宣布未来五年投入约10.5亿美元支持韩国本土半导体材料、零部件及设备供应商，并联合政府建设测试设施“Trinity Fab”，计划于2027年5月投入运营。"
+    }
+  ]
 }
