@@ -1,5 +1,798 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-17T08:56:05Z",
-  "summary": []
+  "generated_at": "2026-11-19T14:55:38Z",
+  "summary": [
+    {
+      "title": "Anthropic拟通过IPO及私募配售筹至多904亿美元，有望超SpaceX纪录",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "人工智能",
+        "融资"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3785673",
+          "title": "IPO路演日加码企业办公市场，Anthropic推出多款AI工具，正面挑战微软Office",
+          "origin": "华尔街见闻",
+          "time": 1794345115
+        },
+        {
+          "link": "https://news.futunn.com/post/1004077193/ipo-roadshow-day-intensifies-focus-on-the-corporate-office-market",
+          "title": "IPO路演日加码企业办公市场，Anthropic推出多款AI工具，正面挑战微软Office",
+          "origin": "富途牛牛",
+          "time": 1794349680
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xxfJwGrfIH",
+          "title": "Anthropic向澳大利亚散户开放IPO认购，IPO及私募规模最高904亿美元",
+          "origin": "凤凰科技",
+          "time": 1794365220
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785685",
+          "title": "抢在Anthropic IPO前出手，投资者据称兜售配售份额，溢价高达5%",
+          "origin": "华尔街见闻",
+          "time": 1794351328
+        },
+        {
+          "link": "https://news.futunn.com/post/1004085425/moving-ahead-of-anthropic-s-ipo-investors-reportedly-offloading-allocation",
+          "title": "抢在Anthropic IPO前出手，投资者据称兜售配售份额，溢价高达5%",
+          "origin": "富途牛牛",
+          "time": 1794351300
+        },
+        {
+          "link": "https://database.caixin.com/2026-11-11/102503357.html",
+          "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+          "origin": "财新",
+          "time": 1794363870000
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnn2342380.shtml",
+          "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+          "origin": "新浪新闻",
+          "time": 1794348068
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnp2247205.shtml",
+          "title": "Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温",
+          "origin": "新浪新闻",
+          "time": 1794337064
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585844.htm",
+          "title": "Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温",
+          "origin": "cnBeta",
+          "time": 1794345120
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiak8719979.shtml",
+          "title": "Anthropic投资者提前兜售IPO配售股份 额外收取最高5%费用",
+          "origin": "新浪新闻",
+          "time": 1794359084
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xxKTzm1dB0",
+          "title": "Anthropic将发布办公套件整合AI功能 对抗微软、谷歌",
+          "origin": "凤凰科技",
+          "time": 1794348984
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xwB8ugsWDh",
+          "title": "估值五周蒸发近万亿，Anthropic冲击史上第二大IPO",
+          "origin": "凤凰科技",
+          "time": 1794359447
+        },
+        {
+          "link": "https://www.yicai.com/news/103436282.html",
+          "title": "不等2万亿了，Anthropic估值缩水冲刺IPO",
+          "origin": "第一财经",
+          "time": 1794384362
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585840.htm",
+          "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+          "origin": "cnBeta",
+          "time": 1794345000
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585834.htm",
+          "title": "Anthropic 启动IPO路演 估值目标高达1.4万亿美元",
+          "origin": "cnBeta",
+          "time": 1794329940
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785720",
+          "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会大举做多中国AI",
+          "origin": "华尔街见闻",
+          "time": 1794385314
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785717",
+          "title": "Anthropic IPO估值1.3万亿美元，创始人人均身家180亿美元",
+          "origin": "华尔街见闻",
+          "time": 1794385197
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8200673.html",
+          "title": "Anthropic的上市承销商考虑将其IPO估值推高至1.5万亿美元以上",
+          "origin": "钛媒体",
+          "time": 1794358260
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiae5415294.shtml",
+          "title": "Anthropic的投行考虑将IPO估值推高至1.5万亿美元以上",
+          "origin": "新浪新闻",
+          "time": 1794358912
+        },
+        {
+          "link": "https://news.futunn.com/post/1004186901/anthropic-s-ipo-sparks-frenzied-demand-subscription-orders-exceed-targets",
+          "title": "Anthropic IPO遭疯抢，认购需求数倍超额，目标估值1.4万亿美元",
+          "origin": "富途牛牛",
+          "time": 1794404340
+        },
+        {
+          "link": "https://news.futunn.com/post/1004181317/on-the-eve-of-its-ipo-anthropic-disclosed-that-it",
+          "title": "IPO前夕，Anthropic披露与微软、谷歌达成114亿美元新云计算协议",
+          "origin": "富途牛牛",
+          "time": 1794401100
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785750",
+          "title": "Anthropic IPO遭疯抢，认购需求数倍超额，目标估值1.4万亿美元",
+          "origin": "华尔街见闻",
+          "time": 1794403998
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785744",
+          "title": "IPO前夕，Anthropic再追加114亿美元算力采购订单",
+          "origin": "华尔街见闻",
+          "time": 1794400653
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvt1696877.shtml",
+          "title": "Anthropic大型IPO据称获数倍超额认购",
+          "origin": "新浪新闻",
+          "time": 1794404217
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykkpz2272368.shtml",
+          "title": "Anthropic世纪IPO恐成AI行情高点 科技老将称禁售期满或现连锁回调",
+          "origin": "新浪新闻",
+          "time": 1794392872
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvu8370785.shtml",
+          "title": "Anthropic IPO获数倍超额认购，最高拟募资904亿美元，或创全球IPO纪录",
+          "origin": "新浪新闻",
+          "time": 1794407020
+        }
+      ],
+      "summary": "人工智能公司Anthropic的IPO已获数倍超额认购。公司计划以每股70至78美元发行8.25亿股，并同步进行260亿美元私募配售，合计最高融资约904亿美元，有望超过SpaceX计划中的IPO成为全球规模最大股票发行交易。Anthropic寻求约1.4万亿美元完全稀释后估值，股票代码“ANT”，计划在纳斯达克全球精选市场上市，由高盛和摩根士丹利牵头承销。部分现有投资者正转售IPO认购配额或通过SPV出售间接权益并收取额外费用。"
+    },
+    {
+      "title": "英伟达独立董事聘请前联邦检察官及律所调查黄仁勋相关事件",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "独立调查",
+        "公司治理"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8200650.html",
+          "title": "英伟达独立董事聘请前检察官与华尔街顶级律所，就黄仁勋事件展开调查",
+          "origin": "钛媒体",
+          "time": 1794356400
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyiiae5378783.shtml",
+          "title": "英伟达独立董事聘请前检察官与华尔街顶级律所，就黄仁勋事件展开调查",
+          "origin": "新浪新闻",
+          "time": 1794356974
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585892.htm",
+          "title": "黄仁勋风波改变美国国会芯片政策博弈 英伟达面临更严出口管制压力",
+          "origin": "cnBeta",
+          "time": 1794379080
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8xugZ5rMQHS",
+          "title": "英伟达董事会聘请前美国检察官，启动黄仁勋相关事件全面调查",
+          "origin": "凤凰科技",
+          "time": 1794351613
+        },
+        {
+          "link": "https://m.ithome.com/html/1025201.htm",
+          "title": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件",
+          "origin": "IT之家",
+          "time": 1794349927
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585922.htm",
+          "title": "英伟达董事会聘请前美国检察官 启动黄仁勋相关事件全面调查",
+          "origin": "cnBeta",
+          "time": 1794383280
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164732.htm",
+          "title": "英伟达董事会聘请前美国检察官，全面调查黄仁勋事件",
+          "origin": "快科技",
+          "time": 1794351600
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnp2253278.shtml",
+          "title": "英伟达独立董事聘请外部律所 对黄仁勋事件展开调查",
+          "origin": "新浪新闻",
+          "time": 1794342099
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585842.htm",
+          "title": "英伟达独立董事聘请外部律所 对黄仁勋事件展开调查",
+          "origin": "cnBeta",
+          "time": 1794345060
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585904.htm",
+          "title": "黄仁勋已回英伟达上班、开会 试图营造一切如常",
+          "origin": "cnBeta",
+          "time": 1794382020
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026111111/英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "title": "英伟达聘前联邦检察官牵头调查黄仁勋相关风波",
+          "origin": "kagi",
+          "time": 1794339803
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026111011/英伟达调查黄仁勋是否成为外国情报行动目标",
+          "title": "英伟达调查黄仁勋是否成为外国情报行动目标",
+          "origin": "kagi",
+          "time": 1794347460
+        }
+      ],
+      "summary": "英伟达独立董事已聘请美国纽约南区前代理联邦检察官Joon H. Kim及其所在的沃奇尔·立普顿律师事务所开展独立调查。英伟达董事会此前于11月8日宣布启动独立调查，由独立董事委员会负责监督，并获外部独立法律顾问协助。相关报道提及调查涉及CEO黄仁勋相关事件，黄仁勋已回英伟达上班、开会，试图营造一切如常。"
+    },
+    {
+      "title": "我国成功发射探源计划探路者卫星",
+      "tags": [
+        "探源计划",
+        "卫星发射",
+        "长征二号丁",
+        "酒泉卫星发射中心"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/11/ARTIQpqcX8dMSiMe77FD5cIm261111.shtml",
+          "title": "我国成功发射探源计划探路者卫星",
+          "origin": "CCTV",
+          "time": 1794398871
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/11/content_611990.html",
+          "title": "我国成功发射探源计划探路者卫星",
+          "origin": "科技日报",
+          "time": 1794404580
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/11/7a6aa7343b614f55afe37689e78134de.html",
+          "title": "我国成功发射探源计划探路者卫星",
+          "origin": "花城",
+          "time": 1794398700
+        },
+        {
+          "link": "http://www.chinanews.com//shipin/cns-d/2026/11-11/news1074629.shtml",
+          "title": "中国成功发射探源计划探路者卫星",
+          "origin": "中新网",
+          "time": 1794407160
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-11/10730548.shtml",
+          "title": "中国发射探源计划探路者卫星",
+          "origin": "中新网",
+          "time": 1794405540
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/11-11/1210571.shtml",
+          "title": "我国成功发射探源计划探路者卫星",
+          "origin": "中新网",
+          "time": 1794402780
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Tz9x7ZixmS",
+          "title": "我国成功发射探源计划探路者卫星",
+          "origin": "环球网",
+          "time": 1794398676
+        }
+      ],
+      "summary": "11月11日19时41分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这次任务是长征系列运载火箭的第677次飞行。"
+    },
+    {
+      "title": "OpenAI第三季度营收增至100亿美元，亏损持续扩大",
+      "tags": [
+        "OpenAI",
+        "营收",
+        "亏损",
+        "Anthropic",
+        "AI行业"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiae5360548.shtml",
+          "title": "OpenAI第三季度营收据悉达到100亿美元，环比激增近50%",
+          "origin": "新浪新闻",
+          "time": 1794353510
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykefx1828609.shtml",
+          "title": "OpenAI第三季度营收飙升至100亿美元，但亏损持续扩大",
+          "origin": "新浪新闻",
+          "time": 1794388265
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8200670.html",
+          "title": "OpenAI三季度营收据悉增长近50%，达到100亿美元",
+          "origin": "钛媒体",
+          "time": 1794357660
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiah2135702.shtml",
+          "title": "OpenAI营收增至100亿美元但持续面临巨额亏损",
+          "origin": "新浪新闻",
+          "time": 1794353397
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585900.htm",
+          "title": "OpenAI营收增至100亿美元但持续面临巨额亏损",
+          "origin": "cnBeta",
+          "time": 1794381540
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiiae5365753.shtml",
+          "title": "OpenAI第三季度营收增长近50% 达到100亿美元",
+          "origin": "新浪新闻",
+          "time": 1794354369
+        }
+      ],
+      "summary": "据知情人士透露，OpenAI第三季度营收环比增长近50%至100亿美元，增速高于第二季度的17%，为去年同期增速的2.6倍。营收增长主要得益于GPT 5.6、Astra等新模型及图像生成模型通过API销售增长，以及广告业务收入提升（8月年化营收达10亿美元）。公司付费用户接近1亿，周活跃用户达12亿。但公司仍面临巨额运营亏损，调整后运营利润率从-150%改善至-109%，运营亏损从101亿美元小幅升至109亿美元。OpenAI正寻求新一轮融资，估值有望达1.25万亿美元。竞争对手Anthropic第三季度营收近170亿美元，运营亏损缩小至5.67亿美元，并准备下周进行IPO。OpenAI正加大企业市场投入，企业业务第三季度实现翻倍增长并占营收大头。"
+    },
+    {
+      "title": "Anthropic七名联合创始人拟在IPO中各套现2.5亿美元",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "联合创始人",
+        "套现"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyixyf2399407.shtml",
+          "title": "纳指预测：通胀数据拖累指数，Anthropic公布IPO发行细节",
+          "origin": "新浪新闻",
+          "time": 1794382069
+        },
+        {
+          "link": "https://m.ithome.com/html/1025217.htm",
+          "title": "Anthropic 七名联合创始人拟在 IPO 中各套现 2.5 亿美元",
+          "origin": "IT之家",
+          "time": 1794354679
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585846.htm",
+          "title": "Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元",
+          "origin": "cnBeta",
+          "time": 1794345180
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xxGFR994eS",
+          "title": "Anthropic七名联合创始人拟在IPO中各套现2.5亿美元",
+          "origin": "凤凰科技",
+          "time": 1794348989
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8200666.html",
+          "title": "Anthropic七名联合创始人拟在IPO中套现17.5亿美元",
+          "origin": "钛媒体",
+          "time": 1794357600
+        }
+      ],
+      "summary": "Anthropic公布最新招股书，七名联合创始人将在下周IPO中合计出售价值17.5亿美元的股票，按发行价区间中点计算每人约套现2.5亿美元。公司计划通过IPO和私募配售筹集最多904亿美元，对应估值约1.4万亿美元。此次IPO计划发行8.25亿股，发行价区间为每股78美元，预计11月19日前后进行，约20%发行股份分配给散户投资者，募资收入最高达644亿美元。"
+    },
+    {
+      "title": "华为官宣全新子品牌星芒：11月20日首次亮相，首款阔直板手机同步登场",
+      "tags": [
+        "华为",
+        "星芒",
+        "子品牌",
+        "阔直板手机",
+        "发布会"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/1111/1787547.shtml",
+          "title": "华为全新子品牌星芒官宣，11月20日发布 首款阔直板手机蓄势待发",
+          "origin": "站长之家",
+          "time": 1794363943
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniyipke2108796.shtml",
+          "title": "余承东官宣华为手机全新子品牌OSTA星芒，将于11月20日首次亮相",
+          "origin": "新浪新闻",
+          "time": 1794362329
+        },
+        {
+          "link": "https://www.chinaz.com/2026/1111/1787559.shtml",
+          "title": "余承东官宣全新华为子品牌OSTA星芒：11月20日首次和大家见面",
+          "origin": "站长之家",
+          "time": 1794363964
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164761.htm",
+          "title": "华为全新子品牌官宣11月20日见，首款阔直板蓄势待发",
+          "origin": "快科技",
+          "time": 1794359820
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xxbHx2EJ2U",
+          "title": "余承东官宣华为新子品牌OSTA星芒：11月20日首次亮相",
+          "origin": "凤凰科技",
+          "time": 1794362486
+        },
+        {
+          "link": "https://www.yicai.com/news/103435753.html",
+          "title": "余承东官宣华为子品牌星芒，首款手机瞄准AI市场",
+          "origin": "第一财经",
+          "time": 1794369931
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164774.htm",
+          "title": "余承东官宣全新华为子品牌，11月20日首秀",
+          "origin": "快科技",
+          "time": 1794361620
+        }
+      ],
+      "summary": "华为于11月11日宣布，鸿蒙智行享界V8及星芒品牌发布会将于11月20日14:30举行，全新子品牌星芒将正式亮相，首款阔直板手机有望同步登场。余承东已发文预热，确认星芒将在本次发布会首次与公众见面。据爆料，星芒首批产品或包括OSTA O1和OSTA O1 Pro，其中O1 Pro采用6.39英寸1.5K LTPS阔直屏，屏幕比例16:9.5，极窄四等边设计边框约1.05mm。渠道方面，星芒将同时布局线上与线下，线上由现有华为店铺承接，线下进入华为体验店。产品定位上配置对标旗舰，但作为子品牌定价预计较Pura X View更为亲民。星芒长远规划还可能覆盖平板、耳机、智能手表、路由器等品类。"
+    },
+    {
+      "title": "比亚迪承认大唐部分车辆轮辋错装并提供免费更换",
+      "tags": [
+        "比亚迪",
+        "大唐",
+        "轮辋错装",
+        "免费更换",
+        "致歉"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1025396.htm",
+          "title": "比亚迪就大唐轮辋装配问题致歉：系供应商录入失误，提供免费调换",
+          "origin": "IT之家",
+          "time": 1794371743
+        },
+        {
+          "link": "https://original.ifeng.com/c/8xxmxTrvKPj",
+          "title": "比亚迪致歉大唐部分车辆轮辋错装：将免费调换，整车质保重新起算",
+          "origin": "凤凰科技",
+          "time": 1794372873
+        },
+        {
+          "link": "https://kite.kagi.com/china/2026111117/比亚迪承认大唐部分车辆轮辋错装并提供免费更换",
+          "title": "比亚迪承认大唐部分车辆轮辋错装并提供免费更换",
+          "origin": "kagi",
+          "time": 1794344296
+        },
+        {
+          "link": "https://www.caixin.com/2026-11-11/102503686.html",
+          "title": "大唐车型部分车辆错装轮辋 比亚迪公开致歉",
+          "origin": "财新",
+          "time": 1794402885000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8200989.html",
+          "title": "比亚迪就大唐轮辋装配问题致歉",
+          "origin": "钛媒体",
+          "time": 1794372780
+        }
+      ],
+      "summary": "比亚迪汽车11月11日发布声明，回应部分大唐车辆轮辋装配异常问题。经核查，问题系轮辋分装供应商湖北铂遇实业有限公司编码录入失误，导致部分车辆错装轮辋。比亚迪已开展排查和编码修正，确保后续批次不再出现同类问题，供应商也新增产线视觉防错等机制。比亚迪表示，经专项检测，涉及车辆不影响操控，行驶无安全风险。官方将邀请受影响车主前往当地服务门店免费检测并专业调换轮辋，维修期间提供代步车或交通费用补偿，并对错装车辆自即日起重新起算整车质保。比亚迪就此事致歉，承诺全面复盘、协同供应商持续整改。"
+    },
+    {
+      "title": "俄计划于2027年选定月球核电站方案",
+      "tags": [
+        "俄罗斯",
+        "月球核电站",
+        "航天",
+        "核能"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20261111/4c51f333e4074e2d95af9ff36829dad8/c.html",
+          "title": "俄计划于2027年选定月球核电站方案",
+          "origin": "新华网",
+          "time": 1794326400
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TzDYLbHmmI",
+          "title": "俄计划于2027年选定月球核电站方案",
+          "origin": "环球网",
+          "time": 1794404722
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/11/AP6af47a5ae4b028ec01938c13.html",
+          "title": "俄计划2027年选定月球核电站方案",
+          "origin": "文汇网",
+          "time": 1794407129
+        }
+      ],
+      "summary": "俄罗斯国家原子能公司首席执行官利哈乔夫11月10日表示，该公司计划于2027年选定月球核电站方案。目前俄国家原子能公司正与库尔恰托夫研究所、俄科学院联合研究5种月球核电站构型，功率可达10千瓦，计划于本世纪30年代中期开始运行。利哈乔夫称必须在明年选定构型并启动相关工作，方案范围从核能直接转换为电能到建造相应涡轮装置。库尔恰托夫研究所所长科瓦尔丘克今年3月曾表示，俄罗斯可能在5至7年内在月球建成核电站。"
+    },
+    {
+      "title": "谷歌应对AI对其广告巨头业务的冲击",
+      "tags": [
+        "谷歌",
+        "AI广告",
+        "搜索广告",
+        "业务冲击",
+        "广告主"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8xwB8ugsWDJ",
+          "title": "谷歌最强AI碳全球解禁，再现人类首次登月",
+          "origin": "凤凰科技",
+          "time": 1794350747
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2389832.shtml",
+          "title": "谷歌应对AI对其广告巨头业务的冲击",
+          "origin": "新浪新闻",
+          "time": 1794391504
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585940.htm",
+          "title": "谷歌应对AI对其广告巨头业务的冲击",
+          "origin": "cnBeta",
+          "time": 1794392040
+        }
+      ],
+      "summary": "谷歌推出AI摘要和AI模式等搜索AI功能后，其核心搜索广告业务增长承压。2026年第三季度搜索广告增速从二季度的17%回落至12%，财报发布次日字母表股价大跌近13%。部分广告主反映AI功能分流了传统搜索流量，且AI场景广告数量更少、转化率更低。谷歌称正审慎探索AI场景广告变现，并通过合作与收购提升广告价值，管理层强调AI蕴含长期机遇。"
+    },
+    {
+      "title": "李彦宏现身国家会议中心预热百度世界大会，体验AI麻将与健身助手",
+      "tags": [
+        "李彦宏",
+        "百度世界大会",
+        "AI应用",
+        "健身助手"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9131095.shtml",
+          "title": "李彦宏现身预热百度世界大会，和AI搓麻将，体验AI健身助手",
+          "origin": "新浪新闻",
+          "time": 1794388557
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165027.htm",
+          "title": "李彦宏陪AI搓麻将后又健身，身材保持超好 依旧儒雅帅气",
+          "origin": "快科技",
+          "time": 1794389520
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585938.htm",
+          "title": "李彦宏现身预热百度世界大会 和AI搓麻将 体验AI健身助手",
+          "origin": "cnBeta",
+          "time": 1794392040
+        }
+      ],
+      "summary": "2026年11月11日下午，百度创始人李彦宏在百度世界大会开幕前一日现身国家会议中心，现场体验多项AI新应用。他首先与AI对战麻将，随后体验了Arvipace运动健康Personal Agent。该智能Agent主打运动陪伴，slogan为“你只管专注训练，训练目标、安排、执行都交给它”，可辅助用户进行撸铁训练，全程氛围轻松。据了解，李彦宏将出席次日召开的百度世界大会，对外分享百度最新技术迭代、大模型产品与业务进展，并介绍百度AI落地的新方向。"
+    },
+    {
+      "title": "OpenAI调整ChatGPT语音体系 逐步淘汰标准语音模式",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "语音功能",
+        "产品调整",
+        "用户争议"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3785678",
+          "title": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战",
+          "origin": "华尔街见闻",
+          "time": 1794345127
+        },
+        {
+          "link": "https://news.futunn.com/post/1004077211/openai-introduces-chatgpt-enterprise-features-challenging-google-s-advertising-market",
+          "title": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战",
+          "origin": "富途牛牛",
+          "time": 1794353318
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585932.htm",
+          "title": "OpenAI调整ChatGPT语音体系 逐步淘汰现有的标准模式",
+          "origin": "cnBeta",
+          "time": 1794384480
+        }
+      ],
+      "summary": "OpenAI宣布对ChatGPT语音功能进行重大调整，计划逐步淘汰现有的“标准语音模式”和“高级语音模式”品牌区分，整合为统一的新语音体验。OpenAI表示，此举旨在减少用户功能选择上的复杂性，让语音交互体验更加一致，并认为随着语音模型持续升级，维持多个独立语音模式已无必要。然而，这一决定在用户社区引发广泛争议。部分用户认为标准语音模式响应速度快、资源占用少，具有独特价值；另一些用户则偏好高级语音模式特有的对话风格和交互方式，不希望被统一方案取代。批评者担忧科技公司以“简化产品线”为由取消用户熟悉的功能，最终导致用户失去选择权。支持者则认为统一语音模型可降低开发复杂度，若新模型能兼顾效率与自然交流能力，长期有望带来更一致体验。目前OpenAI尚未公布旧语音模式完全停止服务的最终时间表，但确认调整正在推进。"
+    },
+    {
+      "title": "10月新能源汽车月度新车销量占比达64.3%",
+      "tags": [
+        "新能源汽车",
+        "汽车销量",
+        "产销数据",
+        "汽车出口"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/11/content_611766.html",
+          "title": "10月新能源汽车月度新车销量占比达64.3%",
+          "origin": "科技日报",
+          "time": 1794382352
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/11/content_39096643.htm",
+          "title": "10月新能源汽车月度新车销量占比达64.3%",
+          "origin": "光明网",
+          "time": 1794390963
+        },
+        {
+          "link": "https://www.news.cn/fortune/20261111/b5e9695ebc0f4b47977867d16ee1ee06/c.html",
+          "title": "10月新能源汽车月度新车销量占比达64.3%",
+          "origin": "新华网",
+          "time": 1794326400
+        }
+      ],
+      "summary": "中国汽车工业协会11月11日发布数据显示，2026年10月，新能源汽车产销分别完成201.7万辆和194万辆，同比分别增长13.8%和13.1%，新能源汽车月度新车销量占比达到64.3%。10月汽车产销分别完成306.3万辆和301.6万辆，环比分别增长2.5%和2%，同比小幅下降。前10个月，汽车产销分别完成2631.8万辆和2628.6万辆，新能源汽车产销分别完成1450.9万辆和1441.1万辆，同比分别增长11.5%和11.3%，新能源汽车新车销量累计占比上升至54.8%。出口方面，10月汽车出口106.6万辆，同比增长60.2%，其中新能源汽车出口60.6万辆，同比增长1.4倍；前10个月汽车累计出口927.1万辆，新能源汽车出口461.2万辆，同比增长1.3倍。"
+    },
+    {
+      "title": "我国新能源汽车销量占比持续走高",
+      "tags": [
+        "新能源汽车",
+        "销量占比",
+        "汽车工业协会",
+        "汽车出口"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/11/ARTImmpxrByNbH17oye3jmnz261111.shtml",
+          "title": "我国新能源汽车销量占比持续走高",
+          "origin": "CCTV",
+          "time": 1794381242
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/11/b7567eb606f147a1b58ad8a88a42c243.html",
+          "title": "我国新能源汽车销量占比持续走高",
+          "origin": "花城",
+          "time": 1794377040
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/11/ARTIUSFF3u9IjZYP6g3zai7Y261111.shtml",
+          "title": "我国新能源汽车销量占比持续走高",
+          "origin": "CCTV",
+          "time": 1794399467
+        }
+      ],
+      "summary": "中国汽车工业协会11日发布数据显示，10月份我国汽车产销量双双超过300万辆，环比实现一定幅度增长。其中新能源汽车产销量分别完成201.7万辆和194万辆，同比分别增长13.8%和13.1%，新能源汽车新车销量占汽车新车总销量的64.3%。今年以来新能源汽车市场主体地位不断巩固，1至10月累计销量占比达54.8%，10月新能源乘用车国内市场占比超过七成。专家表示，销量占比持续走高是产业技术迭代、产品力提升、市场接受度提高共同作用的结果。数据还显示，我国汽车出口量已连续五个月超过100万辆，新能源汽车出口占比连续五个月超过50%，10月新能源汽车出口60.6万辆，同比增长1.4倍。"
+    },
+    {
+      "title": "装载约4万吨俄罗斯柴油的油轮赴美途中停航",
+      "tags": [
+        "俄罗斯柴油",
+        "油轮停航",
+        "美国制裁",
+        "能源贸易"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20261111/91a94dbfb4ae4848b319d6b4ececa151/c.html",
+          "title": "一艘装载约4万吨俄罗斯柴油的油轮赴美途中停航",
+          "origin": "新华网",
+          "time": 1794326400
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4Tyfp58Wqk6",
+          "title": "一艘装载约4万吨俄罗斯柴油的油轮赴美途中停航",
+          "origin": "环球网",
+          "time": 1794348081
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyiaun8783978.shtml",
+          "title": "一艘装载约4万吨俄罗斯柴油的油轮赴美途中停航",
+          "origin": "新浪新闻",
+          "time": 1794350406
+        },
+        {
+          "link": "https://news.ifeng.com/c/8xxBZjNCMNI",
+          "title": "装载约4万吨俄柴油的油轮赴美途中停航",
+          "origin": "凤凰网",
+          "time": 1794347160
+        }
+      ],
+      "summary": "新华社伦敦11月10日电，国际市场服务机构克普勒公司发布消息称，一艘装载约4万吨俄罗斯柴油、原计划驶往美国纽约的油轮目前停留在北大西洋，尚未抵达美国东海岸，下一步航向不明。该船名为“AGIOI FANENDES”，10月23日在俄罗斯普里莫尔斯克港装载超低硫柴油，船舶自动识别系统最初显示目的地为美国纽约，预计11月7日抵达，随后目的地信息变更为“等待指令”。自11月9日以来，该油轮几乎处于静止状态，吃水深度仍保持在11米，表明货物尚未卸载。英国温沃德海事分析公司称，此前高度确信有两艘油轮装载俄罗斯柴油驶往美国，但其中一艘已掉头；即使另一艘继续驶往美国，其所载货物也很可能并非柴油。美国财政部外国资产控制办公室10月9日公告称，未来几个月将放松针对俄罗斯柴油贸易的制裁，以缓解美国国内柴油供应紧张、平抑油价。温沃德表示，尽管美方已发布相关许可证，俄罗斯柴油仍可能无法运抵美国。"
+    },
+    {
+      "title": "第一批新车次列车车票今起陆续发售",
+      "tags": [
+        "铁路",
+        "列车车次",
+        "车票发售",
+        "普速列车",
+        "货运列车"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-11/10729887.shtml",
+          "title": "第一批新车次列车车票 今起陆续发售",
+          "origin": "中新网",
+          "time": 1794353640
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794353198129695.html",
+          "title": "第一批新车次列车车票 今起陆续发售",
+          "origin": "新京报",
+          "time": 1794353678
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/11/ARTIVWLKMr8tUPODxAo592XK261111.shtml",
+          "title": "第一批新车次列车车票 今起陆续发售",
+          "origin": "CCTV",
+          "time": 1794353753
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1211773&sid=21",
+          "title": "第一批新车次列车车票，今起陆续发售",
+          "origin": "上观",
+          "time": 1794355944
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8200653.html",
+          "title": "第一批新车次列车车票今起陆续发售",
+          "origin": "钛媒体",
+          "time": 1794356820
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4TykG4UB8mJ",
+          "title": "第一批新车次列车车票 今起陆续发售",
+          "origin": "环球网",
+          "time": 1794355529
+        }
+      ],
+      "summary": "全国铁路列车车次编排改革顺利推进。11月25日0时起，始发开行的普速旅客列车将正式使用新车次；11月24日18时起，始发开行的货物列车将正式使用新车次。第一批实行新车次的列车车票自今日起陆续发售。动车组列车车次此次暂不变更，将于12月下旬实施变更。按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母：Z表示最高运行时速160公里的快速旅客列车，车次为Z1至Z1998；N表示最高运行时速140公里的快速旅客列车，车次为N1至N1998；V表示最高运行时速120公里的普速旅客列车，其中快速旅客列车车次为V1至V5998，普通旅客快车车次为V6001至V6998，普通旅客慢车车次为V7001至V7998。货物列车方面，货运班列车次字母由X全部改为B，与既有货运班列号段基本对应，其他货物列车车次仍采用无字头字母的编排方式。"
+    },
+    {
+      "title": "苹果折叠屏手机2026新款对比：华为Pura X Max大阔折选购分析",
+      "tags": [
+        "苹果折叠屏",
+        "华为Pura X Max",
+        "折叠屏选购",
+        "万元折叠屏"
+      ],
+      "links": [
+        {
+          "link": "https://news.zol.com.cn/1271/12718664.html",
+          "title": "苹果阔折叠怎么选？万元折叠屏内外屏与办公体验分析",
+          "origin": "zol",
+          "time": 1794370440
+        },
+        {
+          "link": "https://news.zol.com.cn/1271/12718650.html",
+          "title": "苹果折叠屏手机2026新款怎么选？万元折叠购机思路",
+          "origin": "zol",
+          "time": 1794370380
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1164/1164830.htm",
+          "title": "苹果折叠屏手机2026新款对比",
+          "origin": "快科技",
+          "time": 1794369000
+        }
+      ],
+      "summary": "文章围绕2026年苹果折叠屏手机新款与华为Pura X Max等机型的选购展开对比。华为Pura X Max采用双面阔型屏设计，内屏7.7英寸、外屏5.4英寸，内外屏保持同一比例，合上与展开时视觉比例不跳变。官方实验室数据显示，其内屏观看16:9视频有效显示面积提升约50%，查看PPT显示面积提升约50%，浏览Excel同字号多显示约33%行数。该机支持悬停会议、文件预览大师及M-Pen 3 Mini手写笔，搭载HarmonyOS 7与小艺伴随式AI，后置四摄含5000万像素超光变主摄和5000万像素长焦，支持IP58和IP59级别防尘抗水，建议零售价10999元起。文章同时提及iPhone Duo、OPPO Find N6、Samsung Galaxy Z Fold8等机型的不同定位，建议消费者按高频使用场景和生态习惯选择。"
+    }
+  ]
 }
