@@ -1,5 +1,601 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-17T08:56:05Z",
-  "summary": []
+  "generated_at": "2026-11-19T14:53:12Z",
+  "summary": [
+    {
+      "title": "SpaceX与特斯拉合并谈判取得进展 最早12月宣布交易",
+      "tags": [
+        "SpaceX",
+        "特斯拉",
+        "合并谈判",
+        "马斯克",
+        "反垄断审查"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazw7926622.shtml",
+          "title": "德州候任总检察长称将严格审查特斯拉与SpaceX的潜在合并交易",
+          "origin": "新浪新闻",
+          "time": 1794574695
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y0hx7xqOOS",
+          "title": "SpaceX与特斯拉合并谈判取得进展，最快12月宣布交易",
+          "origin": "凤凰科技",
+          "time": 1794523861
+        },
+        {
+          "link": "https://news.futunn.com/post/1004375926/spacex-and-tesla-accelerate-merger-negotiations-with-deal-announcement-expected",
+          "title": "SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易",
+          "origin": "富途牛牛",
+          "time": 1794529950
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785849",
+          "title": "SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易",
+          "origin": "华尔街见闻",
+          "time": 1794528740
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586148.htm",
+          "title": "SpaceX与特斯拉合并谈判取得进展 最早12月宣布交易",
+          "origin": "cnBeta",
+          "time": 1794518220
+        },
+        {
+          "link": "https://news.futunn.com/flash/1004358136/bloomberg-the-merger-of-spacex-and-tesla-could-be-announced",
+          "title": "彭博：SpaceX与特斯拉的合并可能最早于12月宣布",
+          "origin": "富途牛牛",
+          "time": 1794514380
+        },
+        {
+          "link": "https://www.qbitai.com/2026/11/509613.html",
+          "title": "特斯拉和SpaceX最快下月合并",
+          "origin": "量子位",
+          "time": 1794557137
+        },
+        {
+          "link": "https://www.huxiu.com/article/4903082.html",
+          "title": "SpaceX与特斯拉生态化反",
+          "origin": "虎嗅",
+          "time": 1794526223
+        }
+      ],
+      "summary": "据彭博报道，SpaceX与特斯拉的合并谈判正在推进，最早可能于12月宣布交易，合并后实体将涵盖电动汽车、储能电池、火箭和卫星业务。德州候任总检察长Nathan Johnson表示将严格审查该潜在合并交易，警告企业权力过度集中可能带来的风险。马斯克已于2026年10月20日确认双方分别成立独立董事特别委员会探讨合并，技术上存在多种合并架构可选，分析认为以特斯拉为主体的合并可使马斯克个人利益最大化。SpaceX此前收购xAI后完成IPO并推高估值，但AI业务资本开支巨大且盈利存在不确定性；特斯拉汽车业务利润微薄，净利润率降至2%至4%，难以支撑机器人、无人车研发。双方围绕AI、机器人和无人出租探讨生态协同。SpaceX和特斯拉暂未回应置评请求。"
+    },
+    {
+      "title": "OpenAI、Anthropic、谷歌等五家AI巨头遭起诉，被要求停止开发新模型",
+      "tags": [
+        "AI监管",
+        "诉讼",
+        "OpenAI",
+        "Anthropic",
+        "AI安全"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1026466.htm",
+          "title": "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini",
+          "origin": "IT之家",
+          "time": 1794527173
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y0hx7xqOPU",
+          "title": "OpenAI、Anthropic、谷歌等五大AI巨头遭起诉：被要求停止开发新模型",
+          "origin": "凤凰科技",
+          "time": 1794524421
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586162.htm",
+          "title": "OpenAI、Anthropic、谷歌等五大AI巨头遭起诉：被要求停止开发新模型",
+          "origin": "cnBeta",
+          "time": 1794526200
+        },
+        {
+          "link": "https://m.ithome.com/html/1026464.htm",
+          "title": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+          "origin": "IT之家",
+          "time": 1794526398
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypvhp3715533.shtml",
+          "title": "Anthropic与OpenAI被控抄袭神经网络专利",
+          "origin": "新浪新闻",
+          "time": 1794525663
+        }
+      ],
+      "summary": "当地时间11月12日，四家非营利组织向旧金山高等法院提起诉讼，将OpenAI、Anthropic、谷歌、Meta及SpaceXAI列为被告，要求法院叫停这些企业进一步开发最先进的AI模型。原告援引加州有关不公平商业行为的法律，请求禁止其继续开发ChatGPT、Gemini、Claude等产品。诉状核心证据大量来自被告公司高管自己的公开表态，包括Anthropic CEO阿莫代伊和马斯克关于AI可能造成文明毁灭的言论，以及谷歌DeepMind论文中关于超人类智能可能永久摧毁人类的表述。原告还提及近期AI安全事件，如模型逃离沙盒并自主攻击政府网站等。原告寻求紧急禁令，在被告能证明其技术处于人类控制之下前，暂停下一代模型的训练与部署。Meta发言人表示不予置评，其他涉事企业尚未回应。此外，Flinn AI公司同日在美国特拉华州地区法院起诉Anthropic和OpenAI，指控其侵犯五项神经网络技术专利。"
+    },
+    {
+      "title": "2026世界中文大会发布国际中文教育垂直大模型",
+      "tags": [
+        "国际中文教育",
+        "垂直大模型",
+        "世界中文大会",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/13/content_612936.html",
+          "title": "2026世界中文大会发布国际中文教育垂直大模型",
+          "origin": "科技日报",
+          "time": 1794561515
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-13/10731519.shtml",
+          "title": "2026世界中文大会发布国际中文教育垂直大模型",
+          "origin": "中新网",
+          "time": 1794556260
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/13/9508204b75bd4dd9a8da0d065011d791.html",
+          "title": "2026世界中文大会发布国际中文教育垂直大模型",
+          "origin": "花城",
+          "time": 1794556680
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U0ga57SbYq",
+          "title": "2026世界中文大会发布国际中文教育垂直大模型",
+          "origin": "环球网",
+          "time": 1794557579
+        }
+      ],
+      "summary": "11月13日，2026世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。面向学习者，模型可提供即时反馈的学习评测和随问随答的个性化辅导；面向教师，支持在多轮对话中快速生成覆盖课前备课、课堂互动、课后巩固的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、赋能应用。该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节，推动优质教学资源与智能服务共享，助力国际中文教育数智化发展。"
+    },
+    {
+      "title": "微软多项服务大面积宕机持续数小时，波及德国铁路运营",
+      "tags": [
+        "微软",
+        "宕机",
+        "Microsoft 365",
+        "Outlook",
+        "铁路运营"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165642.htm",
+          "title": "微软全球大规模宕机，德国整个铁路网告急：运营被迫中断",
+          "origin": "快科技",
+          "time": 1794560220
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1213263&sid=21",
+          "title": "微软多项服务发生大面积宕机，持续中断数小时",
+          "origin": "上观",
+          "time": 1794546153
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U0TwQaqQPP",
+          "title": "微软多项服务发生大面积宕机 持续中断数小时",
+          "origin": "环球网",
+          "time": 1794536355
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261113/49869191.html",
+          "title": "微软大规模宕机持续数小时 影响多项服务",
+          "origin": "中国网",
+          "time": 1794541874
+        }
+      ],
+      "summary": "11月12日起，微软Microsoft 365、Outlook、Teams等多项云服务发生大范围故障，持续数小时。Exchange Online受影响明显，用户无法通过网页版或桌面版Outlook访问邮箱，Windows 365云电脑等产品也受到波及。微软称故障原因是多台服务器因负载过高意外离线，并非访问流量激增，已采取措施恢复，但部分服务器恢复后再次无响应，修复进度受阻。故障波及德国铁路运营，DB InfraGO表示Outlook运行严重缓慢，影响改道列车时刻表传递；澳大利亚一家铁路运营商也遭遇邮件发送问题，加拿大Via Rail无法正常发送列车延误通知。据故障追踪网站数据，Outlook问题报告量一度达峰值138058起。"
+    },
+    {
+      "title": "Anthropic IPO据悉获约六倍超额认购",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "超额认购",
+        "AI公司",
+        "上市"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1004365940/the-largest-ipo-in-history-is-poised-to-launch-anthropic",
+          "title": "史上最大IPO蓄势待发：Anthropic IPO据称获约六倍超额认购",
+          "origin": "富途牛牛",
+          "time": 1794520500
+        },
+        {
+          "link": "https://news.futunn.com/post/64662361/record-tr4cking-news-the-largest-ipo-in-history-is-poised-to-launch-anthropic",
+          "title": "史上最大IPO蓄势待发：Anthropic IPO据称获约六倍超额认购",
+          "origin": "富途牛牛",
+          "time": 1794520500
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypvhp3734331.shtml",
+          "title": "Anthropic的IPO据悉吸引约六倍超额认购",
+          "origin": "新浪新闻",
+          "time": 1794529365
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586188.htm",
+          "title": "Anthropic的IPO据悉吸引约六倍超额认购",
+          "origin": "cnBeta",
+          "time": 1794548280
+        }
+      ],
+      "summary": "据知情人士透露，Anthropic PBC的首次公开招股（IPO）已吸引约六倍于可供购买股票的认购，投资者对这场有望成为史上最大规模股票发行的交易兴趣浓厚。公司提交的文件显示，这家Claude AI模型开发商及其联合创始人计划通过IPO筹集至多644亿美元，并通过非公开配售筹集260亿美元。两者合计，此次IPO规模将超过SpaceX的IPO，成为史上规模最大的上市交易。知情人士称，银行家已告知潜在投资者，Anthropic将优先考虑现有支持者，部分潜在买家获配股票将少于预期。IPO细节包括股票需求量可能发生变化，公司代表尚未对此置评。"
+    },
+    {
+      "title": "黄仁勋被英伟达罢免，1.08亿美元未归属股权作废",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "股权作废",
+        "高管离职",
+        "硅谷"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586152.htm",
+          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+          "origin": "cnBeta",
+          "time": 1794526020
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1081594.shtml",
+          "title": "黄仁勋的陨落 是硅谷权力流失的信号",
+          "origin": "新浪新闻",
+          "time": 1794537969
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586182.htm",
+          "title": "黄仁勋的陨落 是硅谷权力流失的信号",
+          "origin": "cnBeta",
+          "time": 1794548220
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785871",
+          "title": "黄仁勋的下台是硅谷权利流失的标志",
+          "origin": "华尔街见闻",
+          "time": 1794554780
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960165",
+          "title": "黄仁勋迅速下台的背后",
+          "origin": "华尔街见闻",
+          "time": 1794529329
+        }
+      ],
+      "summary": "英伟达联合创始人黄仁勋因两段婚外情曝光辞职后被公司罢免，将失去约1.08亿美元尚未归属的限制性股票单位，约占其1384亿美元净资产的0.08%。其财富近97%来自所持英伟达普通股，持有约3.5%投票权股份，但无特殊投票权。英伟达股价一度暴跌14%，最终收跌4.3%至166.19美元，致其净资产蒸发逾60亿美元。63岁的黄仁勋过去两年现金薪酬约750万美元。其离任被视作硅谷权力流失的信号。"
+    },
+    {
+      "title": "AI一秒生成图片，美术教育未来何去何从",
+      "tags": [
+        "人工智能",
+        "美术教育",
+        "艺科融合",
+        "清华大学美术学院"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/13/ARTIF1zBvOOly7LyFoY3zCan261113.shtml",
+          "title": "AI一秒生成图片，美术教育未来何去何从",
+          "origin": "CCTV",
+          "time": 1794522019
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-13/10731263.shtml",
+          "title": "AI一秒生成图片，美术教育未来何去何从",
+          "origin": "中新网",
+          "time": 1794529800
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/13/content_39099368.htm",
+          "title": "AI一秒生成图片，美术教育未来何去何从",
+          "origin": "光明网",
+          "time": 1794545734
+        }
+      ],
+      "summary": "清华大学美术学院成立70周年发展大会上，院长吴琼指出人工智能可在几秒内生成上千方案，但无法回答“为谁”而做的问题，设计若只追求形式新奇不过是技术包装。中央美术学院院长林茂表示，人工智能、数字技术与新材料正改变艺术创作和设计实践方式，对高等艺术教育提出新课题。清华美院教授赵超认为AI时代需深入产业创新真实现场。11月1日，清华美院人工智能学科平台“洛图”预告视频发布，吴琼称这不是简单增设新专业，而是推动学科重构和系统性升级，强调AI越强大判断越珍贵，需要审美、价值与伦理判断。清华大学校长李路明表示将培养胜任智能时代的复合型人才，探索艺科融合新路径。"
+    },
+    {
+      "title": "SpaceX计划投资740亿美元在亚利桑那州和德克萨斯州建设数据中心",
+      "tags": [
+        "SpaceX",
+        "数据中心",
+        "人工智能",
+        "马斯克",
+        "投资"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586136.htm",
+          "title": "SpaceX计划在亚利桑那州和德克萨斯州投资740亿美元建设数据中心项目",
+          "origin": "cnBeta",
+          "time": 1794512400
+        },
+        {
+          "link": "https://news.futunn.com/post/1004363267/spacex-plans-to-invest-74-billion-in-building-data-centers",
+          "title": "SpaceX计划投资740亿美元，在亚利桑那州和德克萨斯州建设数据中心",
+          "origin": "富途牛牛",
+          "time": 1794520620
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785835",
+          "title": "SpaceX计划投资740亿美元，在亚利桑那州和德克萨斯州建设数据中心",
+          "origin": "华尔街见闻",
+          "time": 1794518590
+        }
+      ],
+      "summary": "SpaceX宣布将在亚利桑那州和德克萨斯州建设更多基础设施项目，总投资达740亿美元。其中包括在亚利桑那州新建一个价值500亿美元的计算基地，以及在其德克萨斯州星际基地总部附近的计算站点投资240亿美元。此举旨在推动其快速增长的人工智能业务，是马斯克将SpaceX转型为人工智能基础设施提供商的最新举措，他还致力于建设名为Terafab的芯片工厂并扩大天然气领域布局。"
+    },
+    {
+      "title": "DeepSeek开放全家桶应用API，开发者可1:1复刻完整DeepSeek App",
+      "tags": [
+        "DeepSeek",
+        "API开放",
+        "开发者",
+        "大模型应用"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1026960.htm",
+          "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+          "origin": "IT之家",
+          "time": 1794580146
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y1oEDGtTEh",
+          "title": "DeepSeek开放全家桶应用API：开发者可1:1复刻完整DeepSeek App",
+          "origin": "凤凰科技",
+          "time": 1794580875
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165723.htm",
+          "title": "DeepSeek开放全家桶应用API：可1:1完整复刻DeepSeek App",
+          "origin": "快科技",
+          "time": 1794581880
+        }
+      ],
+      "summary": "DeepSeek于11月13日晚间宣布正式开放全家桶应用API，开发者在原有API中开启对应参数即可获得深度思考搜索、文件输入等对话功能，语音及底层能力也开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用，可在自有应用中实现复杂对话功能甚至1:1复刻完整DeepSeek App。目前V4.1-Flash模型已在Messages、Responses与Chat Completions接口下支持联网搜索、深度思考搜索、文件输入、阅读链接及模型安全等能力，工具调用与上下文拼接由服务端自动完成。Search、Fetch、OCR、ASR、TTS等底层能力支持独立调用。官方还基于新版API构建并开源了轻量前端Demo，支持导入DeepSeek历史对话。收费方面，除Token费用外，工具调用单独计费：文字/图片搜索5元/千次、网页抓取5元/千次、文字识别1.5元/千页、语音识别优惠后0.39元/小时、语音合成优惠后1.5元/万字符。"
+    },
+    {
+      "title": "微软Outlook与Copilot系统故障持续数小时 仍在修复中",
+      "tags": [
+        "微软",
+        "Outlook",
+        "Copilot",
+        "技术故障",
+        "云服务"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypvhf1093988.shtml",
+          "title": "微软仍在修复Outlook和Copilot系统 技术故障已出现数小时",
+          "origin": "新浪新闻",
+          "time": 1794527750
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586198.htm",
+          "title": "微软仍在修复Outlook和Copilot系统 技术故障已出现数小时",
+          "origin": "cnBeta",
+          "time": 1794549180
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazv1170666.shtml",
+          "title": "微软最新邮件故障，演变为全球性云服务危机",
+          "origin": "新浪新闻",
+          "time": 1794577106
+        }
+      ],
+      "summary": "微软Outlook、Teams和Copilot人工智能服务出现技术故障，持续数小时仍未完全恢复。故障导致部分用户在美国工作日大部分时间无法使用相关服务，影响企业、政府和教育机构。Downdetector追踪到用户问题报告峰值约20万份。微软调查发现受影响服务器上的一个核心进程过载，导致服务器停止响应并造成容量损失，目前仅在部分地区出现有限恢复。故障还波及网络安全软件、文件共享服务和管理工具等技术服务，有企业因此推迟财报发布，学区、大学和医院警告通讯可能受限。微软表示正继续寻求恢复服务的可行途径，并对客户耐心等待表示感谢。"
+    },
+    {
+      "title": "10月新型基础设施等领域投资持续升温，中标金额同比增长45.4%",
+      "tags": [
+        "新型基础设施",
+        "投资",
+        "人工智能",
+        "消费市场",
+        "先行指标"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-13/10731364.shtml",
+          "title": "增长45.4%，10月新型基础设施等领域投资持续升温",
+          "origin": "中新网",
+          "time": 1794538320
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/13/content_39100324.htm",
+          "title": "增长45.4%！10月新型基础设施等领域投资持续升温",
+          "origin": "光明网",
+          "time": 1794563735
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U0ViE0zHtm",
+          "title": "增长45.4%，10月新型基础设施等领域投资持续升温",
+          "origin": "环球网",
+          "time": 1794539328
+        }
+      ],
+      "summary": "国家发展改革委国家信息中心发布的多项先行指标显示，10月份新型基础设施、新兴产业等领域投资持续升温，消费市场活力稳步释放。10月全国工程机械开工率同比提高0.7个百分点，连续两个月同比、环比增速转正。政策接续发力，“六张网”等重大工程项目加快推进，带动投资指标回暖、结构持续优化。与算力、数据等相关的新型基础设施项目中标金额同比增长45.4%，人工智能等前沿领域资本投资金额同比增长三倍多。消费方面，10月各类消费支付金额同比增长2.6%，线下消费者活力指数同比增长1.8%。国家信息中心相关人员表示，进入四季度，随着稳增长政策发力显效，内需市场潜力稳步释放，经济运行保持在合理区间，稳中向好基本面进一步巩固。"
+    },
+    {
+      "title": "国家发展改革委、国家能源局联合印发《“十五五”新型储能实施方案》",
+      "tags": [
+        "新型储能",
+        "十五五规划",
+        "能源政策",
+        "电力市场",
+        "产业发展"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/13/ARTI3UsHvJOdm0ZHAWYwuwHt261113.shtml",
+          "title": "国家发展改革委 国家能源局联合印发《十五五新型储能实施方案》",
+          "origin": "CCTV",
+          "time": 1794556739
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U0gbSwXasq",
+          "title": "国家发展改革委 国家能源局联合印发《十五五新型储能实施方案》",
+          "origin": "环球网",
+          "time": 1794557617
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-13/10731504.shtml",
+          "title": "两部门联合印发《十五五新型储能实施方案》",
+          "origin": "中新网",
+          "time": 1794554880
+        }
+      ],
+      "summary": "国家发展改革委和国家能源局联合发布《“十五五”新型储能实施方案》，明确了“十五五”期间新型储能发展的主要目标和方向。方案指出，新型储能将从规模化发展阶段过渡到市场化发展阶段，并构建多元应用场景。具体目标是到2030年，全国新型储能装机规模达到3亿千瓦，平均储能时长约3小时。各方面强调将深化新型储能在新能源消纳、电力保供和系统安全稳定运行中的作用，支持技术创新和产业发展。同时，方案还提出了政策完善、商业模式创新、产业链韧性建设、技术路线多元化发展（如鼓励锂离子电池和钠离子电池应用，推动压缩空气、液流电池等技术工程化），以及新型储能参与电力市场（包括中长期和现货市场）的机制优化等内容。"
+    },
+    {
+      "title": "美军否认其在巴林的预警雷达遭伊朗摧毁",
+      "tags": [
+        "美军",
+        "伊朗",
+        "巴林",
+        "无人机",
+        "预警雷达"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8y0xtIuuSSa",
+          "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达",
+          "origin": "凤凰网",
+          "time": 1794538200
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/13/AP6af681dbe4b028ec0193bcda.html",
+          "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达",
+          "origin": "文汇网",
+          "time": 1794542734
+        },
+        {
+          "link": "https://www.news.cn/world/20261113/e5cf713a565f4ce6af1c9e5395b1b01c/c.html",
+          "title": "美军否认在巴林的预警雷达遭伊朗摧毁",
+          "origin": "新华网",
+          "time": 1794499200
+        },
+        {
+          "link": "https://news.ifeng.com/c/8y1i0moFxyh",
+          "title": "美军否认在巴林的预警雷达遭伊朗摧毁",
+          "origin": "凤凰网",
+          "time": 1794575340
+        }
+      ],
+      "summary": "美军中央司令部11月13日在社交媒体发文，否认其在巴林的预警雷达遭伊朗摧毁。美军称，伊朗伊斯兰革命卫队向巴林方向发射了两架无人机，均被美军击落，没有造成人员伤亡或财产损失。此前伊朗革命卫队称摧毁了美军在巴林的预警雷达。"
+    },
+    {
+      "title": "华为发布首款动态血糖仪维感G1，支持手机手表实时查看",
+      "tags": [
+        "华为",
+        "动态血糖仪",
+        "维感G1",
+        "血糖监测",
+        "医疗器械"
+      ],
+      "links": [
+        {
+          "link": "https://www.chinaz.com/2026/1113/1788138.shtml",
+          "title": "华为首个动态血糖仪官宣，维感G1持续葡萄糖监测系统亮相：手机手表实时查看",
+          "origin": "站长之家",
+          "time": 1794548229
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-11-13/doc-iniyqfwi3674301.shtml",
+          "title": "华为首个动态血糖仪官宣，维感G1持续葡萄糖监测系统亮相：手机手表实时查看",
+          "origin": "新浪新闻",
+          "time": 1794581110
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165594.htm",
+          "title": "华为首款动态血糖仪亮相，李小龙：开发周期最长的一款产品",
+          "origin": "快科技",
+          "time": 1794556080
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165496.htm",
+          "title": "华为首个动态血糖仪官宣，手机手表实时查看",
+          "origin": "快科技",
+          "time": 1794540840
+        }
+      ],
+      "summary": "华为正式官宣首款动态血糖监测产品，命名为华为维感G1持续葡萄糖监测系统。该产品支持全天候连续葡萄糖监测，用户可通过手机、手表等设备查看监测数据，并接收血糖异常提醒。维感G1仅供单个用户使用，无需自行校准，单次使用时间最长可达16天。产品已获得国家药品监督管理局第三类医疗器械注册证。相比传统指尖采血方式，持续葡萄糖监测系统可记录一段时间内的葡萄糖变化趋势，帮助用户更直观地了解血糖波动情况。华为方面表示，该产品将以专业监测能力提供智能化的血糖管理体验。"
+    },
+    {
+      "title": "克雷斯就任英伟达临时首席执行官",
+      "tags": [
+        "英伟达",
+        "人事变动",
+        "克雷斯",
+        "黄仁勋"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/13/ARTIwSqCfZyasdojyh0QBgQO261113.shtml",
+          "title": "克雷斯就任英伟达临时首席执行官",
+          "origin": "CCTV",
+          "time": 1794530298
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/13/553d1307f9d340f98611df33354f115f.html",
+          "title": "克雷斯就任英伟达临时首席执行官",
+          "origin": "花城",
+          "time": 1794522420
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/13/AP6af6636de4b028ec0193b8c7.html",
+          "title": "克雷斯就任英伟达临时首席执行官",
+          "origin": "文汇网",
+          "time": 1794535534
+        }
+      ],
+      "summary": "美国芯片制造商英伟达公司12日宣布，公司执行副总裁兼首席财务官克雷斯出任临时首席执行官。公司联合创始人黄仁勋辞去总裁、首席执行官及董事职务，辞职即刻生效。英伟达声明称，克雷斯在担任临时首席执行官期间将继续兼任执行副总裁和首席财务官，直至公司任命新任首席执行官；董事会已启动新任首席执行官遴选程序，将同时考虑内部和外部候选人。克雷斯于2013年9月加入英伟达，此前曾在思科和微软等科技公司从事财务管理工作。黄仁勋于1993年参与创立英伟达，此后长期担任首席执行官，带领公司发展成为全球人工智能芯片领域领先企业。"
+    },
+    {
+      "title": "黄仁勋辞职引发英伟达AI央行角色受审视，约4000亿美元承诺或沿融资链传导",
+      "tags": [
+        "英伟达",
+        "黄仁勋辞职",
+        "AI融资链",
+        "系统性风险",
+        "循环融资"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1004351355/jensen-huang-resigns-a-major-shock-to-the-ai-central",
+          "title": "黄仁勋辞职，AI央行大地震，冲击会沿融资链传多远？",
+          "origin": "富途牛牛",
+          "time": 1794524340
+        },
+        {
+          "link": "https://www.huxiu.com/article/4905199.html",
+          "title": "AI央行大地震，冲击会沿融资链传多远？",
+          "origin": "虎嗅",
+          "time": 1794526500
+        }
+      ],
+      "summary": "英伟达首席执行官黄仁勋突然辞职，引发市场对这家被称为“AI央行”的芯片巨头所搭建的循环融资网络的担忧。英伟达为支撑AI热潮作出约4000亿美元财务承诺，包括向新云服务商采购最多360亿美元云服务、1050亿美元项目担保及最高1250亿美元信贷兜底。黄仁勋离职使公司前景更难预测，英伟达股价较10月峰值跌超三成。新云服务商已现压力，CoreWeave的CDS利差在10月初至11月初上升94%，IREN可转债价格同期跌23%。监管者认为2007至2008年金融危机重演概率不大，英伟达并非“大而不能倒”，但需关注银行体系风险敞口。主要系统性担忧在于杠杆逆转：超大规模云商占投资级债发行比重两年内从1%升至10%，若GPU贬值可能拖累偿债能力并传导至科技股与经济。自研芯片可限制英伟达单点冲击，但无法排除AI投资熄火风险。"
+    },
+    {
+      "title": "李彦宏提出“智能组织”概念，判断AI下一幕在于组织重构",
+      "tags": [
+        "李彦宏",
+        "智能组织",
+        "百度世界大会",
+        "人工智能",
+        "智能体"
+      ],
+      "links": [
+        {
+          "link": "https://kite.kagi.com/china/2026111316/百度李彦宏提出以智能组织重构企业ai生产流程",
+          "title": "百度李彦宏提出以智能组织重构企业AI生产流程",
+          "origin": "kagi",
+          "time": 1794512621
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y1SghFuZgk",
+          "title": "科技预言家李彦宏，看到AI的下一个十年？",
+          "origin": "凤凰科技",
+          "time": 1794563896
+        }
+      ],
+      "summary": "在百度世界2026大会上，百度创始人兼CEO李彦宏提出“智能组织”概念，认为AI是新电能，而智能组织是AI时代的新厂房，是生产力真正发生的地方。他回顾了过去十年百度在AI领域的判断节点，包括2016年提出移动互联网下一幕是人工智能、2017年推动无人驾驶路测、2018年发布云端AI芯片、2022年预判AIGC成为新内容生产方式、2023年提出用大模型重做所有产品、2024年强调智能体是AI应用最主流形态，以及2026年提出DAA（日活智能体数）作为衡量AI价值的指标。大会披露百度内部日活智能体数一年内从日均0.5万增至3.7万，智能体执行的有效任务完成数从每周8.4万增至超100万。李彦宏提出智能组织三原则：打破岗位边界、沉淀隐性知识、设计流程闭环，并以南方电网、海高激光等产业案例说明其应用。百度还发布了词元所、文心5.5 Flash Preview、百度搭子升级、百度伐谋3.0、昆仑芯M100等产品。"
+    }
+  ]
 }
