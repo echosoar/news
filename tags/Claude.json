@@ -1,7 +1,19 @@
 {
   "tag": "Claude",
-  "generated_at": "2026-11-02T09:59:29Z",
+  "generated_at": "2026-11-19T14:26:37Z",
   "summary": [
+    {
+      "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2：速度提升30% API价格降20%",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Fable",
+        "Mythos",
+        "AI"
+      ],
+      "summary": "Anthropic发布了Claude Fable 5.2和Mythos 5.2两款新模型，据称速度提升30%，API价格下降20%。",
+      "date": "2026-11-10"
+    },
     {
       "title": "苹果CarPlay现接入Claude，用户开车也能语音问AI",
       "tags": [

@@ -1,7 +1,19 @@
 {
   "tag": "半导体",
-  "generated_at": "2026-11-02T09:59:29Z",
+  "generated_at": "2026-11-19T14:26:37Z",
   "summary": [
+    {
+      "title": "报道：迈威尔千亿吞并Lumentum，事前得到黄仁勋支持",
+      "tags": [
+        "并购",
+        "半导体",
+        "英伟达",
+        "Marvell",
+        "Lumentum"
+      ],
+      "summary": "据知情人士透露，Marvell Technology Inc．与Lumentum Holdings Inc．在达成近1030亿美元并购协议前，英伟达首席执行官黄仁勋曾表达支持。交易宣布前，Marvell首席执行官Matthew Murphy和Lumentum首席执行官Michael Hurlston在电话中征求了黄仁勋的意见。黄仁勋的支持凸显了英伟达鼓励主要供应商整合，因光连接需求成为数据中心建设瓶颈。英伟达今年早些时候对两家公司各投资20亿美元。Marvell同意以全股票交易方式收购Lumentum，交易价值1150亿美元（含债务），为史上第二大科技交易。两家公司今夏开始讨论合并，原计划在Lumentum财报发布时公布，因消息泄露提前宣布。",
+      "date": "2026-11-03"
+    },
     {
       "title": "日本和美国就5500亿美元投资计划下首个芯片项目达成一致",
       "tags": [
