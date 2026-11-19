@@ -1,5 +1,873 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-17T08:56:05Z",
-  "summary": []
+  "date": "2026-11-15",
+  "generated_at": "2026-11-19T14:34:50Z",
+  "summary": [
+    {
+      "title": "SpaceX星舰飞船首次被发射塔机械臂捕获回收",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "火箭回收",
+        "马斯克"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027253.htm",
+          "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+          "origin": "IT之家",
+          "time": 1794698818
+        },
+        {
+          "link": "https://www.huxiu.com/article/4905674.html",
+          "title": "马斯克SpaceX创造历史：筷子夹火箭2.0，星舰飞船首次被发射塔捕获",
+          "origin": "虎嗅",
+          "time": 1794710145
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4JQwLfy24",
+          "title": "马斯克SpaceX创造历史：筷子夹火箭2.0，星舰飞船首次被发射塔捕获",
+          "origin": "凤凰科技",
+          "time": 1794712565
+        },
+        {
+          "link": "https://m.ithome.com/html/1027434.htm",
+          "title": "SpaceX 星舰首次实现筷子夹飞船，但完全重复使用仍面临多重挑战",
+          "origin": "IT之家",
+          "time": 1794742618
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/science/1586482.htm",
+          "title": "SpaceX创造历史：筷子夹火箭2.0 星舰飞船首次被发射塔捕获",
+          "origin": "cnBeta",
+          "time": 1794728040
+        },
+        {
+          "link": "https://www.yicai.com/news/103440907.html",
+          "title": "SpaceX挑战星舰双回收完成一半：二级飞船首次被筷子接住",
+          "origin": "第一财经",
+          "time": 1794708052
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyucep2333298.shtml",
+          "title": "SpaceX星舰返回德克萨斯州发射场 发射塔机械臂成功捕获",
+          "origin": "新浪新闻",
+          "time": 1794693116
+        },
+        {
+          "link": "https://m.ithome.com/html/1027248.htm",
+          "title": "创造历史：美国 SpaceX 首次实现筷子夹星舰飞船",
+          "origin": "IT之家",
+          "time": 1794696887
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y440U5WzdB",
+          "title": "SpaceX首次实现筷子夹星舰壮举，马斯克祝贺",
+          "origin": "凤凰科技",
+          "time": 1794699358
+        }
+      ],
+      "summary": "当地时间11月14日，SpaceX在星舰第15次试飞中首次用发射塔机械臂成功捕获从轨道返回的第二级飞船，这是星舰飞船首次完成发射塔回收。飞船在完成约14圈轨道飞行后离轨再入，最终落入发射塔机械臂之间。马斯克在社交平台发文祝贺团队。此次任务原计划实现两级同时返回并被捕获，但超重型助推器B22在返航途中出现低燃料告警，捕获程序取消，助推器改道在墨西哥湾溅落，双捕获目标未能完全实现。SpaceX表示，双筷子式抓取方式能更快进行检查、修复和重新发射，是实现高频次复用和未来构建AI数据中心星座的关键，公司很可能在下一次飞行任务中再次尝试。"
+    },
+    {
+      "title": "英伟达工程师因黄仁勋离职心寒辞职",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "高管变动",
+        "投资者",
+        "请愿"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586432.htm",
+          "title": "英伟达两大机构投资者致信董事会：要求谨慎选择继任者 为黄仁勋回归保留可能",
+          "origin": "cnBeta",
+          "time": 1794689700
+        },
+        {
+          "link": "https://m.ithome.com/html/1027418.htm",
+          "title": "消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话",
+          "origin": "IT之家",
+          "time": 1794735952
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586452.htm",
+          "title": "超11万人联名呼吁黄仁勋重返英伟达 硅谷科技界声援浪潮持续扩大",
+          "origin": "cnBeta",
+          "time": 1794726960
+        },
+        {
+          "link": "https://original.ifeng.com/c/8y4E10tC0vX",
+          "title": "英伟达两大股东向董事会发公开信：要求考虑让黄仁勋回归",
+          "origin": "凤凰科技",
+          "time": 1794707323
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586470.htm",
+          "title": "英伟达两大股东向董事会发公开信 要求考虑让黄仁勋回归",
+          "origin": "cnBeta",
+          "time": 1794727860
+        },
+        {
+          "link": "https://www.163.com/dy/article/LBQE0SO70511D6RL.html?f=post1603_tab_news",
+          "title": "黄仁勋一走。。。英伟达一工程师心寒离职、不干了",
+          "origin": "网易号",
+          "time": 1794752790
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960182",
+          "title": "如果调查证明没有违法，黄仁勋应该重任英伟达CEO？",
+          "origin": "华尔街见闻",
+          "time": 1794742481
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960176",
+          "title": "马斯克再挺黄仁勋：英伟达很多业务没有书面协议",
+          "origin": "华尔街见闻",
+          "time": 1794702330
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysvmc2897712.shtml",
+          "title": "黄仁勋时代落幕 英伟达面临三重考验",
+          "origin": "新浪新闻",
+          "time": 1794718041
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuink6675800.shtml",
+          "title": "马斯克力挺 超10万人请愿黄仁勋回归",
+          "origin": "新浪新闻",
+          "time": 1794702819
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvery6380208.shtml",
+          "title": "英伟达CEO继承难题",
+          "origin": "新浪新闻",
+          "time": 1794734035
+        }
+      ],
+      "summary": "英伟达创始人黄仁勋于11月12日突然辞去CEO等职务，公司由首席财务官克雷斯暂代CEO并启动继任者遴选。Altimeter Capital与Atreides Management两家机构投资者致信董事会，要求审慎选择继任者，在相关事实厘清前不急于任命永久CEO，并保留黄仁勋回归可能。与此同时，网络联署活动“Stand with Jensen”持续扩大，马斯克等科技界人士公开支持，签名数已超5.5万份。报道还提到，一名英伟达工程师因黄仁勋离职感到心寒而辞职。黄仁勋离职发生在一系列有关其私人关系的报道之后，董事会已启动独立调查。"
+    },
+    {
+      "title": "美“星舰”飞船首次被发射塔机械臂捕获回收",
+      "tags": [
+        "星舰",
+        "太空探索",
+        "火箭回收",
+        "试飞"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/15/ARTIPzM6XAPF2GRTVUHLkQkt261115.shtml",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "CCTV",
+          "time": 1794694985
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/15/content_613395.html",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "科技日报",
+          "time": 1794703748
+        },
+        {
+          "link": "https://www.news.cn/world/20261115/c69708cac7b0478eadca86b3c4e2b35b/c.html",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "新华网",
+          "time": 1794672000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8y3wv3kPr5p",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "凤凰网",
+          "time": 1794691620
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucer3563747.shtml",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "新浪新闻",
+          "time": 1794695634
+        },
+        {
+          "link": "https://www.news.cn/world/20261115/cd3619a437b641b3906d974c9d4240fb/c.html",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "新华网",
+          "time": 1794672000
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/15/c6852adf998545e184a96c3d0b07dd19.html",
+          "title": "美星舰飞船首次被发射塔机械臂捕获回收",
+          "origin": "花城",
+          "time": 1794735900
+        }
+      ],
+      "summary": "美国太空探索技术公司重型运载火箭“星舰”的第二级飞船于11月14日返回地球，由发射塔机械臂“捕获”回收，完成第15次试飞，这是“星舰”飞船首次以这种方式回收。飞船于美国中部时间13日下午从得克萨斯州发射升空，原计划助推器和飞船均返回发射场回收，但一二级分离后“超级重型”助推器因低燃料警报改道，在墨西哥湾海域受控溅落。试飞持续约22.5小时，飞船进入约275公里轨道并部署26颗新一代“星链”V3卫星，在轨飞行20余小时后重返大气层，最终以垂直姿态被机械臂捕获。马斯克称助推器发动机表现低于预期，将改进发动机性能与飞行软件，助推器损失不影响高频次、完全可重复使用飞行的时间表。"
+    },
+    {
+      "title": "BLG 3:1战胜GEN夺《英雄联盟》S16冠军，LPL时隔五年再登顶",
+      "tags": [
+        "英雄联盟",
+        "BLG",
+        "S16全球总决赛",
+        "LPL",
+        "电子竞技"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027258.htm",
+          "title": "队史首次，BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
+          "origin": "IT之家",
+          "time": 1794700969
+        },
+        {
+          "link": "https://m.ithome.com/html/1027260.htm",
+          "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+          "origin": "IT之家",
+          "time": 1794702849
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4AyE1Uj0C",
+          "title": "B站宣布免费送所有人大会员，英雄联盟S16全球总决赛中国战队BLG夺冠",
+          "origin": "凤凰科技",
+          "time": 1794703268
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165870.htm",
+          "title": "BLG夺得S16全球总决赛冠军 时隔五年中国战队再登世界之巅",
+          "origin": "快科技",
+          "time": 1794719520
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214145&sid=21",
+          "title": "时隔5年再捧冠军奖杯，英雄联盟全球总决赛中国战队夺冠",
+          "origin": "上观",
+          "time": 1794702311
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165855.htm",
+          "title": "央视报道BLG夺得S16冠军，中国战队时隔5年再捧S赛奖杯",
+          "origin": "快科技",
+          "time": 1794705540
+        },
+        {
+          "link": "https://news.zol.com.cn/1272/12729637.html",
+          "title": "雷鸟创新兑现夺冠承诺，捐出AR眼镜全款支持BLG战队",
+          "origin": "zol",
+          "time": 1794721200
+        },
+        {
+          "link": "https://news.zol.com.cn/1273/12730010.html",
+          "title": "雷鸟捐售罄收入支持BLG战队，并赠冠军签名B站年卡",
+          "origin": "zol",
+          "time": 1794735660
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165851.htm",
+          "title": "《英雄联盟》S16 BLG夺冠，雷鸟创新不用退钱了",
+          "origin": "快科技",
+          "time": 1794703020
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165852.htm",
+          "title": "BLG一穿四夺冠，B站宣布免费送所有人大会员",
+          "origin": "快科技",
+          "time": 1794703800
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/15/AP6af959fde4b028ec019404ea.html",
+          "title": "中国战队BLG夺得英雄联盟全球总决赛冠军",
+          "origin": "文汇网",
+          "time": 1794729936
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-11-15/doc-iniyuinh9902266.shtml",
+          "title": "BLG夺S16全球总决赛冠军 B站免费送大会员",
+          "origin": "新浪新闻",
+          "time": 1794703049
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205623.html",
+          "title": "旗下战队BLG夺冠，B站宣布大会员免费送",
+          "origin": "钛媒体",
+          "time": 1794704640
+        },
+        {
+          "link": "https://www.163.com/dy/article/LBOTBRFD05299B1S.html?f=post1603_tab_news",
+          "title": "BLG 战胜 GEN 捧杯，S16 冠军属于中国战队",
+          "origin": "网易号",
+          "time": 1794701769
+        },
+        {
+          "link": "https://mini.caixin.com/2026-11-15/102504997.html",
+          "title": "英雄联盟全球总决赛，中国战队BLG夺冠",
+          "origin": "财新",
+          "time": 1794706099000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205620.html",
+          "title": "英雄联盟全球总决赛中国战队夺冠",
+          "origin": "钛媒体",
+          "time": 1794704580
+        }
+      ],
+      "summary": "2026年11月15日，《英雄联盟》S16全球总决赛落幕，中国LPL赛区BLG战队以3:1击败韩国LCK赛区GEN战队，队史首次夺得全球总决赛冠军。BLG在淘汰赛阶段连续击败HLE、DK、T1、GEN四支LCK战队，成为首支在单届全球总决赛淘汰全部LCK队伍并夺冠的战队；半决赛战胜T1也打破了LPL赛区BO5不胜魔咒。这是LPL赛区时隔1834天、自2021年EDG夺冠后再次捧起S赛奖杯，也是LPL第四座全球总决赛冠军。此前BLG四次参加S赛，最好成绩为S14亚军。"
+    },
+    {
+      "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+      "tags": [
+        "APEC",
+        "工商领导人峰会",
+        "世界500强",
+        "深圳"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-15/10732253.shtml",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "中新网",
+          "time": 1794708780
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794708492129304.html",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "新京报",
+          "time": 1794708541
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214174&sid=21",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "上观",
+          "time": 1794708470
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1794708379129303.html",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "新京报",
+          "time": 1794708461
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/15/4eb0e24f776248db9167f37df9567767.html",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "花城",
+          "time": 1794708420
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205664.html",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "钛媒体",
+          "time": 1794708420
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205663.html",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "钛媒体",
+          "time": 1794708420
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/15/ARTI9hstbALxiVpZ2hNULifl261115.shtml",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "CCTV",
+          "time": 1794710162
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-15/10732254.shtml",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "中新网",
+          "time": 1794710460
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U28SJ78Uw0",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "环球网",
+          "time": 1794708500
+        },
+        {
+          "link": "https://www.news.cn/world/20261115/7a48b16a60914138a68075eda398f3d4/c.html",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "origin": "新华网",
+          "time": 1794672000
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-15/10732330.shtml",
+          "title": "（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "中新网",
+          "time": 1794730200
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-15/10732363.shtml",
+          "title": "（深圳APEC）APEC工商领导人峰会将发布深圳倡议",
+          "origin": "中新网",
+          "time": 1794729960
+        },
+        {
+          "link": "https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;item_id=17768869475931913282&amp;channelId=1119",
+          "title": "APEC工商咨询理事会会议进入第二天议程",
+          "origin": "每经网",
+          "time": 1794736864
+        },
+        {
+          "link": "http://www.chinanews.com//shipin/cns/2026/11-15/news1074968.shtml",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "origin": "中新网",
+          "time": 1794751980
+        }
+      ],
+      "summary": "2026年11月15日，中国贸促会副会长李庆霜在深圳举行的2026年APEC工商界活动专题新闻发布会上介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场参会。"
+    },
+    {
+      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸起火",
+      "tags": [
+        "霍尔木兹海峡",
+        "油轮爆炸",
+        "伊朗革命卫队",
+        "水雷"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/15/ARTIX8jJHNLCHAzzXuZTZicj261115.shtml",
+          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+          "origin": "CCTV",
+          "time": 1794695496
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214140&sid=21",
+          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+          "origin": "上观",
+          "time": 1794700049
+        },
+        {
+          "link": "https://news.ifeng.com/c/8y3zurIbauW",
+          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+          "origin": "凤凰网",
+          "time": 1794692280
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U20jQY3DmN",
+          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+          "origin": "环球网",
+          "time": 1794695530
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucen6757144.shtml",
+          "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+          "origin": "新浪新闻",
+          "time": 1794701221
+        },
+        {
+          "link": "https://www.news.cn/world/20261115/bb189dcaf8e3452d809c87e45f17f220/c.html",
+          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸起火",
+          "origin": "新华网",
+          "time": 1794672000
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U2NBiLUzAr",
+          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸起火",
+          "origin": "环球网",
+          "time": 1794733239
+        }
+      ],
+      "summary": "当地时间15日凌晨，伊朗伊斯兰革命卫队海军表示，两艘油轮在霍尔木兹海峡触碰水雷，引发爆炸并导致火灾。革命卫队称，这两艘油轮关闭了导航系统和自动识别系统，试图秘密通过霍尔木兹海峡未经许可的航道，存在违反相关规定行为。爆炸发生后，另有两艘同样试图秘密通过该海峡的油轮在收到革命卫队海军霍尔木兹海峡航运安全控制中心的警告后，调转航向返回波斯湾海域。"
+    },
+    {
+      "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+      "tags": [
+        "APEC峰会",
+        "Anthropic IPO",
+        "英伟达财报",
+        "美联储纪要",
+        "英国经济数据"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/charts/41960177",
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "origin": "华尔街见闻",
+          "time": 1794709115
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3785932",
+          "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "origin": "华尔街见闻",
+          "time": 1794708634
+        },
+        {
+          "link": "https://www.yicai.com/news/103440909.html",
+          "title": "英伟达迎财报大考，Anthropic冲刺史上最大IPO",
+          "origin": "第一财经",
+          "time": 1794708172
+        }
+      ],
+      "summary": "下周国际市场将迎来多项重要事件。亚太经合组织（APEC）第三十三次领导人非正式会议将于11月18日至19日在中国深圳举行，这是中国时隔12年再次担任APEC东道主。美联储将于下周三公布10月会议纪要，市场关注未来加息时机与幅度线索，目前定价12月加息25个基点的概率为89%。人工智能实验室Anthropic计划在下周进行首次公开募股，拟以每股70至78美元出售8.25亿股股票，按定价区间上限计算将筹集644亿美元，可能成为史上最大IPO之一。英伟达将发布黄仁勋离开后的首份财报，零售商家得宝、劳氏、塔吉特、沃尔玛及迪士尼也将披露业绩。此外，英国将发布就业和通胀数据，市场关注英国央行加息节奏。"
+    },
+    {
+      "title": "金融机构外汇存款准备金率今起上调至6%",
+      "tags": [
+        "外汇存款准备金率",
+        "人民币汇率",
+        "央行政策",
+        "宏观审慎"
+      ],
+      "links": [
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1214167&sid=21",
+          "title": "央行：今起，金融机构外汇存款准备金率提高至6%",
+          "origin": "上观",
+          "time": 1794707398
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-15/10732240.shtml",
+          "title": "金融机构外汇存款准备金率今起提高至6%",
+          "origin": "中新网",
+          "time": 1794705480
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205647.html",
+          "title": "金融机构外汇存款准备金率今起提高至6%",
+          "origin": "钛媒体",
+          "time": 1794705720
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U27NBPyEFK",
+          "title": "金融机构外汇存款准备金率今起提高至6%",
+          "origin": "环球网",
+          "time": 1794706682
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/15/e20123ac30f94809a427adc431a17d5c.html",
+          "title": "今起生效，央行近五年来首次上调外汇存款准备金率",
+          "origin": "花城",
+          "time": 1794714300
+        },
+        {
+          "link": "https://kite.kagi.com/china/20261115111/中国央行上调外汇存款准备金率至6以放缓人民币升值",
+          "title": "中国央行上调外汇存款准备金率至6%，以放缓人民币升值",
+          "origin": "kagi",
+          "time": 1794682807
+        },
+        {
+          "link": "https://finance.sina.com.cn/roll/2026-11-15/doc-iniyvrfv1783408.shtml",
+          "title": "外汇存款准备金率上调：稳汇率还是管流动性",
+          "origin": "新浪新闻",
+          "time": 1794750435
+        }
+      ],
+      "summary": "中国人民银行决定自11月15日起将金融机构外汇存款准备金率由4%上调至6%，为近五年来首次上调。按2026年9月末约1.2万亿美元外币存款余额测算，此次调整将增加约240亿美元外汇准备金缴存需求。央行官方表述为加强金融机构外汇流动性管理，市场将其理解为在人民币持续升值、单边预期强化背景下实施的逆周期宏观审慎调节，政策信号指向汇率预期，目标是防范汇率超调、保持人民币汇率在合理均衡水平上的基本稳定。文章指出，此次上调直接收紧银行体系可运用的外汇流动性，不等同于人民币货币政策全面收紧；政策效果关键不在资金冻结规模，而在能否缓和汇率单边预期和企业集中结汇行为，企业和金融机构应坚持汇率风险中性。"
+    },
+    {
+      "title": "马斯克登上发射塔顶检视回收后的星舰S42",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "马斯克",
+        "火箭回收"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586474.htm",
+          "title": "马斯克登上塔顶，近距离检视回收后的SpaceX星舰S42",
+          "origin": "cnBeta",
+          "time": 1794727920
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960181",
+          "title": "马斯克再创历史，人类首次用筷子夹住星舰飞船",
+          "origin": "华尔街见闻",
+          "time": 1794730749
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4OQZ1W58v",
+          "title": "马斯克登上塔顶，近距离检视回收后的星舰S42",
+          "origin": "凤凰科技",
+          "time": 1794715981
+        }
+      ],
+      "summary": "SpaceX成功回收星舰S42后，马斯克在社交平台发帖称“我拥抱了42号飞船的回归”。随后他在团队十余人陪伴下登上发射/捕获塔顶，近距离检视这艘高约52米的飞船。星舰摄影账号从远距离拍到他在塔上的照片，另有账号捕捉到他在捕捉臂下抬头查看S42的镜头。马斯克还分享了自己用手机从不同角度拍摄的S42视频。多個摄影账号发布了回收及庆祝相关照片，星城团队亦在庆祝此次飞行成功。"
+    },
+    {
+      "title": "伊朗称有充分法律依据向助美袭伊地区国家索赔",
+      "tags": [
+        "伊朗",
+        "美国",
+        "索赔",
+        "国际法"
+      ],
+      "links": [
+        {
+          "link": "https://news.ifeng.com/c/8y4o6P6pxud",
+          "title": "伊朗称伊方有充分法律依据向助美袭伊地区国家索赔",
+          "origin": "凤凰网",
+          "time": 1794731700
+        },
+        {
+          "link": "https://www.163.com/dy/article/LBPSLIA6053469LG.html?f=post1603_tab_news",
+          "title": "伊朗称伊方有充分法律依据向助美袭伊地区国家索赔",
+          "origin": "网易号",
+          "time": 1794734593
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U2MzzaQQhC",
+          "title": "伊朗称伊方有充分法律依据向助美袭伊地区国家索赔",
+          "origin": "环球网",
+          "time": 1794732922
+        }
+      ],
+      "summary": "当地时间15日，伊朗外交部发言人巴加埃表示，某些地区国家积极参与了美以针对伊朗的军事侵略，包括提供武器、政治支持、派遣人员以及开放领空、领土和领海供其使用，这些均有确凿记录。巴加埃称，对伊朗而言这已演变为一项正当的历史和法律诉求，因此这些国家反过来向伊朗索要赔偿的主张毫无根据且站不住脚。他表示，根据既定国际法原则，若一国将其领土提供给另一国用于对第三国实施侵略，则该国直接被视为共犯，对给伊朗造成损害的国家必须承担相应责任。"
+    },
+    {
+      "title": "华为Mate X8大折叠手机亮相，典藏版或支持睿影Z10模块相机",
+      "tags": [
+        "华为Mate X8",
+        "折叠屏手机",
+        "睿影Z10",
+        "余承东"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027304.htm",
+          "title": "华为 Mate X8 大折叠手机今日亮相，消息称典藏版本支持睿影 Z10 模块相机",
+          "origin": "IT之家",
+          "time": 1794718334
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4TIn1HYYf",
+          "title": "华为Mate X8大折叠手机今日亮相，消息称典藏版本支持睿影Z10模块相机",
+          "origin": "凤凰科技",
+          "time": 1794718508
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165872.htm",
+          "title": "从尝鲜到主力机 华为大折叠8年8代 Mate X8即将登场",
+          "origin": "快科技",
+          "time": 1794720120
+        }
+      ],
+      "summary": "华为常务董事、终端BG董事长余承东于11月15日发布视频，回顾Mate X系列折叠屏八年历程，并宣布Mate X8新机即将到来，同时公开了外观。据博主@RuryRen透露，Mate X8分普通版和典藏版，典藏版将支持睿影Z10模块相机。该相机代号“金刚”，集成红枫等多种传感器，支持与手机SoC协同，通过软硬芯AI协同和智能融合对焦实现快速、准确、稳定的对焦，并拥有独立光学防抖模块，与麒麟芯片协同可实现旗舰级防抖体验。余承东表示新机在屏幕、拍照、性能等方面有新的突破。"
+    },
+    {
+      "title": "韩国税务师考试第一名考生自首，承认用微型摄像头与AI作弊",
+      "tags": [
+        "韩国税务师考试",
+        "AI作弊",
+        "微型摄像头",
+        "考生自首"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027303.htm",
+          "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
+          "origin": "IT之家",
+          "time": 1794717342
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4TIn1HYYe",
+          "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与AI作弊",
+          "origin": "凤凰科技",
+          "time": 1794718385
+        }
+      ],
+      "summary": "韩国2026年第63届税务师资格考试第一名考生A某承认，他在今年4月、7月举行的第一轮和第二轮考试中，使用微型摄像头拍摄考题后发送给生成式人工智能获取答案。A某已向首尔警察厅提交自首书，并表示将把剩余资料和设备作为证据提交调查机关。此前他公开的成绩显示，第一轮选择题160题仅错1题，财政学97.5分，税法学概论、会计学概论和商法均满分，因分数异常引发网友质疑其使用AI设备作弊。"
+    },
+    {
+      "title": "Stellantis获AI电动拖车专利：普通小车也能拖房车",
+      "tags": [
+        "Stellantis",
+        "电动拖车",
+        "AI辅助控制",
+        "房车",
+        "专利"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8y4cbQXgxro",
+          "title": "不用大马力皮卡了，Stellantis获AI电动拖车专利：普通小车也能拖房车",
+          "origin": "凤凰科技",
+          "time": 1794726403
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1165/1165887.htm",
+          "title": "Stellantis获AI电动拖车专利：普通小车也能拖房车",
+          "origin": "快科技",
+          "time": 1794726360
+        }
+      ],
+      "summary": "Stellantis获得一项电动拖车装置专利（美国专利号US 12779916，2023年提交，2026年11月3日获批）。该设计为拖车配备独立电机、电池及AI辅助控制系统，使拖车在牵引过程中主动提供驱动力并回收制动能量，同时通过摄像头、传感器、控制器和四轮线控转向系统辅助转向与牵引力控制，降低摆动失稳风险。其核心思路是让拖车分担动力输出和控制任务，降低牵引车辆负担，理论上包括菲亚特500e等微型电动车也有望拖挂房车，改变传统房车出行对大马力皮卡的依赖。目前专利尚未明确电池容量、最大承载重量和续航表现，也未公布量产计划，高速行驶、长距离下坡及紧急制动等场景下的协同控制仍是待解难题。"
+    },
+    {
+      "title": "苹果HomeView首批评测：Siri AI问题频出，隐私泄露引担忧",
+      "tags": [
+        "苹果",
+        "HomeView",
+        "Siri AI",
+        "隐私问题",
+        "智能家居"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027294.htm",
+          "title": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+          "origin": "IT之家",
+          "time": 1794713494
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4MmBIlQQo",
+          "title": "苹果智能家庭中枢HomeView首批评测出炉：Siri AI问题频出，隐私问题引担忧",
+          "origin": "凤凰科技",
+          "time": 1794716010
+        }
+      ],
+      "summary": "苹果首款智能家庭中枢HomeView于11月13日在海外上市，配备7英寸Liquid Retina显示屏、A18芯片和人脸识别功能，但Siri AI仍处于测试阶段。首批媒体评测和用户体验显示，Siri AI存在多项问题：唤醒时房间其他设备被叫醒而非HomeView；经常答非所问，有时卡住数分钟；无法妥善处理个人信息上下文请求，响应缓慢或无法完成任务。有用户反映Siri拒绝设置计时器，甚至无法打开Safari浏览器。Tom's Guide批评Siri能力不如其他AI助手，并指出个性化设置有限、流媒体应用较少、缺少实体摄像头和麦克风禁用按键。The Verge还发现隐私隐患：家庭成员个人信息可能出现在共享屏幕上，测试编辑能看到女儿的短信内容。设备支持人脸识别最多6名用户，但账户切换机制仍有待改进。部分媒体给出正面评价，TechRadar称赞音质和个性化功能，AppleInsider虽指出软件问题仍推荐购买。总体而言，HomeView目前很难成为值得推荐的产品。"
+    },
+    {
+      "title": "中国发布新型储能“十五五”规划 2030年装机目标3亿千瓦",
+      "tags": [
+        "新型储能",
+        "十五五规划",
+        "装机目标",
+        "市场化",
+        "能源政策"
+      ],
+      "links": [
+        {
+          "link": "https://kite.kagi.com/china/2026111414/中国提出到2030年新型储能装机达3亿千瓦推动行业转向市场化",
+          "title": "中国提出到2030年新型储能装机达3亿千瓦，推动行业转向市场化",
+          "origin": "kagi",
+          "time": 1794698918
+        },
+        {
+          "link": "https://www.caixin.com/2026-11-14/102504800.html",
+          "title": "新型储能十五五规划出炉 2030年装机容量目标3亿千瓦",
+          "origin": "财新",
+          "time": 1794625368000
+        }
+      ],
+      "summary": "国家发改委、国家能源局11月13日发布《“十五五”新型储能实施方案》，提出到2030年全国新型储能装机规模达到3亿千瓦，平均储能时长3小时左右。方案明确未来五年新型储能将由规模化发展进入市场化发展阶段，构建多元应用场景并不断完善价格机制。新型储能涵盖锂离子电池、液流电池、压缩空气储能等技术路线，目前锂离子电池占比超过96%。据国家能源局数据，截至2026年9月底，全国已建成投运新型储能装机规模167吉瓦，同比增长63%，占国内储能装机总量七成，平均储能时长2.61小时。"
+    },
+    {
+      "title": "中国车企加速布局加拿大市场 奇瑞以冬季适配产品先行",
+      "tags": [
+        "中国汽车",
+        "加拿大市场",
+        "新能源汽车",
+        "配额制",
+        "冬季适配"
+      ],
+      "links": [
+        {
+          "link": "https://tech.ifeng.com/c/8y4OiASsmur",
+          "title": "中国汽车开拓加拿大，先让新能源抗冻",
+          "origin": "凤凰科技",
+          "time": 1794715972
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586472.htm",
+          "title": "中国汽车开拓加拿大 先让新能源抗冻",
+          "origin": "cnBeta",
+          "time": 1794727920
+        }
+      ],
+      "summary": "加拿大今年1月将中国制造电动车100%附加税改为配额制，首年放行4.9万辆，关税按6.1%最惠国税率执行，之后每年增加6.5%，2030年配额上限达63037辆。分析师预计到2029年中国自主品牌将在加拿大投放18款电动车型。比亚迪、奇瑞、东风、吉利四家车企已在为加拿大销售铺路：吉利计划2027年初推出首批车型，并可依托沃尔沃、极星、莲花的现成渠道；比亚迪年底登陆，首批覆盖多伦多、温哥华、蒙特利尔和卡尔加里20多家门店，起售价2.5万加元，同时研究本地建厂；东风7月在蒙特利尔完成首次展示，长期目标是本地生产；奇瑞首款车型Jaecoo ET针对加拿大冬季做防冻门把手、方向盘加热和电池优化，续航约525公里，总部设于大多伦多地区，并评估在加建厂可能性。文章还回顾力帆在俄罗斯的深耕经验，提醒车企海外拓展需以国内根基为支撑。"
+    },
+    {
+      "title": "小米海外公布18 Pro系列手机背屏适配进展",
+      "tags": [
+        "小米18 Pro",
+        "背屏适配",
+        "海外市场",
+        "生成式AI"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1027295.htm",
+          "title": "小米海外公布 18 Pro 系列手机背屏适配：支持谷歌地图、Spotify、Gemini 等应用",
+          "origin": "IT之家",
+          "time": 1794714313
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8y4OiASsmw4",
+          "title": "小米海外公布18 Pro系列手机背屏适配：支持谷歌地图、Spotify、Gemini等应用",
+          "origin": "凤凰科技",
+          "time": 1794714911
+        }
+      ],
+      "summary": "小米在海外公布18 Pro系列手机背屏适配进展，支持谷歌地图、Gemini、Spotify、YouTube Music和Trip.com等应用。该系列手机还将支持生成式AI功能，据小米集团副总裁、CMO许斐发布的演示视频，手机可将用户的单词学习、喝水提醒等需求生成背屏应用。小米18 Pro系列已于9月23日晚在国内发布，搭载第六代骁龙8至尊版系列移动平台，后置徕卡2亿大底主摄和2亿大底长焦，配备AI百变背屏，售价5999元起。卢伟冰曾表示国外媒体和用户对该系列呼声很高，新机将在今年内登陆国际市场。"
+    },
+    {
+      "title": "1至10月份国家铁路发送货物34.2亿吨",
+      "tags": [
+        "国家铁路",
+        "货运",
+        "物流",
+        "中欧班列",
+        "煤炭运输"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/15/ARTIDKks8xGalrkktPrsl02L261115.shtml",
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "origin": "CCTV",
+          "time": 1794705733
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-15/10732221.shtml",
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "origin": "中新网",
+          "time": 1794704520
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8205630.html",
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "origin": "钛媒体",
+          "time": 1794704940
+        },
+        {
+          "link": "http://www.chinanews.com//cj/2026/11-15/10732295.shtml",
+          "title": "1至10月份中国国家铁路发送货物34.2亿吨",
+          "origin": "中新网",
+          "time": 1794715380
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U2IHAJ8Dtv",
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "origin": "环球网",
+          "time": 1794724991
+        }
+      ],
+      "summary": "据“中国铁路”微信公众号消息，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%和1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑。重点物资运输保障有力，1至10月份发送煤炭17.5亿吨，其中电煤11.6亿吨，全国铁路直供电厂存煤保持较高水平；发送粮食超1亿吨，同比增长11.7%。铁路物流产品提质升级，累计签订物流总包合同1675个，合同运量达13.2亿吨；开行国内跨局货运班列4.19万列、同比增长22.5%；铁公联运量完成3.85亿吨、同比增长48.4%。中欧班列累计开行1.86万列、同比增长14.6%，中亚班列累计开行1.21万列、同比增长1.9%，西部陆海新通道铁海联运班列发送超113万标箱。下一步，国铁集团将持续优化中国铁路物流产品供给，助力降低全社会物流成本。"
+    },
+    {
+      "title": "2026年中文水平考试（HSK）考生人数首次突破100万人次",
+      "tags": [
+        "中文水平考试",
+        "HSK",
+        "中文学习",
+        "世界中文大会",
+        "中文+"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/15/ARTIAfRe3jBBoJQWpj1jURax261115.shtml",
+          "title": "报考外国人的四六级首破百万人次 中文应用场景持续拓展",
+          "origin": "CCTV",
+          "time": 1794724089
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U2IsjfTuis",
+          "title": "报考外国人的四六级首破百万人次 中文应用场景持续拓展",
+          "origin": "环球网",
+          "time": 1794726008
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4U267Q2BZoW",
+          "title": "今年中文水平考试（HSK）考生人数首破百万人次",
+          "origin": "环球网",
+          "time": 1794704576
+        },
+        {
+          "link": "http://www.chinanews.com//edu/2026/11-15/10732224.shtml",
+          "title": "今年中文水平考试考生人数首破百万人次",
+          "origin": "中新网",
+          "time": 1794703200
+        }
+      ],
+      "summary": "2026世界中文大会于11月13日至15日在北京举行，来自160多个国家和地区的约5000名代表参会。记者从大会获悉，2026年中文水平考试（HSK）考生人数首次突破100万人次。HSK被网友称为“外国人的四六级”，目前已在169个国家设立1500余个考点，考点覆盖国家数量居全球语言考试首位，累计服务考生超过900万人次。全球中文学习规模持续扩大，海外学习和使用中文的人数达2.1亿。美国纽约曼哈顿中文学习测试中心联合创始人成大海表示，当地成人课程发展迅速，增长涵盖初学者及HSK五级、六级甚至更高水平学员，部分学生希望学习科技、制造业等行业及在华工作所需的专业词汇。随着中文学习需求日益多元，中文教育如何与职业技能培养相结合成为大会关注话题，教育部中外语言交流合作中心联合多家机构发起“中文+”产教融合伙伴计划倡议，旨在助力各国培养既通晓中国语言文化又掌握专业技能的本土人才。"
+    }
+  ]
 }
