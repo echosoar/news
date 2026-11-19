@@ -1,0 +1,40 @@
+{
+  "tag": "开发者",
+  "generated_at": "2026-11-19T14:58:29Z",
+  "summary": [
+    {
+      "title": "DeepSeek正式开放全家桶API，开发者可1:1复刻完整App",
+      "tags": [
+        "DeepSeek",
+        "API开放",
+        "语音接口",
+        "开发者",
+        "AI"
+      ],
+      "summary": "DeepSeek宣布正式开放全家桶应用API，将此前App内的联网搜索、深度思考搜索、文件上传、链接阅读等能力以独立接口形式提供给开发者，支持单独调用和分别计费。语音能力首次加入开放行列，包括语音识别和语音合成接口。DeepSeek还开源了一套轻量级聊天前端Demo，支持导入历史对话，官方称开发者可1:1复刻完整DeepSeek App。价格方面，语音识别原价0.78元/小时，目前五折为0.39元；语音合成每万字符1.5元；搜索和网页抓取为每1000次成功调用5元；OCR为每1000页1.5元。V4.1-Flash模型已在Messages、Responses和Chat Completions三类接口下支持相关对话扩展功能。",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "DeepSeek开放全家桶应用API，开发者可1:1复刻完整DeepSeek App",
+      "tags": [
+        "DeepSeek",
+        "API开放",
+        "开发者",
+        "大模型应用"
+      ],
+      "summary": "DeepSeek于11月13日晚间宣布正式开放全家桶应用API，开发者在原有API中开启对应参数即可获得深度思考搜索、文件输入等对话功能，语音及底层能力也开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用，可在自有应用中实现复杂对话功能甚至1:1复刻完整DeepSeek App。目前V4.1-Flash模型已在Messages、Responses与Chat Completions接口下支持联网搜索、深度思考搜索、文件输入、阅读链接及模型安全等能力，工具调用与上下文拼接由服务端自动完成。Search、Fetch、OCR、ASR、TTS等底层能力支持独立调用。官方还基于新版API构建并开源了轻量前端Demo，支持导入DeepSeek历史对话。收费方面，除Token费用外，工具调用单独计费：文字/图片搜索5元/千次、网页抓取5元/千次、文字识别1.5元/千页、语音识别优惠后0.39元/小时、语音合成优惠后1.5元/万字符。",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "Arm推出Arm AI Portal，加速Arm平台AI应用优化与开发",
+      "tags": [
+        "Arm",
+        "AI",
+        "开发者",
+        "模型优化"
+      ],
+      "summary": "Arm推出了Arm AI Portal，将超过2200万开发者及其智能体连接至Arm计算平台上的优化AI软件，覆盖云、边缘和物理AI领域。该平台支持语言、语音、视觉及神经图形等多类AI工作负载，首批预优化模型包括阿里巴巴通义千问、Google Gemma及Ultralytics YOLO，支持的runtimes涵盖ExecuTorch、LiteRT及ONNX-RT。生态合作伙伴包括阿里巴巴、树莓派及Ultralytics。Arm表示，数十年来其持续构建软件生态系统，AI Portal将这一投入延伸至AI时代，帮助开发者发现并使用针对目标硬件优化的软件。",
+      "date": "2026-09-11"
+    }
+  ]
+}
