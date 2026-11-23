@@ -1,0 +1,769 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-23T23:39:39Z",
+  "summary": [
+    {
+      "title": "英伟达重新任命黄仁勋为首席执行官",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "人事任命",
+        "股价"
+      ],
+      "links": [
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587560.htm",
+          "title": "黄仁勋夫妇财富版图曝光：通过信托控制8.7亿股英伟达股票 妻子洛丽为核心人物",
+          "origin": "cnBeta",
+          "time": 1795416540
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yHrCdGVuCN",
+          "title": "黄仁勋感恩节回归？英伟达股价一度大涨7%，员工辟谣：是段子",
+          "origin": "凤凰科技",
+          "time": 1795416721
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztwiu2185153.shtml",
+          "title": "黄仁勋重返英伟达后 交易员加大英国央行和欧洲央行加息押注",
+          "origin": "新浪新闻",
+          "time": 1795443937
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yHbSyByo1m",
+          "title": "出口管制埋下伏笔，黄仁勋离职前英伟达已遭遇国产芯片冲击",
+          "origin": "凤凰科技",
+          "time": 1795403667
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167751.htm",
+          "title": "出口管制埋下伏笔，黄仁勋离职前 英伟达已遭国产芯片冲击",
+          "origin": "快科技",
+          "time": 1795403640
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587520.htm",
+          "title": "英伟达应从外部寻找CEO？美财长态度反转 不排除黄仁勋回归",
+          "origin": "cnBeta",
+          "time": 1795389600
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167923.htm",
+          "title": "口风软化？贝森特不反对黄仁勋重返英伟达 特朗普再次发声",
+          "origin": "快科技",
+          "time": 1795427400
+        },
+        {
+          "link": "https://www.caixin.com/2026-11-23/102508102.html",
+          "title": "黄仁勋重返英伟达 此前特朗普公开支持、贝森特态度松动",
+          "origin": "财新",
+          "time": 1795443881000
+        },
+        {
+          "link": "https://news.futunn.com/post/1005357945/jensen-huang-s-return-ignites-the-market-nvidia-surges-30",
+          "title": "黄仁勋回归点燃市场，英伟达飙涨30%，美股多头情绪爆发",
+          "origin": "富途牛牛",
+          "time": 1795442700
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-23/10736710.shtml",
+          "title": "特朗普祝贺黄仁勋重掌英伟达：称其回归无国家安全风险",
+          "origin": "中新网",
+          "time": 1795444500
+        },
+        {
+          "link": "https://www.huxiu.com/article/4906486.html",
+          "title": "后黄仁勋时代：英伟达的护城河、资本棋局与AI产业变数",
+          "origin": "虎嗅",
+          "time": 1795404600
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167977.htm",
+          "title": "不存在国家安全风险，英伟达宣布：黄仁勋回归 重任CEO",
+          "origin": "快科技",
+          "time": 1795442640
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yHfMkDN4oB",
+          "title": "美国国家情报总监：特朗普称普京为朋友，完全恰当",
+          "origin": "凤凰网",
+          "time": 1795403220
+        },
+        {
+          "link": "https://m.ithome.com/html/1031211.htm",
+          "title": "黄仁勋：很荣幸重返英伟达，迫不及待想回去工作",
+          "origin": "IT之家",
+          "time": 1795443514
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yIOgLayqXf",
+          "title": "黄仁勋正式回归，员工们奔走相告，英伟达大涨30%",
+          "origin": "凤凰科技",
+          "time": 1795445300
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yHsXyFv1D8",
+          "title": "Shopify CEO谈黄仁勋离职：英伟达董事会是一群蠢货",
+          "origin": "凤凰科技",
+          "time": 1795418364
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztwis5417182.shtml",
+          "title": "英伟达官宣黄仁勋回归，马斯克发文It is done庆祝",
+          "origin": "新浪新闻",
+          "time": 1795445961
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yIOgLayqUQ",
+          "title": "马斯克回应黄仁勋回归英伟达：错误已被纠正",
+          "origin": "凤凰科技",
+          "time": 1795444806
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yHe8eY85fA",
+          "title": "特朗普高调喊话英伟达董事会：让黄仁勋回归",
+          "origin": "凤凰网",
+          "time": 1795405080
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261123/49900108.html",
+          "title": "特朗普：祝贺黄仁勋复职 正确且恰当的决定",
+          "origin": "中国网",
+          "time": 1795444383
+        },
+        {
+          "link": "https://news.futunn.com/flash/1005357473/jensen-huang-has-been-approved-to-return-to-nvidia-and",
+          "title": "黄仁勋获准重返英伟达，特朗普：正确决定",
+          "origin": "富途牛牛",
+          "time": 1795442971
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/23/7f9a51391f114f70a561774190abf513.html",
+          "title": "特朗普评价让黄仁勋复职的决定正确且恰当",
+          "origin": "花城",
+          "time": 1795444380
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yHJuFGlWn9",
+          "title": "英伟达应从外部寻找CEO？美财长态度反转",
+          "origin": "凤凰科技",
+          "time": 1795388691
+        },
+        {
+          "link": "https://www.nbd.com.cn/articles/2026-11-23/4655638.html",
+          "title": "英伟达，直线拉升，特朗普，重磅表态",
+          "origin": "每经网",
+          "time": 1795406508
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/23/00aa455bf17b4ea2a169d20a29e3896e.html",
+          "title": "英伟达重新任命黄仁勋为首席执行官",
+          "origin": "花城",
+          "time": 1795442760
+        },
+        {
+          "link": "https://www.news.cn/world/20261123/1285b126bb23457c987af79523aff569/c.html",
+          "title": "英伟达重新任命黄仁勋为首席执行官",
+          "origin": "新华网",
+          "time": 1795363200
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztwis5427885.shtml",
+          "title": "特朗普对黄仁勋重返英伟达表示祝贺",
+          "origin": "新浪新闻",
+          "time": 1795446035
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-23/10736719.shtml",
+          "title": "马斯克回应黄仁勋重任英伟达CEO",
+          "origin": "中新网",
+          "time": 1795446060
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yIN995Cvgv",
+          "title": "特朗普、马斯克回应黄仁勋复职",
+          "origin": "凤凰网",
+          "time": 1795443000
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yIMb9sqQIw",
+          "title": "黄仁勋： 很荣幸重返英伟达",
+          "origin": "凤凰科技",
+          "time": 1795443237
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1219111&sid=64",
+          "title": "黄仁勋复职，重掌英伟达",
+          "origin": "上观",
+          "time": 1795444590
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-23/10736703.shtml",
+          "title": "黄仁勋重新出任英伟达CEO",
+          "origin": "中新网",
+          "time": 1795442760
+        },
+        {
+          "link": "https://www.news.cn/world/20261123/ade7cb6a53c444539f39fdf802aeaf8d/c.html",
+          "title": "特朗普：决定正确且恰当",
+          "origin": "新华网",
+          "time": 1795363200
+        },
+        {
+          "link": "https://www.huxiu.com/article/4907829.html",
+          "title": "黄仁勋复职，重掌英伟达",
+          "origin": "虎嗅",
+          "time": 1795443540
+        },
+        {
+          "link": "https://www.huxiu.com/article/4907838.html",
+          "title": "黄仁勋回应重返英伟达",
+          "origin": "虎嗅",
+          "time": 1795445066
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/t/2026-11-23/doc-iniztwiu2181619.shtml",
+          "title": "英伟达重新任命黄仁勋为首席执行官",
+          "origin": "新浪新闻",
+          "time": 1795443761
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/23/AP6b045341e4b028ec01955132.html",
+          "title": "特朗普称美国政府没有证据表明黄仁勋有不合法行为",
+          "origin": "文汇网",
+          "time": 1795445675
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/23/AP6b04491ce4b028ec01954ffe.html",
+          "title": "英伟达重新任命黄仁勋为总裁、首席执行官、董事",
+          "origin": "文汇网",
+          "time": 1795443095
+        }
+      ],
+      "summary": "据英伟达官网23日消息，英伟达重新任命黄仁勋为总裁、首席执行官及董事。消息公布后，英伟达股价上涨约30%。董事会主席琼斯表示，董事会认为黄仁勋是领导英伟达的合适人选，恢复其职务符合股东、员工、合作伙伴及客户的最大利益，并称已听取美国政府高层意见，有信心其复职不构成国家安全风险。美国总统特朗普同日发文称这是正确且恰当的决定。此前11月12日，黄仁勋辞去总裁、首席执行官及董事职务。"
+    },
+    {
+      "title": "美国达美航空系统故障致超2000架次航班延误或取消",
+      "tags": [
+        "达美航空",
+        "系统故障",
+        "航班延误",
+        "美国"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztmue0578788.shtml",
+          "title": "达美航空修复自动化系统故障，该故障曾造成逾千架次航班延误",
+          "origin": "新浪新闻",
+          "time": 1795427403
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167702.htm",
+          "title": "美国机场又出事，达美航空系统瘫痪 数百航班延误近一小时",
+          "origin": "快科技",
+          "time": 1795395240
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfna2314914.shtml",
+          "title": "达美航空周日全美超1600架次延误 重量平衡系统出现故障",
+          "origin": "新浪新闻",
+          "time": 1795422171
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587622.htm",
+          "title": "达美航空周日全美超1600架次延误 重量平衡系统出现故障",
+          "origin": "cnBeta",
+          "time": 1795424520
+        },
+        {
+          "link": "https://m.ithome.com/html/1030728.htm",
+          "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
+          "origin": "IT之家",
+          "time": 1795390521
+        },
+        {
+          "link": "http://www.chinanews.com//gj/2026/11-23/10736222.shtml",
+          "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
+          "origin": "中新网",
+          "time": 1795387620
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizsqqq0688710.shtml",
+          "title": "达美航空航班延误，加剧市场对美国航空系统的担忧",
+          "origin": "新浪新闻",
+          "time": 1795395004
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml",
+          "title": "达美航空在亚特兰大国际机场数百个航班出现延误",
+          "origin": "CCTV",
+          "time": 1795377656
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/23/ARTIFGibqkLOpGQawuO9KM2T261123.shtml",
+          "title": "美国达美航空超2000个航班因系统故障延误或取消",
+          "origin": "CCTV",
+          "time": 1795404165
+        },
+        {
+          "link": "https://www.news.cn/world/20261123/608ba6c292ae4343ab03b8854a3a637d/c.html",
+          "title": "美国达美航空超2000个航班因系统故障延误或取消",
+          "origin": "新华网",
+          "time": 1795363200
+        },
+        {
+          "link": "http://www.chinanews.com//gj/shipin/2026/11-23/news1075745.shtml",
+          "title": "美国：达美航空系统故障致数百航班延误",
+          "origin": "中新网",
+          "time": 1795399560
+        },
+        {
+          "link": "https://www.news.cn/world/20261123/cf1f86f3d88f4bfba99f2c1ca7172769/c.html",
+          "title": "美国达美航空系统故障致数百航班延误",
+          "origin": "新华网",
+          "time": 1795363200
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/23/AP6b03ab93e4b028ec01953d1e.html",
+          "title": "美国达美航空超2000个航班因系统故障延误或取消",
+          "origin": "文汇网",
+          "time": 1795403135
+        }
+      ],
+      "summary": "美国达美航空公司22日因自动化系统故障，导致全美范围内超过2000架次航班延误或取消。截至美东时间22日18时30分，1975架次航班延误，约占当日航班总量的58%，另有108架次取消。达美航空表示约70%的延误与负责计算航班总重量及重量分布的系统故障有关，其余由恶劣天气等因素导致，故障已修复但延误仍在持续。美国联邦航空管理局称其空中交通管制系统与此次延误无关。此次事故发生在感恩节假期出行高峰，且距全美航班停飞事件仅一周多，引发对美国航空系统稳定性的担忧。"
+    },
+    {
+      "title": "CrowdStrike以440亿美元换股收购Zscaler",
+      "tags": [
+        "CrowdStrike",
+        "Zscaler",
+        "网络安全",
+        "并购",
+        "全股票交易"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3786525",
+          "title": "439亿美元，CrowdStrike收购Zscaler，创网络安全行业并购纪录",
+          "origin": "华尔街见闻",
+          "time": 1795434847
+        },
+        {
+          "link": "https://news.futunn.com/post/1005346540/43-9-billion-crowdstrike-acquires-zscaler-setting-a-record-for",
+          "title": "439亿美元，CrowdStrike收购Zscaler，创网络安全行业并购纪录",
+          "origin": "富途牛牛",
+          "time": 1795445071
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587634.htm",
+          "title": "CrowdStrike将以440亿美元收购云安全公司Zscaler",
+          "origin": "cnBeta",
+          "time": 1795434480
+        },
+        {
+          "link": "https://news.futunn.com/flash/1005340227/crowdstrike-plans-to-acquire-zscaler-in-an-all-stock-deal",
+          "title": "CrowdStrike拟以439亿美元全股票收购Zscaler",
+          "origin": "富途牛牛",
+          "time": 1795430040
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztrzy8248531.shtml",
+          "title": "CrowdStrike以440亿美元换股收购Zscaler",
+          "origin": "新浪新闻",
+          "time": 1795439926
+        }
+      ],
+      "summary": "CrowdStrike达成协议，以439亿美元全股票交易收购云安全公司Zscaler，创网络安全行业并购纪录。根据条款，Zscaler股东每股可换1.135股CrowdStrike普通股，按CrowdStrike上周五收盘价计算，对Zscaler每股估值约260.41美元，溢价34%。交易完成后，原CrowdStrike股东持合并公司约84.1%股权，Zscaler投资者持约15.9%，预计在CrowdStrike 2028财年下半年交割。合并后公司年度经常性收入将超100亿美元，CrowdStrike预计30个月内实现约10亿美元收入协同效应，18至24个月内每年节省5亿美元成本。CrowdStrike专注终端与云工作负载防护，Zscaler以零信任架构保护企业网络与云端连接，双方现有合作服务超2000家客户。"
+    },
+    {
+      "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化",
+      "tags": [
+        "OpenAI",
+        "微软",
+        "AI安全",
+        "模型评估"
+      ],
+      "links": [
+        {
+          "link": "https://www.tmtpost.com/nictation/8214233.html",
+          "title": "微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议",
+          "origin": "钛媒体",
+          "time": 1795394940
+        },
+        {
+          "link": "https://m.ithome.com/html/1030745.htm",
+          "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+          "origin": "IT之家",
+          "time": 1795395623
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587524.htm",
+          "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化",
+          "origin": "cnBeta",
+          "time": 1795389660
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztmty2233662.shtml",
+          "title": "OpenAI首席科学家提出困惑度指标 探讨AI潜在上限",
+          "origin": "新浪新闻",
+          "time": 1795425803
+        },
+        {
+          "link": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+          "title": "OpenAI 首席科学家提议为 AI 开发设置行业上限",
+          "origin": "oschina",
+          "time": 1795403880
+        }
+      ],
+      "summary": "微软人工智能首席执行官穆斯塔法·苏莱曼转发OpenAI首席科学家雅库布·帕乔茨基的文章，表示微软完全支持OpenAI提高透明度的倡议，并将共同分享预训练进展。苏莱曼透露，经OpenAI许可，微软公布了MAI-2基础模型在OpenAI评估数据集上的对数困惑度为0.819，与GPT-5.6 Sol基础模型处于相近水平。他表示，AI安全与协调应成为行业首要任务，微软承诺推动行业建立共同评估标准和AI发展节奏协调机制。"
+    },
+    {
+      "title": "Anthropic上市未止股市暴跌，9000亿美元算力承诺引债市垃圾级担忧",
+      "tags": [
+        "Anthropic",
+        "AI融资",
+        "垃圾级债券",
+        "股市暴跌",
+        "算力投资"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizszeh8320015.shtml",
+          "title": "Anthropic 承诺投入 9000 亿美元，华尔街预期其债务将为垃圾级",
+          "origin": "新浪新闻",
+          "time": 1795409726
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786535",
+          "title": "Anthropic承诺约9000亿美元算力开支，债市预期其债券为垃圾级",
+          "origin": "华尔街见闻",
+          "time": 1795440785
+        },
+        {
+          "link": "https://database.caixin.com/2026-11-23/102507751.html",
+          "title": "Anthropic上市未能止住股市暴跌 华尔街追问什么能拯救AI交易",
+          "origin": "财新",
+          "time": 1795397661000
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587554.htm",
+          "title": "Anthropic承诺投入9000亿美元 华尔街预期其债务将为垃圾级",
+          "origin": "cnBeta",
+          "time": 1795414860
+        }
+      ],
+      "summary": "Anthropic上周上市募资超1000亿美元，估值约1.18万亿美元，但上市后回吐大部分涨幅，未能止住股市暴跌。公司承诺未来数年投入约9000亿美元采购算力，但尚未盈利且成立不足六年，华尔街普遍预期其债券将被评为垃圾级（BB区间），距投资级差一到两档。债券基金经理对其发债持审慎态度，认为其更可能通过结构化融资、芯片专项融资等方式募资。Anthropic的信用评级将影响规模8.6万亿美元的投资级公司债市场及AI生态，芯片厂商希望其独立发债以缓解循环融资担忧。公司手头有960亿美元现金，约一半支出承诺到2030年才兑现，仍有约三年时间争取投资级评级。"
+    },
+    {
+      "title": "蚂蚁阿福App升级：AI视频望闻问切，用户达1.5亿",
+      "tags": [
+        "蚂蚁阿福",
+        "AI健康",
+        "韩歆毅",
+        "医保商保",
+        "望闻问切"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1030799.htm",
+          "title": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从治病延伸到健康",
+          "origin": "IT之家",
+          "time": 1795405245
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yFqA0UMSbx",
+          "title": "阿福用户已达1.5亿，蚂蚁CEO韩歆毅：AI更大价值是让人少生病、少生大病",
+          "origin": "凤凰科技",
+          "time": 1795404567
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167787.htm",
+          "title": "蚂蚁阿福App上新，AI隔着镜头能望闻问切 看完皮疹还会追问",
+          "origin": "快科技",
+          "time": 1795407180
+        },
+        {
+          "link": "https://wallstreetcn.com/articles/3786515",
+          "title": "从UpToDate接入阿福，看蚂蚁做医疗AI的边界",
+          "origin": "华尔街见闻",
+          "time": 1795425523
+        }
+      ],
+      "summary": "2026年11月23日，蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁集团CEO韩歆毅宣布，阿福上线一年多已有1.5亿用户，成为全球最大AI健康应用。阿福App新上线实时视频看健康功能，AI可通过镜头实现望闻问切，观察皮疹后还会追问。韩歆毅表示，AI正推动健康管理从“千人一方”走向“一人一方”、从“以治病为中心”转向“以健康为中心”，其价值不亚于AI医疗和AI药物研发。他呼吁医保、商保保障范围从“治病”延伸到“健康”，并建议共建健康价值付费、服务供给和投资参与三个核心机制。"
+    },
+    {
+      "title": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点差不多",
+      "tags": [
+        "钟南山",
+        "人工智能",
+        "医疗健康",
+        "专业AI",
+        "医学"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-11-23/doc-inizszee2327901.shtml",
+          "title": "钟南山院士谈AI：医疗健康领域必须有专业AI，医学容不得半点差不多",
+          "origin": "新浪新闻",
+          "time": 1795416709
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yHsbrOA0qU",
+          "title": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点差不多",
+          "origin": "凤凰科技",
+          "time": 1795417211
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167813.htm",
+          "title": "钟南山院士：医疗健康领域必须有专业AI 容不得半点差不多",
+          "origin": "快科技",
+          "time": 1795414680
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-23/10736461.shtml",
+          "title": "钟南山：医学容不得半点差不多  医疗健康领域要有专业AI",
+          "origin": "中新网",
+          "time": 1795421100
+        }
+      ],
+      "summary": "2026年11月23日，在2026蚂蚁阿福医疗健康生态大会上，中国工程院院士钟南山表示，AI可以成为守护居民健康的温暖力量，让更多老百姓看得上病、看得好病、看得明白病。但他强调，医学是“健康所系、性命相托”的事业，容不得半点“差不多”，因此医疗健康领域必须有专业的医学AI。专业医学AI能保证回答的每个问题都有循证依据、可溯源、负责任。钟南山认为，专业医学AI对提高基层医疗水平、推动医疗服务均质化意义重大，也能帮助边远地区患者获得权威规范的健康指导，同时在应对老龄化和慢性病等公共卫生挑战方面是重要力量。他还表示，AI是医生的好助手，可把医生从复杂事务性工作中解脱出来，但并非医生的替代者，医患交流是建立信任的关键环节，最终诊治决策者永远是医生。"
+    },
+    {
+      "title": "工信部通报23款APP及SDK信息窗口乱跳转、无法关闭",
+      "tags": [
+        "工信部",
+        "APP通报",
+        "用户权益",
+        "信息弹窗"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1030796.htm",
+          "title": "信息窗口乱跳转或无法关闭，工信部通报 YY、快看漫画等 23 款 App 及 SDK",
+          "origin": "IT之家",
+          "time": 1795404933
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-11-23/doc-inizszeh8339429.shtml",
+          "title": "信息窗口乱跳转、无法关闭，懂球帝、虎扑等23款App被工信部通报",
+          "origin": "新浪新闻",
+          "time": 1795411958
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/23/ARTILvyi3OwjdyXZvHxT9RYj261123.shtml",
+          "title": "工信部通报23款APP及SDK信息窗口乱跳转、无法关闭",
+          "origin": "CCTV",
+          "time": 1795412201
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/23/content_617674.html",
+          "title": "信息窗口乱跳转、无法关闭  多款App被通报",
+          "origin": "科技日报",
+          "time": 1795419659
+        }
+      ],
+      "summary": "工业和信息化部11月23日发布通报，依据《个人信息保护法》等法律法规，对App、SDK商业信息弹窗问题开展专项治理。经第三方检测机构抽查，共发现23款App及SDK存在信息窗口乱跳转、信息窗口无法关闭等侵害用户权益行为，涉及YY、快看漫画、虎扑、懂球帝、黄油相机、追书神器、宜搜小说、班级小管家、分身大师、WiFi万能钥匙直连、国广东方SDK（Android）等。工信部要求上述App及SDK按有关规定进行整改，整改落实不到位的将依法依规组织开展相关处置工作。"
+    },
+    {
+      "title": "智谱发布GLM-5.4模型并上线Coding Plan",
+      "tags": [
+        "智谱",
+        "GLM-5.4",
+        "Coding Plan",
+        "Loop Transformer",
+        "泛Coding"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztrzw2196176.shtml",
+          "title": "智谱GLM-5.4发布：瞄向泛Coding场景，智能水平达到2-3T级模型",
+          "origin": "新浪新闻",
+          "time": 1795434559
+        },
+        {
+          "link": "https://www.oschina.net/news/503752",
+          "title": "GLM-5.4 低调上线，新增视觉能力与更强的泛 Coding 能力",
+          "origin": "oschina",
+          "time": 1795424340
+        },
+        {
+          "link": "https://m.ithome.com/html/1030809.htm",
+          "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
+          "origin": "IT之家",
+          "time": 1795409370
+        },
+        {
+          "link": "https://www.yicai.com/news/103450914.html",
+          "title": "智谱GLM-5.4上线Coding Plan",
+          "origin": "第一财经",
+          "time": 1795439130
+        }
+      ],
+      "summary": "智谱于11月23日发布新一代GLM-5.4模型，即日起向GLM Coding Plan全量用户开放，并同步上线ZCode、Trae、WorkBuddy、Qoder等编码平台。API将在完成安全评估后开放，模型权重计划以负责任方式开源。GLM-5.4是智谱第一代采用Loop Transformer架构的旗舰模型，智能水平达到2-3T级模型。在200个真实场景编程实战评测中，该模型在视觉Coding、视觉复刻和长程任务中表现突出，并率先瞄向泛Coding场景，可解锁代码生成和处理视频、构建完整游戏、3D建模和机械设计等Coding外新场景。Loop Transformer让共享权重的层循环执行多轮，在不增加参数量的前提下获得更深网络，提升智能上限。可用性方面，非高峰时段速度最高达200 token/s，高峰时段为70-80 token/s，Coding Plan V2/V3/团队版用户使用额度提升至1.5倍。"
+    },
+    {
+      "title": "第二艘国产大型邮轮爱达·花城号商业首航抵达香港",
+      "tags": [
+        "国产大型邮轮",
+        "爱达·花城号",
+        "商业首航",
+        "香港",
+        "大湾区邮轮经济"
+      ],
+      "links": [
+        {
+          "link": "https://news.cctv.com/2026/11/23/ARTILDCJgtYW1HXHKrgPQ34I261123.shtml",
+          "title": "爱达·花城号如愿起航，一路繁花，大湾区邮轮经济向全产业链生态跃升",
+          "origin": "CCTV",
+          "time": 1795402259
+        },
+        {
+          "link": "http://www.chinanews.com//dwq/2026/11-23/10736563.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号商业首航首站抵达香港",
+          "origin": "中新网",
+          "time": 1795427940
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167704.htm",
+          "title": "我国第二艘国产大型邮轮，爱达·花城号首航抵达香港",
+          "origin": "快科技",
+          "time": 1795395540
+        },
+        {
+          "link": "https://m.ithome.com/html/1030740.htm",
+          "title": "我国第二艘国产大型邮轮爱达 · 花城号首航抵达香港",
+          "origin": "IT之家",
+          "time": 1795394916
+        },
+        {
+          "link": "http://www.chinanews.com//dwq/2026/11-23/10736666.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号商业首航抵达香港",
+          "origin": "中新网",
+          "time": 1795439400
+        },
+        {
+          "link": "http://www.chinanews.com//ga/shipin/cns-d/2026/11-23/news1075807.shtml",
+          "title": "第二艘国产大型邮轮爱达·花城号商业首航抵港",
+          "origin": "中新网",
+          "time": 1795438740
+        },
+        {
+          "link": "http://www.chinanews.com//sh/2026/11-23/10736368.shtml",
+          "title": "爱达·花城号正式商业首航 票价到底贵不贵？",
+          "origin": "中新网",
+          "time": 1795408740
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/23/content_617587.html",
+          "title": "爱达·花城号正式商业首航 票价到底贵不贵？",
+          "origin": "科技日报",
+          "time": 1795412587
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yHR5GXg14p",
+          "title": "国产大型邮轮爱达·花城号首航抵达香港",
+          "origin": "凤凰网",
+          "time": 1795392060
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/23/a8670d6f4c124aeab6718628528fd6c4.html",
+          "title": "国产大型邮轮爱达·花城号首航抵达香港",
+          "origin": "花城",
+          "time": 1795396680
+        }
+      ],
+      "summary": "11月22日下午6时，第二艘国产大型邮轮“爱达·花城号”从广州南沙国际邮轮母港起航，正式开启商业首航。首航共搭载3800多名游客，行程6天5晚，前往中国香港和越南顺化真美。11月23日清晨，邮轮抵达首站中国香港，在维多利亚港接受“水门”欢迎。该邮轮全长341米，总吨位14.19万吨，拥有2130间客房，满载可容纳5232名宾客。随着其投入运营，国产大型邮轮进入“双船运营”新阶段，广州南沙作为核心母港，将推动大湾区邮轮经济向全产业链生态跃升。"
+    },
+    {
+      "title": "荣耀人形机器人亮相2026米兰半程马拉松",
+      "tags": [
+        "荣耀",
+        "人形机器人",
+        "米兰半马",
+        "体育赛事"
+      ],
+      "links": [
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167926.htm",
+          "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
+          "origin": "快科技",
+          "time": 1795427880
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yI2fBGJCPx",
+          "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
+          "origin": "凤凰科技",
+          "time": 1795425746
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztwiy0462737.shtml",
+          "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
+          "origin": "新浪新闻",
+          "time": 1795441437
+        }
+      ],
+      "summary": "当地时间11月22日，2026 Powerade米兰半程马拉松赛开赛，荣耀两款自研人形机器人闪电和元气仔亮相现场。赛事期间，闪电与米兰本土奥运冠军、短跑名将菲利波·托尔图同台互动，元气仔见证颁奖环节，受到参赛选手和观众关注。报道称，此次机器人亮相海外体育赛事，体现了荣耀的全球化品牌布局与技术实力。"
+    },
+    {
+      "title": "懂车帝回应测试内容大调整传闻：信息多处失实，部分内容为AI撰写",
+      "tags": [
+        "懂车帝",
+        "汽车测评",
+        "网络测评规范",
+        "AI撰写"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1031091.htm",
+          "title": "懂车帝回应测试内容大调整：信息多处失实，部分内容为 AI 撰写",
+          "origin": "IT之家",
+          "time": 1795427319
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587632.htm",
+          "title": "测试内容大调整？懂车帝：信息多处失实，部分内容为AI撰写",
+          "origin": "cnBeta",
+          "time": 1795434240
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/it/2026-11-23/doc-iniztmtw5497087.shtml",
+          "title": "测试内容大调整？懂车帝：信息多处失实，部分内容为AI撰写",
+          "origin": "新浪新闻",
+          "time": 1795428595
+        }
+      ],
+      "summary": "近日有博主爆料称，懂车帝内部对公开测试发布四项要求，包括不再开放对比类内容、发布公开测试类内容的账号须有资质等。懂车帝内容运营人员回应称，此轮变化系平台严格按照《网络测评活动规范》要求，对汽车创作者在平台发布部分场景内容的规则更新；网传“内容大调整”“行业受影响”等信息多处失实，部分内容为AI撰写，未跟平台核实求证。"
+    },
+    {
+      "title": "蚂蚁集团CEO韩歆毅：AI最大价值是形成规模化低成本医疗服务供给模式",
+      "tags": [
+        "蚂蚁集团",
+        "AI医疗",
+        "韩歆毅",
+        "医疗服务",
+        "健康生态"
+      ],
+      "links": [
+        {
+          "link": "https://finance.sina.com.cn/tech/shenji/2026-11-23/doc-inizsuwn0677228.shtml",
+          "title": "蚂蚁集团CEO韩歆毅：AI最大的价值是能形成规模化、低成本的医疗服务供给模式",
+          "origin": "新浪新闻",
+          "time": 1795401293
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167894.htm",
+          "title": "科技圈放话AI十年攻克癌症，诺华CEO：别把医学当工程",
+          "origin": "快科技",
+          "time": 1795422660
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1167/1167755.htm",
+          "title": "蚂蚁CEO韩歆毅：AI更大价值是让人少生病、少生大病",
+          "origin": "快科技",
+          "time": 1795404540
+        }
+      ],
+      "summary": "2026蚂蚁阿福医疗健康生态大会于11月23日举行，蚂蚁集团首席执行官韩歆毅在会上表示，AI技术正在快速提升医疗健康服务的下限和上限，一方面促进医疗服务的均衡和普惠，另一方面重塑医药研发的创新范围。他指出，AI让每个人的健康从“要我做”变成“我要做”，并将带来巨大的产业生态机会。韩歆毅强调，AI最大的价值是能够形成规模化、低成本的医疗服务供给模式：过去好医生需经名校培养和长期临床训练，天然稀缺；如今借助AI工具，基层和偏远地区的医生也能获得专业知识，群众也能得到类似三甲医院的专业健康咨询和诊疗建议。"
+    }
+  ]
+}
