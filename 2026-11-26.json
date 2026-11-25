@@ -1,0 +1,768 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-25T21:26:24Z",
+  "summary": [
+    {
+      "title": "神舟二十四号载人飞船发射取得圆满成功",
+      "tags": [
+        "神舟二十四号",
+        "载人航天",
+        "酒泉卫星发射中心",
+        "长征二号F火箭",
+        "发射成功"
+      ],
+      "links": [
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737300.shtml",
+          "title": "搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射",
+          "origin": "中新网",
+          "time": 1795566180
+        },
+        {
+          "link": "http://www.chinanews.com//sh/shipin/cns-d/2026/11-25/news1075911.shtml",
+          "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "中新网",
+          "time": 1795566300
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTI8XBFBenGUCQZwci9ivwe261125.shtml",
+          "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "CCTV",
+          "time": 1795560614
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTIoY2h9oRuD6Z4x9URNSqw261125.shtml",
+          "title": "神舟二十四号航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "CCTV",
+          "time": 1795556537
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737313.shtml",
+          "title": "从外籍航天员到科学实验 神舟二十四号任务实现多个首次",
+          "origin": "中新网",
+          "time": 1795567860
+        },
+        {
+          "link": "https://www.news.cn/tech/20261125/b5d9eb7584a640a89921eb739d4b9726/c.html",
+          "title": "神二十四航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "新华网",
+          "time": 1795536000
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737308.shtml",
+          "title": "祝贺，神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "中新网",
+          "time": 1795567260
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168339.htm",
+          "title": "首次中外联合，神舟二十四号载人飞船点火发射",
+          "origin": "快科技",
+          "time": 1795566180
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168342.htm",
+          "title": "大红屏，神舟二十四号发射取得圆满成功",
+          "origin": "快科技",
+          "time": 1795567560
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737310.shtml",
+          "title": "神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "中新网",
+          "time": 1795567620
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/11-25/1211577.shtml",
+          "title": "神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "中新网",
+          "time": 1795568220
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTIDQZ6rkaKCdYPRn6F4YOI261125.shtml",
+          "title": "神舟二十四号载人飞船发射升空",
+          "origin": "CCTV",
+          "time": 1795566810
+        },
+        {
+          "link": "https://www.news.cn/tech/20261125/a2d47250792e425eafd6aee7232bd293/c.html",
+          "title": "神舟二十四号发射取得圆满成功",
+          "origin": "新华网",
+          "time": 1795536000
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737309.shtml",
+          "title": "神舟飞船首次搭载外籍航天员",
+          "origin": "中新网",
+          "time": 1795567500
+        },
+        {
+          "link": "http://www.chinanews.com//tp/hd2011/2026/11-25/1211569.shtml",
+          "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "中新网",
+          "time": 1795563060
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737283.shtml",
+          "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "中新网",
+          "time": 1795560720
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737276.shtml",
+          "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
+          "origin": "中新网",
+          "time": 1795556400
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737275.shtml",
+          "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
+          "origin": "中新网",
+          "time": 1795556340
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795566049129509.html",
+          "title": "祝贺，神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "新京报",
+          "time": 1795567562
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795564659129508.html",
+          "title": "神舟二十四号载人飞船发射升空",
+          "origin": "新京报",
+          "time": 1795566026
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795561565129490.html",
+          "title": "神舟二十四号航天员乘组出征仪式在酒泉卫星发射中心举行",
+          "origin": "新京报",
+          "time": 1795561642
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKlLUKfHY1",
+          "title": "神舟二十四号发射圆满成功",
+          "origin": "凤凰网",
+          "time": 1795567140
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/25/e708cf576ab648ef86ef14fffb41d542.html",
+          "title": "​搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射",
+          "origin": "花城",
+          "time": 1795565940
+        },
+        {
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/25/42ac959d5d8b448fb2c4908afa5f12ae.html",
+          "title": "神舟二十四号乘组，领命出征",
+          "origin": "花城",
+          "time": 1795559400
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UAN80qycT5",
+          "title": "搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射",
+          "origin": "环球网",
+          "time": 1795566040
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1219527&sid=2",
+          "title": "寒空中送神舟，神舟二十四号成功发射，神箭可靠性再上台阶",
+          "origin": "上观",
+          "time": 1795568314
+        },
+        {
+          "link": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1219830&sid=21",
+          "title": "祝贺，神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "上观",
+          "time": 1795567348
+        },
+        {
+          "link": "https://finance.caixin.com/2026-11-25/102508437.html",
+          "title": "神舟二十四号飞船发射窗口确定，乘组有外籍航天员",
+          "origin": "财新",
+          "time": 1795560250000
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8216922.html",
+          "title": "神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "钛媒体",
+          "time": 1795567260
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8216910.html",
+          "title": "神舟二十四号载人飞船发射升空",
+          "origin": "钛媒体",
+          "time": 1795566000
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261125/49905798.html",
+          "title": "60秒回顾神舟二十四号发射全过程 航天员领命出征",
+          "origin": "中国网",
+          "time": 1795578803
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261125/49905788.html",
+          "title": "神舟二十四号在天上画了条巨龙",
+          "origin": "中国网",
+          "time": 1795578670
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/25/content_618657.html",
+          "title": "神舟二十四号航天员领命出征",
+          "origin": "科技日报",
+          "time": 1795569661
+        },
+        {
+          "link": "https://photo.cctv.com/2026/11/25/PHOAgmdqHr93g3Vui0JHTrc8261125.shtml",
+          "title": "神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "CCTV",
+          "time": 1795579819
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTIBXJo1y0SzukS8li11eR0261125.shtml",
+          "title": "祝贺，神舟二十四号载人飞船发射任务圆满成功",
+          "origin": "CCTV",
+          "time": 1795569401
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168371.htm",
+          "title": "神舟二十四号发射成功 首位外籍航天员进天宫",
+          "origin": "快科技",
+          "time": 1795571880
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795570438129570.html",
+          "title": "神舟二十四号载人飞船发射取得圆满成功",
+          "origin": "新京报",
+          "time": 1795571277
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795567368129520.html",
+          "title": "全程稳定供能，神舟飞船心脏护航航天员往返天宫",
+          "origin": "新京报",
+          "time": 1795570391
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795567221129516.html",
+          "title": "神舟二十四号载人飞船发射成功，首次搭载外籍航天员",
+          "origin": "新京报",
+          "time": 1795568935
+        },
+        {
+          "link": "https://news.zol.com.cn/1276/12765751.html",
+          "title": "神舟二十四号载人飞船发射",
+          "origin": "zol",
+          "time": 1795564800
+        },
+        {
+          "link": "https://politics.gmw.cn/2026-11/25/content_39121521.htm",
+          "title": "60秒回顾神舟二十四号发射精彩瞬间",
+          "origin": "光明网",
+          "time": 1795600528
+        },
+        {
+          "link": "https://www.163.com/dy/article/LCIQPDRV05346RC6.html?f=post1603_tab_news",
+          "title": "60秒回顾神舟二十四号发射精彩瞬间",
+          "origin": "网易号",
+          "time": 1795571483
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTIqTnc7WJ08MdPRh5mRRsm261125.shtml",
+          "title": "神舟二十四号载人飞船发射取得圆满成功 两个乘组航天员会师太空",
+          "origin": "CCTV",
+          "time": 1795607745
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yLZT9lm4U2",
+          "title": "带着神舟二十四号上天的火箭，每年都在小步快跑",
+          "origin": "凤凰网",
+          "time": 1795610160
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UAhSkxa3V4",
+          "title": "60秒回顾神舟二十四号发射精彩瞬间",
+          "origin": "环球网",
+          "time": 1795600193
+        }
+      ],
+      "summary": "2026年11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行，汤洪波、武毅、穆罕默德·齐尚·阿里3名航天员领命出征。8时18分，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射，约10分钟后飞船与火箭成功分离并进入预定轨道，发射取得圆满成功。该任务实现多个首次，包括首次中外联合飞行。"
+    },
+    {
+      "title": "黄仁勋复职仍面临GPU销售考验，特朗普称必要时愿特赦",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "特朗普",
+        "GPU销售",
+        "国会听证"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/flash/1005525134/us-president-trump-said-he-would-be-willing-to-pardon",
+          "title": "美国总统特朗普称，如有必要愿意赦免黄仁勋。黄仁勋应向国会说实话。（纽约邮报）",
+          "origin": "富途牛牛",
+          "time": 1795561260
+        },
+        {
+          "link": "https://wallstreetcn.com/charts/41960236",
+          "title": "马斯克带俩娃拜访英伟达总部，祝贺黄仁勋回归，曾感慨 落魄时才见真朋友",
+          "origin": "华尔街见闻",
+          "time": 1795592391
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizxpkk8563451.shtml",
+          "title": "黄仁勋复职≠万事大吉，郭明錤：英伟达仍面临GPU销售、融资、调查等考验",
+          "origin": "新浪新闻",
+          "time": 1795607082
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yJHaysBVRk",
+          "title": "黄仁勋回归后首场全员大会：向员工致歉，承诺接受评估，再谈接班计划",
+          "origin": "凤凰科技",
+          "time": 1795562676
+        },
+        {
+          "link": "https://finance.sina.com.cn/tech/discovery/2026-11-25/doc-inizxpkk8602533.shtml",
+          "title": "特朗普称美国政府入股英伟达犹未为晚：黄仁勋想对华卖芯片更受牵制了",
+          "origin": "新浪新闻",
+          "time": 1795608620
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyefx9419590.shtml",
+          "title": "特朗普插手黄仁勋风波，再度激起选民对科技巨头政治权力过大的不满",
+          "origin": "新浪新闻",
+          "time": 1795608894
+        },
+        {
+          "link": "https://www.huxiu.com/article/4908475.html",
+          "title": "黄仁勋的光：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
+          "origin": "虎嗅",
+          "time": 1795610237
+        },
+        {
+          "link": "https://m.ithome.com/html/1031924.htm",
+          "title": "英伟达黄仁勋回应复职争议：否认特朗普救场，公开向员工道歉",
+          "origin": "IT之家",
+          "time": 1795566168
+        },
+        {
+          "link": "https://original.ifeng.com/c/8yLEK0ro5tP",
+          "title": "网传照片显示马斯克带娃去英伟达给黄仁勋站台，本人转发了",
+          "origin": "凤凰网",
+          "time": 1795592340
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168379.htm",
+          "title": "黄仁勋在英伟达全员大会上致歉 并辟谣特朗普施压复职一说",
+          "origin": "快科技",
+          "time": 1795573080
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168453.htm",
+          "title": "特朗普赢麻，英伟达要成美国国资 黄仁勋想对华卖芯片更难",
+          "origin": "快科技",
+          "time": 1795583400
+        },
+        {
+          "link": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxpki1785501.shtml",
+          "title": "因黄仁勋辞职而出走的工程师后悔了：愿意考虑重回英伟达",
+          "origin": "新浪新闻",
+          "time": 1795580823
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKfFa0UvZl",
+          "title": "特朗普称必要时愿赦免黄仁勋，不排除美国政府入股英伟达",
+          "origin": "凤凰网",
+          "time": 1795561980
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168440.htm",
+          "title": "黄仁勋复职≠万事大吉，郭明錤：英伟达仍面临GPU销售考验",
+          "origin": "快科技",
+          "time": 1795579860
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxtsc9524116.shtml",
+          "title": "英伟达AI芯片供不应求 B300、GB300新品订单交期大幅拉长",
+          "origin": "新浪新闻",
+          "time": 1795593913
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587904.htm",
+          "title": "特朗普表示赦免英伟达首席执行官黄仁勋是一个选项",
+          "origin": "cnBeta",
+          "time": 1795586340
+        },
+        {
+          "link": "https://m.ithome.com/html/1031931.htm",
+          "title": "黄仁勋回应接班问题：英伟达不需要太子继任计划",
+          "origin": "IT之家",
+          "time": 1795567522
+        },
+        {
+          "link": "https://www.wenweipo.com/a/202611/25/AP6b0625a9e4b028ec01957e9e.html",
+          "title": "黄仁勋向英伟达全体员工致歉　称正接受心理治疗",
+          "origin": "文汇网",
+          "time": 1795565136
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587878.htm",
+          "title": "黄仁勋向英伟达员工道歉 否认特朗普促成其复职",
+          "origin": "cnBeta",
+          "time": 1795552200
+        },
+        {
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587902.htm",
+          "title": "英伟达CEO黄仁勋重申：公司不需要正式接班计划",
+          "origin": "cnBeta",
+          "time": 1795586160
+        },
+        {
+          "link": "http://www.infzm.com/contents/345576",
+          "title": "黄仁勋十日归来：英伟达背后的AI杠杆与博弈",
+          "origin": "南方周末",
+          "time": 1795570899
+        },
+        {
+          "link": "https://news.futunn.com/post/1005531972/trump-open-to-us-government-taking-equity-stake-in-nvidia",
+          "title": "特朗普：对美国政府入股英伟达持开放态度",
+          "origin": "富途牛牛",
+          "time": 1795568075
+        },
+        {
+          "link": "https://news.futunn.com/post/1005590659/options-rent-collection-jensen-huang-s-return-was-a-one",
+          "title": "黄仁勋回归行情一日游，英伟达失守160美元",
+          "origin": "富途牛牛",
+          "time": 1795598729
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UAgq4V7mSc",
+          "title": "特朗普：如有必要，愿意赦免黄仁勋",
+          "origin": "环球网",
+          "time": 1795599139
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKfFZYgFwv",
+          "title": "黄仁勋：英伟达不需要接班人计划",
+          "origin": "凤凰网",
+          "time": 1795561980
+        },
+        {
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxaup1830214.shtml",
+          "title": "特朗普称赦免黄仁勋一直是选项",
+          "origin": "新浪新闻",
+          "time": 1795566310
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168481.htm",
+          "title": "特朗普：必要时愿意特赦黄仁勋",
+          "origin": "快科技",
+          "time": 1795589460
+        }
+      ],
+      "summary": "美国总统特朗普在采访中谈及英伟达CEO黄仁勋相关事件，表示若黄仁勋未来遭遇刑事指控，特赦是可选手段，但认为并无实际必要。黄仁勋即将出席两场国会听证，聚焦英伟达对华芯片出口及国家安全疑虑。特朗普呼吁黄仁勋据实陈述，不建议援引第五修正案，并确认曾向英伟达董事会表示黄仁勋未受行政当局不利对待。特朗普还透露曾考虑推动美国政府获取英伟达部分股份，但该想法仅停留在设想层面。与此同时，分析师郭明錤指出，黄仁勋复职并不意味着万事大吉，英伟达仍面临GPU销售、融资、调查等考验。"
+    },
+    {
+      "title": "Anthropic上市第四日破发，创始人兄妹次日合计套现5.6亿美元",
+      "tags": [
+        "Anthropic",
+        "IPO破发",
+        "创始人套现",
+        "AI竞争"
+      ],
+      "links": [
+        {
+          "link": "https://news.futunn.com/post/1005522781/anthropic-plunged-as-much-as-14-after-its-ipo-the",
+          "title": "Anthropic破发一度暴跌14%，创始人套现逾5.6亿美元，黄仁勋回归加剧AI路线之争",
+          "origin": "富途牛牛",
+          "time": 1795559220
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yJURvXPGoB",
+          "title": "Anthropic破发背后：上市次日，创始人兄妹合计套现5.6亿美元",
+          "origin": "凤凰科技",
+          "time": 1795574700
+        },
+        {
+          "link": "https://www.163.com/dy/article/LCIVESHM05198CJN.html?f=post1603_tab_news",
+          "title": "Anthropic破发背后：上市次日，创始人兄妹合计套现5.6亿美元",
+          "origin": "网易号",
+          "time": 1795576381
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yKwxTVO2Az",
+          "title": "破发，但这仅仅是Anthropic要填的七个大坑之一",
+          "origin": "凤凰科技",
+          "time": 1795576176
+        }
+      ],
+      "summary": "Anthropic于11月19日登陆纳斯达克，发行价83美元，开盘价较发行价高34%，IPO规模达935亿美元。但上市第四个交易日（11月24日）收盘价跌至81.91美元，跌破发行价。报道称上市次日创始人兄妹合计套现5.6亿美元。文章还列举公司面临的多项挑战：三季度收入近170亿美元但营业亏损5.67亿美元，算力成本高企；员工上市后可出售持股，留人压力上升；与马斯克旗下xAI及亚马逊的算力协议存在约束；Claude在部分编程任务上的性价比面临谷歌等竞争；公司推进让Claude参与下一代模型研发；上市后能否坚持安全优先亦受关注。"
+    },
+    {
+      "title": "黄仁勋复职英伟达首席执行官 美国国会立法角力未结束",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "出口管制",
+        "美国国会",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "link": "https://wallstreetcn.com/articles/3786650",
+          "title": "黄仁勋复职加速美国国会芯片出口管制立法？",
+          "origin": "华尔街见闻",
+          "time": 1795578526
+        },
+        {
+          "link": "https://news.futunn.com/post/1005556131/did-jensen-huang-s-return-to-the-spotlight-accelerate-us",
+          "title": "黄仁勋复职加速美国国会芯片出口管制立法？",
+          "origin": "富途牛牛",
+          "time": 1795579200
+        },
+        {
+          "link": "https://opinion.caixin.com/2026-11-25/102508503.html",
+          "title": "黄仁勋复职，法律风险并没有解除",
+          "origin": "财新",
+          "time": 1795570648000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKdAn0JeSe",
+          "title": "黄仁勋复职，这场角力并未结束",
+          "origin": "凤凰网",
+          "time": 1795560840
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UABj9SeowE",
+          "title": "黄仁勋复职，这场角力并未结束",
+          "origin": "环球网",
+          "time": 1795546895
+        }
+      ],
+      "summary": "英伟达创始人黄仁勋辞去首席执行官11天后，经董事会全票通过复职，董事会称收到美国政府高层意见，特朗普表示自己说服了董事会。复职消息令美国股市大涨，科技界领袖表示欢迎。但民主党议员批评该决定危及国家安全，要求国会立法收紧人工智能产品出口管制。黄仁勋将出席众议院闭门问询和参议院公开听证会，国会后续调查推进，表明其法律风险并未解除。分析认为黄仁勋复职凸显白宫对科技企业决策的影响力，但英伟达面临的根本问题仍未解决。"
+    },
+    {
+      "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+      "tags": [
+        "神舟二十四号",
+        "空间站",
+        "交会对接",
+        "载人航天"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1032017.htm",
+          "title": "3.5 小时直达，神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "IT之家",
+          "time": 1795579122
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/25/content_618879.html",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "科技日报",
+          "time": 1795579626
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737456.shtml",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "中新网",
+          "time": 1795579440
+        },
+        {
+          "link": "http://www.chinanews.com//gn/2026/11-25/10737451.shtml",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "中新网",
+          "time": 1795579140
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795579083129691.html",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "新京报",
+          "time": 1795579155
+        },
+        {
+          "link": "https://www.tmtpost.com/nictation/8217124.html",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "钛媒体",
+          "time": 1795579440
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/25/content_618894.html",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "科技日报",
+          "time": 1795584029
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKwxTVO2BZ",
+          "title": "神舟二十四号载人飞船成功对接空间站组合体，细节揭秘",
+          "origin": "凤凰网",
+          "time": 1795591680
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UAX1LS4I75",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "origin": "环球网",
+          "time": 1795582652
+        }
+      ],
+      "summary": "据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间2026年11月25日11时56分成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。按任务计划，3名航天员随后将从飞船进入天和核心舱，神舟二十三号航天员乘组已做好迎接准备工作。神舟二十四号飞船于当日8时18分许搭乘长征二号F遥二十四运载火箭在酒泉卫星发射中心发射升空，飞行乘组由航天驾驶员汤洪波、航天飞行工程师武毅和载荷专家穆罕默德·齐尚·阿里三人组成，汤洪波担任指令长。此次飞行将使汤洪波成为首位三次到访“天宫”的航天员，武毅为首次执行飞行任务，巴基斯坦航天员阿里将成为首位进入中国空间站的外籍航天员。飞船对接后形成三船三舱组合体。"
+    },
+    {
+      "title": "神舟二十四号乘组顺利进驻天宫 中外航天员实现首次太空握手",
+      "tags": [
+        "中国空间站",
+        "神舟二十四号",
+        "太空会师",
+        "中外航天员"
+      ],
+      "links": [
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795588603129809.html",
+          "title": "中外航天员实现首次太空握手 神二十四乘组顺利进驻天宫",
+          "origin": "新京报",
+          "time": 1795588646
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795589508129818.html",
+          "title": "顺利进驻天宫，中外航天员实现首次太空握手",
+          "origin": "新京报",
+          "time": 1795589976
+        },
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/25/content_618953.html",
+          "title": "中外航天员实现首次太空握手",
+          "origin": "科技日报",
+          "time": 1795590077
+        }
+      ],
+      "summary": "据中国载人航天工程办公室消息，神舟二十四号航天员乘组在载人飞船与空间站组合体成功交会对接后，从飞船返回舱顺利进入轨道舱。北京时间2026年11月25日14时35分，在轨执行任务的神舟二十三号航天员乘组打开“家门”，欢迎3名航天员入驻中国空间站，中外航天员实现首次“太空握手”。这是中国航天史上第9次“太空会师”，也是“天宫”首次迎来外籍航天员。随后6名航天员合影留念，后续将在空间站进行在轨轮换。"
+    },
+    {
+      "title": "华为将在ISSCC 2027展示五层混合键合HBM与逻辑芯片3D堆叠等技术",
+      "tags": [
+        "华为",
+        "ISSCC 2027",
+        "混合键合HBM",
+        "3D堆叠",
+        "芯片技术"
+      ],
+      "links": [
+        {
+          "link": "https://m.ithome.com/html/1032090.htm",
+          "title": "华为将在 ISSCC 2027 展示五层混合键合 HBM、逻辑芯片 3D 堆叠等先进技术",
+          "origin": "IT之家",
+          "time": 1795581236
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yL36LbyHQs",
+          "title": "华为将在ISSCC 2027展示五层混合键合HBM、逻辑芯片3D堆叠等先进技术",
+          "origin": "凤凰科技",
+          "time": 1795581260
+        },
+        {
+          "link": "https://3g.china.com/act/news/10000169/20261125/49907680.html",
+          "title": "华为将在ISSCC 2027展示HBM等技术 HBM内存方案引关注",
+          "origin": "中国网",
+          "time": 1795617731
+        }
+      ],
+      "summary": "据IEEE官方公布的ISSCC 2027会议议程草案，华为有4篇论文入选，涉及定制HBM内存、逻辑芯片3D堆叠、AI处理器供电和高速有线通信。其中定制HBM方案采用五层晶圆对晶圆混合键合技术，拥有64个通道和4096个DQ数据接口，并集成内存控制器；另有采用混合键合与全芯片模块内部分区的LogicFolding旗舰移动SoC、可靠性增强型33A三维堆叠集成电压调节器，以及面向212.5Gb/s有线通信的环形振荡器分数N型锁相环。ISSCC 2027将于2027年2月14日至18日在美国旧金山举行，相关技术指标和实现细节仍需等待正式论文披露。"
+    },
+    {
+      "title": "何小鹏哽咽回忆机器人被质疑往事，与IRON对视露出慈父笑",
+      "tags": [
+        "小鹏IRON",
+        "人形机器人",
+        "何小鹏",
+        "科技日",
+        "自主交互"
+      ],
+      "links": [
+        {
+          "link": "https://original.ifeng.com/c/8yLFYSoYo7U",
+          "title": "跟何小鹏比谁更聪明？小鹏IRON人形机器人现场应对媒体灵魂拷问",
+          "origin": "凤凰科技",
+          "time": 1795593734
+        },
+        {
+          "link": "https://news.mydrivers.com/1/1168/1168529.htm",
+          "title": "何小鹏哽咽回忆机器人被质疑往事：与IRON对视露出慈父笑",
+          "origin": "快科技",
+          "time": 1795600740
+        },
+        {
+          "link": "https://tech.ifeng.com/c/8yLPznysgkH",
+          "title": "何小鹏哽咽回忆机器人被质疑往事：与IRON对视露出慈父笑",
+          "origin": "凤凰科技",
+          "time": 1795600763
+        }
+      ],
+      "summary": "2026年11月25日，小鹏科技日现场，小鹏高阶通用人形机器人IRON登台完成中英文演讲并与中外媒体实时互动，全程无需人工遥控，回答与反应均由机器人自主完成。IRON面对“你和何小鹏谁更聪明”等提问作出高情商回应，还调皮反问媒体，并现场观察何小鹏当天衣着颜色，称其穿搭“专业且得体”。何小鹏与IRON对视时露出慈父笑，谈及机器人过去一年遭遇的质疑时一度声音哽咽，提到去年经历的开心与痛苦。2025年小鹏科技日上，IRON因接近真人的身形比例和自然行走姿态引发关注，其拟人猫步让部分网友怀疑由真人穿着外壳扮演，何小鹏与团队随后在IRON通电运行状态下现场剪开腿部外覆材料露出机械结构以回应质疑，他曾表示希望这是最后一次需要用这种方式证明机器人身份。时隔一年，IRON再次登台，从展示走路姿态转向展示自主交互、运动控制和任务执行方面的进展。按照小鹏规划，IRON未来将逐步进入门店、导览及导购等场景，并在2027年推进量产。"
+    },
+    {
+      "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+      "tags": [
+        "引渡",
+        "非法吸收公众存款",
+        "经济犯罪",
+        "中俄合作"
+      ],
+      "links": [
+        {
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/25/content_618869.html",
+          "title": "涉案金额超150亿元，一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "origin": "科技日报",
+          "time": 1795577413
+        },
+        {
+          "link": "https://news.cctv.com/2026/11/25/ARTIBbKF29m757H1PuUqFG1g261125.shtml",
+          "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "origin": "CCTV",
+          "time": 1795575826
+        },
+        {
+          "link": "https://www.bjnews.com.cn/detail-1795575626129650.html",
+          "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "origin": "新京报",
+          "time": 1795575688
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UASt5pv0CL",
+          "title": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+          "origin": "环球网",
+          "time": 1795575712
+        }
+      ],
+      "summary": "记者11月25日从公安部获悉，近日经中国公安机关不懈努力，在我驻俄罗斯使馆大力协助下，涉嫌非法吸收公众存款犯罪的嫌疑人舒某某从俄罗斯被引渡回国。舒某某在未经金融监管部门批准、不具备吸收公众存款资质的情况下，以虚构理财产品、承诺高额年化收益为诱饵，向不特定人群非法吸收存款，涉案金额超150亿元人民币。2024年10月，浙江省宁波市公安局鄞州区分局依法对舒某某立案侦查；2025年2月，检察机关以涉嫌非法吸收公众存款罪对其批准逮捕；同年11月，俄罗斯警方将舒某某抓获，中方提出引渡请求；今年9月，俄罗斯批准向中方引渡；11月5日，舒某某被引渡回国。公安部经济犯罪侦查局相关负责人表示，此次成功引渡彰显中俄两国联合打击犯罪的坚定决心，对巩固深化双边执法司法合作具有里程碑式意义，公安机关将不断加强国际执法合作，坚决将外逃犯罪嫌疑人绳之以法，切实维护人民群众合法权益。"
+    },
+    {
+      "title": "乌克兰袭击俄船致利比亚国民军2名士兵死亡",
+      "tags": [
+        "乌克兰",
+        "利比亚",
+        "俄船遇袭",
+        "国民军",
+        "地区冲突"
+      ],
+      "links": [
+        {
+          "link": "https://www.news.cn/world/20261125/f7523d8788c14e5c813bcbcde5c0fab1/c.html",
+          "title": "乌克兰袭击俄船致利比亚国民军2名士兵死亡",
+          "origin": "新华网",
+          "time": 1795536000
+        },
+        {
+          "link": "https://news.ifeng.com/c/8yKyeymrl1d",
+          "title": "乌克兰袭击俄船致利比亚国民军2名士兵死亡",
+          "origin": "凤凰网",
+          "time": 1795577100
+        },
+        {
+          "link": "https://www.huanqiu.com/article/4UAXClJWz5J",
+          "title": "乌克兰袭击俄船致利比亚国民军2名士兵死亡",
+          "origin": "环球网",
+          "time": 1795582961
+        }
+      ],
+      "summary": "新华社报道，利比亚“国民军”24日晚称，乌克兰对利比亚东部班加西港及其附近海域俄罗斯船只的袭击造成两名“国民军”士兵身亡，士兵在袭击及遇袭船只随后爆炸中受伤后因伤势过重死亡，“国民军”表示将复仇。同日，利比亚民族统一政府否认有关其与乌方达成某种谅解的媒体报道，并强调利比亚领土和设施绝不能被用作实施敌对行动的跳板，称近期事件危及班加西及民众安全，暴露在国家权力之外接纳外国武装力量的风险。此前22日凌晨，一艘停泊在班加西海军基地的俄罗斯船只遭袭起火；乌克兰总统泽连斯基23日证实乌方使用7艘无人艇在利比亚沿海击沉俄罗斯“水星”号护卫舰。"
+    }
+  ]
+}
