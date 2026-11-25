@@ -1,12 +1,15 @@
 {
   "tag": "财报",
-  "generated_at": "2026-11-25T10:54:42Z",
+  "generated_at": "2026-11-25T23:33:46Z",
+  "page": 1,
+  "page_count": 1,
+  "count": 15,
   "summary": [
     {
       "title": "苹果CEO回应iPhone Duo缺货：产能爬坡顺利 供需平衡时间不确定",
       "tags": [
         "苹果",
-        "iPhone Duo",
+        "iPhone",
         "缺货",
         "财报",
         "CEO回应"
@@ -30,7 +33,7 @@
       "title": "苹果CEO回应iPhone Duo缺货：产能爬坡顺利 供需平衡时间不确定",
       "tags": [
         "苹果",
-        "iPhone Duo",
+        "iPhone",
         "缺货",
         "财报",
         "CEO回应"
@@ -147,7 +150,7 @@
       "title": "苹果第二季度手机营收创历史新高，iPhone 17系列立大功",
       "tags": [
         "苹果",
-        "iPhone 17",
+        "iPhone",
         "财报",
         "智能手机"
       ],

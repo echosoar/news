@@ -1,19 +1,10 @@
 {
   "tag": "开源",
-  "generated_at": "2026-11-25T10:54:42Z",
+  "generated_at": "2026-11-25T23:33:46Z",
+  "page": 1,
+  "page_count": 1,
+  "count": 23,
   "summary": [
-    {
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心AI数据库引擎全球开源",
-      "tags": [
-        "OceanBase",
-        "OceanLake",
-        "AI",
-        "开源",
-        "数据库"
-      ],
-      "summary": "11月24日，蚂蚁OceanBase在北京召开AI数据大会，正式发布湖库一体AI数据平台OceanLake。OceanBase CEO杨冰表示，AI时代数据基础设施应坚持湖库一体、多模融合、Agent友好、开源开放四大原则，并提出企业数据生产力释放面临私有与公有数据、多模态与结构化数据、乱数据与有序数据之间的“三座冰山”。OceanLake融合数据库实时事务处理、数据仓库分析与数据湖开放存储能力，统一管理多模态数据，支持离在线一体化计算及Agent开发评测。同时，OceanBase宣布将面向Agent场景的湖库一体AI数据库全球开源，项目代号OceanSeek，支持多模态数据管理、混合检索和数据沙箱。目前OceanLake已在蚂蚁灵波、蚂蚁灵光、平安寿险、厦门航空等场景落地。",
-      "date": "2026-11-25"
-    },
     {
       "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎全球开源",
       "tags": [
@@ -40,7 +31,7 @@
     {
       "title": "腾讯混元正式开源Hy4 flash模型，最高支持百万Token上下文",
       "tags": [
-        "腾讯混元",
+        "腾讯",
         "Hy4 flash",
         "开源",
         "大模型",

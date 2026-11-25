@@ -1,6 +1,9 @@
 {
   "tag": "开源模型",
-  "generated_at": "2026-11-25T10:54:42Z",
+  "generated_at": "2026-11-25T23:33:46Z",
+  "page": 1,
+  "page_count": 1,
+  "count": 11,
   "summary": [
     {
       "title": "Meta发布开放权重模型Muse Spark Open 称美国最强",
@@ -29,7 +32,7 @@
     {
       "title": "腾讯混元发布开源旗舰模型Hy4 preview：总参数770B",
       "tags": [
-        "腾讯混元",
+        "腾讯",
         "Hy4 preview",
         "开源模型",
         "大语言模型",

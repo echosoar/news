@@ -795,6 +795,11 @@
     const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("group") ? "group" : (queryParams.get("tag") ? "tag" : "home"));
     const CURRENT_GROUP = (queryParams.get("group") || "").trim();
     const CURRENT_TAG = (queryParams.get("tag") || "").trim();
+    const INDEX_PAGE_SIZE = 200;
+    let indexPage = 1;
+    let indexPageCount = null;
+    let indexDayEl = null;
+    let indexLoadingEnded = false;
     let hideGroupedTagsEnabled = false;
     let searchActive = false;
     let searchToken = 0;
@@ -2164,65 +2169,83 @@
       }
     }
 
-    async function loadTagPage(tag) {
-      if (!tag) {
-        renderEmpty("标签", "未指定标签");
-        return;
-      }
-
-      statusEl.textContent = "加载中...";
-      const fileName = `tags/${encodeURIComponent(tag)}.json`;
-      try {
-        const res = await fetch(fileName);
-        if (!res.ok) {
-          renderEmpty(`标签：${tag}`, "该标签暂无数据");
-          return;
-        }
-        const data = await res.json();
-        const summaries = Array.isArray(data.summary) ? data.summary : [];
-        if (!summaries.length) {
-          renderEmpty(`标签：${tag}`, "该标签暂无数据");
-          return;
-        }
-        const dayEl = renderDayTitle(`标签：${data.tag || tag}`);
-        summaries.forEach(item => renderCard(item, dayEl));
-      } catch (error) {
-        renderEmpty(`标签：${tag}`, "标签数据加载失败");
-      } finally {
-        statusEl.textContent = "";
-      }
+    function stopIndexLoading() {
+      indexLoadingEnded = true;
+      observer.unobserve(sentinel);
+      statusEl.textContent = "没有更多了";
     }
 
-    async function loadGroupPage(group) {
-      if (!group) {
-        renderEmpty("分组", "未指定分组");
-        return;
+    async function loadNextIndexPage() {
+      if (loading || indexLoadingEnded) return false;
+
+      const kind = PAGE_MODE;
+      const name = kind === "group" ? CURRENT_GROUP : CURRENT_TAG;
+      if (!name) {
+        renderEmpty(kind === "group" ? "分组" : "标签", `未指定${kind === "group" ? "分组" : "标签"}`);
+        stopIndexLoading();
+        return false;
       }
 
+      loading = true;
       statusEl.textContent = "加载中...";
-      const fileName = `groups/${encodeURIComponent(group)}.json`;
+      const page = indexPage;
+      const directory = kind === "group" ? "groups" : "tags";
+      const suffix = page === 1 ? "" : `-${page}`;
+      const fileName = `${directory}/${encodeURIComponent(name)}${suffix}.json`;
+
       try {
         const res = await fetch(fileName);
         if (!res.ok) {
-          renderEmpty(`分组：${group}`, "该分组暂无数据");
-          return;
+          if (page === 1) {
+            renderEmpty(`${kind === "group" ? "分组" : "标签"}：${name}`, "暂无数据");
+          }
+          stopIndexLoading();
+          return false;
         }
+
         const data = await res.json();
         const summaries = Array.isArray(data.summary) ? data.summary : [];
         if (!summaries.length) {
-          renderEmpty(`分组：${group}`, "该分组暂无数据");
-          return;
+          if (page === 1) {
+            renderEmpty(`${kind === "group" ? "分组" : "标签"}：${name}`, "暂无数据");
+          }
+          stopIndexLoading();
+          return false;
         }
-        const dayEl = renderDayTitle(`分组：${data.group || group}`);
-        summaries.forEach(item => renderCard(item, dayEl));
+
+        if (!indexDayEl) {
+          const label = kind === "group" ? "分组" : "标签";
+          const displayName = data.group || data.tag || name;
+          indexDayEl = renderDayTitle(`${label}：${displayName}`);
+        }
+        summaries.forEach(item => renderCard(item, indexDayEl));
+
+        const declaredPageCount = Number(data.page_count);
+        if (Number.isInteger(declaredPageCount) && declaredPageCount > 0) {
+          indexPageCount = declaredPageCount;
+        }
+        indexPage += 1;
+        if ((indexPageCount !== null && page >= indexPageCount) || summaries.length < INDEX_PAGE_SIZE) {
+          stopIndexLoading();
+        } else {
+          statusEl.textContent = "";
+        }
+        return true;
       } catch (error) {
-        renderEmpty(`分组：${group}`, "分组数据加载失败");
+        if (page === 1) {
+          renderEmpty(`${kind === "group" ? "分组" : "标签"}：${name}`, "数据加载失败");
+        }
+        stopIndexLoading();
+        return false;
       } finally {
-        statusEl.textContent = "";
+        loading = false;
       }
     }
 
     async function loadNext(options = {}) {
+      if (PAGE_MODE === "group" || PAGE_MODE === "tag") {
+        return loadNextIndexPage();
+      }
       const {
         allowBypassStop = false,
         maxConsecutiveEmptyDays = MAX_CONSECUTIVE_EMPTY_DAYS,
@@ -2322,18 +2345,12 @@
     tagsButtonEl.classList.toggle("active", PAGE_MODE === "tags");
     searchPanelEl.classList.toggle("show", PAGE_MODE === "home");
     updateSearchControls();
-    if (PAGE_MODE === "home") {
+    if (PAGE_MODE === "home" || PAGE_MODE === "group" || PAGE_MODE === "tag") {
       observer.observe(sentinel);
       loadNext();
     } else if (PAGE_MODE === "tags") {
       sentinel.style.display = "none";
       loadTagsPage();
-    } else if (PAGE_MODE === "group") {
-      sentinel.style.display = "none";
-      loadGroupPage(CURRENT_GROUP);
-    } else {
-      sentinel.style.display = "none";
-      loadTagPage(CURRENT_TAG);
     }
   </script>
 </body>
