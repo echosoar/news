@@ -442,6 +442,105 @@
       white-space: nowrap;
     }
 
+    .source-icons {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: .45rem;
+      margin-top: .55rem;
+    }
+
+    .source-icon-button {
+      display: inline-flex;
+      width: 16px;
+      height: 16px;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+    }
+
+    .source-icon-button:focus-visible {
+      outline: 1px solid var(--strong);
+      outline-offset: 3px;
+    }
+
+    .source-icon {
+      display: block;
+      width: 16px;
+      height: 16px;
+      object-fit: contain;
+    }
+
+    .source-drawer {
+      position: fixed;
+      z-index: 1000;
+      top: 0;
+      right: 0;
+      width: min(370px, calc(100vw - 1rem));
+      height: 100dvh;
+      padding: 1rem;
+      overflow-y: auto;
+      border-left: var(--hair) solid var(--line);
+      background: var(--bg);
+      box-shadow: -12px 0 28px rgba(0, 0, 0, .08);
+      transform: translateX(105%);
+      transition: transform 180ms ease;
+    }
+
+    .source-drawer.open {
+      transform: translateX(0);
+    }
+
+    .source-drawer-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      padding-bottom: .75rem;
+      border-bottom: var(--hair) solid var(--line-soft);
+    }
+
+    .source-drawer-title {
+      min-width: 0;
+      margin: 0;
+      overflow-wrap: anywhere;
+      font-size: .92rem;
+      font-weight: 600;
+    }
+
+    .source-drawer-close {
+      flex: 0 0 auto;
+      width: 1.8rem;
+      height: 1.8rem;
+      padding: 0;
+      border: var(--hair) solid var(--line);
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+    }
+
+    .source-entry {
+      padding: .85rem 0;
+      border-bottom: var(--hair) solid var(--line-soft);
+    }
+
+    .source-entry-title {
+      display: block;
+      color: var(--strong);
+      font-size: .9rem;
+      line-height: 1.55;
+      text-decoration: none;
+    }
+
+    .source-entry-meta {
+      margin: .45rem 0 0;
+      color: var(--muted);
+      font-size: .78rem;
+      line-height: 1.5;
+    }
+
     .tag-directory {
       display: grid;
       gap: 0;
@@ -606,7 +705,7 @@
 <body>
   <main class="container">
     <section class="hero">
-      <h2><a class="site-title-link" href="./">每日热点语音播报</a></h2>
+      <h2><a class="site-title-link" href="./">每日热点播报</a></h2>
       <div class="hero-links">
         <div class="group-links" id="group-links" aria-label="分组导航"></div>
         <a class="top-btn" id="tags-button" href="?tags">标签</a>
@@ -680,6 +779,7 @@
     const loadedDays = new Set();
     const dateDataCache = new Map();
     const markdownModalEl = createMarkdownModal();
+    const sourceDrawerEl = createSourceDrawer();
     let loading = false;
     let loadStoppedByEmptyDays = false;
     let nextDate = getInitialDate();
@@ -972,6 +1072,11 @@
       });
       card.appendChild(tags);
 
+      const sourceIcons = renderSourceIcons(item);
+      if (sourceIcons) {
+        card.appendChild(sourceIcons);
+      }
+
       const normalizedSummary = normalizeSummaryText(item.summary || "");
       if (normalizedSummary) {
         const summary = document.createElement("p");
@@ -988,6 +1093,136 @@
       }
 
       dayEl.appendChild(card);
+    }
+
+    function getLinkHost(value) {
+      try {
+        const url = new URL(value);
+        return url.protocol === "http:" || url.protocol === "https:" ? url.host : "";
+      } catch {
+        return "";
+      }
+    }
+
+    function groupLinksByHost(links) {
+      const groups = new Map();
+      (Array.isArray(links) ? links : []).forEach(link => {
+        const host = getLinkHost(link?.link);
+        if (!host) return;
+        if (!groups.has(host)) groups.set(host, []);
+        groups.get(host).push(link);
+      });
+      return groups;
+    }
+
+    function renderSourceIcons(item) {
+      const links = Array.isArray(item?.links) ? item.links : [];
+      const groups = groupLinksByHost(links);
+      if (!groups.size) return null;
+
+      const icons = document.createElement("div");
+      icons.className = "source-icons";
+      icons.setAttribute("aria-label", "新闻来源");
+      Array.from(groups.entries()).slice(0, 10).forEach(([host, hostLinks]) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "source-icon-button";
+        button.title = `查看 ${host} 的来源`;
+        button.setAttribute("aria-label", `查看 ${host} 的 ${hostLinks.length} 篇来源`);
+
+        const icon = document.createElement("img");
+        icon.className = "source-icon";
+        icon.src = `https://favicon.im/${host}`;
+        icon.alt = host;
+        icon.width = 16;
+        icon.height = 16;
+        icon.loading = "lazy";
+        icon.referrerPolicy = "no-referrer";
+        button.appendChild(icon);
+        button.addEventListener("click", () => openSourceDrawer(item?.title || "未命名热点", links));
+        icons.appendChild(button);
+      });
+      return icons;
+    }
+
+    function formatLinkTime(value) {
+      const timestamp = normalizeSearchTimestamp(value);
+      if (timestamp === null) return "时间未知";
+      return new Intl.DateTimeFormat("zh-CN", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+      }).format(new Date(timestamp * 1000));
+    }
+
+    function createSourceDrawer() {
+      const drawer = document.createElement("aside");
+      drawer.className = "source-drawer";
+      drawer.setAttribute("role", "dialog");
+      drawer.setAttribute("aria-modal", "false");
+      drawer.setAttribute("aria-hidden", "true");
+      drawer.setAttribute("aria-label", "新闻来源列表");
+
+      const header = document.createElement("div");
+      header.className = "source-drawer-header";
+      const title = document.createElement("h2");
+      title.className = "source-drawer-title";
+      const closeButton = document.createElement("button");
+      closeButton.type = "button";
+      closeButton.className = "source-drawer-close";
+      closeButton.setAttribute("aria-label", "关闭来源列表");
+      closeButton.title = "关闭";
+      closeButton.textContent = "×";
+      closeButton.addEventListener("click", closeSourceDrawer);
+      header.append(title, closeButton);
+
+      const list = document.createElement("div");
+      list.className = "source-drawer-list";
+      drawer.append(header, list);
+      drawer.addEventListener("keydown", event => {
+        if (event.key === "Escape") closeSourceDrawer();
+      });
+      document.body.appendChild(drawer);
+      return drawer;
+    }
+
+    function closeSourceDrawer() {
+      sourceDrawerEl.classList.remove("open");
+      sourceDrawerEl.setAttribute("aria-hidden", "true");
+    }
+
+    function openSourceDrawer(summaryTitle, links) {
+      const title = sourceDrawerEl.querySelector(".source-drawer-title");
+      const list = sourceDrawerEl.querySelector(".source-drawer-list");
+      title.textContent = summaryTitle;
+      list.replaceChildren();
+
+      links.forEach(link => {
+        const entry = document.createElement("div");
+        entry.className = "source-entry";
+
+        const article = document.createElement("a");
+        article.className = "source-entry-title";
+        article.href = link?.link || "#";
+        article.target = "_blank";
+        article.rel = "noopener noreferrer";
+        article.textContent = link?.title || "查看原文";
+
+        const meta = document.createElement("p");
+        meta.className = "source-entry-meta";
+        meta.textContent = [link?.origin || "未知来源", formatLinkTime(link?.time)]
+          .filter(Boolean)
+          .join(" · ");
+
+        entry.append(article, meta);
+        list.appendChild(entry);
+      });
+
+      sourceDrawerEl.classList.add("open");
+      sourceDrawerEl.setAttribute("aria-hidden", "false");
+      sourceDrawerEl.querySelector(".source-drawer-close").focus();
     }
 
     function renderEmpty(date, text) {
