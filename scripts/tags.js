@@ -7,6 +7,7 @@ const GROUPS_DIR = path.join(ROOT, "groups");
 const DATE_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 const PAGE_SIZE = 200;
 const SIZE_LIMIT = 5;
+const STATS_DAY_COUNT = 100;
 
 fs.mkdirSync(TAGS_DIR, { recursive: true });
 fs.mkdirSync(GROUPS_DIR, { recursive: true });
@@ -104,6 +105,29 @@ function stableSortValue(value) {
   return value;
 }
 
+function buildDailyStats(entries) {
+  const endDate = new Date(`${generatedAt.slice(0, 10)}T00:00:00Z`);
+  const startDate = new Date(endDate);
+  startDate.setUTCDate(startDate.getUTCDate() - STATS_DAY_COUNT + 1);
+  const counts = new Map();
+
+  for (const entry of entries) {
+    const dateString = String(entry._sort_date ?? "");
+    const date = new Date(`${dateString}T00:00:00Z`);
+    if (Number.isNaN(date.getTime()) || date < startDate || date > endDate) continue;
+    counts.set(dateString, (counts.get(dateString) || 0) + 1);
+  }
+
+  const stats = [];
+  const currentDate = new Date(startDate);
+  for (let offset = 0; offset < STATS_DAY_COUNT; offset += 1) {
+    const date = currentDate.toISOString().slice(0, 10);
+    stats.push({ date, count: counts.get(date) || 0 });
+    currentDate.setUTCDate(currentDate.getUTCDate() + 1);
+  }
+  return stats;
+}
+
 const tagEntries = new Map();
 const groupEntries = new Map(groupDefinitions.map(({ group }) => [group, []]));
 const groupSeenKeys = new Map(groupDefinitions.map(({ group }) => [group, new Set()]));
@@ -185,6 +209,7 @@ for (const fileName of dateFiles) {
 
 function writePaginatedFiles(directory, name, kind, entries) {
   entries.sort((left, right) => String(right._sort_date ?? "").localeCompare(String(left._sort_date ?? "")));
+  const stats = buildDailyStats(entries);
   for (const entry of entries) delete entry._sort_date;
 
   const pageCount = Math.max(1, Math.ceil(entries.length / PAGE_SIZE));
@@ -193,20 +218,19 @@ function writePaginatedFiles(directory, name, kind, entries) {
     const relativeName = `${directory}/${name}${suffix}.json`;
     generatedFiles.add(relativeName);
 
+    const output = {
+      [kind]: name,
+      generated_at: generatedAt,
+      page,
+      page_count: pageCount,
+      count: entries.length,
+    };
+    if (page === 1) output.stats = stats;
+    output.summary = entries.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+
     fs.writeFileSync(
       path.join(ROOT, relativeName),
-      `${JSON.stringify(
-        {
-          [kind]: name,
-          generated_at: generatedAt,
-          page,
-          page_count: pageCount,
-          count: entries.length,
-          summary: entries.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE),
-        },
-        null,
-        2,
-      )}\n`,
+      `${JSON.stringify(output, null, 2)}\n`,
       "utf8",
     );
   }

@@ -241,6 +241,18 @@
       border-bottom: 0;
     }
 
+    .daily-chart {
+      display: block;
+      width: 100%;
+      height: 100px;
+      margin: 0 0 1.2rem;
+    }
+
+    .daily-chart-bar {
+      fill: var(--strong);
+      opacity: .72;
+    }
+
     .title-action-btn {
       display: inline-flex;
       align-items: center;
@@ -729,11 +741,12 @@
     <div class="voice-controls">
       <select id="voice-provider" class="voice-provider" aria-label="语音服务提供方">
         <option value="browser">浏览器内置</option>
+        <option value="deepseek">DeepSeek</option>
         <option value="mimo">Mimo</option>
       </select>
       <label class="voice-token-wrap" id="voice-token-wrap" for="voice-token">
         <span>Token</span>
-        <input id="voice-token" class="voice-token" type="password" placeholder="输入 Mimo token">
+        <input id="voice-token" class="voice-token" type="password" placeholder="输入 DeepSeek token">
       </label>
     </div>
     <div class="voice-controls">
@@ -790,8 +803,8 @@
     let playbackPaused = false;
     let playbackCursor = 0;
     let playbackToken = 0;
-    const mimoAudioUrlCache = new Map();
-    const mimoFetchPromiseCache = new Map();
+    const remoteAudioUrlCache = new Map();
+    const remoteFetchPromiseCache = new Map();
     const PAGE_MODE = queryParams.has("tags") ? "tags" : (queryParams.get("group") ? "group" : (queryParams.get("tag") ? "tag" : "home"));
     const CURRENT_GROUP = (queryParams.get("group") || "").trim();
     const CURRENT_TAG = (queryParams.get("tag") || "").trim();
@@ -1052,6 +1065,54 @@
       return day;
     }
 
+    function renderDailyChart(dayEl, stats) {
+      if (!dayEl || !Array.isArray(stats)) return;
+
+      const countByDate = new Map();
+      stats.forEach(item => {
+        const date = String(item?.date || "");
+        const count = Number(item?.count);
+        if (isValidDateString(date) && Number.isFinite(count) && count >= 0) {
+          countByDate.set(date, count);
+        }
+      });
+
+      const today = new Date();
+      today.setHours(12, 0, 0, 0);
+      const values = [];
+      for (let offset = 99; offset >= 0; offset -= 1) {
+        const date = new Date(today);
+        date.setDate(date.getDate() - offset);
+        values.push(countByDate.get(formatDate(date)) || 0);
+      }
+
+      const maxValue = Math.max(0, ...values);
+      const svgNamespace = "http://www.w3.org/2000/svg";
+      const svg = document.createElementNS(svgNamespace, "svg");
+      svg.classList.add("daily-chart");
+      svg.setAttribute("viewBox", "0 0 1000 100");
+      svg.setAttribute("preserveAspectRatio", "none");
+      svg.setAttribute("role", "img");
+      svg.setAttribute("aria-label", "最近100天的新闻数量趋势");
+
+      values.forEach((count, index) => {
+        const bar = document.createElementNS(svgNamespace, "rect");
+        let height = maxValue > 0 ? count / maxValue * 100 : 0;
+        if (height < 1) {
+          height = 1;
+        }
+        bar.classList.add("daily-chart-bar");
+        bar.setAttribute("x", String(index * 10 + 2));
+        bar.setAttribute("y", String(100 - height));
+        bar.setAttribute("width", "6");
+        bar.setAttribute("height", String(height));
+        svg.appendChild(bar);
+      });
+
+      const title = dayEl.querySelector(".day-title");
+      title?.insertAdjacentElement("afterend", svg);
+    }
+
     function renderCard(item, dayEl, options = {}) {
       const card = document.createElement("article");
       card.className = "card";
@@ -1254,9 +1315,15 @@
       localStorage.setItem(VOICE_RANGE_STORAGE_KEY, rangeEl.value);
     }
 
+    function updateVoiceTokenControl() {
+      const isRemoteProvider = providerEl.value !== "browser";
+      tokenWrapEl.classList.toggle("show", isRemoteProvider);
+      tokenEl.placeholder = providerEl.value === "deepseek" ? "输入 DeepSeek token" : "输入 Mimo token";
+    }
+
     function restoreVoiceSettings() {
       const savedProvider = localStorage.getItem(VOICE_PROVIDER_STORAGE_KEY);
-      if (savedProvider === "browser" || savedProvider === "mimo") {
+      if (savedProvider === "browser" || savedProvider === "deepseek" || savedProvider === "mimo") {
         providerEl.value = savedProvider;
       }
       const savedRange = localStorage.getItem(VOICE_RANGE_STORAGE_KEY);
@@ -1264,7 +1331,7 @@
         rangeEl.value = savedRange;
       }
       tokenEl.value = localStorage.getItem(VOICE_TOKEN_STORAGE_KEY) || "";
-      tokenWrapEl.classList.toggle("show", providerEl.value === "mimo");
+      updateVoiceTokenControl();
     }
 
     function updatePlayButton() {
@@ -1462,10 +1529,10 @@
       }
     }
 
-    function clearMimoCache() {
-      mimoAudioUrlCache.forEach(url => URL.revokeObjectURL(url));
-      mimoAudioUrlCache.clear();
-      mimoFetchPromiseCache.clear();
+    function clearRemoteCache() {
+      remoteAudioUrlCache.forEach(url => URL.revokeObjectURL(url));
+      remoteAudioUrlCache.clear();
+      remoteFetchPromiseCache.clear();
     }
 
     function stopPlayback(message = "已停止") {
@@ -1474,7 +1541,7 @@
       playbackPaused = false;
       playbackCursor = 0;
       clearSpeechEngines();
-      clearMimoCache();
+      clearRemoteCache();
       setActiveCard(null);
       updatePlayButton();
       updateVoiceState(message);
@@ -1585,31 +1652,70 @@
       return URL.createObjectURL(blob);
     }
 
-    async function getMimoAudioUrl(items, index, token, shouldShowSynthState) {
-      if (mimoAudioUrlCache.has(index)) {
-        return mimoAudioUrlCache.get(index);
+    async function requestDeepSeekAudioUrl(text, token, shouldShowSynthState) {
+      const deepSeekToken = tokenEl.value.trim();
+      if (!deepSeekToken) {
+        throw new Error("请先输入 DeepSeek token");
       }
-      if (!mimoFetchPromiseCache.has(index)) {
-        const promise = requestMimoAudioUrl(items[index].text, token, shouldShowSynthState)
+      if (shouldShowSynthState) {
+        updateVoiceState("音频合成中");
+      }
+      const response = await fetch("https://api.deepseek.com/v1/tools/tts", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer " + deepSeekToken
+        },
+        body: JSON.stringify({ text })
+      });
+
+      if (!response.ok) {
+        throw new Error(`DeepSeek 请求失败: ${response.status}`);
+      }
+
+      const blob = await response.blob();
+      if (!blob.size) {
+        throw new Error("DeepSeek 返回的音频为空");
+      }
+
+      if (token !== playbackToken) {
+        throw new Error("播放已停止");
+      }
+
+      return URL.createObjectURL(blob.type.startsWith("audio/") ? blob : new Blob([blob], { type: "audio/wav" }));
+    }
+
+    function requestRemoteAudioUrl(text, token, shouldShowSynthState) {
+      return providerEl.value === "deepseek"
+        ? requestDeepSeekAudioUrl(text, token, shouldShowSynthState)
+        : requestMimoAudioUrl(text, token, shouldShowSynthState);
+    }
+
+    async function getRemoteAudioUrl(items, index, token, shouldShowSynthState) {
+      if (remoteAudioUrlCache.has(index)) {
+        return remoteAudioUrlCache.get(index);
+      }
+      if (!remoteFetchPromiseCache.has(index)) {
+        const promise = requestRemoteAudioUrl(items[index].text, token, shouldShowSynthState)
           .then(url => {
-            mimoAudioUrlCache.set(index, url);
+            remoteAudioUrlCache.set(index, url);
             return url;
           })
           .finally(() => {
-            mimoFetchPromiseCache.delete(index);
+            remoteFetchPromiseCache.delete(index);
           });
-        mimoFetchPromiseCache.set(index, promise);
+        remoteFetchPromiseCache.set(index, promise);
       }
-      return mimoFetchPromiseCache.get(index);
+      return remoteFetchPromiseCache.get(index);
     }
 
-    function preloadMimoAudio(items, index, token) {
+    function preloadRemoteAudio(items, index, token) {
       if (index < 0 || index >= items.length) return;
-      if (mimoAudioUrlCache.has(index) || mimoFetchPromiseCache.has(index)) return;
-      getMimoAudioUrl(items, index, token, false).catch(() => {});
+      if (remoteAudioUrlCache.has(index) || remoteFetchPromiseCache.has(index)) return;
+      getRemoteAudioUrl(items, index, token, false).catch(() => {});
     }
 
-    function playMimoAudioUrl(url) {
+    function playRemoteAudioUrl(url) {
       return new Promise((resolve, reject) => {
         const audio = new Audio(url);
         audio.preload = "auto";
@@ -1692,14 +1798,14 @@
       });
     }
 
-    async function speakWithMimo(text, token) {
-      const url = await requestMimoAudioUrl(text, token, true);
-      await playMimoAudioUrl(url);
+    async function speakWithRemoteProvider(text, token) {
+      const url = await requestRemoteAudioUrl(text, token, true);
+      await playRemoteAudioUrl(url);
     }
 
     async function speakText(text, token) {
-      if (providerEl.value === "mimo") {
-        await speakWithMimo(text, token);
+      if (providerEl.value !== "browser") {
+        await speakWithRemoteProvider(text, token);
         return;
       }
       await speakWithBrowser(text, token);
@@ -1743,18 +1849,18 @@
           setActiveCard(item.card);
           centerCard(item.card);
 
-          if (providerEl.value === "mimo") {
-            const currentUrl = await getMimoAudioUrl(items, playbackCursor, token, true);
+          if (providerEl.value !== "browser") {
+            const currentUrl = await getRemoteAudioUrl(items, playbackCursor, token, true);
             if (token !== playbackToken) return;
-            mimoAudioUrlCache.delete(playbackCursor);
+            remoteAudioUrlCache.delete(playbackCursor);
 
             const nextIndex = playbackCursor + 1 < items.length ? playbackCursor + 1 : -1;
             if (nextIndex >= 0) {
-              preloadMimoAudio(items, nextIndex, token);
+              preloadRemoteAudio(items, nextIndex, token);
             }
 
             updateVoiceState(`播放中 ${playbackCursor + 1}/${items.length}`);
-            await playMimoAudioUrl(currentUrl);
+            await playRemoteAudioUrl(currentUrl);
           } else {
             updateVoiceState(`播放中 ${playbackCursor + 1}/${items.length}`);
             await speakText(item.text, token);
@@ -2217,6 +2323,9 @@
           const label = kind === "group" ? "分组" : "标签";
           const displayName = data.group || data.tag || name;
           indexDayEl = renderDayTitle(`${label}：${displayName}`);
+          if (page === 1) {
+            renderDailyChart(indexDayEl, data.stats);
+          }
         }
         summaries.forEach(item => renderCard(item, indexDayEl));
 
@@ -2306,7 +2415,7 @@
 
     providerEl.addEventListener("change", () => {
       saveVoiceProvider();
-      tokenWrapEl.classList.toggle("show", providerEl.value === "mimo");
+      updateVoiceTokenControl();
       if (playbackRunning) {
         stopPlayback("服务已切换");
       }
