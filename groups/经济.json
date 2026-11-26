@@ -1,14 +1,10 @@
 {
   "group": "经济",
-  "generated_at": "2026-11-25T23:57:26Z",
+  "generated_at": "2026-11-26T00:17:34Z",
   "page": 1,
   "page_count": 5,
   "count": 949,
   "stats": [
-    {
-      "date": "2026-08-18",
-      "count": 7
-    },
     {
       "date": "2026-08-19",
       "count": 5
@@ -404,6 +400,10 @@
     {
       "date": "2026-11-25",
       "count": 11
+    },
+    {
+      "date": "2026-11-26",
+      "count": 0
     }
   ],
   "summary": [

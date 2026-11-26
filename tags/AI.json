@@ -1,14 +1,10 @@
 {
   "tag": "AI",
-  "generated_at": "2026-11-25T23:57:26Z",
+  "generated_at": "2026-11-26T00:17:34Z",
   "page": 1,
   "page_count": 4,
   "count": 660,
   "stats": [
-    {
-      "date": "2026-08-18",
-      "count": 5
-    },
     {
       "date": "2026-08-19",
       "count": 2
@@ -404,6 +400,10 @@
     {
       "date": "2026-11-25",
       "count": 8
+    },
+    {
+      "date": "2026-11-26",
+      "count": 0
     }
   ],
   "summary": [
